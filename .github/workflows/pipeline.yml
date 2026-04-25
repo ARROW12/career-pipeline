@@ -1,4 +1,4 @@
-name: Career Agentic Sync
+name: Global Career Agent
 
 on:
   schedule:
@@ -6,25 +6,30 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write # REQUIRED to update jobs.json
+  contents: write # CRITICAL: Allows the agent to save results to your repo
 
 jobs:
-  hunt:
+  agent-sync:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - name: Set up Python
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Environment
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
-      - name: Run AI Agent
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Execute Agent Logic
+        run: python agent.py
+
+      - name: Sync Pipeline Results
         run: |
-          pip install requests
-          python agent.py
-      - name: Sync Results
-        run: |
-          git config --global user.name "Career-Agent"
+          git config --global user.name "career-agent-bot"
           git config --global user.email "agent@github.com"
           git add jobs.json
-          git commit -m "update: synced perfect global matches" || echo "No new matches"
+          git commit -m "update: sync validated global opportunities" || echo "No new matches"
           git push
