@@ -1,10 +1,24 @@
 [
     {
-        "title": "Data Engineer (Contract)",
-        "desc": "AWS Glue, Step Functions...",
-        "loc": "Bangalore",
-        "url": "...",
-        "match": 50,
-        "timestamp": "2026-04-25 13:06"
+        "title": "AWS Data Engineer (Pharma Contract)",
+        "company": "LifeScience Solutions",
+        "url": "https://example.com/apply-pharma",
+        "loc": "Remote / India",
+        "desc": "Looking for AWS Glue and Step Functions experts. 6-month freelance contract.",
+        "source": "Reddit",
+        "match": 80,
+        "timestamp": "2026-04-25 14:29",
+        "type": "INR Contract"
+    },
+    {
+        "title": "Senior Data Engineer (Global)",
+        "company": "TechStream Global",
+        "url": "https://example.com/global-de",
+        "loc": "Remote (EMEA/US)",
+        "desc": "Build scalable ETL with Redshift and Athena. Paid in USD.",
+        "source": "LinkedIn",
+        "match": 60,
+        "timestamp": "2026-04-25 14:29",
+        "type": "USD/Global"
     }
 ]
