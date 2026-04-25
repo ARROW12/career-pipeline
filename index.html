@@ -2,46 +2,54 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Pipeline v5.0 | Agentic Intelligence</title>
+    <title>Tejas Anand | Global Pipeline v6.0</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         body { font-family: 'Inter', sans-serif; background: #020617; color: #f8fafc; }
         .glass { background: rgba(15, 23, 42, 0.8); backdrop-filter: blur(12px); border: 1px solid rgba(255,255,255,0.05); }
-        .match-glow { box-shadow: 0 0 20px rgba(99, 102, 241, 0.2); border-left: 4px solid #6366f1; }
+        .card-global { border-top: 4px solid #10b981; }
+        .card-inr { border-top: 4px solid #6366f1; }
     </style>
 </head>
 <body class="min-h-screen pb-20">
 
     <nav class="p-6 border-b border-white/5 mb-12 glass sticky top-0 z-50">
         <div class="max-w-6xl mx-auto flex justify-between items-center">
-            <div class="flex items-center gap-4">
-                <div class="h-10 w-10 bg-indigo-600 rounded-xl flex items-center justify-center font-bold shadow-lg">T</div>
-                <h1 class="font-bold text-lg tracking-tight">AI PIPELINE <span class="text-indigo-500 text-xs">V5.0</span></h1>
-            </div>
-            <div class="flex gap-6">
-                <a href="https://www.linkedin.com/in/tejas-anand-b4489276" target="_blank" class="text-xs font-bold text-slate-400 hover:text-indigo-400">LinkedIn</a>
-                <a href="https://arrow12.github.io/portfolio" target="_blank" class="text-xs font-bold text-slate-400 hover:text-indigo-400">Portfolio</a>
+            <h1 class="font-bold text-lg tracking-tighter">GLOBAL AGENT <span class="text-indigo-500 text-xs">V6.0</span></h1>
+            <div class="flex gap-4">
+                <a href="https://arrow12.github.io/portfolio" target="_blank" class="text-xs font-bold opacity-50 hover:opacity-100">Portfolio</a>
+                <a href="https://www.linkedin.com/in/tejas-anand-b4489276" target="_blank" class="text-xs font-bold opacity-50 hover:opacity-100">LinkedIn</a>
             </div>
         </div>
     </nav>
 
     <main class="max-w-6xl mx-auto px-6">
-        <div class="grid grid-cols-1 md:grid-cols-4 gap-4 mb-12">
-            <a href="https://www.linkedin.com/jobs/search/?f_WT=2&keywords=Data%20Engineer%20Contract&location=India" target="_blank" class="glass p-6 rounded-3xl hover:border-indigo-500/50 transition-all">
-                <p class="text-[10px] font-bold text-indigo-400 uppercase mb-2">Primary Redirect</p>
-                <h3 class="font-bold">India Contracts</h3>
-                <p class="text-xs text-slate-500 mt-1">LinkedIn Remote/Contract only</p>
+        
+        <div class="grid grid-cols-1 md:grid-cols-4 gap-4 mb-16">
+            <a href="https://www.reddit.com/r/dataengineering/search/?q=hiring+remote&restrict_sr=1&sort=new" target="_blank" class="glass p-6 rounded-3xl hover:bg-orange-500/10 transition-all">
+                <p class="text-[10px] font-bold text-orange-500 uppercase mb-2">Priority 1</p>
+                <h3 class="font-bold text-lg">Reddit Hiring</h3>
+                <p class="text-xs text-slate-500 mt-1">r/DataEngineering peer leads</p>
             </a>
-            <a href="https://www.google.com/search?q=intitle:%22Data+Engineer%22+AWS+(Glue+OR+Athena)+Remote+(contract+OR+freelance)" target="_blank" class="glass p-6 rounded-3xl hover:border-emerald-500/50 transition-all">
-                <p class="text-[10px] font-bold text-emerald-400 uppercase mb-2">Global Sourcing</p>
-                <h3 class="font-bold">Global Contracts</h3>
+            <a href="https://www.linkedin.com/jobs/search/?f_WT=2&keywords=Data%20Engineer%20Contract&location=India" target="_blank" class="glass p-6 rounded-3xl hover:bg-blue-500/10 transition-all">
+                <p class="text-[10px] font-bold text-blue-400 uppercase mb-2">Domestic</p>
+                <h3 class="font-bold text-lg">India Contracts</h3>
+                <p class="text-xs text-slate-500 mt-1">LinkedIn Remote/Freelance</p>
+            </a>
+            <a href="https://www.google.com/search?q=site:naukri.com+%22Data+Engineer%22+contract+remote" target="_blank" class="glass p-6 rounded-3xl hover:bg-emerald-500/10 transition-all">
+                <p class="text-[10px] font-bold text-emerald-400 uppercase mb-2">Domestic</p>
+                <h3 class="font-bold text-lg">Naukri Search</h3>
+                <p class="text-xs text-slate-500 mt-1">Filtered for Contract only</p>
+            </a>
+            <a href="https://www.google.com/search?q=intitle:%22Data+Engineer%22+AWS+Remote+(contract+OR+freelance)" target="_blank" class="glass p-6 rounded-3xl hover:bg-indigo-500/10 transition-all">
+                <p class="text-[10px] font-bold text-indigo-400 uppercase mb-2">Global</p>
+                <h3 class="font-bold text-lg">Indeed/Global</h3>
                 <p class="text-xs text-slate-500 mt-1">USD/EUR Direct Pay</p>
             </a>
-            </div>
-
-        <div id="feed" class="space-y-4">
-            <div class="text-center py-20 animate-pulse text-slate-500 font-mono text-xs">AGENT ACTIVATED: EVALUATING GLOBAL LEADS...</div>
         </div>
+
+        <div id="feed" class="space-y-6">
+            </div>
     </main>
 
     <script>
@@ -49,34 +57,35 @@
             const container = document.getElementById('feed');
             try {
                 const url = `https://raw.githubusercontent.com/ARROW12/career-pipeline/main/jobs.json?t=${new Date().getTime()}`;
-                const response = await fetch(url, { cache: "no-store" });
+                const response = await fetch(url);
                 const jobs = await response.json();
                 
-                if(!jobs || jobs.length === 0) {
-                    container.innerHTML = '<div class="glass p-20 rounded-3xl text-center text-slate-500 font-mono text-xs">AI JUDGE: NO HIGH-RELEVANCE LEADS DETECTED IN THIS CYCLE.</div>';
+                if(!jobs.length) {
+                    container.innerHTML = '<p class="text-center py-20 text-slate-500 font-mono text-xs">EVALUATING GLOBAL CURRENCY OPPORTUNITIES...</p>';
                     return;
                 }
 
                 container.innerHTML = jobs.map(job => `
-                    <div class="glass p-8 rounded-[2rem] match-glow transition-all hover:bg-white/[0.02]">
-                        <div class="flex flex-col md:flex-row justify-between items-start gap-6">
+                    <div class="glass p-8 rounded-[2.5rem] ${job.location.includes('India') ? 'card-inr' : 'card-global'}">
+                        <div class="flex flex-col md:flex-row justify-between items-start gap-8">
                             <div class="flex-1">
                                 <div class="flex items-center gap-3 mb-4">
-                                    <span class="text-[9px] font-bold px-2 py-1 bg-indigo-500/10 text-indigo-400 rounded border border-indigo-500/20 uppercase tracking-widest">${job.match}% AI MATCH</span>
-                                    <span class="text-slate-500 text-[10px] font-bold uppercase tracking-widest">${job.loc}</span>
+                                    <span class="text-[10px] font-bold px-3 py-1 bg-white/5 rounded-full border border-white/10 uppercase tracking-widest">${job.match_score}% AI SCORE</span>
+                                    <span class="text-[10px] font-bold text-emerald-400 uppercase tracking-widest">${job.currency_type}</span>
                                 </div>
-                                <h3 class="text-2xl font-bold text-white mb-2 leading-tight">${job.title}</h3>
-                                <p class="text-indigo-400 font-medium">${job.company}</p>
+                                <h3 class="text-3xl font-bold mb-2">${job.title}</h3>
+                                <p class="text-indigo-400 font-semibold mb-2">${job.company}</p>
+                                <p class="text-slate-500 text-sm italic">${job.location}</p>
                             </div>
-                            <div class="flex flex-col items-end justify-between min-w-[180px]">
-                                <span class="text-xs font-mono text-emerald-400 font-bold mb-6 italic">NON-INR OPPORTUNITY</span>
-                                <a href="${job.url}" target="_blank" class="w-full text-center px-8 py-4 bg-indigo-600 hover:bg-indigo-500 rounded-2xl text-xs font-bold uppercase tracking-widest shadow-xl shadow-indigo-600/20 transition-all">Apply Now</a>
+                            <div class="flex flex-col items-end gap-4 min-w-[200px]">
+                                <a href="${job.url}" target="_blank" class="w-full text-center py-4 bg-indigo-600 hover:bg-indigo-500 rounded-2xl font-bold uppercase text-xs tracking-widest shadow-xl shadow-indigo-600/20 transition-all">Submit Resume</a>
+                                <p class="text-[10px] text-slate-600 font-mono">Found: ${job.timestamp}</p>
                             </div>
                         </div>
                     </div>
                 `).join('');
             } catch (err) {
-                container.innerHTML = '<div class="text-center py-20 text-slate-600 font-mono text-xs">PIPELINE INITIALIZING...</div>';
+                container.innerHTML = '<p class="text-center py-20">Pipeline Offline. Check GitHub Action Permissions.</p>';
             }
         }
         loadJobs();
