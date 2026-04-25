@@ -1,52 +1,59 @@
 import json
 import requests
+from datetime import datetime
 
-# --- STRICT IDENTITY NODES ---
-REQUIRED_TITLE_KEYWORDS = ["Data Engineer", "Data Engineering", "ETL", "PySpark", "Glue"]
+# --- CONFIGURATION ---
+# Titles must contain one of these
+REQUIRED_TITLES = ["Data Engineer", "Data Engineering", "ETL", "PySpark", "Glue", "Big Data"]
 
-# --- THE KILL LIST ---
-# If these words appear in the TITLE, the job is discarded instantly
-FORBIDDEN_TITLE_KEYWORDS = [
-    "Nurse", "Neurologist", "Counselor", "Physician", "Marketing", 
-    "Sales", "Account", "Clinical Research", "Associate", "HR"
-]
+# Titles containing these are deleted immediately
+FORBIDDEN_TITLES = ["Nurse", "Neurologist", "Counselor", "Physician", "Marketing", "Sales", "HR", "Recruiter"]
 
 def calculate_refined_score(job_data):
-    title = job_data['title'].lower()
+    title = job_data.get('title', '').lower()
     desc = job_data.get('desc', '').lower()
     text = title + " " + desc
     
-    # STAGE 1: FORBIDDEN TITLE CHECK
-    # This prevents roles like "Neurologist" or "Nurse" from appearing
-    if any(forbidden.lower() in title for forbidden in FORBIDDEN_TITLE_KEYWORDS):
+    # STAGE 1: FORBIDDEN GATE (Prevents irrelevant roles from screenshots)
+    if any(word.lower() in title for word in FORBIDDEN_TITLES):
         return 0
 
-    # STAGE 2: MANDATORY IDENTITY GATE
-    # The title MUST sound like an Engineering role
-    if not any(req.lower() in title for req in REQUIRED_TITLE_KEYWORDS):
+    # STAGE 2: IDENTITY GATE (Ensures it's an engineering role)
+    if not any(word.lower() in title for word in REQUIRED_TITLES):
         return 0
 
-    # STAGE 3: TECH VALIDATION
-    # Must mention at least one core AWS/Data tool to be relevant
-    CORE_TECH = ["Glue", "Step Functions", "Redshift", "PySpark", "S3", "Athena"]
-    tech_hits = [tech for tech in CORE_TECH if tech.lower() in text]
-    
-    if len(tech_hits) == 0:
+    # STAGE 3: TECH VALIDATION (Must have at least one core tool)
+    CORE_TECH = ["Glue", "Step Functions", "Lake Formation", "Redshift", "PySpark", "S3", "Athena"]
+    found_tech = [t for t in CORE_TECH if t.lower() in text]
+    if not found_tech:
         return 0
 
     # STAGE 4: SCORING
-    score = 50 
-    score += (len(tech_hits) * 10)
-    
-    # Bonus for your specific Pharma background (MSD/BMS)
-    if any(d in text for d in ["pharma", "life sciences", "biotech"]):
+    score = 50
+    score += (len(found_tech) * 10)
+    if any(d in text for d in ["pharma", "life sciences", "clinical"]):
         score += 20
-
-    # STAGE 5: LOCATION COMPLIANCE
-    is_india = "india" in job_data.get('location', '').lower() or "inr" in text
-    is_contract = any(x in text for x in ["contract", "freelance", "temp"])
-    
-    if is_india and not is_contract:
-        return 0 
         
-    return min(score, 100)
+    return min(score, 100), found_tech
+
+def fetch_jobs():
+    # Example using Adzuna (You will need to use your actual sourcing logic here)
+    # This is a placeholder for the logic that populates 'all_leads'
+    all_leads = [] 
+    processed = []
+    
+    for lead in all_leads:
+        score, tags = calculate_refined_score(lead)
+        if score >= 40:
+            lead['match'] = score
+            lead['tags'] = tags
+            lead['timestamp'] = datetime.now().strftime("%Y-%m-%d %H:%M")
+            processed.append(lead)
+            
+    processed.sort(key=lambda x: x['match'], reverse=True)
+    
+    with open('jobs.json', 'w') as f:
+        json.dump(processed[:30], f, indent=4)
+
+if __name__ == "__main__":
+    fetch_jobs()
