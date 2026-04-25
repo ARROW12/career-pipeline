@@ -7,10 +7,9 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
     <style>
-        body { font-family: 'Inter', sans-serif; background: #0f172a; color: #f8fafc; }
-        .glass { background: rgba(30, 41, 59, 0.7); backdrop-filter: blur(12px); border: 1px solid rgba(255,255,255,0.1); }
-        .job-card { animation: fadeIn 0.5s ease-out forwards; opacity: 0; }
-        @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+        body { font-family: 'Inter', sans-serif; background: #080c14; color: #f8fafc; }
+        .glass { background: rgba(15, 23, 42, 0.8); backdrop-filter: blur(12px); border: 1px solid rgba(255,255,255,0.05); }
+        .profile-border { border-left: 4px solid #6366f1; }
     </style>
 </head>
 <body class="min-h-screen pb-20">
@@ -18,137 +17,76 @@
     <nav class="p-6 border-b border-white/5 mb-12 glass sticky top-0 z-50">
         <div class="max-w-6xl mx-auto flex justify-between items-center">
             <div class="flex items-center gap-3">
-                <div class="h-8 w-8 bg-indigo-500 rounded-lg flex items-center justify-center font-bold text-white">P</div>
-                <span class="text-xl font-bold tracking-tight">PIPELINE <span class="text-indigo-400 text-sm font-normal">v2.0</span></span>
+                <div class="h-8 w-8 bg-indigo-600 rounded-lg flex items-center justify-center font-bold">P</div>
+                <span class="text-xl font-bold tracking-tight uppercase">Pipeline <span class="text-indigo-400 text-xs">v3.0</span></span>
             </div>
-            <div class="text-xs text-slate-500 font-mono text-right">
-                Auto-Syncing: 2h Interval<br>
-                <span class="text-indigo-400/70">Public Mode (No Token Required)</span>
+            <div class="text-[10px] text-slate-500 font-mono text-right uppercase tracking-tighter">
+                50+ Sources Integrated<br>
+                <span class="text-emerald-400">Profile Matching Active</span>
             </div>
         </div>
     </nav>
 
     <main class="max-w-6xl mx-auto px-6">
-        <div class="mb-10">
-            <h1 class="text-3xl font-bold mb-2">Market Intelligence</h1>
-            <p class="text-slate-400">Targeting Cloud & Data Engineering roles for your specialized AWS stack.</p>
-        </div>
-
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-10">
-            <a href="https://www.linkedin.com/jobs/search/?f_WT=2&keywords=Data%20Engineer%20AWS%20Glue%20Remote" target="_blank" 
-               class="glass p-5 rounded-xl border-blue-500/30 hover:bg-blue-500/10 transition-all group">
-                <p class="text-[10px] font-bold text-blue-400 uppercase tracking-widest mb-1">Deep Search</p>
-                <h4 class="font-bold flex items-center justify-between">
-                    LinkedIn Remote 
-                    <svg class="w-4 h-4 opacity-0 group-hover:opacity-100 transition-opacity" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
-                </h4>
-            </a>
-            
-            <a href="https://www.indeed.com/jobs?q=Data+Engineer+AWS+Glue+Remote&l=Remote" target="_blank" 
-               class="glass p-5 rounded-xl border-indigo-500/30 hover:bg-indigo-500/10 transition-all group">
-                <p class="text-[10px] font-bold text-indigo-400 uppercase tracking-widest mb-1">Deep Search</p>
-                <h4 class="font-bold flex items-center justify-between">
-                    Indeed Global
-                    <svg class="w-4 h-4 opacity-0 group-hover:opacity-100 transition-opacity" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
-                </h4>
-            </a>
-
-            <a href="https://wellfound.com/jobs?role=Data+Engineer&location=Remote" target="_blank" 
-               class="glass p-5 rounded-xl border-emerald-500/30 hover:bg-emerald-500/10 transition-all group">
-                <p class="text-[10px] font-bold text-emerald-400 uppercase tracking-widest mb-1">Deep Search</p>
-                <h4 class="font-bold flex items-center justify-between">
-                    Wellfound (Startups)
-                    <svg class="w-4 h-4 opacity-0 group-hover:opacity-100 transition-opacity" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
-                </h4>
-            </a>
-        </div>
-
-        <h2 class="text-xl font-bold mb-6 flex items-center gap-2">
-            <span class="h-2 w-2 bg-indigo-500 rounded-full animate-pulse"></span>
-            Automated Sourcing Results
-        </h2>
-
-        <div id="feed" class="space-y-4">
-            <div class="text-center py-20">
-                <div class="inline-block animate-spin rounded-full h-8 w-8 border-t-2 border-b-2 border-indigo-500 mb-4"></div>
-                <p class="text-slate-500 font-mono text-sm">Intercepting job streams...</p>
+        <div class="glass p-6 rounded-2xl mb-10 profile-border flex flex-col md:flex-row justify-between items-center gap-6">
+            <div>
+                <h2 class="text-xl font-bold mb-1">Tejas Anand</h2>
+                <p class="text-slate-400 text-sm">Manager, Data Engineer | AWS & AI Specialist</p>
+            </div>
+            <div class="flex gap-3">
+                <a href="YOUR_LINKEDIN_URL" target="_blank" class="px-4 py-2 bg-blue-600 hover:bg-blue-500 rounded-lg text-xs font-bold uppercase transition-all">LinkedIn</a>
+                <a href="YOUR_RESUME_DOC_URL" target="_blank" class="px-4 py-2 bg-slate-700 hover:bg-slate-600 rounded-lg text-xs font-bold uppercase transition-all">Resume</a>
             </div>
         </div>
+
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-12">
+            <a href="https://www.linkedin.com/jobs/search/?f_WT=2&keywords=Data%20Engineer%20AWS%20Glue" target="_blank" class="glass p-4 rounded-xl text-center hover:border-indigo-500/50 transition-all">
+                <span class="text-xs font-bold text-slate-500">LinkedIn</span>
+            </a>
+            <a href="https://wellfound.com/jobs?role=Data+Engineer" target="_blank" class="glass p-4 rounded-xl text-center hover:border-indigo-500/50 transition-all">
+                <span class="text-xs font-bold text-slate-500">Wellfound</span>
+            </a>
+            <a href="https://www.indeed.com/jobs?q=Data+Engineer+Remote" target="_blank" class="glass p-4 rounded-xl text-center hover:border-indigo-500/50 transition-all">
+                <span class="text-xs font-bold text-slate-500">Indeed</span>
+            </a>
+            <a href="https://remoteok.com/remote-data-engineer-jobs" target="_blank" class="glass p-4 rounded-xl text-center hover:border-indigo-500/50 transition-all">
+                <span class="text-xs font-bold text-slate-500">Remote OK</span>
+            </a>
+        </div>
+
+        <div id="feed" class="space-y-4">
+            </div>
     </main>
 
     <script>
-        const USERNAME = 'ARROW12';
-        const REPO = 'career-pipeline';
-
+        // Use the same loadJobs() function with cacheBusting from previous steps
         async function loadJobs() {
+            const USERNAME = 'ARROW12';
+            const REPO = 'career-pipeline';
             try {
-                const cacheBuster = `?t=${new Date().getTime()}`;
-                const url = `https://raw.githubusercontent.com/${USERNAME}/${REPO}/main/jobs.json${cacheBuster}`;
-                
+                const url = `https://raw.githubusercontent.com/${USERNAME}/${REPO}/main/jobs.json?t=${new Date().getTime()}`;
                 const response = await fetch(url, { cache: "no-store" });
-                if (!response.ok) throw new Error('Data lake offline');
-                
                 const jobs = await response.json();
-                const container = document.getElementById('feed');
                 
-                if(!jobs || jobs.length === 0) {
-                    container.innerHTML = `
-                        <div class="glass p-12 rounded-3xl text-center border-dashed border-white/10">
-                            <p class="text-slate-400 mb-2">Precision filter active. No high-match roles in current cycle.</p>
-                            <p class="text-xs text-slate-500 italic">Try manual trigger in GitHub Actions to force a re-scan.</p>
-                        </div>`;
-                    return;
-                }
-
-                container.innerHTML = jobs.map((job, index) => `
-                    <div class="glass p-6 rounded-2xl hover:border-indigo-500/50 transition-all job-card" style="animation-delay: ${index * 0.1}s">
-                        <div class="flex flex-col md:flex-row justify-between items-start gap-4">
-                            <div class="flex-1">
-                                <div class="flex items-center gap-3 mb-3">
-                                    <span class="text-[10px] font-bold px-2 py-0.5 bg-indigo-500/10 text-indigo-400 rounded border border-indigo-500/20 tracking-tighter">
-                                        ${job.match}% STACK MATCH
-                                    </span>
-                                    <span class="text-slate-500 text-xs font-medium flex items-center gap-1 uppercase tracking-widest">
-                                        ${job.location}
-                                    </span>
-                                </div>
-                                <h3 class="text-xl font-bold text-white mb-1 leading-tight">${job.title}</h3>
-                                <p class="text-indigo-300 font-semibold text-sm mb-4">${job.company}</p>
-                                
-                                <div class="flex flex-wrap gap-2">
-                                    ${job.tags.map(tag => `
-                                        <span class="text-[9px] bg-slate-800/80 px-2 py-1 rounded border border-white/5 text-slate-300 font-mono">
-                                            ${tag}
-                                        </span>
-                                    `).join('')}
-                                </div>
+                document.getElementById('feed').innerHTML = jobs.map(job => `
+                    <div class="glass p-6 rounded-2xl border-l-4 ${job.match > 70 ? 'border-indigo-500' : 'border-transparent'}">
+                        <div class="flex justify-between items-start">
+                            <div>
+                                <span class="text-[10px] font-bold px-2 py-0.5 bg-indigo-500/10 text-indigo-400 rounded border border-indigo-500/20">${job.match}% MATCH</span>
+                                <h3 class="text-xl font-bold mt-2">${job.title}</h3>
+                                <p class="text-indigo-300 font-medium">${job.company}</p>
                             </div>
-                            
-                            <div class="flex flex-col items-end justify-between self-stretch min-w-[160px]">
-                                <div class="text-right">
-                                    <p class="text-lg font-bold text-emerald-400 font-mono">${job.salary}</p>
-                                    <p class="text-[9px] text-slate-500 uppercase tracking-widest mt-1">Est. Pay / Range</p>
-                                </div>
-                                <a href="${job.url}" target="_blank" class="w-full md:w-auto text-center mt-6 px-5 py-2.5 bg-indigo-600 hover:bg-indigo-500 rounded-lg text-xs font-bold uppercase tracking-widest transition-all">
-                                    Analyze Lead
-                                </a>
+                            <div class="text-right">
+                                <p class="text-lg font-bold font-mono">${job.salary}</p>
+                                <a href="${job.url}" target="_blank" class="inline-block mt-4 text-xs font-bold text-indigo-400">ANALYZE LEAD →</a>
                             </div>
-                        </div>
-                        <div class="mt-6 pt-4 border-t border-white/5 flex justify-between items-center opacity-60">
-                            <span class="text-[9px] text-slate-500 font-mono uppercase tracking-widest">Global Aggregator Pipeline</span>
-                            <span class="text-[9px] text-slate-500 font-mono text-right">Synced: ${job.timestamp}</span>
                         </div>
                     </div>
                 `).join('');
             } catch (err) {
-                document.getElementById('feed').innerHTML = `
-                    <div class="glass p-12 rounded-3xl text-center border-red-500/20">
-                        <p class="text-red-400 font-mono text-sm uppercase">ERR_SYNC_TIMEOUT</p>
-                        <p class="text-xs text-slate-500 mt-2">The data pipeline is currently initializing. Check back in 60 seconds.</p>
-                    </div>`;
+                document.getElementById('feed').innerHTML = '<div class="text-center py-20 text-slate-500">Initializing Scaled Pipeline...</div>';
             }
         }
-
         loadJobs();
     </script>
 </body>
