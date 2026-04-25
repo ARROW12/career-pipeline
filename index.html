@@ -20,18 +20,12 @@
                 <span class="text-xl font-bold tracking-tight">PIPELINE <span class="text-indigo-400 text-sm font-normal">v2.0</span></span>
             </div>
             <div class="flex gap-4 items-center">
-                <button id="refreshBtn" onclick="triggerAction()" class="bg-indigo-600 hover:bg-indigo-500 px-4 py-2 rounded-md text-sm font-semibold transition-all flex items-center gap-2">
-                    <span id="btnText">Run Agent Sync</span>
-                </button>
+                 <span class="text-xs text-slate-400 font-mono">Agent runs automatically via GitHub Actions</span>
             </div>
         </div>
     </nav>
 
     <main class="max-w-6xl mx-auto px-6">
-        <div id="statusMessage" class="hidden mb-6 p-4 rounded-lg bg-emerald-500/20 border border-emerald-500/50 text-emerald-400 text-sm font-semibold">
-            Agent initialized. Pipeline is syncing... Please wait 60 seconds and refresh this page.
-        </div>
-        
         <div id="feed" class="space-y-4">
             <div class="text-center py-20 text-slate-400">Loading pipeline data...</div>
         </div>
@@ -39,18 +33,16 @@
 
     <script>
         // --- CONFIGURATION ---
-        const USERNAME = 'ARROW12'; 
-        const REPO = 'career-pipeline';
-        const TOKEN = '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'; // Treat this like a password
+        const USERNAME = 'ARROW12'; // Keep this
+        const REPO = 'career-pipeline';           // Keep this
 
         async function loadJobs() {
             try {
-                // Add a cache-busting query parameter so it always fetches the newest file
                 const response = await fetch(`https://raw.githubusercontent.com/${USERNAME}/${REPO}/main/jobs.json?timestamp=${new Date().getTime()}`);
                 const jobs = await response.json();
                 
                 if(jobs.length === 0) {
-                    document.getElementById('feed').innerHTML = '<div class="text-center py-20 text-slate-400">No jobs match your stack today. Run the agent.</div>';
+                    document.getElementById('feed').innerHTML = '<div class="text-center py-20 text-slate-400">No jobs match your stack today.</div>';
                     return;
                 }
 
@@ -73,41 +65,12 @@
                         <div class="flex gap-2 mt-4">
                             ${job.tags.map(tag => `<span class="text-[10px] bg-white/5 px-2 py-1 rounded border border-white/10 text-slate-300">${tag}</span>`).join('')}
                         </div>
+                        <div class="mt-4 text-[10px] text-slate-500 text-right">Added: ${job.timestamp}</div>
                     </div>
                 `).join('');
             } catch (err) {
                 console.error(err);
-                document.getElementById('feed').innerHTML = '<div class="text-center py-20 text-red-400">Error loading data. Run the sync agent first.</div>';
-            }
-        }
-
-        async function triggerAction() {
-            const btn = document.getElementById('refreshBtn');
-            const btnText = document.getElementById('btnText');
-            const status = document.getElementById('statusMessage');
-
-            btn.disabled = true;
-            btn.classList.add('opacity-50');
-            btnText.innerText = 'Syncing...';
-
-            try {
-                const response = await fetch(`https://api.github.com/repos/${USERNAME}/${REPO}/dispatches`, {
-                    method: 'POST',
-                    headers: {
-                        'Authorization': `Bearer ${TOKEN}`,
-                        'Accept': 'application/vnd.github.v3+json'
-                    },
-                    body: JSON.stringify({ event_type: 'run_agent' })
-                });
-
-                if (response.ok) {
-                    status.classList.remove('hidden');
-                    btnText.innerText = 'Agent Deployed';
-                } else {
-                    alert('Failed to trigger. Check console and token permissions.');
-                }
-            } catch (err) {
-                alert('Network error.');
+                document.getElementById('feed').innerHTML = '<div class="text-center py-20 text-red-400">Error loading data. Make sure the GitHub Action has run successfully at least once.</div>';
             }
         }
 
