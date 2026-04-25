@@ -1,34 +1,35 @@
-name: Career Pipeline Agent
+name: Job Pipeline Sync
 
 on:
   schedule:
     - cron: '0 */2 * * *' # Runs every 2 hours
-  workflow_dispatch: # Allows you to manually run it from the GitHub Actions tab
+  workflow_dispatch: # Allows manual trigger
 
 permissions:
-  contents: write
+  contents: write # CRITICAL: Allows the action to push changes back to your repo
 
 jobs:
-  run-agent:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
+      - name: Checkout Code
         uses: actions/checkout@v3
 
-      - name: Set up Python
+      - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
+          python-version: '3.9'
 
-      - name: Install dependencies
+      - name: Install Dependencies
         run: pip install requests
 
-      - name: Execute Agent Script
+      - name: Run Agent
         run: python agent.py
 
       - name: Commit and Push
         run: |
-          git config --global user.name "Pipeline-Agent"
-          git config --global user.email "action@github.com"
+          git config --global user.name "actions-user"
+          git config --global user.email "actions@github.com"
           git add jobs.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: Auto-update job pipeline" && git push)
+          git commit -m "chore: Auto-update job pipeline" || echo "No changes to commit"
+          git push
