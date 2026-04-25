@@ -1,35 +1,30 @@
-name: Job Pipeline Sync
+name: Career Agentic Sync
 
 on:
   schedule:
-    - cron: '0 */2 * * *' # Runs every 2 hours
-  workflow_dispatch: # Allows manual trigger
+    - cron: '0 */1 * * *' # Every 4 hours
+  workflow_dispatch:
 
 permissions:
-  contents: write # CRITICAL: Allows the action to push changes back to your repo
+  contents: write # REQUIRED to update jobs.json
 
 jobs:
-  build:
+  hunt:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Code
-        uses: actions/checkout@v3
-
-      - name: Setup Python
+      - uses: actions/checkout@v3
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9'
-
-      - name: Install Dependencies
-        run: pip install requests
-
-      - name: Run Agent
-        run: python agent.py
-
-      - name: Commit and Push
+          python-version: '3.10'
+      - name: Run AI Agent
         run: |
-          git config --global user.name "actions-user"
-          git config --global user.email "actions@github.com"
+          pip install requests
+          python agent.py
+      - name: Sync Results
+        run: |
+          git config --global user.name "Career-Agent"
+          git config --global user.email "agent@github.com"
           git add jobs.json
-          git commit -m "chore: Auto-update job pipeline" || echo "No changes to commit"
+          git commit -m "update: synced perfect global matches" || echo "No new matches"
           git push
