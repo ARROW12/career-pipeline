@@ -1,26 +1,53 @@
 [
     {
-        "title": "Lead Paid Search / SEA (m/w/d) | 100 % remote | Voll- oder Teilzeit",
-        "company": "hurra.com",
-        "url": "https://www.arbeitnow.com/jobs/companies/hurracom/lead-paid-search-sea-100-remote-voll-oder-teilzeit-stuttgart-104144",
-        "match": 27,
+        "title": "Applied AI Engineer Europe",
+        "company": "Amigo",
+        "url": "https://remoteOK.com/remote-jobs/remote-applied-ai-engineer-europe-amigo-1131296",
+        "match": 45,
         "tags": [
-            "Data"
+            "LLM",
+            "Prompt Engineering"
         ],
-        "location": "Remote",
-        "salary": "Competitive",
-        "timestamp": "2026-04-25 07:22"
+        "location": "Remote (RemoteOK)",
+        "salary": "$0",
+        "timestamp": "2026-04-25 07:33"
     },
     {
-        "title": "Lead Customer Success Manager",
-        "company": "babelforce GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/babelforce-gmbh/lead-customer-success-manager-berlin-336211",
-        "match": 27,
+        "title": "Mid Senior AI Video Artist",
+        "company": "EverAI",
+        "url": "https://remoteOK.com/remote-jobs/remote-mid-senior-ai-video-artist-everai-1131288",
+        "match": 35,
         "tags": [
-            "Data"
+            "AWS",
+            "LLM"
         ],
-        "location": "Remote",
-        "salary": "Competitive",
-        "timestamp": "2026-04-25 07:22"
+        "location": "Remote (RemoteOK)",
+        "salary": "$30000",
+        "timestamp": "2026-04-25 07:33"
+    },
+    {
+        "title": "Senior Data Engineer",
+        "company": "Capnexus",
+        "url": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-capnexus-1131269",
+        "match": 35,
+        "tags": [
+            "AWS",
+            "Glue"
+        ],
+        "location": "Remote (RemoteOK)",
+        "salary": "$0",
+        "timestamp": "2026-04-25 07:33"
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Junction",
+        "url": "https://remoteOK.com/remote-jobs/remote-data-scientist-junction-1131265",
+        "match": 30,
+        "tags": [
+            "LLM"
+        ],
+        "location": "Remote (RemoteOK)",
+        "salary": "$180000",
+        "timestamp": "2026-04-25 07:33"
     }
 ]
