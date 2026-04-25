@@ -2,65 +2,71 @@ import json
 import requests
 from datetime import datetime
 
-# --- TARGET PROFILE NODES ---
-CORE_STACK = ["Glue", "Step Functions", "Lake Formation", "Redshift", "PySpark"]
-AI_STACK = ["LangGraph", "LangChain", "LLM"]
-DOMAIN = ["Pharma", "Clinical", "Life Sciences", "Healthcare"]
+# --- ENHANCED LOGIC NODES ---
+# Strictly targeting your 4+ years of AWS expertise
+CORE_STACK = ["Glue", "Step Functions", "Lake Formation", "Redshift", "PySpark", "EMR"]
+AI_STACK = ["LangGraph", "LangChain", "LLM", "Vector DB"]
+PHARMA_KEYWORDS = ["Pharma", "Clinical", "Life Sciences", "GxP", "HIPAA"]
+
+# Negative filters to remove irrelevant noise
+BLACK-LIST = ["Data Analyst", "Intern", "Junior", "Entry Level", "Marketing", "Recruiter"]
 
 def calculate_graph_score(job_data):
     score = 0
     text = (job_data['title'] + " " + job_data['desc']).lower()
     
-    # 1. Tech Affinity (Edge Weight)
-    for tech in CORE_STACK:
-        if tech.lower() in text: score += 20
-    for tech in AI_STACK:
-        if tech.lower() in text: score += 15
-        
-    # 2. Domain Affinity (High Priority for MSD/BMS background)
-    for d in DOMAIN:
-        if d.lower() in text: score += 25
-        
-    # 3. Location/Contract Logic
-    is_india = "india" in job_data['loc'].lower() or "inr" in text
-    is_contract = "contract" in text or "freelance" in text or "temporary" in text
-    
-    # If India, strictly require Contract
-    if is_india and not is_contract:
+    # 0. Immediate Filter: Blacklist
+    if any(word.lower() in job_data['title'].lower() for word in BLACK-LIST):
         return 0
+
+    # 1. AWS Mastery (High Weight for your MSD/BMS tech stack)
+    for tech in CORE_STACK:
+        if tech.lower() in text: score += 25
+    
+    # 2. Industry Moat (Pharma experience is your differentiator)
+    for d in PHARMA_KEYWORDS:
+        if d.lower() in text: score += 30
+        
+    # 3. Location/Contract Intelligence
+    is_india = "india" in job_data['loc'].lower() or "inr" in text
+    is_contract = any(x in text for x in ["contract", "freelance", "temporary", "day rate"])
+    
+    if is_india and not is_contract:
+        return 0 # Per your request: India roles must be Contractual
     
     return score
 
 def fetch_pipeline():
     leads = []
     
-    # Tier 1: Specialized Remote APIs
+    # Source 1: Hacker News (YC) 'Who is Hiring'
+    # High-quality tech roles, usually direct from founders/engineering managers
     try:
-        # RemoteOK for high-end Global roles
-        rok = requests.get("https://remoteok.com/api", headers={'User-Agent': 'Mozilla/5.0'}).json()
-        for job in rok[1:]:
-            s = calculate_graph_score({'title': job.get('position'), 'desc': job.get('description'), 'loc': 'Remote'})
-            if s > 35:
-                leads.append({"title": job.get('position'), "company": job.get('company'), "url": job.get('url'), "match": min(s, 100), "loc": "Remote Global", "type": "Remote/Contract"})
+        hn_items = requests.get("https://hacker-news.firebaseio.com/v0/jobstories.json").json()
+        for item_id in hn_items[:30]:
+            item = requests.get(f"https://hacker-news.firebaseio.com/v0/item/{item_id}.json").json()
+            if item and 'title' in item:
+                s = calculate_graph_score({'title': item['title'], 'desc': item.get('text', ''), 'loc': 'Global'})
+                if s > 20:
+                    leads.append({"title": item['title'], "company": "YC Startup", "url": f"https://news.ycombinator.com/item?id={item_id}", "match": s, "loc": "Remote / US", "type": "Direct Hire"})
     except: pass
 
-    # Tier 2: Reddit Scraping (r/dataengineering, r/remotework, r/forhire)
-    subreddits = ["dataengineering", "forhire", "remotework"]
-    for sub in subreddits:
-        try:
-            res = requests.get(f"https://www.reddit.com/r/{sub}/new.json?limit=25", headers={'User-Agent': 'CareerPipelineAgent/1.0'}).json()
-            for post in res['data']['children']:
-                p = post['data']
-                if "hiring" in p['title'].lower() or "[hiring]" in p['title'].lower():
-                    s = calculate_graph_score({'title': p['title'], 'desc': p['selftext'], 'loc': 'Reddit/Remote'})
-                    if s > 30:
-                        leads.append({"title": p['title'][:60]+"...", "company": "Reddit User", "url": f"https://reddit.com{p['permalink']}", "match": s, "loc": f"r/{sub}", "type": "Community Lead"})
-        except: pass
+    # Source 2: Adzuna (Aggregator - Free Tier)
+    # This reaches Indeed, Glassdoor, and 100+ others via one API
+    try:
+        # Note: Replace with your credentials from developer.adzuna.com
+        ADZ_ID = "YOUR_APP_ID" 
+        ADZ_KEY = "YOUR_APP_KEY"
+        adz_res = requests.get(f"https://api.adzuna.com/v1/api/jobs/us/search/1?app_id={AD_ID}&app_key={AD_KEY}&what=Data%20Engineer%20AWS%20Remote").json()
+        for job in adz_res.get('results', []):
+            s = calculate_graph_score({'title': job['title'], 'desc': job['description'], 'loc': 'Global'})
+            if s > 30:
+                leads.append({"title": job['title'], "company": job['company']['display_name'], "url": job['redirect_url'], "match": s, "loc": "Global", "type": "Aggregated"})
+    except: pass
 
-    # Deduplicate and prioritize
     leads.sort(key=lambda x: x['match'], reverse=True)
     with open('jobs.json', 'w') as f:
-        json.dump(leads[:50], f, indent=4)
+        json.dump(leads[:40], f, indent=4)
 
 if __name__ == "__main__":
     fetch_pipeline()
