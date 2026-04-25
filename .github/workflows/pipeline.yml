@@ -1,12 +1,12 @@
 name: Career Pipeline Agent
 
 on:
-  repository_dispatch:
-    types: [run_agent]
-  workflow_dispatch: # Allows manual run
+  schedule:
+    - cron: '0 2,14 * * *' # Runs at 02:00 and 14:00 UTC every day
+  workflow_dispatch: # Allows you to manually click "Run workflow" in GitHub UI
 
 permissions:
-  contents: write # Crucial: Allows the bot to save jobs.json
+  contents: write
 
 jobs:
   run-agent:
@@ -31,6 +31,5 @@ jobs:
           git config --global user.name "Pipeline-Agent"
           git config --global user.email "action@github.com"
           git add jobs.json
-          # Only commit if there are changes
           git diff --quiet && git diff --staged --quiet || git commit -m "chore: Agent updated job pipeline"
           git push
