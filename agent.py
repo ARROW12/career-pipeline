@@ -1,43 +1,52 @@
 import json
 import requests
 
-# --- CORE IDENTITY NODES ---
-# A job MUST contain at least one of these to even be considered
-REQUIRED_IDENTITY = ["Data Engineer", "Data Engineering", "Analytics Engineer", "ETL Engineer"]
+# --- STRICT IDENTITY NODES ---
+REQUIRED_TITLE_KEYWORDS = ["Data Engineer", "Data Engineering", "ETL", "PySpark", "Glue"]
 
-# HIGH-WEIGHT TECH STACK
-CORE_TECH = ["Glue", "Step Functions", "Lake Formation", "Redshift", "PySpark", "EMR", "Athena"]
+# --- THE KILL LIST ---
+# If these words appear in the TITLE, the job is discarded instantly
+FORBIDDEN_TITLE_KEYWORDS = [
+    "Nurse", "Neurologist", "Counselor", "Physician", "Marketing", 
+    "Sales", "Account", "Clinical Research", "Associate", "HR"
+]
 
 def calculate_refined_score(job_data):
     title = job_data['title'].lower()
     desc = job_data.get('desc', '').lower()
     text = title + " " + desc
     
-    # STAGE 1: HARD IDENTITY GATE
-    # If the title doesn't sound like a Data Engineer role, it's 0.
-    if not any(role.lower() in title for role in REQUIRED_IDENTITY):
+    # STAGE 1: FORBIDDEN TITLE CHECK
+    # This prevents roles like "Neurologist" or "Nurse" from appearing
+    if any(forbidden.lower() in title for forbidden in FORBIDDEN_TITLE_KEYWORDS):
         return 0
 
-    # STAGE 2: NEGATIVE KEYWORD GATE
-    # Kill common irrelevant roles that might slip through
-    IRRELEVANT = ["Marketing", "Nurse", "Counselor", "Doctor", "Sales", "Neurologist", "Recruiter"]
-    if any(word.lower() in title for word in IRRELEVANT):
+    # STAGE 2: MANDATORY IDENTITY GATE
+    # The title MUST sound like an Engineering role
+    if not any(req.lower() in title for req in REQUIRED_TITLE_KEYWORDS):
         return 0
 
-    # STAGE 3: TECH WEIGHTING
-    score = 40  # Base score for passing identity gate
+    # STAGE 3: TECH VALIDATION
+    # Must mention at least one core AWS/Data tool to be relevant
+    CORE_TECH = ["Glue", "Step Functions", "Redshift", "PySpark", "S3", "Athena"]
     tech_hits = [tech for tech in CORE_TECH if tech.lower() in text]
-    score += (len(tech_hits) * 15)
     
-    # Bonus for Pharma/Life Sciences (Your MSD/BMS background)
-    if any(d in text for d in ["pharma", "clinical", "life sciences"]):
+    if len(tech_hits) == 0:
+        return 0
+
+    # STAGE 4: SCORING
+    score = 50 
+    score += (len(tech_hits) * 10)
+    
+    # Bonus for your specific Pharma background (MSD/BMS)
+    if any(d in text for d in ["pharma", "life sciences", "biotech"]):
         score += 20
 
-    # STAGE 4: LOCATION & CONTRACT RULE
-    is_india = "india" in job_data.get('loc', '').lower() or "inr" in text
-    is_contract = any(x in text for x in ["contract", "freelance", "temp", "consultant"])
+    # STAGE 5: LOCATION COMPLIANCE
+    is_india = "india" in job_data.get('location', '').lower() or "inr" in text
+    is_contract = any(x in text for x in ["contract", "freelance", "temp"])
     
     if is_india and not is_contract:
-        return 0 # Per instruction: India roles MUST be contract
+        return 0 
         
     return min(score, 100)
