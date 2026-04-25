@@ -2,81 +2,88 @@ import json
 import requests
 from datetime import datetime
 
-# --- YOUR PERSONAL RECRUITMENT PROTOCOL ---
-PROFILE = {
-    "tech_stack": ["AWS Glue", "Step Functions", "Lake Formation", "PySpark", "Redshift"],
-    "domain": "Pharma / Life Sciences",
-    "payment_rule": "If India: Must be Contract/Freelance. If Global: Must NOT be INR."
-}
+# --- CORE AGENT CONSTRAINTS ---
+TECH_STACK = ["Glue", "Step Functions", "Lake Formation", "PySpark", "Redshift", "Athena"]
+DOMAIN = ["Pharma", "Life Sciences", "Clinical"]
 
-def ai_judge(lead):
+def llm_as_judge(job):
     """
-    Simulates a LangGraph Node: Evaluates a lead based on your career constraints.
+    Evaluates job relevance against Data Engineering stack and Financial Rules.
     """
-    title = lead.get('title', '').lower()
-    desc = lead.get('description', '').lower()
-    loc = lead.get('location', '').lower()
-    
-    # 1. Identity Check
-    if not any(x in title for x in ["data engineer", "etl", "analytics engineer"]):
-        return None
+    title = job.get('title', '').lower()
+    desc = job.get('desc', '').lower()
+    loc = job.get('loc', '').lower()
+    text = title + " " + desc
 
-    # 2. Financial Constraint Logic
+    # 1. IDENTITY GATE: Must be Data Engineering (at any seniority level)
+    DE_KEYWORDS = ["data engineer", "data engineering", "etl", "analytics engineer", "big data"]
+    if not any(k in title for k in DE_KEYWORDS):
+        return False, 0
+
+    # 2. FINANCIAL GATE:
+    # If India, must be Contract/Freelance. If Global, must be non-INR.
     is_india = "india" in loc or "india" in title
-    is_contract = any(x in desc or x in title for x in ["contract", "freelance", "day rate", "c2c"])
+    is_contract = any(c in text for c in ["contract", "freelance", "temp", "c2c", "day rate"])
     
     if is_india and not is_contract:
-        return None # Reject India Full-Time roles
+        return False, 0
 
-    # 3. Stack Alignment (Perfect Match Scoring)
-    score = 0
-    for tech in PROFILE["tech_stack"]:
-        if tech.lower() in desc or tech.lower() in title:
-            score += 20
-            
-    # Pharma Bonus (Your specialized background)
-    if any(p in desc for p in ["pharma", "clinical", "msd", "bms"]):
+    # 3. TECHNICAL ALIGNMENT
+    score = 40 # Base score for passing Identity Gate
+    hits = [t for t in TECH_STACK if t.lower() in text]
+    score += (len(hits) * 10)
+    
+    # Pharma/Healthcare Domain Bonus
+    if any(d.lower() in text for d in DOMAIN):
         score += 20
 
-    if score >= 40:
-        lead['match_score'] = score
-        lead['currency_type'] = "Global/Non-INR" if not is_india else "INR Contract"
-        return lead
-    return None
+    return (score >= 50), score
 
-def run_pipeline():
-    # Placeholder for multi-source search (Reddit, LinkedIn, Indeed, Naukri)
-    # We use Google Search Dorks to aggregate these into one stream
-    sources = [
-        "https://www.google.com/search?q=site:linkedin.com/jobs/ \"Data Engineer\" AWS Glue Contract",
-        "https://www.reddit.com/r/dataengineering/search/?q=hiring+remote&sort=new",
-        "https://www.google.com/search?q=site:naukri.com \"Data Engineer\" \"Contract\""
-    ]
-    
-    print("Agent: Commencing Multi-Source Sourcing...")
-    # Sourcing logic would go here...
-    
-    leads = [
-        # Example of a 'Perfect' result found by the agent
+def get_job_leads():
+    """
+    Placeholder for Multi-Source Fetcher (Reddit RSS, Adzuna, etc.)
+    Constructs search payloads for LinkedIn, Indeed, and Naukri.
+    """
+    # This list would be populated by your scraping/API logic
+    raw_results = [
         {
-            "title": "AWS Data Engineer (Pharma Project)",
-            "company": "Global Health Tech",
-            "url": "https://example.com/apply",
-            "location": "Remote (Global)",
-            "description": "Building ETL pipelines with AWS Glue and Step Functions. Paying in USD."
+            "title": "AWS Data Engineer (Pharma Contract)",
+            "company": "LifeScience Solutions",
+            "url": "https://example.com/apply-pharma",
+            "loc": "Remote / India",
+            "desc": "Looking for AWS Glue and Step Functions experts. 6-month freelance contract.",
+            "source": "Reddit"
+        },
+        {
+            "title": "Senior Data Engineer (Global)",
+            "company": "TechStream Global",
+            "url": "https://example.com/global-de",
+            "loc": "Remote (EMEA/US)",
+            "desc": "Build scalable ETL with Redshift and Athena. Paid in USD.",
+            "source": "LinkedIn"
         }
     ]
+    return raw_results
 
-    perfect_matches = []
-    for l in leads:
-        judged_lead = ai_judge(l)
-        if judged_lead:
-            judged_lead['timestamp'] = datetime.now().strftime("%Y-%m-%d %H:%M")
-            perfect_matches.append(judged_lead)
+def run_agent():
+    print("Agent: Commencing Global Sourcing...")
+    leads = get_job_leads()
+    validated_jobs = []
+
+    for job in leads:
+        is_perfect, final_score = llm_as_judge(job)
+        if is_perfect:
+            job['match'] = final_score
+            job['timestamp'] = datetime.now().strftime("%Y-%m-%d %H:%M")
+            job['type'] = "USD/Global" if "india" not in job['loc'].lower() else "INR Contract"
+            validated_jobs.append(job)
+
+    # Sort by match quality
+    validated_jobs.sort(key=lambda x: x['match'], reverse=True)
 
     with open('jobs.json', 'w') as f:
-        json.dump(perfect_matches, f, indent=4)
-    print(f"Agent: Successfully validated {len(perfect_matches)} perfect matches.")
+        json.dump(validated_jobs, f, indent=4)
+    print(f"Agent: Sync complete. Found {len(validated_jobs)} perfect matches.")
 
 if __name__ == "__main__":
-    run_pipeline()
+    run_agent()
