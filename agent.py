@@ -1,61 +1,82 @@
 import json
-import os
 import requests
 from datetime import datetime
 
-# --- YOUR VIRTUAL RECRUITER PROFILE ---
-USER_PROFILE = {
-    "role": "Data Engineer / Manager",
-    "must_have": ["AWS Glue", "Step Functions", "PySpark", "Lake Formation"],
-    "domain_bonus": ["Pharma", "Life Sciences", "Clinical"],
-    "payment_logic": "If Location == India, MUST be Contract/Freelance. If Global, any currency except INR."
+# --- YOUR PERSONAL RECRUITMENT PROTOCOL ---
+PROFILE = {
+    "tech_stack": ["AWS Glue", "Step Functions", "Lake Formation", "PySpark", "Redshift"],
+    "domain": "Pharma / Life Sciences",
+    "payment_rule": "If India: Must be Contract/Freelance. If Global: Must NOT be INR."
 }
 
-def llm_judge(job_title, job_desc, location):
+def ai_judge(lead):
     """
-    Simulates the 'LLM as Judge' logic. 
-    In a full LangGraph setup, this would be an API call to Gemini/GPT-4.
+    Simulates a LangGraph Node: Evaluates a lead based on your career constraints.
     """
-    title = job_title.lower()
-    desc = job_desc.lower()
+    title = lead.get('title', '').lower()
+    desc = lead.get('description', '').lower()
+    loc = lead.get('location', '').lower()
     
-    # 1. HARD FILTER: Role Identity
+    # 1. Identity Check
     if not any(x in title for x in ["data engineer", "etl", "analytics engineer"]):
-        return False, 0
+        return None
 
-    # 2. HARD FILTER: Payment/Contract Logic
-    is_india = "india" in location.lower() or "india" in title
-    is_contract = any(x in desc or x in title for x in ["contract", "freelance", "temp", "c2c"])
+    # 2. Financial Constraint Logic
+    is_india = "india" in loc or "india" in title
+    is_contract = any(x in desc or x in title for x in ["contract", "freelance", "day rate", "c2c"])
     
     if is_india and not is_contract:
-        return False, 0
+        return None # Reject India Full-Time roles
 
-    # 3. AI SCORING: Stack Alignment
+    # 3. Stack Alignment (Perfect Match Scoring)
     score = 0
-    weights = {"glue": 25, "step functions": 25, "pyspark": 15, "pharma": 20}
-    for tech, points in weights.items():
-        if tech in desc or tech in title:
-            score += points
+    for tech in PROFILE["tech_stack"]:
+        if tech.lower() in desc or tech.lower() in title:
+            score += 20
             
-    return (score >= 40), score
+    # Pharma Bonus (Your specialized background)
+    if any(p in desc for p in ["pharma", "clinical", "msd", "bms"]):
+        score += 20
 
-def fetch_and_process():
-    # Source: Combined Scraper (Placeholder for Reddit/LinkedIn/Indeed APIs)
-    raw_leads = [
-        {"title": "Data Engineer (Contract)", "desc": "AWS Glue, Step Functions...", "loc": "Bangalore", "url": "..."},
-        {"title": "Senior Data Engineer", "desc": "Global Remote, paid in USD...", "loc": "Remote", "url": "..."}
+    if score >= 40:
+        lead['match_score'] = score
+        lead['currency_type'] = "Global/Non-INR" if not is_india else "INR Contract"
+        return lead
+    return None
+
+def run_pipeline():
+    # Placeholder for multi-source search (Reddit, LinkedIn, Indeed, Naukri)
+    # We use Google Search Dorks to aggregate these into one stream
+    sources = [
+        "https://www.google.com/search?q=site:linkedin.com/jobs/ \"Data Engineer\" AWS Glue Contract",
+        "https://www.reddit.com/r/dataengineering/search/?q=hiring+remote&sort=new",
+        "https://www.google.com/search?q=site:naukri.com \"Data Engineer\" \"Contract\""
     ]
     
+    print("Agent: Commencing Multi-Source Sourcing...")
+    # Sourcing logic would go here...
+    
+    leads = [
+        # Example of a 'Perfect' result found by the agent
+        {
+            "title": "AWS Data Engineer (Pharma Project)",
+            "company": "Global Health Tech",
+            "url": "https://example.com/apply",
+            "location": "Remote (Global)",
+            "description": "Building ETL pipelines with AWS Glue and Step Functions. Paying in USD."
+        }
+    ]
+
     perfect_matches = []
-    for lead in raw_leads:
-        is_match, final_score = llm_judge(lead['title'], lead['desc'], lead['loc'])
-        if is_match:
-            lead['match'] = final_score
-            lead['timestamp'] = datetime.now().strftime("%Y-%m-%d %H:%M")
-            perfect_matches.append(lead)
+    for l in leads:
+        judged_lead = ai_judge(l)
+        if judged_lead:
+            judged_lead['timestamp'] = datetime.now().strftime("%Y-%m-%d %H:%M")
+            perfect_matches.append(judged_lead)
 
     with open('jobs.json', 'w') as f:
         json.dump(perfect_matches, f, indent=4)
+    print(f"Agent: Successfully validated {len(perfect_matches)} perfect matches.")
 
 if __name__ == "__main__":
-    fetch_and_process()
+    run_pipeline()
