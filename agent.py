@@ -1,59 +1,61 @@
 import json
+import os
 import requests
 from datetime import datetime
 
-# --- CONFIGURATION ---
-# Titles must contain one of these
-REQUIRED_TITLES = ["Data Engineer", "Data Engineering", "ETL", "PySpark", "Glue", "Big Data"]
+# --- YOUR VIRTUAL RECRUITER PROFILE ---
+USER_PROFILE = {
+    "role": "Data Engineer / Manager",
+    "must_have": ["AWS Glue", "Step Functions", "PySpark", "Lake Formation"],
+    "domain_bonus": ["Pharma", "Life Sciences", "Clinical"],
+    "payment_logic": "If Location == India, MUST be Contract/Freelance. If Global, any currency except INR."
+}
 
-# Titles containing these are deleted immediately
-FORBIDDEN_TITLES = ["Nurse", "Neurologist", "Counselor", "Physician", "Marketing", "Sales", "HR", "Recruiter"]
-
-def calculate_refined_score(job_data):
-    title = job_data.get('title', '').lower()
-    desc = job_data.get('desc', '').lower()
-    text = title + " " + desc
+def llm_judge(job_title, job_desc, location):
+    """
+    Simulates the 'LLM as Judge' logic. 
+    In a full LangGraph setup, this would be an API call to Gemini/GPT-4.
+    """
+    title = job_title.lower()
+    desc = job_desc.lower()
     
-    # STAGE 1: FORBIDDEN GATE (Prevents irrelevant roles from screenshots)
-    if any(word.lower() in title for word in FORBIDDEN_TITLES):
-        return 0
+    # 1. HARD FILTER: Role Identity
+    if not any(x in title for x in ["data engineer", "etl", "analytics engineer"]):
+        return False, 0
 
-    # STAGE 2: IDENTITY GATE (Ensures it's an engineering role)
-    if not any(word.lower() in title for word in REQUIRED_TITLES):
-        return 0
-
-    # STAGE 3: TECH VALIDATION (Must have at least one core tool)
-    CORE_TECH = ["Glue", "Step Functions", "Lake Formation", "Redshift", "PySpark", "S3", "Athena"]
-    found_tech = [t for t in CORE_TECH if t.lower() in text]
-    if not found_tech:
-        return 0
-
-    # STAGE 4: SCORING
-    score = 50
-    score += (len(found_tech) * 10)
-    if any(d in text for d in ["pharma", "life sciences", "clinical"]):
-        score += 20
-        
-    return min(score, 100), found_tech
-
-def fetch_jobs():
-    # Example using Adzuna (You will need to use your actual sourcing logic here)
-    # This is a placeholder for the logic that populates 'all_leads'
-    all_leads = [] 
-    processed = []
+    # 2. HARD FILTER: Payment/Contract Logic
+    is_india = "india" in location.lower() or "india" in title
+    is_contract = any(x in desc or x in title for x in ["contract", "freelance", "temp", "c2c"])
     
-    for lead in all_leads:
-        score, tags = calculate_refined_score(lead)
-        if score >= 40:
-            lead['match'] = score
-            lead['tags'] = tags
-            lead['timestamp'] = datetime.now().strftime("%Y-%m-%d %H:%M")
-            processed.append(lead)
+    if is_india and not is_contract:
+        return False, 0
+
+    # 3. AI SCORING: Stack Alignment
+    score = 0
+    weights = {"glue": 25, "step functions": 25, "pyspark": 15, "pharma": 20}
+    for tech, points in weights.items():
+        if tech in desc or tech in title:
+            score += points
             
-    processed.sort(key=lambda x: x['match'], reverse=True)
+    return (score >= 40), score
+
+def fetch_and_process():
+    # Source: Combined Scraper (Placeholder for Reddit/LinkedIn/Indeed APIs)
+    raw_leads = [
+        {"title": "Data Engineer (Contract)", "desc": "AWS Glue, Step Functions...", "loc": "Bangalore", "url": "..."},
+        {"title": "Senior Data Engineer", "desc": "Global Remote, paid in USD...", "loc": "Remote", "url": "..."}
+    ]
     
+    perfect_matches = []
+    for lead in raw_leads:
+        is_match, final_score = llm_judge(lead['title'], lead['desc'], lead['loc'])
+        if is_match:
+            lead['match'] = final_score
+            lead['timestamp'] = datetime.now().strftime("%Y-%m-%d %H:%M")
+            perfect_matches.append(lead)
+
     with open('jobs.json', 'w') as f:
-        json.dump(processed[:30], f, indent=4)
+        json.dump(perfect_matches, f, indent=4)
 
 if __name__ == "__main__":
-    fetch_jobs()
+    fetch_and_process()
