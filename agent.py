@@ -1,52 +1,81 @@
 import json
-import re
 import requests
 from datetime import datetime
 
-TARGET_SKILLS = ["AWS", "Glue", "PySpark", "LangGraph", "LangChain", "Airflow", 
-                 "Redshift", "Python", "SQL", "Data", "ETL", "Cloud", "Step Functions"]
-CURRENCY_SYMBOLS = [r'\$', r'€', r'£', r'AED', r'₹', r'USD', r'EUR', r'GBP']
+# --- HIGH-PRECISION CONFIGURATION ---
+# Core skills from your MSD/BMS experience
+CORE_TECH = ["AWS", "Glue", "PySpark", "Step Functions", "Lake Formation", "Redshift"]
+AI_TECH = ["LangGraph", "LangChain", "LLM", "Prompt Engineering"]
+GENERAL_TECH = ["Python", "SQL", "Airflow", "ETL", "Databricks"]
 
-def fetch_and_filter_jobs():
-    url = "https://www.arbeitnow.com/api/job-board-api"
-    try:
-        response = requests.get(url)
-        response.raise_for_status()
-    except Exception as e:
-        print(f"Connection Error: {e}")
-        return
+def get_match_score(text):
+    text = text.lower()
+    score = 0
+    # Core AWS/Data skills are worth 15 points each
+    for tech in CORE_TECH:
+        if tech.lower() in text: score += 15
+    # AI skills are worth 20 points (high priority for you)
+    for tech in AI_TECH:
+        if tech.lower() in text: score += 20
+    # General skills worth 5 points
+    for tech in GENERAL_TECH:
+        if tech.lower() in text: score += 5
+    return score
 
-    jobs_data = response.json().get('data', [])
+def fetch_jobs():
     processed_jobs = []
+    
+    # Source A: Remote OK (High-end tech roles)
+    try:
+        rok_url = "https://remoteok.com/api"
+        # RemoteOK requires a User-Agent header
+        rok_res = requests.get(rok_url, headers={'User-Agent': 'Mozilla/5.0'})
+        rok_data = rok_res.json()
+        for job in rok_data[1:]: # Skip the first legal item
+            desc = job.get('description', '') + job.get('position', '')
+            score = get_match_score(desc)
+            if score >= 30: # Only keep high-match engineering roles
+                processed_jobs.append({
+                    "title": job.get('position'),
+                    "company": job.get('company'),
+                    "url": job.get('url'),
+                    "match": min(score, 100),
+                    "tags": [t for t in (CORE_TECH + AI_TECH) if t.lower() in desc.lower()][:4],
+                    "location": "Remote (RemoteOK)",
+                    "salary": f"${job.get('salary_min', 'Check listing')}",
+                    "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M")
+                })
+    except: print("RemoteOK Sync Failed")
 
-    for job in jobs_data:
-        description = job.get('description', '').lower()
-        title = job.get('title', '')
-        location = job.get('location', '')
-        is_remote = job.get('remote', True) or "remote" in location.lower()
+    # Source B: Adzuna (Broad market aggregator)
+    # Note: Using Adzuna requires a free API key from developer.adzuna.com
+    # Replace YOUR_ID and YOUR_KEY if you get them, otherwise this block skips
+    ADZUNA_ID = "OPTIONAL_ID"
+    ADZUNA_KEY = "OPTIONAL_KEY"
+    if ADZUNA_ID != "OPTIONAL_ID":
+        try:
+            adz_url = f"https://api.adzuna.com/v1/api/jobs/us/search/1?app_id={ADZUNA_ID}&app_key={ADZUNA_KEY}&what=Data%20Engineer%20AWS&content-type=application/json"
+            adz_res = requests.get(adz_url).json()
+            for job in adz_res.get('results', []):
+                score = get_match_score(job.get('description'))
+                if score >= 25:
+                    processed_jobs.append({
+                        "title": job.get('title'),
+                        "company": job.get('company', {}).get('display_name'),
+                        "url": job.get('redirect_url'),
+                        "match": min(score, 100),
+                        "tags": ["AWS", "Remote"],
+                        "location": "Global / US",
+                        "salary": "Market Rate",
+                        "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M")
+                    })
+        except: print("Adzuna Sync Failed")
 
-        if not is_remote:
-            continue
-
-        found_tags = [skill for skill in TARGET_SKILLS if skill.lower() in description or skill.lower() in title.lower()]
-        if len(found_tags) >= 1:
-            match_score = int((len(found_tags) / len(TARGET_SKILLS)) * 100)
-            has_currency = any(re.search(curr, description, re.IGNORECASE) for curr in CURRENCY_SYMBOLS)
-
-            processed_jobs.append({
-                "title": title,
-                "company": job.get('company_name', 'Unknown'),
-                "url": job.get('url', '#'),
-                "match": min(match_score + 20, 100),
-                "tags": found_tags[:5],
-                "location": "Remote",
-                "salary": "Multi-currency listing" if has_currency else "Competitive",
-                "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M")
-            })
-
+    # Final Filter: Deduplicate and Sort
     processed_jobs.sort(key=lambda x: x['match'], reverse=True)
+    
     with open('jobs.json', 'w') as f:
-        json.dump(processed_jobs[:40], f, indent=4) 
+        json.dump(processed_jobs[:30], f, indent=4)
 
 if __name__ == "__main__":
-    fetch_and_filter_jobs()
+    fetch_jobs()
