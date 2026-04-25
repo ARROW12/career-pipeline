@@ -1,0 +1,36 @@
+name: Career Pipeline Agent
+
+on:
+  repository_dispatch:
+    types: [run_agent]
+  workflow_dispatch: # Allows manual run
+
+permissions:
+  contents: write # Crucial: Allows the bot to save jobs.json
+
+jobs:
+  run-agent:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Execute Agent Script
+        run: python agent.py
+
+      - name: Commit and Push Pipeline Data
+        run: |
+          git config --global user.name "Pipeline-Agent"
+          git config --global user.email "action@github.com"
+          git add jobs.json
+          # Only commit if there are changes
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: Agent updated job pipeline"
+          git push
