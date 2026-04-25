@@ -1,51 +1,38 @@
 import json
 import requests
 
-# --- HARD CONSTRAINTS ---
-# If a job doesn't have at least ONE of these, it is discarded immediately
-CORE_TECH_MUST_HAVE = ["Glue", "Step Functions", "Lake Formation", "PySpark", "Redshift"]
+# --- UPDATED LOGIC NODES ---
+CORE_TECH = ["Glue", "Step Functions", "Lake Formation", "Redshift", "PySpark", "EMR", "Athena"]
+DOMAIN = ["Pharma", "Clinical", "Life Sciences", "Healthcare"]
 
-# Senior-level keywords to ensure you aren't seeing entry-level roles
-SENIORITY_FILTER = ["Manager", "Senior", "Lead", "Architect", "Principal"]
-
-# Negative filters to prune irrelevant healthcare/non-tech roles
-EXCLUDE_KEYWORDS = [
-    "Nurse", "Doctor", "Neurologist", "Patient", "Customer Success", 
-    "Marketing", "SEO", "Sales", "Intern", "Junior", "Entry Level"
-]
-
-def refined_graph_score(job_data):
+def calculate_refined_score(job_data):
     title = job_data['title'].lower()
     desc = job_data.get('desc', '').lower()
     text = title + " " + desc
     
-    # STAGE 1: The "Kill" Filters
-    # 1.1 Remove Blacklisted Industries/Roles
-    if any(word.lower() in title for word in EXCLUDE_KEYWORDS):
-        return 0
-    
-    # 1.2 Remove non-Senior/Manager roles (Matches your current title)
-    if not any(word.lower() in title for word in SENIORITY_FILTER):
+    # 1. Broaden Role Check: Accept any DE role, but exclude non-tech noise
+    TECH_ROLES = ["data engineer", "data engineering", "analytics engineer", "cloud data engineer"]
+    if not any(role in title for role in TECH_ROLES):
         return 0
 
-    # STAGE 2: The Tech Validation
-    # Ensure it's actually an AWS Data Engineering role
-    if not any(tech.lower() in text for tech in CORE_TECH_MUST_HAVE):
-        return 0
+    # 2. Tech Affinity: This is now the primary weight
+    score = 30 # Base score for being a DE role
+    tech_matches = [tech for tech in CORE_TECH if tech.lower() in text]
+    score += (len(tech_matches) * 15) # +15 for every core tool found
 
-    # STAGE 3: Location/Contract Logic
+    # 3. Industry Weighting (Pharma/Clinical expertise)
+    if any(d.lower() in text for d in DOMAIN):
+        score += 25
+
+    # 4. Location/Contract Rule: Still mandatory for India
     is_india = "india" in job_data.get('loc', '').lower() or "inr" in text
-    is_contract = any(x in text for x in ["contract", "freelance", "temp", "consultant"])
+    is_contract = any(x in text for x in ["contract", "freelance", "temp", "consultant", "inside ir35"])
     
-    # Per your instruction: India roles MUST be contract
     if is_india and not is_contract:
         return 0
     
-    # STAGE 4: Final Scoring
-    score = 50 # Base score for passing all filters
-    if "pharma" in text or "clinical" in text or "life sciences" in text:
-        score += 30 # Heavy boost for your industry niche (MSD/BMS)
-    if "glue" in text and "step functions" in text:
-        score += 20 # Bonus for your primary stack
+    # 5. Seniority Bonus: (Optional points, but doesn't block "normal" roles)
+    if any(word in title for word in ["senior", "lead", "manager", "principal"]):
+        score += 10
         
     return min(score, 100)
