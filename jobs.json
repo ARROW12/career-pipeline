@@ -8,7 +8,7 @@
         "source": "Arbeitnow Index",
         "employment_type": "Freelance/Contract",
         "workplace_type": "Hybrid",
-        "timestamp": "2026-06-07 15:28"
+        "timestamp": "2026-06-07 15:39"
     },
     {
         "title": "Online Data Analyst Canada (French Language)",
@@ -19,7 +19,7 @@
         "source": "Remotive API Feed",
         "employment_type": "Freelance/Contract",
         "workplace_type": "On-site",
-        "timestamp": "2026-06-07 15:28"
+        "timestamp": "2026-06-07 15:39"
     },
     {
         "title": "Online Data Analyst United States Spanish speakers",
@@ -30,7 +30,7 @@
         "source": "Remotive API Feed",
         "employment_type": "Freelance/Contract",
         "workplace_type": "On-site",
-        "timestamp": "2026-06-07 15:28"
+        "timestamp": "2026-06-07 15:39"
     },
     {
         "title": "Online Data Analyst Canada",
@@ -41,7 +41,7 @@
         "source": "Remotive API Feed",
         "employment_type": "Freelance/Contract",
         "workplace_type": "On-site",
-        "timestamp": "2026-06-07 15:28"
+        "timestamp": "2026-06-07 15:39"
     },
     {
         "title": "Data Labeling Specialists",
@@ -52,7 +52,7 @@
         "source": "Remotive API Feed",
         "employment_type": "Full-Time",
         "workplace_type": "On-site",
-        "timestamp": "2026-06-07 15:28"
+        "timestamp": "2026-06-07 15:39"
     },
     {
         "title": "Tech Lead Full-Stack Rails Engineer",
@@ -63,6 +63,6 @@
         "source": "Remotive API Feed",
         "employment_type": "Full-Time",
         "workplace_type": "Hybrid",
-        "timestamp": "2026-06-07 15:28"
+        "timestamp": "2026-06-07 15:39"
     }
 ]
