@@ -6,6 +6,12 @@
     <title>Global Intelligent Pipeline | Portal Matrix</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+    <script>
+        pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+    </script>
+
     <style>
         body { font-family: 'Plus Jakarta Sans', sans-serif; background: #030712; color: #f3f4f6; }
         .mono { font-family: 'JetBrains Mono', sans-serif; }
@@ -19,7 +25,7 @@
         <div class="max-w-7xl mx-auto flex flex-col sm:flex-row justify-between items-center gap-4">
             <div class="flex items-center gap-3">
                 <div class="h-9 w-9 bg-gradient-to-tr from-indigo-600 to-violet-500 rounded-xl flex items-center justify-center font-bold text-white shadow-lg shadow-indigo-500/20">Ω</div>
-                <span class="text-xl font-bold tracking-tight">GLOBAL CAREER AGENT <span class="text-indigo-400 text-xs tracking-widest font-mono ml-2">v6.2</span></span>
+                <span class="text-xl font-bold tracking-tight">GLOBAL CAREER AGENT <span class="text-indigo-400 text-xs tracking-widest font-mono ml-2">v6.3</span></span>
             </div>
             <div class="flex items-center gap-4">
                 <input type="text" id="locationFilter" placeholder="Search by Location (e.g. Remote, Bangalore)..." 
@@ -34,11 +40,17 @@
             <div class="grid grid-cols-1 lg:grid-cols-3 gap-8 items-center">
                 <div class="lg:col-span-1">
                     <h2 class="text-xl font-bold tracking-tight mb-2">Resume-Driven Alignment</h2>
-                    <p class="text-sm text-slate-400 leading-relaxed">Paste or enter a raw profile snapshot. The engine runs semantic keyword indexing inside your browser to re-rank job arrays instantly.</p>
+                    <p class="text-sm text-slate-400 leading-relaxed mb-4">Upload your PDF or paste a raw profile. The engine runs semantic keyword indexing inside your browser to re-rank job arrays instantly.</p>
+                    
+                    <label for="pdfUpload" class="cursor-pointer inline-flex items-center justify-center w-full sm:w-auto px-5 py-2.5 bg-indigo-600/20 text-indigo-400 hover:bg-indigo-600/40 hover:text-white border border-indigo-500/30 rounded-xl text-xs font-bold uppercase tracking-widest transition-all shadow-lg shadow-indigo-900/20">
+                        <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-8l-4-4m0 0L8 8m4-4v12"></path></svg>
+                        Upload PDF Resume
+                    </label>
+                    <input type="file" id="pdfUpload" accept=".pdf" class="hidden" onchange="extractTextFromPDF(event)">
                 </div>
                 <div class="lg:col-span-2">
-                    <textarea id="resumeInput" placeholder="Paste resume plain text profile here (Skills, Experience blocks, Frameworks)..." 
-                              class="w-full h-24 p-4 glass rounded-xl text-xs font-mono focus:outline-none focus:ring-1 focus:ring-indigo-500 text-slate-300 placeholder-slate-600" oninput="processResume()"></textarea>
+                    <textarea id="resumeInput" placeholder="Extracted PDF text will appear here, or you can paste your profile directly..." 
+                              class="w-full h-32 p-4 glass rounded-xl text-xs font-mono focus:outline-none focus:ring-1 focus:ring-indigo-500 text-slate-300 placeholder-slate-600" oninput="processResume()"></textarea>
                     <div id="resumeStatus" class="text-[11px] mono text-slate-500 mt-2 flex justify-between px-1">
                         <span>Parser Status: Standing By...</span>
                         <span id="matchCounter" class="text-indigo-400"></span>
@@ -75,13 +87,12 @@
 
     <script>
         let rawMasterJobs = [];
-        let currentSection = 'fulltime'; // 'fulltime' or 'freelance'
-        let currentWorkplaceFilter = 'All'; // 'All', 'Remote', 'Hybrid', 'On-site'
+        let currentSection = 'fulltime';
+        let currentWorkplaceFilter = 'All';
         let extractedResumeSkills = [];
 
         async function initPipeline() {
             try {
-                // Fetches dynamic outputs built by the agent step pipeline
                 const targetUrl = `./jobs.json?t=${new Date().getTime()}`;
                 const response = await fetch(targetUrl);
                 rawMasterJobs = await response.json();
@@ -96,12 +107,46 @@
             }
         }
 
+        // --- NEW: PDF Extraction Logic ---
+        async function extractTextFromPDF(event) {
+            const file = event.target.files[0];
+            if (!file) return;
+            
+            const statusText = document.getElementById('resumeStatus');
+            statusText.innerText = "Parser Status: Reading PDF locally...";
+            
+            try {
+                const fileReader = new FileReader();
+                fileReader.onload = async function() {
+                    const typedarray = new Uint8Array(this.result);
+                    const pdf = await pdfjsLib.getDocument(typedarray).promise;
+                    let fullText = '';
+                    
+                    // Iterate through each page to extract text
+                    for (let i = 1; i <= pdf.numPages; i++) {
+                        const page = await pdf.getPage(i);
+                        const textContent = await page.getTextContent();
+                        const pageText = textContent.items.map(item => item.str).join(' ');
+                        fullText += pageText + ' ';
+                    }
+                    
+                    // Populate the text area and trigger the processor
+                    const textInput = document.getElementById('resumeInput');
+                    textInput.value = fullText;
+                    processResume();
+                };
+                fileReader.readAsArrayBuffer(file);
+            } catch (error) {
+                console.error("PDF Parsing Error: ", error);
+                statusText.innerText = "Parser Status: Error reading PDF. Please paste text manually.";
+            }
+        }
+
         function switchSection(section) {
             currentSection = section;
             document.getElementById('btn-fulltime').classList.toggle('tab-active', section === 'fulltime');
             document.getElementById('btn-freelance').classList.toggle('tab-active', section === 'freelance');
             
-            // Toggle visibility for sub-filters safely based on active category
             const subFilterContainer = document.getElementById('subFilters');
             if (section === 'fulltime') {
                 subFilterContainer.style.opacity = '1';
@@ -136,13 +181,15 @@
                 return;
             }
             
-            // Expanded lexicon targeting modern data workflows
+            // Core lexicon targeting data & cloud engineering workflows
             const coreLexicon = [
                 'python', 'sql', 'aws', 'glue', 'pyspark', 'redshift', 'athena', 
                 'dbt', 'databricks', 'spark', 'etl', 'snowflake', 'airflow', 
                 'graphrag', 'lambda', 'step functions', 'lake formation'
             ];
-            extractedResumeSkills = coreLexicon.filter(skill => text.includes(skill));
+            
+            // Extract unique matches
+            extractedResumeSkills = [...new Set(coreLexicon.filter(skill => text.includes(skill)))];
             
             document.getElementById('resumeStatus').innerText = `Parser Status: Extracted [${extractedResumeSkills.join(', ')}] tokens.`;
             renderDashboard();
@@ -164,27 +211,24 @@
             const container = document.getElementById('feed');
             const searchLocation = document.getElementById('locationFilter').value.toLowerCase().trim();
             
-            // Map and calculate matching vectors dynamically
+            if (rawMasterJobs.length === 0) return;
+
             let computedDataset = rawMasterJobs.map(job => {
                 const score = calculateResumeMatchScore(job);
                 return { ...job, resumeMatchScore: score };
             });
 
-            // Float optimal profile matches straight to the top if resume parser contains data
             if(extractedResumeSkills.length > 0) {
                 computedDataset.sort((a, b) => b.resumeMatchScore - a.resumeMatchScore);
             }
 
-            // Enforce primary structural segment division tag filter
             let targetType = currentSection === 'fulltime' ? 'Full-Time' : 'Freelance/Contract';
             let filtered = computedDataset.filter(job => job.employment_type === targetType);
 
-            // Filter on secondary workplace tags (Remote/Hybrid/Onsite)
             if(currentSection === 'fulltime' && currentWorkplaceFilter !== 'All') {
                 filtered = filtered.filter(job => job.workplace_type === currentWorkplaceFilter);
             }
 
-            // Location text query filter execution block
             if(searchLocation !== "") {
                 filtered = filtered.filter(job => 
                     job.loc.toLowerCase().includes(searchLocation) || 
@@ -217,7 +261,7 @@
                             </div>
                             <h3 class="text-xl font-bold tracking-tight mb-1 text-white">${job.title}</h3>
                             <p class="text-sm font-medium text-indigo-400/90 mb-3">${job.company} — <span class="text-slate-400 font-normal text-xs">${job.loc}</span></p>
-                            <p class="text-xs text-slate-400 leading-relaxed max-w-4xl">${job.desc}</p>
+                            <p class="text-xs text-slate-400 leading-relaxed max-w-4xl line-clamp-2">${job.desc}</p>
                         </div>
                         <div class="flex flex-col sm:flex-row md:flex-col justify-between items-end gap-4 w-full md:w-auto min-w-[180px] self-stretch border-t md:border-t-0 border-white/5 pt-4 md:pt-0">
                             <div class="text-left md:text-right hidden sm:block">
@@ -231,7 +275,6 @@
             }).join('');
         }
 
-        // Run pipeline on boot
         initPipeline();
     </script>
 </body>
