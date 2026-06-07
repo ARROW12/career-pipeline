@@ -1,0 +1,37 @@
+name: Global Career Agent
+
+on:
+  schedule:
+    - cron: '0 */4 * * *' # Executes every 4 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  agent-sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Environment
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Execute Agent Sourcing Logic
+        run: python agent.py
+
+      - name: Sync Pipeline Results
+        run: |
+          git config --global user.name "career-agent-bot"
+          git config --global user.email "agent@github.com"
+          git add jobs.json
+          git commit -m "update: automatic pipeline sync [skip ci]" || echo "No changes to sync"
+          git push
