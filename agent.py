@@ -5,14 +5,10 @@ from datetime import datetime
 import re
 
 # ==========================================
-# TEJAS ANAND - CORE PROFESSIONAL TARGET MATRIX
+# TEJAS ANAND - SPECIFIC CORE STACK MATRIX
 # ==========================================
-TEJAS_LEXICON = [
-    "aws", "glue", "lake formation", "athena", "step functions", "cloudformation",
-    "databricks", "unity catalog", "dbt", "medallion", "delta lake", "pyspark",
-    "python", "sql", "mcp", "model context protocol", "langchain", "langgraph",
-    "airflow", "redshift", "terraform", "llm", "etl", "analytics engineer", "data engineer"
-]
+CORE_STACK = ['databricks', 'dbt', 'aws', 'glue', 'unity catalog', 'python', 'sql', 'mcp', 'model context protocol']
+SUPPORTING_STACK = ['airflow', 'redshift', 'athena', 'lake formation', 'spark', 'pyspark', 'medallion', 'delta lake', 'terraform', 'cloudformation', 'langchain', 'langgraph', 'llm']
 
 def clean_text(text):
     if not text:
@@ -36,23 +32,32 @@ def classify_job_attributes(title, desc, loc):
     return employment_type, workplace_type
 
 def calculate_precision_score(title, full_desc):
-    """Evaluates text weights against your stack prior to string trimming."""
-    match_points = 0
-    t_blob = title.lower()
-    d_blob = full_desc.lower()
+    """Strict evaluation matrix checking for alignment with Tejas's specific senior stack."""
+    title_lower = title.lower()
+    desc_lower = full_desc.lower()
     
-    for token in TEJAS_LEXICON:
-        if token in t_blob: 
-            match_points += 5
-        if token in d_blob: 
-            match_points += 1
-            
-    if match_points == 0:
-        return 0
+    # GUARDRAIL 1: Title-Gate Filter. Must be data/analytics architecture focused.
+    data_anchors = ['data', 'analytics', 'etl', 'elt', 'dbt', 'databricks', 'pyspark', 'warehouse', 'pipeline', 'bi ', 'intelligence']
+    if not any(anchor in title_lower for anchor in data_anchors):
+        return 0  # Instantly drops generic software engineering noise
         
-    # Scale scoring curve organically
-    score_percentage = min(round((match_points / 15) * 100), 100)
-    return score_percentage
+    score = 0
+    
+    # Score Primary Tech Stack
+    for tech in CORE_STACK:
+        if tech in title_lower: 
+            score += 30
+        elif tech in desc_lower: 
+            score += 12
+            
+    # Score Secondary/Supporting Tech Stack
+    for tech in SUPPORTING_STACK:
+        if tech in title_lower: 
+            score += 15
+        elif tech in desc_lower: 
+            score += 5
+            
+    return min(score, 100)
 
 def fetch_aggregator_apis():
     leads = []
@@ -80,7 +85,7 @@ def fetch_aggregator_apis():
                         "company": job.get('company_name', 'Tech Enterprise'),
                         "url": job.get('url', ''),
                         "loc": loc if loc else "India / Remote",
-                        "full_raw_description": raw_desc, # Saved for context matching
+                        "full_raw_description": raw_desc,
                         "source": "Global Network Stream",
                         "employment_type": emp_type,
                         "workplace_type": work_type
@@ -90,7 +95,7 @@ def fetch_aggregator_apis():
     return leads
 
 def run_agent():
-    print("Awakening specialized pipeline engine...")
+    print("Awakening specialized high-relevance pipeline engine...")
     raw_jobs = fetch_aggregator_apis()
     
     validated_payloads = []
@@ -102,30 +107,34 @@ def run_agent():
             continue
         unique_signatures.add(signature)
         
-        # 1. Score against full un-truncated text block
+        # Compute exact engineering stack fit
         score = calculate_precision_score(job['title'], job['full_raw_description'])
         
-        # 2. Extract and assign location filters
+        # GUARDRAIL 2: Enforce Strict 70% Relevance Drop-off
+        if score < 70:
+            continue
+            
         loc_lower = job['loc'].lower()
-        is_india = any(city in loc_lower for city in ['india', 'hyderabad', 'bangalore', 'bengaluru', 'pune', 'mumbai', 'noida', 'gurgaon', 'delhi', 'chennai'])
+        desc_lower = job['full_raw_description'].lower()
+        
+        is_india = any(city in loc_lower or city in desc_lower for city in ['india', 'hyderabad', 'bangalore', 'bengaluru', 'pune', 'mumbai', 'noida', 'gurgaon', 'delhi', 'chennai'])
         is_global_wfa = any(term in loc_lower for term in ['global', 'anywhere', 'worldwide', 'wfa'])
         
+        # GUARDRAIL 3: Anti-Leak Geofencing
+        # Drops roles explicitly restricted to foreign territories when looking for full-time matches
+        is_foreign_locked = any(country in loc_lower or f"located in {country}" in desc_lower for country in ['brazil', 'united states', 'usa', 'uk', 'united kingdom', 'canada', 'germany', 'berlin']) and not is_india
+
         keep_job = False
         
-        # Full-Time Rule: Strictly India-located or explicit remote
         if job['employment_type'] == "Full-Time":
-            if is_india or job['workplace_type'] == "Remote":
+            if (is_india or job['workplace_type'] == "Remote") and not is_foreign_locked:
                 keep_job = True
-                
-        # Freelance Rule: Boundaryless remote contracts
         elif job['employment_type'] == "Freelance/Contract":
             if job['workplace_type'] == "Remote" or is_global_wfa:
                 keep_job = True
 
-        if keep_job and score > 0:
-            # Drop structural overhead now that validation is complete
+        if keep_job:
             clean_summary = clean_text(job['full_raw_description'])
-            
             validated_payloads.append({
                 "title": job['title'],
                 "company": job['company'],
@@ -139,13 +148,13 @@ def run_agent():
                 "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M")
             })
             
-    # Re-rank by best architectural fit
+    # Sort with pristine top matches first
     validated_payloads.sort(key=lambda x: x['tejas_score'], reverse=True)
     
     with open('jobs.json', 'w') as f:
         json.dump(validated_payloads, f, indent=4)
         
-    print(f"Data pipeline compilation completely synced. Outfitted {len(validated_payloads)} accurate targets.")
+    print(f"Data pipeline processing complete. Curated {len(validated_payloads)} high-precision opportunities at >= 70% alignment.")
 
 if __name__ == "__main__":
     run_agent()
