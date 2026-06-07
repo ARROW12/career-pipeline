@@ -32,7 +32,7 @@ def classify_job_attributes(title, desc, loc):
     return employment_type, workplace_type
 
 def calculate_precision_score(title, full_desc):
-    """Strict evaluation matrix checking for alignment with Tejas's specific senior stack."""
+    """Realistic evaluation matrix checking for alignment with Tejas's specific senior stack."""
     title_lower = title.lower()
     desc_lower = full_desc.lower()
     
@@ -43,19 +43,19 @@ def calculate_precision_score(title, full_desc):
         
     score = 0
     
-    # Score Primary Tech Stack
+    # Score Primary Tech Stack (Increased weights to reflect real-world JD length)
     for tech in CORE_STACK:
         if tech in title_lower: 
-            score += 30
+            score += 35
         elif tech in desc_lower: 
-            score += 12
+            score += 15
             
     # Score Secondary/Supporting Tech Stack
     for tech in SUPPORTING_STACK:
         if tech in title_lower: 
-            score += 15
+            score += 20
         elif tech in desc_lower: 
-            score += 5
+            score += 8
             
     return min(score, 100)
 
@@ -110,8 +110,9 @@ def run_agent():
         # Compute exact engineering stack fit
         score = calculate_precision_score(job['title'], job['full_raw_description'])
         
-        # GUARDRAIL 2: Enforce Strict 70% Relevance Drop-off
-        if score < 70:
+        # GUARDRAIL 2: Enforce Realistic 45 Point Relevance Drop-off
+        # Example Pass: AWS (15) + Python (15) + SQL (15) = 45 points
+        if score < 45:
             continue
             
         loc_lower = job['loc'].lower()
@@ -121,7 +122,6 @@ def run_agent():
         is_global_wfa = any(term in loc_lower for term in ['global', 'anywhere', 'worldwide', 'wfa'])
         
         # GUARDRAIL 3: Anti-Leak Geofencing
-        # Drops roles explicitly restricted to foreign territories when looking for full-time matches
         is_foreign_locked = any(country in loc_lower or f"located in {country}" in desc_lower for country in ['brazil', 'united states', 'usa', 'uk', 'united kingdom', 'canada', 'germany', 'berlin']) and not is_india
 
         keep_job = False
@@ -154,7 +154,7 @@ def run_agent():
     with open('jobs.json', 'w') as f:
         json.dump(validated_payloads, f, indent=4)
         
-    print(f"Data pipeline processing complete. Curated {len(validated_payloads)} high-precision opportunities at >= 70% alignment.")
+    print(f"Data pipeline processing complete. Curated {len(validated_payloads)} high-precision opportunities at >= 45% alignment.")
 
 if __name__ == "__main__":
     run_agent()
