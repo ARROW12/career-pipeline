@@ -5,7 +5,7 @@ from datetime import datetime
 import re
 
 # ==========================================
-# TEJAS ANAND - PROFESSIONAL DNA MATRIX
+# TEJAS ANAND - CORE PROFESSIONAL TARGET MATRIX
 # ==========================================
 TEJAS_LEXICON = [
     "aws", "glue", "lake formation", "athena", "step functions", "cloudformation",
@@ -35,27 +35,26 @@ def classify_job_attributes(title, desc, loc):
         
     return employment_type, workplace_type
 
-def calculate_tejas_match_score(title, desc):
-    """Scores opportunities strictly against Tejas's resume keywords."""
+def calculate_precision_score(title, full_desc):
+    """Evaluates text weights against your stack prior to string trimming."""
     match_points = 0
-    title_blob = title.lower()
-    desc_blob = desc.lower()
+    t_blob = title.lower()
+    d_blob = full_desc.lower()
     
     for token in TEJAS_LEXICON:
-        if token in title_blob: match_points += 4
-        if token in desc_blob: match_points += 1
-        
+        if token in t_blob: 
+            match_points += 5
+        if token in d_blob: 
+            match_points += 1
+            
     if match_points == 0:
         return 0
-    
-    # Normalize score based on lexicon size
-    score_percent = Math.min(round((match_points / (len(TEJAS_LEXICON) * 1.2)) * 100), 100)
-    return score_percent
-
-# --- SCRAPER MODULES ---
+        
+    # Scale scoring curve organically
+    score_percentage = min(round((match_points / 15) * 100), 100)
+    return score_percentage
 
 def fetch_aggregator_apis():
-    """Pulls from open boards that aggregate Indeed and smaller tech boards."""
     leads = []
     urls = [
         "https://www.arbeitnow.com/api/job-board-api",
@@ -71,62 +70,28 @@ def fetch_aggregator_apis():
                 
                 for job in jobs_array:
                     title = job.get('title', '')
-                    desc = job.get('description', '')
+                    raw_desc = job.get('description', '')
                     loc = job.get('location', '') if 'arbeitnow' in url else job.get('candidate_required_location', '')
                     
-                    emp_type, work_type = classify_job_attributes(title, desc, loc)
+                    emp_type, work_type = classify_job_attributes(title, raw_desc, loc)
                     
                     leads.append({
                         "title": title,
-                        "company": job.get('company_name', 'Tech Co'),
+                        "company": job.get('company_name', 'Tech Enterprise'),
                         "url": job.get('url', ''),
-                        "loc": loc if loc else "Remote",
-                        "desc": clean_text(desc)[:400] + "...",
-                        "source": "Aggregator API",
+                        "loc": loc if loc else "India / Remote",
+                        "full_raw_description": raw_desc, # Saved for context matching
+                        "source": "Global Network Stream",
                         "employment_type": emp_type,
                         "workplace_type": work_type
                     })
         except Exception as e:
-            print(f"API Error ({url}): {e}")
-    return leads
-
-def fetch_rss_streams():
-    """Pulls tech-specific feeds including Reddit and RSS bridges for LinkedIn/Naukri."""
-    leads = []
-    streams = [
-        {"url": "https://www.reddit.com/r/dataengineering/new/.rss", "source": "Reddit Data Eng"}
-    ]
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) TejasPipeline/8.0"}
-    
-    for stream in streams:
-        try:
-            res = requests.get(stream["url"], headers=headers, timeout=12)
-            if res.status_code == 200:
-                soup = BeautifulSoup(res.content, "xml")
-                for entry in soup.find_all("entry"):
-                    title = entry.find("title").text if entry.find("title") else ""
-                    content = entry.find("content").text if entry.find("content") else ""
-                    link = entry.find("link")["href"] if entry.find("link") else ""
-                    
-                    if "hiring" in title.lower() or "job" in title.lower():
-                        emp_type, work_type = classify_job_attributes(title, content, "Global")
-                        leads.append({
-                            "title": clean_text(title),
-                            "company": "Network Direct",
-                            "url": link,
-                            "loc": "Global / Remote",
-                            "desc": clean_text(content)[:400] + "...",
-                            "source": stream["source"],
-                            "employment_type": emp_type,
-                            "workplace_type": work_type
-                        })
-        except Exception as e:
-            print(f"RSS Error: {e}")
+            print(f"Network reading skip on endpoint ({url}): {e}")
     return leads
 
 def run_agent():
-    print("Initiating pipeline for Tejas Anand...")
-    raw_jobs = fetch_aggregator_apis() + fetch_rss_streams()
+    print("Awakening specialized pipeline engine...")
+    raw_jobs = fetch_aggregator_apis()
     
     validated_payloads = []
     unique_signatures = set()
@@ -137,45 +102,50 @@ def run_agent():
             continue
         unique_signatures.add(signature)
         
-        # 1. Calculate Tejas Match Score
-        # Native Python implementation of the scoring logic
-        match_points = 0
-        title_blob = job['title'].lower()
-        desc_blob = job['desc'].lower()
+        # 1. Score against full un-truncated text block
+        score = calculate_precision_score(job['title'], job['full_raw_description'])
         
-        for token in TEJAS_LEXICON:
-            if token in title_blob: match_points += 4
-            if token in desc_blob: match_points += 1
-            
-        score = min(round((match_points / (len(TEJAS_LEXICON) * 1.5)) * 100), 100) if match_points > 0 else 0
-        job['tejas_score'] = score
-        
-        # 2. Enforce Tejas Strict Location & Contract Rules
-        is_india = any(loc in job['loc'].lower() for loc in ['india', 'hyderabad', 'bangalore', 'pune', 'mumbai', 'ncr', 'gurgaon'])
-        is_wfa = any(term in job['loc'].lower() for term in ['global', 'anywhere', 'worldwide', 'wfa', 'remote'])
+        # 2. Extract and assign location filters
+        loc_lower = job['loc'].lower()
+        is_india = any(city in loc_lower for city in ['india', 'hyderabad', 'bangalore', 'bengaluru', 'pune', 'mumbai', 'noida', 'gurgaon', 'delhi', 'chennai'])
+        is_global_wfa = any(term in loc_lower for term in ['global', 'anywhere', 'worldwide', 'wfa'])
         
         keep_job = False
         
-        # Full-Time Rule: Must be in India OR fully Remote
-        if job['employment_type'] == "Full-Time" and (is_india or job['workplace_type'] == "Remote"):
-            keep_job = True
-            
-        # Freelance Rule: Must be explicitly Global/Remote
-        if job['employment_type'] == "Freelance/Contract" and job['workplace_type'] == "Remote" and is_wfa:
-            keep_job = True
+        # Full-Time Rule: Strictly India-located or explicit remote
+        if job['employment_type'] == "Full-Time":
+            if is_india or job['workplace_type'] == "Remote":
+                keep_job = True
+                
+        # Freelance Rule: Boundaryless remote contracts
+        elif job['employment_type'] == "Freelance/Contract":
+            if job['workplace_type'] == "Remote" or is_global_wfa:
+                keep_job = True
 
-        # Must have at least some relevance to your resume
         if keep_job and score > 0:
-            job['timestamp'] = datetime.now().strftime("%Y-%m-%d %H:%M")
-            validated_payloads.append(job)
+            # Drop structural overhead now that validation is complete
+            clean_summary = clean_text(job['full_raw_description'])
             
-    # Sort by highest relevance to your specific resume
+            validated_payloads.append({
+                "title": job['title'],
+                "company": job['company'],
+                "url": job['url'],
+                "loc": job['loc'],
+                "desc": clean_summary[:350] + "..." if len(clean_summary) > 350 else clean_summary,
+                "source": job['source'],
+                "employment_type": job['employment_type'],
+                "workplace_type": job['workplace_type'],
+                "tejas_score": score,
+                "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M")
+            })
+            
+    # Re-rank by best architectural fit
     validated_payloads.sort(key=lambda x: x['tejas_score'], reverse=True)
     
     with open('jobs.json', 'w') as f:
         json.dump(validated_payloads, f, indent=4)
         
-    print(f"Sync complete. Curated {len(validated_payloads)} high-precision opportunities.")
+    print(f"Data pipeline compilation completely synced. Outfitted {len(validated_payloads)} accurate targets.")
 
 if __name__ == "__main__":
     run_agent()
