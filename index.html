@@ -3,67 +3,43 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Global Intelligent Pipeline | Portal Matrix</title>
+    <title>Tejas Anand | Career Pipeline</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
-    
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
-    <script>
-        pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
-    </script>
-
     <style>
-        body { font-family: 'Plus Jakarta Sans', sans-serif; background: #030712; color: #f3f4f6; }
+        body { font-family: 'Plus Jakarta Sans', sans-serif; background: #020617; color: #f8fafc; }
         .mono { font-family: 'JetBrains Mono', sans-serif; }
-        .glass { background: rgba(17, 24, 39, 0.7); backdrop-filter: blur(24px); border: 1px solid rgba(255,255,255,0.04); }
-        .tab-active { background: #4f46e5; color: #ffffff; box-shadow: 0 10px 25px -5px rgba(79, 70, 229, 0.4); }
+        .glass { background: rgba(15, 23, 42, 0.8); backdrop-filter: blur(16px); border: 1px solid rgba(255,255,255,0.05); }
+        .tab-active { background: #4f46e5; color: #ffffff; box-shadow: 0 0 20px rgba(79, 70, 229, 0.3); }
     </style>
 </head>
 <body class="min-h-screen pb-32">
 
     <nav class="p-6 border-b border-white/5 mb-12 glass sticky top-0 z-50">
-        <div class="max-w-7xl mx-auto flex flex-col sm:flex-row justify-between items-center gap-4">
-            <div class="flex items-center gap-3">
-                <div class="h-9 w-9 bg-gradient-to-tr from-indigo-600 to-violet-500 rounded-xl flex items-center justify-center font-bold text-white shadow-lg shadow-indigo-500/20">Ω</div>
-                <span class="text-xl font-bold tracking-tight">GLOBAL CAREER AGENT <span class="text-indigo-400 text-xs tracking-widest font-mono ml-2">v7.0</span></span>
+        <div class="max-w-6xl mx-auto flex flex-col sm:flex-row justify-between items-center gap-4">
+            <div class="flex items-center gap-4">
+                <div class="h-10 w-10 bg-gradient-to-br from-indigo-500 to-blue-600 rounded-xl flex items-center justify-center font-bold text-white shadow-lg">TA</div>
+                <div>
+                    <h1 class="text-xl font-bold tracking-tight">TEJAS ANAND <span class="text-indigo-400 text-xs font-mono ml-2">AUTO-PIPELINE v8.0</span></h1>
+                    <p class="text-[10px] text-slate-400 font-mono tracking-widest uppercase mt-1">AI Data Engineer • Analytics Architect</p>
+                </div>
             </div>
             <div class="flex items-center gap-4">
-                <input type="text" id="locationFilter" placeholder="Context search (Company, Title, City)..." 
+                <input type="text" id="locationFilter" placeholder="Filter roles (e.g., Databricks, Pune)..." 
                        class="glass px-4 py-2 rounded-xl text-sm focus:outline-none focus:border-indigo-500 transition-all w-64 text-slate-200" oninput="renderDashboard()">
             </div>
         </div>
     </nav>
 
-    <main class="max-w-7xl mx-auto px-6">
+    <main class="max-w-6xl mx-auto px-6">
         
-        <div class="glass p-8 rounded-[2rem] border border-white/5 mb-12 bg-gradient-to-b from-slate-900/40 to-slate-950/40">
-            <div class="flex flex-col md:flex-row items-center justify-between gap-8">
-                <div class="max-w-xl">
-                    <h2 class="text-xl font-bold tracking-tight mb-2">Automated Profile Alignment</h2>
-                    <p class="text-sm text-slate-400 leading-relaxed">Drop your PDF resume here. The engine parses content safely directly within browser sandboxing to score match alignment across global job distributions.</p>
-                </div>
-                
-                <div class="w-full md:w-auto flex flex-col items-center gap-3">
-                    <label for="pdfUpload" class="cursor-pointer inline-flex items-center justify-center px-8 py-4 bg-indigo-600 hover:bg-indigo-500 text-white rounded-2xl text-xs font-bold uppercase tracking-widest transition-all shadow-xl shadow-indigo-600/20 w-full sm:w-64 text-center">
-                        <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
-                        Upload PDF Resume
-                    </label>
-                    <input type="file" id="pdfUpload" accept=".pdf" class="hidden" onchange="extractTextFromPDF(event)">
-                    
-                    <div id="resumeStatus" class="text-[11px] mono text-slate-500 bg-slate-950/60 px-4 py-1.5 rounded-lg border border-white/5 text-center w-full sm:w-64 truncate">
-                        Status: Idle / Standing By
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-6 mb-8 border-b border-white/5 pb-6">
-            <div class="flex gap-2 p-1.5 bg-slate-950 rounded-2xl border border-white/5">
+        <div class="flex flex-col md:flex-row justify-between items-start md:items-center gap-6 mb-8 border-b border-white/5 pb-6">
+            <div class="flex gap-2 p-1.5 bg-slate-900 rounded-2xl border border-white/5">
                 <button onclick="switchSection('fulltime')" id="btn-fulltime" class="px-5 py-2.5 rounded-xl text-xs font-bold uppercase tracking-wider text-slate-400 transition-all tab-active">
-                    1. Full-Time Market
+                    Full-Time (India)
                 </button>
                 <button onclick="switchSection('freelance')" id="btn-freelance" class="px-5 py-2.5 rounded-xl text-xs font-bold uppercase tracking-wider text-slate-400 transition-all">
-                    2. Strict Freelance / Contract (WFA)
+                    Freelance / Contract (Global)
                 </button>
             </div>
 
@@ -78,7 +54,7 @@
         <div id="feed" class="space-y-4">
             <div class="text-center py-24">
                 <div class="inline-block animate-spin rounded-full h-6 w-6 border-t-2 border-b-2 border-indigo-500 mb-4"></div>
-                <p class="text-slate-500 mono text-xs tracking-widest">LOADING CHANNEL LOGSETS...</p>
+                <p class="text-slate-500 mono text-xs tracking-widest">FETCHING CURATED OPPORTUNITIES...</p>
             </div>
         </div>
     </main>
@@ -87,7 +63,6 @@
         let rawMasterJobs = [];
         let currentSection = 'fulltime';
         let currentWorkplaceFilter = 'All';
-        let extractedResumeTokens = []; // Holds dynamically parsed profile words
 
         async function initPipeline() {
             try {
@@ -96,115 +71,17 @@
                 rawMasterJobs = await response.json();
                 renderDashboard();
             } catch (err) {
-                console.error("Failed loading data catalog target stream.", err);
-                document.getElementById('feed').innerHTML = `
-                    <div class="glass p-12 rounded-3xl text-center border-red-500/20">
-                        <p class="text-sm text-red-400 font-medium mb-1">Local Data Archive Offline</p>
-                        <p class="text-xs text-slate-500 mono">Run pipeline sequence execution to generate jobs.json data arrays.</p>
-                    </div>`;
+                console.error("Failed loading data.", err);
+                document.getElementById('feed').innerHTML = `<div class="glass p-12 text-center text-red-400 text-sm">Action Pipeline Offline. Ensure agent.py has executed.</div>`;
             }
-        }
-
-        // Invisible Local Text Extraction Matrix
-        async function extractTextFromPDF(event) {
-            const file = event.target.files[0];
-            if (!file) return;
-            
-            const statusIndicator = document.getElementById('resumeStatus');
-            statusIndicator.innerText = "Parsing Document Engine...";
-            statusIndicator.classList.add('text-indigo-400');
-            
-            try {
-                const fileReader = new FileReader();
-                fileReader.onload = async function() {
-                    const typedarray = new Uint8Array(this.result);
-                    const pdf = await pdfjsLib.getDocument(typedarray).promise;
-                    let fullRawText = '';
-                    
-                    for (let i = 1; i <= pdf.numPages; i++) {
-                        const page = await pdf.getPage(i);
-                        const textContent = await page.getTextContent();
-                        fullRawText += textContent.items.map(item => item.str).join(' ') + ' ';
-                    }
-                    
-                    processDynamicTokens(fullRawText);
-                };
-                fileReader.readAsArrayBuffer(file);
-            } catch (error) {
-                console.error("PDF engine crash detail: ", error);
-                statusIndicator.innerText = "Processing Failure";
-                statusIndicator.className = "text-red-400";
-            }
-        }
-
-        // Natural Text Tokenizer (NLP Filter System)
-        function processDynamicTokens(rawText) {
-            const statusIndicator = document.getElementById('resumeStatus');
-            
-            // Comprehensive English Stop Words Array to filter out conversational noise
-            const stopWords = new Set([
-                'i','me','my','myself','we','our','ours','ourselves','you','your','yours','he','him','his','she','her','it','its','they','them',
-                'what','which','who','whom','this','that','am','is','are','was','were','be','been','being','have','has','had','having','do',
-                'does','did','doing','a','an','the','and','but','if','or','because','as','until','while','of','at','by','for','with','about',
-                'against','between','into','through','during','before','after','above','below','to','from','up','down','in','out','on','off',
-                'over','under','again','further','then','once','here','there','when','where','why','how','all','any','both','each','few','more',
-                'most','other','some','such','no','nor','not','only','own','same','so','than','too','very','can','will','just','should','now',
-                'com','edu','org','net','experience','skills','years','work','job','team','project','projects','management','using','used'
-            ]);
-
-            // Sanitize text: remove punctuation, convert to lowercase, separate into individual words
-            const sanitizedWords = rawText.toLowerCase()
-                                          .replace(/[.,\/#!$%\^&\*;:{}=\-_`~()?"'\n]/g, " ")
-                                          .split(/\s+/);
-            
-            // Build unique, actionable skill and technology descriptors
-            const activeTokens = sanitizedWords.filter(word => {
-                return word.length > 2 && !stopWords.has(word) && isNaN(word);
-            });
-
-            extractedResumeTokens = [...new Set(activeTokens)];
-            
-            statusIndicator.innerText = `Aligned: ${extractedResumeTokens.length} Structural Tags Loaded`;
-            statusIndicator.className = "text-emerald-400 text-[11px] mono bg-emerald-950/40 px-4 py-1.5 rounded-lg border border-emerald-500/20";
-            
-            renderDashboard();
-        }
-
-        // Algorithmic Weight Allocation Model
-        function calculateResumeMatchScore(job) {
-            if (extractedResumeTokens.length === 0) return null;
-            
-            let matchPoints = 0;
-            const titleBlob = job.title.toLowerCase();
-            const descriptionBlob = job.desc.toLowerCase();
-            
-            extractedResumeTokens.forEach(token => {
-                // Strategic Weighting: Term overlap matches inside the Job Title count 4x heavier than in the description text body
-                if (titleBlob.includes(token)) matchPoints += 4;
-                if (descriptionBlob.includes(token)) matchPoints += 1;
-            });
-            
-            if (matchPoints === 0) return 0;
-            
-            // Normalize weighting relative to pool volume size
-            const scorePercent = Math.round((matchPoints / (extractedResumeTokens.length * 1.5)) * 100);
-            return Math.min(scorePercent, 100); // Cap at absolute 100% maximum
         }
 
         function switchSection(section) {
             currentSection = section;
             document.getElementById('btn-fulltime').classList.toggle('tab-active', section === 'fulltime');
             document.getElementById('btn-freelance').classList.toggle('tab-active', section === 'freelance');
-            
-            const subFilterContainer = document.getElementById('subFilters');
-            if (section === 'fulltime') {
-                subFilterContainer.style.opacity = '1';
-                subFilterContainer.style.pointerEvents = 'auto';
-            } else {
-                subFilterContainer.style.opacity = '0';
-                subFilterContainer.style.pointerEvents = 'none';
-            }
-            
+            document.getElementById('subFilters').style.opacity = section === 'fulltime' ? '1' : '0';
+            document.getElementById('subFilters').style.pointerEvents = section === 'fulltime' ? 'auto' : 'none';
             renderDashboard();
         }
 
@@ -223,56 +100,24 @@
 
         function renderDashboard() {
             const container = document.getElementById('feed');
-            const searchLocation = document.getElementById('locationFilter').value.toLowerCase().trim();
+            const searchText = document.getElementById('locationFilter').value.toLowerCase().trim();
             
             if (rawMasterJobs.length === 0) return;
 
-            // Generate Match Matrices Dynamically
-            let computedDataset = rawMasterJobs.map(job => {
-                const score = calculateResumeMatchScore(job);
-                return { ...job, resumeMatchScore: score };
+            let filtered = rawMasterJobs.filter(job => {
+                const typeMatch = job.employment_type === (currentSection === 'fulltime' ? 'Full-Time' : 'Freelance/Contract');
+                const workMatch = (currentSection === 'fulltime' && currentWorkplaceFilter !== 'All') ? job.workplace_type === currentWorkplaceFilter : true;
+                const searchMatch = searchText === "" || 
+                                  job.loc.toLowerCase().includes(searchText) || 
+                                  job.title.toLowerCase().includes(searchText) ||
+                                  job.desc.toLowerCase().includes(searchText);
+                return typeMatch && workMatch && searchMatch;
             });
-
-            // Enforce primary structural segment division tag filter
-            let filtered = [];
-            
-            if (currentSection === 'fulltime') {
-                filtered = computedDataset.filter(job => job.employment_type === 'Full-Time');
-                if(currentWorkplaceFilter !== 'All') {
-                    filtered = filtered.filter(job => job.workplace_type === currentWorkplaceFilter);
-                }
-            } else if (currentSection === 'freelance') {
-                // STRICT CRITERIA RULESET: Must be classified Remote and allow Global/Anywhere boundary operations
-                filtered = computedDataset.filter(job => {
-                    const matchesFreelanceType = job.employment_type === 'Freelance/Contract';
-                    const matchesWorkplaceType = job.workplace_type === 'Remote';
-                    
-                    const locationText = job.loc.toLowerCase();
-                    const matchesGlobalScope = anyLocationMatch = ['global', 'anywhere', 'worldwide', 'wfa', 'remote', 'us/worldwide', 'europe/worldwide'].some(term => locationText.includes(term));
-                    
-                    return matchesFreelanceType && matchesWorkplaceType && matchesGlobalScope;
-                });
-            }
-
-            // Execute context user string filter lookup rules
-            if(searchLocation !== "") {
-                filtered = filtered.filter(job => 
-                    job.loc.toLowerCase().includes(searchLocation) || 
-                    job.title.toLowerCase().includes(searchLocation) ||
-                    job.company.toLowerCase().includes(searchLocation)
-                );
-            }
-
-            // If a valid text file was processed, enforce relevance sorting and isolate targeted data matches
-            if(extractedResumeTokens.length > 0) {
-                filtered = filtered.filter(job => job.resumeMatchScore > 0);
-                filtered.sort((a, b) => b.resumeMatchScore - a.resumeMatchScore);
-            }
 
             if(filtered.length === 0) {
                 container.innerHTML = `
                     <div class="glass p-20 rounded-3xl text-center text-slate-500 mono text-xs uppercase tracking-widest">
-                        Zero matches found matching configuration parameters.
+                        No active roles matching current filters.
                     </div>`;
                 return;
             }
@@ -280,27 +125,25 @@
             container.innerHTML = filtered.map(job => {
                 const badgeColor = job.workplace_type === 'Remote' ? 'text-emerald-400 bg-emerald-500/10' : 
                                   job.workplace_type === 'Hybrid' ? 'text-amber-400 bg-amber-500/10' : 'text-indigo-400 bg-indigo-500/10';
-                
-                const hasScore = job.resumeMatchScore !== null && job.resumeMatchScore > 0;
 
                 return `
-                    <div class="glass p-8 rounded-3xl transition-all hover:bg-white/[0.01] border border-white/[0.03] flex flex-col md:flex-row justify-between items-start gap-6">
+                    <div class="glass p-8 rounded-[1.5rem] transition-all hover:bg-white/[0.02] border border-white/[0.03] flex flex-col md:flex-row justify-between items-start gap-6">
                         <div class="flex-1">
-                            <div class="flex flex-wrap items-center gap-2 mb-3">
-                                <span class="text-[10px] font-mono tracking-wider uppercase px-2.5 py-1 rounded-md bg-slate-950 border border-white/5 text-slate-400">${job.source}</span>
+                            <div class="flex flex-wrap items-center gap-2 mb-4">
+                                <span class="text-[10px] font-mono tracking-wider uppercase px-2.5 py-1 rounded-md bg-slate-900 border border-white/5 text-slate-400">${job.source}</span>
                                 <span class="text-[10px] font-mono tracking-wider uppercase px-2.5 py-1 rounded-md font-medium ${badgeColor}">${job.workplace_type}</span>
-                                ${hasScore ? `<span class="text-[10px] font-mono tracking-wider uppercase px-2.5 py-1 rounded-md font-bold bg-indigo-500/20 text-indigo-300 border border-indigo-500/30">🎯 Match Context Vector: ${job.resumeMatchScore}%</span>` : ''}
+                                <span class="text-[10px] font-mono tracking-wider uppercase px-2.5 py-1 rounded-md font-bold bg-indigo-600/20 text-indigo-300 border border-indigo-500/30 shadow-[0_0_10px_rgba(79,70,229,0.2)]">🎯 Match Score: ${job.tejas_score}%</span>
                             </div>
-                            <h3 class="text-xl font-bold tracking-tight mb-1 text-white">${job.title}</h3>
-                            <p class="text-sm font-medium text-indigo-400/90 mb-3">${job.company} — <span class="text-slate-400 font-normal text-xs text-slate-400">${job.loc}</span></p>
-                            <p class="text-xs text-slate-400 leading-relaxed max-w-4xl">${job.desc}</p>
+                            <h3 class="text-2xl font-bold tracking-tight mb-1 text-white">${job.title}</h3>
+                            <p class="text-sm font-semibold text-indigo-400 mb-4">${job.company} <span class="text-slate-500 font-normal mx-1">•</span> <span class="text-slate-300 font-normal">${job.loc}</span></p>
+                            <p class="text-sm text-slate-400 leading-relaxed max-w-4xl line-clamp-3">${job.desc}</p>
                         </div>
                         <div class="flex flex-col sm:flex-row md:flex-col justify-between items-end gap-4 w-full md:w-auto min-w-[180px] self-stretch border-t md:border-t-0 border-white/5 pt-4 md:pt-0">
                             <div class="text-left md:text-right hidden sm:block">
-                                <p class="text-[10px] text-slate-600 mono uppercase tracking-wider">Synced Index</p>
-                                <p class="text-xs text-slate-400 font-medium tracking-tight mt-0.5">${job.timestamp}</p>
+                                <p class="text-[10px] text-slate-500 mono uppercase tracking-wider">Discovered</p>
+                                <p class="text-xs text-slate-300 font-medium tracking-tight mt-1">${job.timestamp}</p>
                             </div>
-                            <a href="${job.url}" target="_blank" class="w-full text-center py-3 px-4 bg-indigo-600 hover:bg-indigo-500 text-white rounded-xl font-bold uppercase text-xs tracking-widest transition-all shadow-md shadow-indigo-600/10">Apply Position</a>
+                            <a href="${job.url}" target="_blank" class="w-full text-center py-3.5 px-6 bg-indigo-600 hover:bg-indigo-500 text-white rounded-xl font-bold uppercase text-[11px] tracking-widest transition-all shadow-lg shadow-indigo-600/20">Apply Now</a>
                         </div>
                     </div>
                 `;
