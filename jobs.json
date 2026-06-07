@@ -1,1 +1,68 @@
-
+[
+    {
+        "title": "Senior Data Scientist, Consumer Analytics",
+        "company": "Wolt - English",
+        "url": "https://www.arbeitnow.com/jobs/companies/wolt-english/senior-data-scientist-consumer-analytics-berlin-30591",
+        "loc": "Berlin, Berlin, Germany",
+        "desc": "About Wolt At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we're building the delivery of (almost) everything and you'll find us in over 500 cities in 30 countries around the world. In ...",
+        "source": "Arbeitnow Index",
+        "employment_type": "Freelance/Contract",
+        "workplace_type": "Hybrid",
+        "timestamp": "2026-06-07 15:28"
+    },
+    {
+        "title": "Online Data Analyst Canada (French Language)",
+        "company": "TELUS Digital",
+        "url": "https://remotive.com/remote-jobs/all-others/online-data-analyst-canada-french-language-2090945",
+        "loc": "Canada",
+        "desc": "Are you a detail-oriented individual with a passion for research and a good understanding of national and local geography? This freelance opportunity allows you to work at your own pace and from the comfort of your own home.A Day in the Life of an Online Data Analyst:In this role, you will be workin...",
+        "source": "Remotive API Feed",
+        "employment_type": "Freelance/Contract",
+        "workplace_type": "On-site",
+        "timestamp": "2026-06-07 15:28"
+    },
+    {
+        "title": "Online Data Analyst United States Spanish speakers",
+        "company": "TELUS Digital",
+        "url": "https://remotive.com/remote-jobs/all-others/online-data-analyst-united-states-spanish-speakers-2090946",
+        "loc": "USA",
+        "desc": "Are you a detail-oriented individual with a passion for research and a good understanding of national and local geography? This freelance opportunity allows you to work at your own pace and from the comfort of your own home. A Day in the Life of an Online Data Analyst: In this role, you will be work...",
+        "source": "Remotive API Feed",
+        "employment_type": "Freelance/Contract",
+        "workplace_type": "On-site",
+        "timestamp": "2026-06-07 15:28"
+    },
+    {
+        "title": "Online Data Analyst Canada",
+        "company": "TELUS Digital",
+        "url": "https://remotive.com/remote-jobs/all-others/online-data-analyst-canada-2090944",
+        "loc": "Canada",
+        "desc": "Job descriptionAre you a detail-oriented individual with a passion for research and a good understanding of national and local geography? This freelance opportunity allows you to work at your own pace and from the comfort of your own home.A Day in the Life of an Online Data Analyst:In this role, you...",
+        "source": "Remotive API Feed",
+        "employment_type": "Freelance/Contract",
+        "workplace_type": "On-site",
+        "timestamp": "2026-06-07 15:28"
+    },
+    {
+        "title": "Data Labeling Specialists",
+        "company": "Workada",
+        "url": "https://remotive.com/remote-jobs/data/data-labeling-specialists-2090903",
+        "loc": "USA",
+        "desc": "Who We AreWorkada creates high-quality labeled data for advanced technology systems. Our team reviews, organizes, categorizes, evaluates, and quality-checks digital content so those systems can better understand information and perform real-world tasks.We believe careful data work matters. Every rev...",
+        "source": "Remotive API Feed",
+        "employment_type": "Full-Time",
+        "workplace_type": "On-site",
+        "timestamp": "2026-06-07 15:28"
+    },
+    {
+        "title": "Tech Lead Full-Stack Rails Engineer",
+        "company": "Mitre Media",
+        "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+        "loc": "USA, Canada, USA timezones",
+        "desc": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we\u2019ve served individual investo...",
+        "source": "Remotive API Feed",
+        "employment_type": "Full-Time",
+        "workplace_type": "Hybrid",
+        "timestamp": "2026-06-07 15:28"
+    }
+]
