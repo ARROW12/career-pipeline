@@ -1,5 +1,17 @@
 [
     {
+        "title": "Backend Developer (Python)",
+        "company": "Persohap GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/persohap-gmbh/backend-developer-python-berlin-104687",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 65,
+        "timestamp": "2026-07-06 21:25"
+    },
+    {
         "title": "Senior Machine Learning Engineer I",
         "company": "SumUp",
         "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-machine-learning-engineer-i-berlin-493840",
@@ -9,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-07-06 18:08"
+        "timestamp": "2026-07-06 21:25"
     },
     {
         "title": "Senior Data Engineer (f/m/d)",
@@ -21,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 100,
-        "timestamp": "2026-07-06 18:08"
+        "timestamp": "2026-07-06 21:25"
     },
     {
         "title": "Staff Product Engineer (S\u00e3o Paulo)",
@@ -33,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-06 18:08"
+        "timestamp": "2026-07-06 21:25"
     },
     {
         "title": "Senior Quality Engineer (Florian\u00f3polis)",
@@ -45,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-07-06 18:08"
+        "timestamp": "2026-07-06 21:25"
     },
     {
         "title": "Senior Quality Engineer (S\u00e3o Paulo)",
@@ -57,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-07-06 18:08"
+        "timestamp": "2026-07-06 21:25"
     },
     {
         "title": "Senior Quality Engineer (Belo Horizonte)",
@@ -69,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-07-06 18:08"
+        "timestamp": "2026-07-06 21:25"
     },
     {
         "title": "Senior Quality Engineer (Campinas)",
@@ -81,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-07-06 18:08"
+        "timestamp": "2026-07-06 21:25"
     },
     {
         "title": "Senior Quality Engineer (Porto Alegre)",
@@ -93,6 +105,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-07-06 18:08"
+        "timestamp": "2026-07-06 21:25"
     }
 ]
