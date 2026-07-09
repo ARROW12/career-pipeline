@@ -1,27 +1,15 @@
 [
     {
-        "title": "AWS Cloud Data Engineer (m/w/d)",
-        "company": "Unigy GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/unigy-gmbh/aws-cloud-data-engineer-essen-139122",
-        "loc": "Essen",
+        "title": "Senior Data Engineer (w/m/d) | SSIS & SQL DWH",
+        "company": "FlexIT Consulting GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/flexit-consulting-gmbh/senior-data-engineer-ssis-sql-dwh-dusseldorf-20377",
+        "loc": "D\u00fcsseldorf",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 66,
-        "timestamp": "2026-07-09 07:33"
-    },
-    {
-        "title": "Senior Cloud / DevOps Engineer (AWS) (m/w/d)",
-        "company": "Rockstardevelopers GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/senior-cloud-devops-engineer-aws-stuttgart-89316",
-        "loc": "Stuttgart",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 66,
-        "timestamp": "2026-07-09 07:33"
+        "tejas_score": 50,
+        "timestamp": "2026-07-09 10:50"
     },
     {
         "title": "Staff Product Engineer (S\u00e3o Paulo)",
@@ -33,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-09 07:33"
+        "timestamp": "2026-07-09 10:50"
     },
     {
         "title": "Senior Quality Engineer (Florian\u00f3polis)",
@@ -45,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-07-09 07:33"
+        "timestamp": "2026-07-09 10:50"
     },
     {
         "title": "Senior Quality Engineer (S\u00e3o Paulo)",
@@ -57,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-07-09 07:33"
+        "timestamp": "2026-07-09 10:50"
     },
     {
         "title": "Senior Quality Engineer (Belo Horizonte)",
@@ -69,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-07-09 07:33"
+        "timestamp": "2026-07-09 10:50"
     },
     {
         "title": "Senior Quality Engineer (Campinas)",
@@ -81,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-07-09 07:33"
+        "timestamp": "2026-07-09 10:50"
     },
     {
         "title": "Senior Quality Engineer (Porto Alegre)",
@@ -93,6 +81,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-07-09 07:33"
+        "timestamp": "2026-07-09 10:50"
     }
 ]
