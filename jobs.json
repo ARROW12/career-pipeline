@@ -1,15 +1,63 @@
 [
     {
-        "title": "Senior Data Science/ML Engineer - Financial Crime",
-        "company": "SumUp",
-        "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-data-science-ml-engineer-financial-crime-berlin-119994",
-        "loc": "Berlin, Berlin, Germany",
+        "title": "Azure\u202fData Engineer II - Agentic AI Platform",
+        "company": "paiqo GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/paiqo-gmbh/remote-azure-data-engineer-ii-agentic-ai-platform-paderborn-270575",
+        "loc": "Remote job",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-07-26 16:53"
+        "tejas_score": 76,
+        "timestamp": "2026-07-26 20:52"
+    },
+    {
+        "title": "Senior Azure\u202fData Engineer - Agentic AI Platform",
+        "company": "paiqo GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/paiqo-gmbh/remote-senior-azure-data-engineer-agentic-ai-platform-paderborn-486076",
+        "loc": "Remote job",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-07-26 20:52"
+    },
+    {
+        "title": "Senior Manager Data Analytics (w/m/d)",
+        "company": "Eraneos",
+        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-manager-data-analytics-466945",
+        "loc": "Hamburg, M\u00fcnchen, D\u00fcsseldorf, remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-07-26 20:52"
+    },
+    {
+        "title": "AI Solution Architect (m/w/d)",
+        "company": "virtual7 GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-171944",
+        "loc": "Homeoffice",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-07-26 20:52"
+    },
+    {
+        "title": "Senior Software Engineer - Space Reliability",
+        "company": "spire",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/spire/senior-software-engineer-space-reliability-glasgow-467077",
+        "loc": "Glasgow",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-07-26 20:52"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -21,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-26 16:53"
+        "timestamp": "2026-07-26 20:52"
     },
     {
         "title": "Staff Software Engineer, Product (Belo Horizonte)",
@@ -33,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-26 16:53"
+        "timestamp": "2026-07-26 20:52"
     },
     {
         "title": "Staff Software Engineer, Product (Montevideo)",
@@ -45,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-26 16:53"
+        "timestamp": "2026-07-26 20:52"
     },
     {
         "title": "Staff Software Engineer, Product (S\u00e3o Paulo)",
@@ -57,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-26 16:53"
+        "timestamp": "2026-07-26 20:52"
     },
     {
         "title": "Staff Software Engineer, Product (Mexico City)",
@@ -69,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-26 16:53"
+        "timestamp": "2026-07-26 20:52"
     },
     {
         "title": "Staff Software Engineer, Product (Campinas)",
@@ -81,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-26 16:53"
+        "timestamp": "2026-07-26 20:52"
     },
     {
         "title": "Staff Software Engineer, Product (Florian\u00f3polis)",
@@ -93,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-26 16:53"
+        "timestamp": "2026-07-26 20:52"
     },
     {
         "title": "Staff Product Engineer (Mexico City)",
@@ -105,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-26 16:53"
+        "timestamp": "2026-07-26 20:52"
     },
     {
         "title": "Staff Product Engineer (Montevideo)",
@@ -117,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-26 16:53"
+        "timestamp": "2026-07-26 20:52"
     },
     {
         "title": "Staff Product Engineer (Campinas)",
@@ -129,7 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-26 16:53"
+        "timestamp": "2026-07-26 20:52"
     },
     {
         "title": "Staff Product Engineer (Belo Horizonte)",
@@ -141,7 +189,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-26 16:53"
+        "timestamp": "2026-07-26 20:52"
     },
     {
         "title": "Staff Product Engineer (Florian\u00f3polis)",
@@ -153,6 +201,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-26 16:53"
+        "timestamp": "2026-07-26 20:52"
     }
 ]
