@@ -9,43 +9,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-07-27 11:15"
+        "timestamp": "2026-07-27 14:22"
     },
     {
-        "title": "Freiberuflicher Apache Kafka Engineer / Streaming-Spezialist (m/w/d)",
-        "company": "evoila Frankfurt GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/evoila-frankfurt-gmbh/freiberuflicher-apache-kafka-engineer-streaming-spezialist-frankfurt-am-main-460061",
-        "loc": "Frankfurt am Main",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-07-27 11:15"
-    },
-    {
-        "title": "Senior Software Engineer (Data Platform, C++)",
-        "company": "Nebius",
-        "url": "https://www.arbeitnow.com/jobs/companies/nebius/senior-software-engineer-data-platform-c-czech-republic-united-kingdom-57791",
-        "loc": "Czech Republic; United Kingdom",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 54,
-        "timestamp": "2026-07-27 11:15"
-    },
-    {
-        "title": "Senior Forward Deployed Engineer",
-        "company": "workato",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/workato/senior-forward-deployed-engineer-sydney-australia-277342",
+        "title": "Okta on Okta Identity Architect",
+        "company": "okta",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/okta/okta-on-okta-identity-architect-sydney-australia-360128",
         "loc": "Sydney, Australia",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-07-27 11:15"
+        "tejas_score": 45,
+        "timestamp": "2026-07-27 14:22"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -57,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-27 11:15"
+        "timestamp": "2026-07-27 14:22"
     },
     {
         "title": "Staff Software Engineer, Product (Belo Horizonte)",
@@ -69,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-27 11:15"
+        "timestamp": "2026-07-27 14:22"
     },
     {
         "title": "Staff Software Engineer, Product (Montevideo)",
@@ -81,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-27 11:15"
+        "timestamp": "2026-07-27 14:22"
     },
     {
         "title": "Staff Software Engineer, Product (S\u00e3o Paulo)",
@@ -93,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-27 11:15"
+        "timestamp": "2026-07-27 14:22"
     },
     {
         "title": "Staff Software Engineer, Product (Mexico City)",
@@ -105,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-27 11:15"
+        "timestamp": "2026-07-27 14:22"
     },
     {
         "title": "Staff Software Engineer, Product (Campinas)",
@@ -117,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-27 11:15"
+        "timestamp": "2026-07-27 14:22"
     },
     {
         "title": "Staff Software Engineer, Product (Florian\u00f3polis)",
@@ -129,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-27 11:15"
+        "timestamp": "2026-07-27 14:22"
     },
     {
         "title": "Staff Product Engineer (Mexico City)",
@@ -141,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-27 11:15"
+        "timestamp": "2026-07-27 14:22"
     },
     {
         "title": "Staff Product Engineer (Montevideo)",
@@ -153,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-27 11:15"
+        "timestamp": "2026-07-27 14:22"
     },
     {
         "title": "Staff Product Engineer (Campinas)",
@@ -165,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-27 11:15"
+        "timestamp": "2026-07-27 14:22"
     },
     {
         "title": "Staff Product Engineer (Belo Horizonte)",
@@ -177,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-27 11:15"
+        "timestamp": "2026-07-27 14:22"
     },
     {
         "title": "Staff Product Engineer (Florian\u00f3polis)",
@@ -189,6 +165,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-27 11:15"
+        "timestamp": "2026-07-27 14:22"
     }
 ]
