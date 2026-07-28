@@ -1,5 +1,17 @@
 [
     {
+        "title": "Senior Software Architect (m/w/d)",
+        "company": "Nerdware",
+        "url": "https://www.arbeitnow.com/jobs/companies/nerdware/senior-software-architect-nurnberg-429864",
+        "loc": "N\u00fcrnberg",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-07-28 06:22"
+    },
+    {
         "title": "Data Engineer - AFRICOM",
         "company": "Agile Defense",
         "url": "https://www.arbeitnow.com/jobs/companies/agile-defense/data-engineer-africom-stuttgart-germany-50591",
@@ -9,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-07-28 02:06"
+        "timestamp": "2026-07-28 06:22"
     },
     {
         "title": "Python Software Engineer (m/w/d)",
@@ -21,18 +33,150 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 65,
-        "timestamp": "2026-07-28 02:06"
+        "timestamp": "2026-07-28 06:22"
     },
     {
-        "title": "Software Engineer",
-        "company": "Engelhart",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/engelhart/software-engineer-london-282429",
-        "loc": "London",
+        "title": "Senior DevOps Engineer",
+        "company": "Lemon.io",
+        "url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2091067",
+        "loc": "Americas, Europe, Asia, Africa, Oceania",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-07-28 02:06"
+        "tejas_score": 61,
+        "timestamp": "2026-07-28 06:22"
+    },
+    {
+        "title": "Staff Software Engineer, Product (Belo Horizonte)",
+        "company": "LawnStarter",
+        "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-belo-horizonte-2091056",
+        "loc": "Brazil",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-07-28 06:22"
+    },
+    {
+        "title": "Staff Software Engineer, Product (Montevideo)",
+        "company": "LawnStarter",
+        "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-montevideo-2091058",
+        "loc": "Uruguay",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-07-28 06:22"
+    },
+    {
+        "title": "Staff Software Engineer, Product (S\u00e3o Paulo)",
+        "company": "LawnStarter",
+        "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-sao-paulo-2091055",
+        "loc": "Brazil",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-07-28 06:22"
+    },
+    {
+        "title": "Staff Software Engineer, Product (Mexico City)",
+        "company": "LawnStarter",
+        "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-mexico-city-2091050",
+        "loc": "Mexico",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-07-28 06:22"
+    },
+    {
+        "title": "Staff Software Engineer, Product (Campinas)",
+        "company": "LawnStarter",
+        "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-campinas-2091049",
+        "loc": "Brazil",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-07-28 06:22"
+    },
+    {
+        "title": "Staff Software Engineer, Product (Florian\u00f3polis)",
+        "company": "LawnStarter",
+        "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-florianopolis-2091059",
+        "loc": "Brazil",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-07-28 06:22"
+    },
+    {
+        "title": "Staff Product Engineer (Mexico City)",
+        "company": "LawnStarter",
+        "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-mexico-city-2091057",
+        "loc": "Mexico",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-07-28 06:22"
+    },
+    {
+        "title": "Staff Product Engineer (Montevideo)",
+        "company": "LawnStarter",
+        "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-montevideo-2091054",
+        "loc": "Uruguay",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-07-28 06:22"
+    },
+    {
+        "title": "Staff Product Engineer (Campinas)",
+        "company": "LawnStarter",
+        "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-campinas-2091053",
+        "loc": "Brazil",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-07-28 06:22"
+    },
+    {
+        "title": "Staff Product Engineer (Belo Horizonte)",
+        "company": "LawnStarter",
+        "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-belo-horizonte-2091052",
+        "loc": "Brazil",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-07-28 06:22"
+    },
+    {
+        "title": "Staff Product Engineer (Florian\u00f3polis)",
+        "company": "LawnStarter",
+        "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-florianopolis-2091051",
+        "loc": "Brazil",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-07-28 06:22"
     }
 ]
