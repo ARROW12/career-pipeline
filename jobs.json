@@ -1,5 +1,17 @@
 [
     {
+        "title": "Data Platform Engineer (Mid-Level) (m/f/d)",
+        "company": "Flix",
+        "url": "https://www.arbeitnow.com/jobs/companies/flix/data-platform-engineer-mid-level-berlin-231606",
+        "loc": "Berlin, Berlin, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 84,
+        "timestamp": "2026-07-28 10:30"
+    },
+    {
         "title": "Senior Software Architect (m/w/d)",
         "company": "Nerdware",
         "url": "https://www.arbeitnow.com/jobs/companies/nerdware/senior-software-architect-nurnberg-429864",
@@ -9,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-07-28 06:22"
+        "timestamp": "2026-07-28 10:30"
     },
     {
         "title": "Data Engineer - AFRICOM",
@@ -21,19 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-07-28 06:22"
-    },
-    {
-        "title": "Python Software Engineer (m/w/d)",
-        "company": "Smart Systems Hub GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/smart-systems-hub-gmbh/python-software-engineer-dresden-402329",
-        "loc": "Dresden",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 65,
-        "timestamp": "2026-07-28 06:22"
+        "timestamp": "2026-07-28 10:30"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -45,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-28 06:22"
+        "timestamp": "2026-07-28 10:30"
     },
     {
         "title": "Staff Software Engineer, Product (Belo Horizonte)",
@@ -57,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-28 06:22"
+        "timestamp": "2026-07-28 10:30"
     },
     {
         "title": "Staff Software Engineer, Product (Montevideo)",
@@ -69,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-28 06:22"
+        "timestamp": "2026-07-28 10:30"
     },
     {
         "title": "Staff Software Engineer, Product (S\u00e3o Paulo)",
@@ -81,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-28 06:22"
+        "timestamp": "2026-07-28 10:30"
     },
     {
         "title": "Staff Software Engineer, Product (Mexico City)",
@@ -93,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-28 06:22"
+        "timestamp": "2026-07-28 10:30"
     },
     {
         "title": "Staff Software Engineer, Product (Campinas)",
@@ -105,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-28 06:22"
+        "timestamp": "2026-07-28 10:30"
     },
     {
         "title": "Staff Software Engineer, Product (Florian\u00f3polis)",
@@ -117,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-28 06:22"
+        "timestamp": "2026-07-28 10:30"
     },
     {
         "title": "Staff Product Engineer (Mexico City)",
@@ -129,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-28 06:22"
+        "timestamp": "2026-07-28 10:30"
     },
     {
         "title": "Staff Product Engineer (Montevideo)",
@@ -141,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-28 06:22"
+        "timestamp": "2026-07-28 10:30"
     },
     {
         "title": "Staff Product Engineer (Campinas)",
@@ -153,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-28 06:22"
+        "timestamp": "2026-07-28 10:30"
     },
     {
         "title": "Staff Product Engineer (Belo Horizonte)",
@@ -165,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-28 06:22"
+        "timestamp": "2026-07-28 10:30"
     },
     {
         "title": "Staff Product Engineer (Florian\u00f3polis)",
@@ -177,6 +177,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-28 06:22"
+        "timestamp": "2026-07-28 10:30"
     }
 ]
