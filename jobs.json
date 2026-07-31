@@ -1,87 +1,15 @@
 [
     {
-        "title": "Staff Software Engineer, GenAI Enablement Squad, Foundations Alliance",
-        "company": "hellofresh",
-        "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/staff-software-engineer-genai-enablement-squad-foundations-alliance-warszawa-masovian-voivodeship-poland-146469",
-        "loc": "Warszawa, Masovian Voivodeship, Poland",
+        "title": "Agentic AI Software Engineer",
+        "company": "Machine Learning Reply",
+        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/agentic-ai-software-engineer-munich-433219",
+        "loc": "Munich, Bayern, Germany",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-07-31 06:39"
-    },
-    {
-        "title": "Internal Data Engineer (m/w/d)",
-        "company": "Eorbit Gmbh",
-        "url": "https://www.arbeitnow.com/jobs/companies/eorbit-gmbh/internal-data-engineer-leipzig-97050",
-        "loc": "Leipzig",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-07-31 06:39"
-    },
-    {
-        "title": "Data Engineer (all genders)",
-        "company": "Eorbit Gmbh",
-        "url": "https://www.arbeitnow.com/jobs/companies/eorbit-gmbh/data-engineer-all-genders-leipzig-115210",
-        "loc": "Leipzig",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-07-31 06:39"
-    },
-    {
-        "title": "Sr. Solutions Architect - Lakebase",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.com/jobs/companies/databricks/sr-solutions-architect-lakebase-berlin-214704",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-07-31 06:39"
-    },
-    {
-        "title": "Data Platform Engineer (m/w/d)",
-        "company": "ANGEHEUERT GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/data-platform-engineer-berlin-338774",
-        "loc": "Berlin, Berlin, Deutschland",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-07-31 06:39"
-    },
-    {
-        "title": "Senior Data Engineer (m/w/d)",
-        "company": "ANGEHEUERT GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/senior-data-engineer-berlin-129969",
-        "loc": "Berlin, Berlin, Deutschland",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-07-31 06:39"
-    },
-    {
-        "title": "Mission Planning Software Engineer",
-        "company": "constellr GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/constellr-gmbh/mission-planning-software-engineer-munich-376211",
-        "loc": "Munich , Bayern, Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-07-31 06:39"
+        "timestamp": "2026-07-31 10:34"
     },
     {
         "title": "Senior Data Engineer",
@@ -93,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-07-31 06:39"
+        "timestamp": "2026-07-31 10:34"
     },
     {
         "title": "Data Engineer",
@@ -105,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-07-31 06:39"
+        "timestamp": "2026-07-31 10:34"
     },
     {
         "title": "Data Engineer",
@@ -117,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-07-31 06:39"
+        "timestamp": "2026-07-31 10:34"
     },
     {
         "title": "Data Engineer",
@@ -129,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-07-31 06:39"
+        "timestamp": "2026-07-31 10:34"
     },
     {
         "title": "Software/Data Engineer",
@@ -141,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-07-31 06:39"
+        "timestamp": "2026-07-31 10:34"
     },
     {
         "title": "Senior Site Reliability Engineer",
@@ -153,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 69,
-        "timestamp": "2026-07-31 06:39"
+        "timestamp": "2026-07-31 10:34"
     },
     {
         "title": "Senior Machine Learning Engineer",
@@ -165,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-31 06:39"
+        "timestamp": "2026-07-31 10:34"
     },
     {
         "title": "Machine Learning Engineer",
@@ -177,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-31 06:39"
+        "timestamp": "2026-07-31 10:34"
     },
     {
         "title": "DevOps Engineer",
@@ -189,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 69,
-        "timestamp": "2026-07-31 06:39"
+        "timestamp": "2026-07-31 10:34"
     },
     {
         "title": "Data Software Engineer",
@@ -201,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-07-31 06:39"
+        "timestamp": "2026-07-31 10:34"
     },
     {
         "title": "Data Engineer",
@@ -213,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-07-31 06:39"
+        "timestamp": "2026-07-31 10:34"
     },
     {
         "title": "Software Development Engineers in Test (Python)",
@@ -225,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-07-31 06:39"
+        "timestamp": "2026-07-31 10:34"
     },
     {
         "title": "Site Reliability Engineers (SRE)",
@@ -237,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-31 06:39"
+        "timestamp": "2026-07-31 10:34"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -249,7 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-31 06:39"
+        "timestamp": "2026-07-31 10:34"
     },
     {
         "title": "Staff Software Engineer, Product (Belo Horizonte)",
@@ -261,7 +189,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-31 06:39"
+        "timestamp": "2026-07-31 10:34"
     },
     {
         "title": "Staff Software Engineer, Product (Montevideo)",
@@ -273,7 +201,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-31 06:39"
+        "timestamp": "2026-07-31 10:34"
     },
     {
         "title": "Staff Software Engineer, Product (S\u00e3o Paulo)",
@@ -285,7 +213,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-31 06:39"
+        "timestamp": "2026-07-31 10:34"
     },
     {
         "title": "Staff Software Engineer, Product (Mexico City)",
@@ -297,7 +225,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-31 06:39"
+        "timestamp": "2026-07-31 10:34"
     },
     {
         "title": "Staff Software Engineer, Product (Campinas)",
@@ -309,7 +237,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-31 06:39"
+        "timestamp": "2026-07-31 10:34"
     },
     {
         "title": "Staff Software Engineer, Product (Florian\u00f3polis)",
@@ -321,7 +249,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-31 06:39"
+        "timestamp": "2026-07-31 10:34"
     },
     {
         "title": "Staff Product Engineer (Mexico City)",
@@ -333,7 +261,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-31 06:39"
+        "timestamp": "2026-07-31 10:34"
     },
     {
         "title": "Staff Product Engineer (Montevideo)",
@@ -345,7 +273,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-31 06:39"
+        "timestamp": "2026-07-31 10:34"
     },
     {
         "title": "Staff Product Engineer (Campinas)",
@@ -357,7 +285,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-31 06:39"
+        "timestamp": "2026-07-31 10:34"
     },
     {
         "title": "Staff Product Engineer (Belo Horizonte)",
@@ -369,7 +297,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-31 06:39"
+        "timestamp": "2026-07-31 10:34"
     },
     {
         "title": "Staff Product Engineer (Florian\u00f3polis)",
@@ -381,6 +309,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-07-31 06:39"
+        "timestamp": "2026-07-31 10:34"
     }
 ]
