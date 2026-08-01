@@ -9,7 +9,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-01 13:08"
+        "timestamp": "2026-08-01 16:54"
     },
     {
         "title": "Senior Data Scientist",
@@ -21,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-01 13:08"
+        "timestamp": "2026-08-01 16:54"
     },
     {
         "title": "Senior Analytics Engineer",
@@ -33,7 +33,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-08-01 13:08"
+        "timestamp": "2026-08-01 16:54"
+    },
+    {
+        "title": "Forward Deployed Engineering - Senior Architect",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/forward-deployed-engineering-senior-architect-london-378443",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-08-01 16:54"
+    },
+    {
+        "title": "(Senior) Analytics Engineer (m/f/d)",
+        "company": "1Komma5Grad",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-senior-analytics-engineer-393648",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-01 16:54"
     },
     {
         "title": "Platform Engineer",
@@ -45,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-01 13:08"
+        "timestamp": "2026-08-01 16:54"
     },
     {
         "title": "Senior Data Engineer - Real time analytics",
@@ -57,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-08-01 13:08"
+        "timestamp": "2026-08-01 16:54"
     },
     {
         "title": "Senior Analytics Engineer",
@@ -69,55 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-08-01 13:08"
-    },
-    {
-        "title": "Senior Data Engineer",
-        "company": "LiveScore Group ",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/livescore-group/senior-data-engineer-london-121041",
-        "loc": "London, England, United Kingdom",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-01 13:08"
-    },
-    {
-        "title": "Data Engineer",
-        "company": "LiveScore Group ",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/livescore-group/data-engineer-london-313309",
-        "loc": "London, England, United Kingdom",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-01 13:08"
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Atolls",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/atolls/data-engineer-london-350221",
-        "loc": "London, England, United Kingdom",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 84,
-        "timestamp": "2026-08-01 13:08"
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Atolls",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/atolls/data-engineer-london-346649",
-        "loc": "London, England, United Kingdom",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 84,
-        "timestamp": "2026-08-01 13:08"
+        "timestamp": "2026-08-01 16:54"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -129,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-01 13:08"
+        "timestamp": "2026-08-01 16:54"
     },
     {
         "title": "Staff Software Engineer, Product (Belo Horizonte)",
@@ -141,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-01 13:08"
+        "timestamp": "2026-08-01 16:54"
     },
     {
         "title": "Staff Software Engineer, Product (Montevideo)",
@@ -153,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-01 13:08"
+        "timestamp": "2026-08-01 16:54"
     },
     {
         "title": "Staff Software Engineer, Product (S\u00e3o Paulo)",
@@ -165,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-01 13:08"
+        "timestamp": "2026-08-01 16:54"
     },
     {
         "title": "Staff Software Engineer, Product (Mexico City)",
@@ -177,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-01 13:08"
+        "timestamp": "2026-08-01 16:54"
     },
     {
         "title": "Staff Software Engineer, Product (Campinas)",
@@ -189,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-01 13:08"
+        "timestamp": "2026-08-01 16:54"
     },
     {
         "title": "Staff Software Engineer, Product (Florian\u00f3polis)",
@@ -201,7 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-01 13:08"
+        "timestamp": "2026-08-01 16:54"
     },
     {
         "title": "Staff Product Engineer (Mexico City)",
@@ -213,7 +189,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-01 13:08"
+        "timestamp": "2026-08-01 16:54"
     },
     {
         "title": "Staff Product Engineer (Montevideo)",
@@ -225,7 +201,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-01 13:08"
+        "timestamp": "2026-08-01 16:54"
     },
     {
         "title": "Staff Product Engineer (Campinas)",
@@ -237,7 +213,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-01 13:08"
+        "timestamp": "2026-08-01 16:54"
     },
     {
         "title": "Staff Product Engineer (Belo Horizonte)",
@@ -249,7 +225,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-01 13:08"
+        "timestamp": "2026-08-01 16:54"
     },
     {
         "title": "Staff Product Engineer (Florian\u00f3polis)",
@@ -261,6 +237,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-01 13:08"
+        "timestamp": "2026-08-01 16:54"
     }
 ]
