@@ -1,123 +1,135 @@
 [
     {
-        "title": "Senior Data Engineer - Better Planner (d/f/m)",
-        "company": "Bettermile",
-        "url": "https://www.arbeitnow.com/jobs/companies/bettermile/senior-data-engineer-better-planner-berlin-205725",
-        "loc": "Better Place, Oranienstra\u00dfe 183, Berlin",
+        "title": "Senior Python Software Engineer",
+        "company": "Synthflow AI",
+        "url": "https://www.arbeitnow.com/jobs/companies/synthflow-ai/senior-python-software-engineer-berlin-128577",
+        "loc": "Berlin",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 60,
-        "timestamp": "2026-08-02 13:10"
+        "tejas_score": 65,
+        "timestamp": "2026-08-02 16:53"
     },
     {
-        "title": "Senior Platform Engineer - AWS - Team Platform (d/f/m)",
-        "company": "Bettermile",
-        "url": "https://www.arbeitnow.com/jobs/companies/bettermile/senior-platform-engineer-aws-team-platform-berlin-79312",
-        "loc": "Better Place, Oranienstra\u00dfe 183, Berlin",
+        "title": "(Senior) Backend Engineer (f/m/d)",
+        "company": "Lemon Markets",
+        "url": "https://www.arbeitnow.com/jobs/companies/lemon-markets/senior-backend-engineer-berlin-57067",
+        "loc": "Germany  (Hybrid)",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 50,
-        "timestamp": "2026-08-02 13:10"
+        "tejas_score": 45,
+        "timestamp": "2026-08-02 16:53"
     },
     {
-        "title": "Senior Data Scientist - Geocoding (d/f/m)",
-        "company": "Bettermile",
-        "url": "https://www.arbeitnow.com/jobs/companies/bettermile/senior-data-scientist-geocoding-berlin-393110",
-        "loc": "Better Place, Oranienstra\u00dfe 183, Berlin",
+        "title": "Sales Engineer",
+        "company": "Litmus",
+        "url": "https://www.arbeitnow.com/jobs/companies/litmus/sales-engineer-munchen-203583",
+        "loc": "Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-02 16:53"
+    },
+    {
+        "title": "Senior/Lead Software Data Engineer (Roads Team)",
+        "company": "Mapbox",
+        "url": "https://www.arbeitnow.com/jobs/companies/mapbox/senior-lead-software-data-engineer-roads-team-mapbox-germany-433048",
+        "loc": "Mapbox Germany",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-08-02 13:10"
+        "timestamp": "2026-08-02 16:53"
     },
     {
-        "title": "AI Solutions Engineer",
-        "company": "Proxima Fusion GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/ai-solutions-engineer-munich-452138",
-        "loc": "Munich",
+        "title": "Senior Technical Architect",
+        "company": "Wundermanthompson",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/senior-technical-architect-london-351557",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 54,
+        "timestamp": "2026-08-02 16:53"
+    },
+    {
+        "title": "Senior Business Intelligence Engineer",
+        "company": "Wundermanthompson",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/senior-business-intelligence-engineer-london-170692",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-02 13:10"
+        "timestamp": "2026-08-02 16:53"
     },
     {
-        "title": "Senior Data Scientist",
-        "company": "Checkout.com",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-data-scientist-london-193305",
+        "title": "Senior Data Engineer (Databricks / Snowflake)",
+        "company": "Alphafmcroles",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/alphafmcroles/senior-data-engineer-databricks-snowflake-london-185630",
         "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 100,
+        "timestamp": "2026-08-02 16:53"
+    },
+    {
+        "title": "Senior Consultant - Full-Stack Developer (Azure / Snowflake)",
+        "company": "Alphafmcroles",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/alphafmcroles/senior-consultant-full-stack-developer-azure-snowflake-london-483926",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-02 16:53"
+    },
+    {
+        "title": "Data Engineer (Databricks / Snowflake)",
+        "company": "Alphafmcroles",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/alphafmcroles/data-engineer-databricks-snowflake-london-455971",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 100,
+        "timestamp": "2026-08-02 16:53"
+    },
+    {
+        "title": "Staff Engineer (Founding)",
+        "company": "Clera",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-staff-engineer-founding-310189",
+        "loc": "remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-02 13:10"
+        "timestamp": "2026-08-02 16:53"
     },
     {
-        "title": "Senior Software Engineer, AI Centre of Excellence",
-        "company": "Checkout.com",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-software-engineer-ai-centre-of-excellence-london-101591",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-02 13:10"
-    },
-    {
-        "title": "Staff AI/ML Engineer",
-        "company": "Checkout.com",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/staff-ai-ml-engineer-london-311323",
-        "loc": "London",
+        "title": "Senior Software Engineer, Full Stack",
+        "company": "Clera",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-senior-software-engineer-full-stack-395513",
+        "loc": "remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-02 13:10"
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Checkout.com",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/data-scientist-london-375610",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-02 13:10"
-    },
-    {
-        "title": "Senior Machine Learning Engineer",
-        "company": "Checkout.com",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-machine-learning-engineer-london-463490",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-02 13:10"
-    },
-    {
-        "title": "Data Analytics Engineer I",
-        "company": "Checkout.com",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/data-analytics-engineer-i-london-20275",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-08-02 13:10"
+        "timestamp": "2026-08-02 16:53"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -129,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-02 13:10"
+        "timestamp": "2026-08-02 16:53"
     },
     {
         "title": "Staff Software Engineer, Product (Belo Horizonte)",
@@ -141,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-02 13:10"
+        "timestamp": "2026-08-02 16:53"
     },
     {
         "title": "Staff Software Engineer, Product (Montevideo)",
@@ -153,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-02 13:10"
+        "timestamp": "2026-08-02 16:53"
     },
     {
         "title": "Staff Software Engineer, Product (S\u00e3o Paulo)",
@@ -165,7 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-02 13:10"
+        "timestamp": "2026-08-02 16:53"
     },
     {
         "title": "Staff Software Engineer, Product (Mexico City)",
@@ -177,7 +189,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-02 13:10"
+        "timestamp": "2026-08-02 16:53"
     },
     {
         "title": "Staff Software Engineer, Product (Campinas)",
@@ -189,7 +201,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-02 13:10"
+        "timestamp": "2026-08-02 16:53"
     },
     {
         "title": "Staff Software Engineer, Product (Florian\u00f3polis)",
@@ -201,7 +213,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-02 13:10"
+        "timestamp": "2026-08-02 16:53"
     },
     {
         "title": "Staff Product Engineer (Mexico City)",
@@ -213,7 +225,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-02 13:10"
+        "timestamp": "2026-08-02 16:53"
     },
     {
         "title": "Staff Product Engineer (Montevideo)",
@@ -225,7 +237,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-02 13:10"
+        "timestamp": "2026-08-02 16:53"
     },
     {
         "title": "Staff Product Engineer (Campinas)",
@@ -237,7 +249,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-02 13:10"
+        "timestamp": "2026-08-02 16:53"
     },
     {
         "title": "Staff Product Engineer (Belo Horizonte)",
@@ -249,7 +261,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-02 13:10"
+        "timestamp": "2026-08-02 16:53"
     },
     {
         "title": "Staff Product Engineer (Florian\u00f3polis)",
@@ -261,6 +273,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-02 13:10"
+        "timestamp": "2026-08-02 16:53"
     }
 ]
