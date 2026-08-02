@@ -1,135 +1,63 @@
 [
     {
-        "title": "Senior Python Software Engineer",
-        "company": "Synthflow AI",
-        "url": "https://www.arbeitnow.com/jobs/companies/synthflow-ai/senior-python-software-engineer-berlin-128577",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 65,
-        "timestamp": "2026-08-02 16:53"
-    },
-    {
-        "title": "(Senior) Backend Engineer (f/m/d)",
-        "company": "Lemon Markets",
-        "url": "https://www.arbeitnow.com/jobs/companies/lemon-markets/senior-backend-engineer-berlin-57067",
-        "loc": "Germany  (Hybrid)",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-02 16:53"
-    },
-    {
-        "title": "Sales Engineer",
-        "company": "Litmus",
-        "url": "https://www.arbeitnow.com/jobs/companies/litmus/sales-engineer-munchen-203583",
-        "loc": "Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-02 16:53"
-    },
-    {
-        "title": "Senior/Lead Software Data Engineer (Roads Team)",
-        "company": "Mapbox",
-        "url": "https://www.arbeitnow.com/jobs/companies/mapbox/senior-lead-software-data-engineer-roads-team-mapbox-germany-433048",
-        "loc": "Mapbox Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 84,
-        "timestamp": "2026-08-02 16:53"
-    },
-    {
-        "title": "Senior Technical Architect",
-        "company": "Wundermanthompson",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/senior-technical-architect-london-351557",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 54,
-        "timestamp": "2026-08-02 16:53"
-    },
-    {
-        "title": "Senior Business Intelligence Engineer",
-        "company": "Wundermanthompson",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/senior-business-intelligence-engineer-london-170692",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-02 16:53"
-    },
-    {
-        "title": "Senior Data Engineer (Databricks / Snowflake)",
-        "company": "Alphafmcroles",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/alphafmcroles/senior-data-engineer-databricks-snowflake-london-185630",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 100,
-        "timestamp": "2026-08-02 16:53"
-    },
-    {
-        "title": "Senior Consultant - Full-Stack Developer (Azure / Snowflake)",
-        "company": "Alphafmcroles",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/alphafmcroles/senior-consultant-full-stack-developer-azure-snowflake-london-483926",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-02 16:53"
-    },
-    {
-        "title": "Data Engineer (Databricks / Snowflake)",
-        "company": "Alphafmcroles",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/alphafmcroles/data-engineer-databricks-snowflake-london-455971",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 100,
-        "timestamp": "2026-08-02 16:53"
-    },
-    {
-        "title": "Staff Engineer (Founding)",
-        "company": "Clera",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-staff-engineer-founding-310189",
-        "loc": "remote",
+        "title": "Manager, Forward Deployed Engineering",
+        "company": "Parloa",
+        "url": "https://www.arbeitnow.com/jobs/companies/parloa/remote-manager-forward-deployed-engineering-443816",
+        "loc": "Berlin Office; London Office; Munich Office; Remotely in the UK",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-02 16:53"
+        "timestamp": "2026-08-02 20:49"
     },
     {
-        "title": "Senior Software Engineer, Full Stack",
-        "company": "Clera",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-senior-software-engineer-full-stack-395513",
-        "loc": "remote",
+        "title": "Site Reliability Engineer",
+        "company": "Wheely",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/site-reliability-engineer-london-499262",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-02 16:53"
+        "timestamp": "2026-08-02 20:49"
+    },
+    {
+        "title": "(Senior) Backend Engineer, Marketplace",
+        "company": "Wheely",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/senior-backend-engineer-marketplace-london-294207",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-02 20:49"
+    },
+    {
+        "title": "(Senior) Backend Engineer, Maps",
+        "company": "Wheely",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/senior-backend-engineer-maps-london-31539",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-02 20:49"
+    },
+    {
+        "title": "Staff DevOps Engineer",
+        "company": "Ripple",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/ripple/staff-devops-engineer-london-315603",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-02 20:49"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -141,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-02 16:53"
+        "timestamp": "2026-08-02 20:49"
     },
     {
         "title": "Staff Software Engineer, Product (Belo Horizonte)",
@@ -153,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-02 16:53"
+        "timestamp": "2026-08-02 20:49"
     },
     {
         "title": "Staff Software Engineer, Product (Montevideo)",
@@ -165,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-02 16:53"
+        "timestamp": "2026-08-02 20:49"
     },
     {
         "title": "Staff Software Engineer, Product (S\u00e3o Paulo)",
@@ -177,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-02 16:53"
+        "timestamp": "2026-08-02 20:49"
     },
     {
         "title": "Staff Software Engineer, Product (Mexico City)",
@@ -189,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-02 16:53"
+        "timestamp": "2026-08-02 20:49"
     },
     {
         "title": "Staff Software Engineer, Product (Campinas)",
@@ -201,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-02 16:53"
+        "timestamp": "2026-08-02 20:49"
     },
     {
         "title": "Staff Software Engineer, Product (Florian\u00f3polis)",
@@ -213,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-02 16:53"
+        "timestamp": "2026-08-02 20:49"
     },
     {
         "title": "Staff Product Engineer (Mexico City)",
@@ -225,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-02 16:53"
+        "timestamp": "2026-08-02 20:49"
     },
     {
         "title": "Staff Product Engineer (Montevideo)",
@@ -237,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-02 16:53"
+        "timestamp": "2026-08-02 20:49"
     },
     {
         "title": "Staff Product Engineer (Campinas)",
@@ -249,7 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-02 16:53"
+        "timestamp": "2026-08-02 20:49"
     },
     {
         "title": "Staff Product Engineer (Belo Horizonte)",
@@ -261,7 +189,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-02 16:53"
+        "timestamp": "2026-08-02 20:49"
     },
     {
         "title": "Staff Product Engineer (Florian\u00f3polis)",
@@ -273,6 +201,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-02 16:53"
+        "timestamp": "2026-08-02 20:49"
     }
 ]
