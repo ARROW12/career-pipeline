@@ -1,5 +1,89 @@
 [
     {
+        "title": "Resident Solution Architect (Databricks)",
+        "company": "Clera",
+        "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-resident-solution-architect-databricks-56184",
+        "loc": "remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 88,
+        "timestamp": "2026-08-05 06:23"
+    },
+    {
+        "title": "Staff Software Engineer - Backend",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.com/jobs/companies/databricks/staff-software-engineer-backend-berlin-339866",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-08-05 06:23"
+    },
+    {
+        "title": "Senior Software Engineer - Backend",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.com/jobs/companies/databricks/senior-software-engineer-backend-berlin-267668",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 60,
+        "timestamp": "2026-08-05 06:23"
+    },
+    {
+        "title": "(Senior) Backend Developer \u2013 Product Creation & Assignment (m/w/d)",
+        "company": "idealo internet GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/senior-backend-developer-product-creation-assignment-berlin-411175",
+        "loc": "Berlin, Berlin, Deutschland",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-08-05 06:23"
+    },
+    {
+        "title": "Staff Engineer - Data Platform (m|w|d)",
+        "company": "idealo internet GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/staff-engineer-data-platform-mwd-berlin-380934",
+        "loc": "Berlin, Berlin, Deutschland",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 85,
+        "timestamp": "2026-08-05 06:23"
+    },
+    {
+        "title": "Software Engineer (f/m/d)",
+        "company": "Manex AI GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/manex-ai-gmbh/software-engineer-munich-178683",
+        "loc": "Munich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-08-05 06:23"
+    },
+    {
+        "title": "Senior Data Analyst (Engineer) (f/m/d)",
+        "company": "adjoe",
+        "url": "https://www.arbeitnow.com/jobs/companies/adjoe/senior-data-analyst-engineer-hamburg-319052",
+        "loc": "Hamburg",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-08-05 06:23"
+    },
+    {
         "title": "Senior Software Engineer (m/f/d)",
         "company": "Cello",
         "url": "https://www.arbeitnow.com/jobs/companies/cello/senior-software-engineer-germany-2669",
@@ -9,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-05 02:03"
+        "timestamp": "2026-08-05 06:23"
     },
     {
         "title": "Release Engineer",
@@ -21,31 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-05 02:03"
-    },
-    {
-        "title": "Founding Software Engineer (Backend, Cloud & AI Infrastructure)",
-        "company": "NextexAI",
-        "url": "https://www.arbeitnow.com/jobs/companies/nextexai/founding-software-engineer-backend-cloud-ai-infrastructure-berlin-410693",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-05 02:03"
-    },
-    {
-        "title": "Staff Engineer - Data Platform (m|w|d)",
-        "company": "idealo internet GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/staff-engineer-data-platform-mwd-berlin-425986",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 85,
-        "timestamp": "2026-08-05 02:03"
+        "timestamp": "2026-08-05 06:23"
     },
     {
         "title": "Analytics Engineer",
@@ -57,19 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-05 02:03"
-    },
-    {
-        "title": "Infrastructure engineer (UK)",
-        "company": "Writer",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/writer/infrastructure-engineer-uk-london-105450",
-        "loc": "London, UK",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-05 02:03"
+        "timestamp": "2026-08-05 06:23"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -81,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-05 02:03"
+        "timestamp": "2026-08-05 06:23"
     },
     {
         "title": "Staff Software Engineer, Product (Belo Horizonte)",
@@ -93,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-05 02:03"
+        "timestamp": "2026-08-05 06:23"
     },
     {
         "title": "Staff Software Engineer, Product (Montevideo)",
@@ -105,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-05 02:03"
+        "timestamp": "2026-08-05 06:23"
     },
     {
         "title": "Staff Software Engineer, Product (S\u00e3o Paulo)",
@@ -117,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-05 02:03"
+        "timestamp": "2026-08-05 06:23"
     },
     {
         "title": "Staff Software Engineer, Product (Mexico City)",
@@ -129,7 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-05 02:03"
+        "timestamp": "2026-08-05 06:23"
     },
     {
         "title": "Staff Software Engineer, Product (Campinas)",
@@ -141,7 +189,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-05 02:03"
+        "timestamp": "2026-08-05 06:23"
     },
     {
         "title": "Staff Software Engineer, Product (Florian\u00f3polis)",
@@ -153,7 +201,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-05 02:03"
+        "timestamp": "2026-08-05 06:23"
     },
     {
         "title": "Staff Product Engineer (Mexico City)",
@@ -165,7 +213,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-05 02:03"
+        "timestamp": "2026-08-05 06:23"
     },
     {
         "title": "Staff Product Engineer (Montevideo)",
@@ -177,7 +225,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-05 02:03"
+        "timestamp": "2026-08-05 06:23"
     },
     {
         "title": "Staff Product Engineer (Campinas)",
@@ -189,7 +237,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-05 02:03"
+        "timestamp": "2026-08-05 06:23"
     },
     {
         "title": "Staff Product Engineer (Belo Horizonte)",
@@ -201,7 +249,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-05 02:03"
+        "timestamp": "2026-08-05 06:23"
     },
     {
         "title": "Staff Product Engineer (Florian\u00f3polis)",
@@ -213,6 +261,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-05 02:03"
+        "timestamp": "2026-08-05 06:23"
     }
 ]
