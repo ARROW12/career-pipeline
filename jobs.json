@@ -1,75 +1,75 @@
 [
     {
-        "title": "AI/ML Engineer (all genders)",
-        "company": "Sunday Natural",
-        "url": "https://www.arbeitnow.com/jobs/companies/sunday-natural/ai-ml-engineer-all-genders-berlin-23246",
+        "title": "Senior Software Engineer (m/f/d)",
+        "company": "Cello",
+        "url": "https://www.arbeitnow.com/jobs/companies/cello/senior-software-engineer-germany-2669",
+        "loc": "Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-05 02:03"
+    },
+    {
+        "title": "Release Engineer",
+        "company": "Engflow",
+        "url": "https://www.arbeitnow.com/jobs/companies/engflow/release-engineer-germany-58920",
+        "loc": "Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-05 02:03"
+    },
+    {
+        "title": "Founding Software Engineer (Backend, Cloud & AI Infrastructure)",
+        "company": "NextexAI",
+        "url": "https://www.arbeitnow.com/jobs/companies/nextexai/founding-software-engineer-backend-cloud-ai-infrastructure-berlin-410693",
         "loc": "Berlin",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 60,
-        "timestamp": "2026-08-04 21:07"
+        "tejas_score": 45,
+        "timestamp": "2026-08-05 02:03"
     },
     {
-        "title": "Resident Solution Architect (Databricks)",
-        "company": "Clera",
-        "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-resident-solution-architect-databricks-489322",
-        "loc": "remote",
+        "title": "Staff Engineer - Data Platform (m|w|d)",
+        "company": "idealo internet GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/staff-engineer-data-platform-mwd-berlin-425986",
+        "loc": "Berlin",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 88,
-        "timestamp": "2026-08-04 21:07"
+        "tejas_score": 85,
+        "timestamp": "2026-08-05 02:03"
     },
     {
-        "title": "Staff Engineer (Founding)",
-        "company": "Clera",
-        "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-staff-engineer-founding-317558",
-        "loc": "remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-04 21:07"
-    },
-    {
-        "title": "Python Developer - Data & Analytics Team - Options Market Making",
-        "company": "Mavensecuritiesholdingltd",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/mavensecuritiesholdingltd/python-developer-data-analytics-team-options-market-making-london-360202",
+        "title": "Analytics Engineer",
+        "company": "Axle Careers",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/axle-careers/analytics-engineer-london-227199",
         "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 50,
-        "timestamp": "2026-08-04 21:07"
+        "tejas_score": 45,
+        "timestamp": "2026-08-05 02:03"
     },
     {
-        "title": "Senior Software Engineer (Python)",
-        "company": "Aveni",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/aveni/senior-software-engineer-python-united-kingdom-212465",
-        "loc": "United Kingdom",
+        "title": "Infrastructure engineer (UK)",
+        "company": "Writer",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/writer/infrastructure-engineer-uk-london-105450",
+        "loc": "London, UK",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 66,
-        "timestamp": "2026-08-04 21:07"
-    },
-    {
-        "title": "Senior Data Analytics Engineer",
-        "company": "Dotmatics",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/dotmatics/senior-data-analytics-engineer-254460",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 75,
-        "timestamp": "2026-08-04 21:07"
+        "tejas_score": 46,
+        "timestamp": "2026-08-05 02:03"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -81,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-04 21:07"
+        "timestamp": "2026-08-05 02:03"
     },
     {
         "title": "Staff Software Engineer, Product (Belo Horizonte)",
@@ -93,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-04 21:07"
+        "timestamp": "2026-08-05 02:03"
     },
     {
         "title": "Staff Software Engineer, Product (Montevideo)",
@@ -105,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-04 21:07"
+        "timestamp": "2026-08-05 02:03"
     },
     {
         "title": "Staff Software Engineer, Product (S\u00e3o Paulo)",
@@ -117,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-04 21:07"
+        "timestamp": "2026-08-05 02:03"
     },
     {
         "title": "Staff Software Engineer, Product (Mexico City)",
@@ -129,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-04 21:07"
+        "timestamp": "2026-08-05 02:03"
     },
     {
         "title": "Staff Software Engineer, Product (Campinas)",
@@ -141,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-04 21:07"
+        "timestamp": "2026-08-05 02:03"
     },
     {
         "title": "Staff Software Engineer, Product (Florian\u00f3polis)",
@@ -153,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-04 21:07"
+        "timestamp": "2026-08-05 02:03"
     },
     {
         "title": "Staff Product Engineer (Mexico City)",
@@ -165,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-04 21:07"
+        "timestamp": "2026-08-05 02:03"
     },
     {
         "title": "Staff Product Engineer (Montevideo)",
@@ -177,7 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-04 21:07"
+        "timestamp": "2026-08-05 02:03"
     },
     {
         "title": "Staff Product Engineer (Campinas)",
@@ -189,7 +189,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-04 21:07"
+        "timestamp": "2026-08-05 02:03"
     },
     {
         "title": "Staff Product Engineer (Belo Horizonte)",
@@ -201,7 +201,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-04 21:07"
+        "timestamp": "2026-08-05 02:03"
     },
     {
         "title": "Staff Product Engineer (Florian\u00f3polis)",
@@ -213,6 +213,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-04 21:07"
+        "timestamp": "2026-08-05 02:03"
     }
 ]
