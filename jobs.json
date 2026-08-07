@@ -1,51 +1,15 @@
 [
     {
-        "title": "Team Lead Data Products & Analytics (gn)",
-        "company": "Bikeleasing-Service GmbH & Co. KG",
-        "url": "https://www.arbeitnow.com/jobs/companies/bikeleasing-service-gmbh-co-kg/team-lead-data-products-analytics-gn-berlin-141780",
-        "loc": "Berlin",
+        "title": "Solution Architect",
+        "company": "Cognite",
+        "url": "https://www.arbeitnow.com/jobs/companies/cognite/solution-architect-443339",
+        "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-07 16:49"
-    },
-    {
-        "title": "Team Lead Data Products & Analytics (gn)",
-        "company": "Bikeleasing-Service GmbH & Co. KG",
-        "url": "https://www.arbeitnow.com/jobs/companies/bikeleasing-service-gmbh-co-kg/team-lead-data-products-analytics-gn-berlin-77346",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-07 16:49"
-    },
-    {
-        "title": "Data Platform Engineer (m/f/d)",
-        "company": "Flix",
-        "url": "https://www.arbeitnow.com/jobs/companies/flix/data-platform-engineer-berlin-59805",
-        "loc": "Berlin, Berlin, Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 84,
-        "timestamp": "2026-08-07 16:49"
-    },
-    {
-        "title": "Senior Analytics Engineer (f/m/x) - Enpal Energy",
-        "company": "Enpal",
-        "url": "https://www.arbeitnow.com/jobs/companies/enpal/senior-analytics-engineer-enpal-energy-berlin-138477",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 60,
-        "timestamp": "2026-08-07 16:49"
+        "tejas_score": 45,
+        "timestamp": "2026-08-07 20:35"
     },
     {
         "title": "Infrastructure engineer (UK)",
@@ -57,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-07 16:49"
+        "timestamp": "2026-08-07 20:35"
     },
     {
         "title": "Software quality engineer (UK)",
@@ -69,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-08-07 16:49"
+        "timestamp": "2026-08-07 20:35"
     },
     {
         "title": "Software engineer, generative AI (UK)",
@@ -81,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-07 16:49"
+        "timestamp": "2026-08-07 20:35"
     },
     {
         "title": "Safety Engineer - Free Tier Abuse",
@@ -93,19 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-07 16:49"
-    },
-    {
-        "title": "Senior Technical Support Engineer",
-        "company": "Digitalassetcorp",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/digitalassetcorp/senior-technical-support-engineer-sydney-454457",
-        "loc": "Sydney",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-07 16:49"
+        "timestamp": "2026-08-07 20:35"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -117,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-07 16:49"
+        "timestamp": "2026-08-07 20:35"
     },
     {
         "title": "Staff Software Engineer, Product (Belo Horizonte)",
@@ -129,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-07 16:49"
+        "timestamp": "2026-08-07 20:35"
     },
     {
         "title": "Staff Software Engineer, Product (Montevideo)",
@@ -141,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-07 16:49"
+        "timestamp": "2026-08-07 20:35"
     },
     {
         "title": "Staff Software Engineer, Product (S\u00e3o Paulo)",
@@ -153,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-07 16:49"
+        "timestamp": "2026-08-07 20:35"
     },
     {
         "title": "Staff Software Engineer, Product (Mexico City)",
@@ -165,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-07 16:49"
+        "timestamp": "2026-08-07 20:35"
     },
     {
         "title": "Staff Software Engineer, Product (Campinas)",
@@ -177,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-07 16:49"
+        "timestamp": "2026-08-07 20:35"
     },
     {
         "title": "Staff Software Engineer, Product (Florian\u00f3polis)",
@@ -189,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-07 16:49"
+        "timestamp": "2026-08-07 20:35"
     },
     {
         "title": "Staff Product Engineer (Mexico City)",
@@ -201,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-07 16:49"
+        "timestamp": "2026-08-07 20:35"
     },
     {
         "title": "Staff Product Engineer (Montevideo)",
@@ -213,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-07 16:49"
+        "timestamp": "2026-08-07 20:35"
     },
     {
         "title": "Staff Product Engineer (Campinas)",
@@ -225,7 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-07 16:49"
+        "timestamp": "2026-08-07 20:35"
     },
     {
         "title": "Staff Product Engineer (Belo Horizonte)",
@@ -237,7 +189,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-07 16:49"
+        "timestamp": "2026-08-07 20:35"
     },
     {
         "title": "Staff Product Engineer (Florian\u00f3polis)",
@@ -249,6 +201,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-07 16:49"
+        "timestamp": "2026-08-07 20:35"
     }
 ]
