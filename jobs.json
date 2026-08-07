@@ -1,5 +1,41 @@
 [
     {
+        "title": "Team Lead Data Products & Analytics (gn)",
+        "company": "Bikeleasing-Service GmbH & Co. KG",
+        "url": "https://www.arbeitnow.com/jobs/companies/bikeleasing-service-gmbh-co-kg/team-lead-data-products-analytics-gn-berlin-141780",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-07 16:49"
+    },
+    {
+        "title": "Team Lead Data Products & Analytics (gn)",
+        "company": "Bikeleasing-Service GmbH & Co. KG",
+        "url": "https://www.arbeitnow.com/jobs/companies/bikeleasing-service-gmbh-co-kg/team-lead-data-products-analytics-gn-berlin-77346",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-07 16:49"
+    },
+    {
+        "title": "Data Platform Engineer (m/f/d)",
+        "company": "Flix",
+        "url": "https://www.arbeitnow.com/jobs/companies/flix/data-platform-engineer-berlin-59805",
+        "loc": "Berlin, Berlin, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 84,
+        "timestamp": "2026-08-07 16:49"
+    },
+    {
         "title": "Senior Analytics Engineer (f/m/x) - Enpal Energy",
         "company": "Enpal",
         "url": "https://www.arbeitnow.com/jobs/companies/enpal/senior-analytics-engineer-enpal-energy-berlin-138477",
@@ -9,7 +45,55 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 60,
-        "timestamp": "2026-08-07 12:52"
+        "timestamp": "2026-08-07 16:49"
+    },
+    {
+        "title": "Infrastructure engineer (UK)",
+        "company": "Writer",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/writer/infrastructure-engineer-uk-london-30343",
+        "loc": "London, UK",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-07 16:49"
+    },
+    {
+        "title": "Software quality engineer (UK)",
+        "company": "Writer",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/writer/software-quality-engineer-uk-london-387820",
+        "loc": "London, UK",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-08-07 16:49"
+    },
+    {
+        "title": "Software engineer, generative AI (UK)",
+        "company": "Writer",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/writer/software-engineer-generative-ai-uk-london-249213",
+        "loc": "London, UK",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-07 16:49"
+    },
+    {
+        "title": "Safety Engineer - Free Tier Abuse",
+        "company": "ElevenLabs",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/safety-engineer-free-tier-abuse-united-kingdom-471765",
+        "loc": "United Kingdom",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-07 16:49"
     },
     {
         "title": "Senior Technical Support Engineer",
@@ -21,79 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-07 12:52"
-    },
-    {
-        "title": "Senior Analytics Engineer",
-        "company": "Monzo",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-analytics-engineer-cardiff-383262",
-        "loc": "Cardiff",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-07 12:52"
-    },
-    {
-        "title": "Python Analytics Engineer",
-        "company": "Lendable",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/python-analytics-engineer-london-229833",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 65,
-        "timestamp": "2026-08-07 12:52"
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Lendable",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/data-engineer-london-312190",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-07 12:52"
-    },
-    {
-        "title": "Python Engineer",
-        "company": "Lendable",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/python-engineer-london-88893",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 65,
-        "timestamp": "2026-08-07 12:52"
-    },
-    {
-        "title": "Analytics Engineer",
-        "company": "Lendable",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/analytics-engineer-london-140054",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-07 12:52"
-    },
-    {
-        "title": "Data Architect",
-        "company": "Unity Advisory",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/unity-advisory/data-architect-london-150773",
-        "loc": "London, Mayfair",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 75,
-        "timestamp": "2026-08-07 12:52"
+        "timestamp": "2026-08-07 16:49"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -105,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-07 12:52"
+        "timestamp": "2026-08-07 16:49"
     },
     {
         "title": "Staff Software Engineer, Product (Belo Horizonte)",
@@ -117,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-07 12:52"
+        "timestamp": "2026-08-07 16:49"
     },
     {
         "title": "Staff Software Engineer, Product (Montevideo)",
@@ -129,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-07 12:52"
+        "timestamp": "2026-08-07 16:49"
     },
     {
         "title": "Staff Software Engineer, Product (S\u00e3o Paulo)",
@@ -141,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-07 12:52"
+        "timestamp": "2026-08-07 16:49"
     },
     {
         "title": "Staff Software Engineer, Product (Mexico City)",
@@ -153,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-07 12:52"
+        "timestamp": "2026-08-07 16:49"
     },
     {
         "title": "Staff Software Engineer, Product (Campinas)",
@@ -165,7 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-07 12:52"
+        "timestamp": "2026-08-07 16:49"
     },
     {
         "title": "Staff Software Engineer, Product (Florian\u00f3polis)",
@@ -177,7 +189,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-07 12:52"
+        "timestamp": "2026-08-07 16:49"
     },
     {
         "title": "Staff Product Engineer (Mexico City)",
@@ -189,7 +201,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-07 12:52"
+        "timestamp": "2026-08-07 16:49"
     },
     {
         "title": "Staff Product Engineer (Montevideo)",
@@ -201,7 +213,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-07 12:52"
+        "timestamp": "2026-08-07 16:49"
     },
     {
         "title": "Staff Product Engineer (Campinas)",
@@ -213,7 +225,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-07 12:52"
+        "timestamp": "2026-08-07 16:49"
     },
     {
         "title": "Staff Product Engineer (Belo Horizonte)",
@@ -225,7 +237,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-07 12:52"
+        "timestamp": "2026-08-07 16:49"
     },
     {
         "title": "Staff Product Engineer (Florian\u00f3polis)",
@@ -237,6 +249,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-07 12:52"
+        "timestamp": "2026-08-07 16:49"
     }
 ]
