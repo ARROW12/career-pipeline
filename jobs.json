@@ -1,51 +1,111 @@
 [
     {
-        "title": "Scientific Data Architect - Germany Expression of interest",
-        "company": "Tetrascience",
-        "url": "https://www.arbeitnow.com/jobs/companies/tetrascience/scientific-data-architect-germany-expression-of-interest-dusseldorf-260904",
-        "loc": "D\u00fcsseldorf, Germany",
+        "title": "Forward Deployment Engineer",
+        "company": "Clera",
+        "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-forward-deployment-engineer-53846",
+        "loc": "remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-08 16:27"
+    },
+    {
+        "title": "Founding Cloud Infrastructure Engineer",
+        "company": "Clera",
+        "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-cloud-infrastructure-engineer-100861",
+        "loc": "remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-08 16:27"
+    },
+    {
+        "title": "Founding Engineer",
+        "company": "Clera",
+        "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-engineer-munich-481672",
+        "loc": "Munich",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-08 12:37"
+        "timestamp": "2026-08-08 16:27"
     },
     {
-        "title": "Scientific Data Architect - Germany Expression of interest",
-        "company": "Tetrascience",
-        "url": "https://www.arbeitnow.com/jobs/companies/tetrascience/scientific-data-architect-germany-expression-of-interest-darmstadt-440802",
-        "loc": "Darmstadt, Germany",
+        "title": "Staff Engineer (Founding)",
+        "company": "Clera",
+        "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-staff-engineer-founding-111093",
+        "loc": "remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-08 16:27"
+    },
+    {
+        "title": "AI/LLM Engineer",
+        "company": "Clera",
+        "url": "https://www.arbeitnow.com/jobs/companies/clera/ai-llm-engineer-munich-303117",
+        "loc": "Munich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 58,
+        "timestamp": "2026-08-08 16:27"
+    },
+    {
+        "title": "Full-Stack Engineer",
+        "company": "Clera",
+        "url": "https://www.arbeitnow.com/jobs/companies/clera/full-stack-engineer-munich-473644",
+        "loc": "Munich",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-08 12:37"
+        "timestamp": "2026-08-08 16:27"
     },
     {
-        "title": "Scientific Data Architect - Germany Expression of interest",
-        "company": "Tetrascience",
-        "url": "https://www.arbeitnow.com/jobs/companies/tetrascience/scientific-data-architect-germany-expression-of-interest-frankfurt-am-main-457514",
-        "loc": "Frankfurt am Main, Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-08 12:37"
-    },
-    {
-        "title": "Senior Backend + Infrastructure Engineer (Platform)",
-        "company": "Soda Data Nv",
-        "url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/remote-senior-backend-infrastructure-engineer-platform-germany-203231",
-        "loc": "Germany",
+        "title": "Full Stack Engineer: Retail Media",
+        "company": "Constructor",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-full-stack-engineer-retail-media-84755",
+        "loc": "Remote - EMEA",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-08 12:37"
+        "timestamp": "2026-08-08 16:27"
+    },
+    {
+        "title": "Data Analyst: Retail Media",
+        "company": "Constructor",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-data-analyst-retail-media-360467",
+        "loc": "Remote - EMEA",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 77,
+        "timestamp": "2026-08-08 16:27"
+    },
+    {
+        "title": "Senior Backend Engineer: Machine Learning Infrastructure",
+        "company": "Constructor",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-senior-backend-engineer-machine-learning-infrastructure-169800",
+        "loc": "Remote - EMEA",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-08 16:27"
     },
     {
         "title": "Senior Software Engineer, Custody Services",
@@ -57,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-08 12:37"
+        "timestamp": "2026-08-08 16:27"
     },
     {
         "title": "Manager, Software Engineering (Libraries Automation)",
@@ -69,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 54,
-        "timestamp": "2026-08-08 12:37"
+        "timestamp": "2026-08-08 16:27"
     },
     {
         "title": "Senior Data Engineer",
@@ -81,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-08-08 12:37"
+        "timestamp": "2026-08-08 16:27"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -93,6 +153,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-08 12:37"
+        "timestamp": "2026-08-08 16:27"
     }
 ]
