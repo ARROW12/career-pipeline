@@ -1,5 +1,17 @@
 [
     {
+        "title": "Senior Software Engineer (m/f/d)",
+        "company": "Cello",
+        "url": "https://www.arbeitnow.com/jobs/companies/cello/senior-software-engineer-germany-380658",
+        "loc": "Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-08 20:23"
+    },
+    {
         "title": "Forward Deployment Engineer",
         "company": "Clera",
         "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-forward-deployment-engineer-53846",
@@ -9,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-08 16:27"
+        "timestamp": "2026-08-08 20:23"
     },
     {
         "title": "Founding Cloud Infrastructure Engineer",
@@ -21,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-08 16:27"
+        "timestamp": "2026-08-08 20:23"
     },
     {
         "title": "Founding Engineer",
@@ -33,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-08 16:27"
+        "timestamp": "2026-08-08 20:23"
     },
     {
         "title": "Staff Engineer (Founding)",
@@ -45,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-08 16:27"
+        "timestamp": "2026-08-08 20:23"
     },
     {
         "title": "AI/LLM Engineer",
@@ -57,19 +69,43 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 58,
-        "timestamp": "2026-08-08 16:27"
+        "timestamp": "2026-08-08 20:23"
     },
     {
-        "title": "Full-Stack Engineer",
-        "company": "Clera",
-        "url": "https://www.arbeitnow.com/jobs/companies/clera/full-stack-engineer-munich-473644",
-        "loc": "Munich",
+        "title": "Engineering Manager - Data Platform",
+        "company": "Addepar1",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/engineering-manager-data-platform-edinburgh-137521",
+        "loc": "Edinburgh",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-08 16:27"
+        "tejas_score": 76,
+        "timestamp": "2026-08-08 20:23"
+    },
+    {
+        "title": "Alts Data Ops Analyst",
+        "company": "Addepar1",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/alts-data-ops-analyst-edinburgh-129143",
+        "loc": "Edinburgh",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-08-08 20:23"
+    },
+    {
+        "title": "Senior Sales Engineer, Enterprise",
+        "company": "Fivetran",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/fivetran/remote-senior-sales-engineer-enterprise-119105",
+        "loc": "Remote, EMEA",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 75,
+        "timestamp": "2026-08-08 20:23"
     },
     {
         "title": "Full Stack Engineer: Retail Media",
@@ -81,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-08 16:27"
+        "timestamp": "2026-08-08 20:23"
     },
     {
         "title": "Data Analyst: Retail Media",
@@ -93,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 77,
-        "timestamp": "2026-08-08 16:27"
+        "timestamp": "2026-08-08 20:23"
     },
     {
         "title": "Senior Backend Engineer: Machine Learning Infrastructure",
@@ -105,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-08 16:27"
+        "timestamp": "2026-08-08 20:23"
     },
     {
         "title": "Senior Software Engineer, Custody Services",
@@ -117,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-08 16:27"
+        "timestamp": "2026-08-08 20:23"
     },
     {
         "title": "Manager, Software Engineering (Libraries Automation)",
@@ -129,19 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 54,
-        "timestamp": "2026-08-08 16:27"
-    },
-    {
-        "title": "Senior Data Engineer",
-        "company": "Quantum",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/senior-data-engineer-london-382561",
-        "loc": "London (hybrid)",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-08-08 16:27"
+        "timestamp": "2026-08-08 20:23"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -153,6 +177,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-08 16:27"
+        "timestamp": "2026-08-08 20:23"
     }
 ]
