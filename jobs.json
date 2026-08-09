@@ -1,51 +1,63 @@
 [
     {
-        "title": "Senior Software Engineer (m/f/d)",
-        "company": "Cello",
-        "url": "https://www.arbeitnow.com/jobs/companies/cello/senior-software-engineer-germany-380658",
-        "loc": "Germany",
+        "title": "Senior Backend Engineer - (Kotlin, Spring, AWS) - Better Places (d/f/m)",
+        "company": "Bettermile",
+        "url": "https://www.arbeitnow.com/jobs/companies/bettermile/senior-backend-engineer-kotlin-spring-aws-better-places-berlin-241709",
+        "loc": "Better Place, Oranienstra\u00dfe 183, Berlin",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-09 01:19"
+        "tejas_score": 58,
+        "timestamp": "2026-08-09 04:59"
     },
     {
         "title": "Forward Deployment Engineer",
         "company": "Clera",
-        "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-forward-deployment-engineer-53846",
+        "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-forward-deployment-engineer-250362",
         "loc": "remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-09 01:19"
+        "timestamp": "2026-08-09 04:59"
     },
     {
         "title": "Founding Cloud Infrastructure Engineer",
         "company": "Clera",
-        "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-cloud-infrastructure-engineer-100861",
+        "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-cloud-infrastructure-engineer-257151",
         "loc": "remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-09 01:19"
+        "timestamp": "2026-08-09 04:59"
     },
     {
         "title": "Founding Engineer",
         "company": "Clera",
-        "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-engineer-munich-481672",
+        "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-engineer-munich-481984",
         "loc": "Munich",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-09 01:19"
+        "timestamp": "2026-08-09 04:59"
+    },
+    {
+        "title": "Staff Engineer (Founding)",
+        "company": "Clera",
+        "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-staff-engineer-founding-131517",
+        "loc": "remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-09 04:59"
     },
     {
         "title": "Engineering Manager - Data Platform",
@@ -57,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-08-09 01:19"
+        "timestamp": "2026-08-09 04:59"
     },
     {
         "title": "Alts Data Ops Analyst",
@@ -69,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-09 01:19"
+        "timestamp": "2026-08-09 04:59"
     },
     {
         "title": "Senior Sales Engineer, Enterprise",
@@ -81,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 75,
-        "timestamp": "2026-08-09 01:19"
+        "timestamp": "2026-08-09 04:59"
     },
     {
         "title": "Full Stack Engineer: Retail Media",
@@ -93,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-09 01:19"
+        "timestamp": "2026-08-09 04:59"
     },
     {
         "title": "Data Analyst: Retail Media",
@@ -105,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 77,
-        "timestamp": "2026-08-09 01:19"
+        "timestamp": "2026-08-09 04:59"
     },
     {
         "title": "Senior Backend Engineer: Machine Learning Infrastructure",
@@ -117,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-09 01:19"
+        "timestamp": "2026-08-09 04:59"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -129,6 +141,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-09 01:19"
+        "timestamp": "2026-08-09 04:59"
     }
 ]
