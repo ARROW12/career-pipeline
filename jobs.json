@@ -1,5 +1,17 @@
 [
     {
+        "title": "Senior Mendix Engineer",
+        "company": "Mendix",
+        "url": "https://www.arbeitnow.com/jobs/companies/mendix/senior-mendix-engineer-munich-268177",
+        "loc": "Munich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-09 20:26"
+    },
+    {
         "title": "Senior AI-Native Fullstack Engineer (m/w/d)",
         "company": "Zvoove",
         "url": "https://www.arbeitnow.com/jobs/companies/zvoove/senior-ai-native-fullstack-engineer-de-munchen-385334",
@@ -9,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-09 16:28"
+        "timestamp": "2026-08-09 20:26"
     },
     {
         "title": "Senior Backend Engineer - (Kotlin, Spring, AWS) - Better Places (d/f/m)",
@@ -21,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 58,
-        "timestamp": "2026-08-09 16:28"
+        "timestamp": "2026-08-09 20:26"
     },
     {
         "title": "Forward Deployment Engineer",
@@ -33,31 +45,43 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-09 16:28"
+        "timestamp": "2026-08-09 20:26"
+    },
+    {
+        "title": "Forward Deployment Engineer",
+        "company": "Clera",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-forward-deployment-engineer-329361",
+        "loc": "remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-09 20:26"
     },
     {
         "title": "Founding Cloud Infrastructure Engineer",
         "company": "Clera",
-        "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-cloud-infrastructure-engineer-257151",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-founding-cloud-infrastructure-engineer-80378",
         "loc": "remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-09 16:28"
+        "timestamp": "2026-08-09 20:26"
     },
     {
-        "title": "Founding Engineer",
+        "title": "Staff Engineer (Founding)",
         "company": "Clera",
-        "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-engineer-munich-481984",
-        "loc": "Munich",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-staff-engineer-founding-118878",
+        "loc": "remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-09 16:28"
+        "tejas_score": 46,
+        "timestamp": "2026-08-09 20:26"
     },
     {
         "title": "Software Developer - Data Pipelines (Python)",
@@ -69,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 65,
-        "timestamp": "2026-08-09 16:28"
+        "timestamp": "2026-08-09 20:26"
     },
     {
         "title": "Senior Data Engineer - Real time analytics",
@@ -81,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-08-09 16:28"
+        "timestamp": "2026-08-09 20:26"
     },
     {
         "title": "Security Engineering Lead",
@@ -93,43 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-09 16:28"
-    },
-    {
-        "title": "Safety Engineer - Free Tier Abuse",
-        "company": "Elevenlabs",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/safety-engineer-free-tier-abuse-united-kingdom-294747",
-        "loc": "United Kingdom",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-09 16:28"
-    },
-    {
-        "title": "Engineering Manager - Data Platform",
-        "company": "Addepar1",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/engineering-manager-data-platform-edinburgh-137521",
-        "loc": "Edinburgh",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-08-09 16:28"
-    },
-    {
-        "title": "Alts Data Ops Analyst",
-        "company": "Addepar1",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/alts-data-ops-analyst-edinburgh-129143",
-        "loc": "Edinburgh",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-08-09 16:28"
+        "timestamp": "2026-08-09 20:26"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -141,6 +129,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-09 16:28"
+        "timestamp": "2026-08-09 20:26"
     }
 ]
