@@ -9,7 +9,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 58,
-        "timestamp": "2026-08-09 08:36"
+        "timestamp": "2026-08-09 12:40"
     },
     {
         "title": "Forward Deployment Engineer",
@@ -21,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-09 08:36"
+        "timestamp": "2026-08-09 12:40"
     },
     {
         "title": "Founding Cloud Infrastructure Engineer",
@@ -33,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-09 08:36"
+        "timestamp": "2026-08-09 12:40"
     },
     {
         "title": "Founding Engineer",
@@ -45,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-09 08:36"
+        "timestamp": "2026-08-09 12:40"
     },
     {
         "title": "Staff Engineer (Founding)",
@@ -57,7 +57,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-09 08:36"
+        "timestamp": "2026-08-09 12:40"
+    },
+    {
+        "title": "Software Developer - Data Pipelines (Python)",
+        "company": "Squarepointcapital",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/squarepointcapital/software-developer-data-pipelines-python-london-montreal-madrid-bangalore-66834",
+        "loc": "London, Montreal, Madrid, Bangalore",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 65,
+        "timestamp": "2026-08-09 12:40"
+    },
+    {
+        "title": "Senior Data Engineer - Real time analytics",
+        "company": "Aircall",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/aircall/senior-data-engineer-real-time-analytics-london-office-417529",
+        "loc": "London Office",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-08-09 12:40"
     },
     {
         "title": "Security Engineering Lead",
@@ -69,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-09 08:36"
+        "timestamp": "2026-08-09 12:40"
     },
     {
         "title": "Safety Engineer - Free Tier Abuse",
@@ -81,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-09 08:36"
+        "timestamp": "2026-08-09 12:40"
     },
     {
         "title": "Engineering Manager - Data Platform",
@@ -93,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-08-09 08:36"
+        "timestamp": "2026-08-09 12:40"
     },
     {
         "title": "Alts Data Ops Analyst",
@@ -105,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-09 08:36"
+        "timestamp": "2026-08-09 12:40"
     },
     {
         "title": "Senior Sales Engineer, Enterprise",
@@ -117,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 75,
-        "timestamp": "2026-08-09 08:36"
+        "timestamp": "2026-08-09 12:40"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -129,6 +153,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-09 08:36"
+        "timestamp": "2026-08-09 12:40"
     }
 ]
