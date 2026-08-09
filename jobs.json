@@ -9,7 +9,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 58,
-        "timestamp": "2026-08-09 04:59"
+        "timestamp": "2026-08-09 08:36"
     },
     {
         "title": "Forward Deployment Engineer",
@@ -21,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-09 04:59"
+        "timestamp": "2026-08-09 08:36"
     },
     {
         "title": "Founding Cloud Infrastructure Engineer",
@@ -33,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-09 04:59"
+        "timestamp": "2026-08-09 08:36"
     },
     {
         "title": "Founding Engineer",
@@ -45,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-09 04:59"
+        "timestamp": "2026-08-09 08:36"
     },
     {
         "title": "Staff Engineer (Founding)",
@@ -57,7 +57,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-09 04:59"
+        "timestamp": "2026-08-09 08:36"
+    },
+    {
+        "title": "Security Engineering Lead",
+        "company": "Wehrtyou",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/security-engineering-lead-new-york-ny-united-states-398339",
+        "loc": "New York, NY, United States",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-09 08:36"
+    },
+    {
+        "title": "Safety Engineer - Free Tier Abuse",
+        "company": "Elevenlabs",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/safety-engineer-free-tier-abuse-united-kingdom-294747",
+        "loc": "United Kingdom",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-09 08:36"
     },
     {
         "title": "Engineering Manager - Data Platform",
@@ -69,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-08-09 04:59"
+        "timestamp": "2026-08-09 08:36"
     },
     {
         "title": "Alts Data Ops Analyst",
@@ -81,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-09 04:59"
+        "timestamp": "2026-08-09 08:36"
     },
     {
         "title": "Senior Sales Engineer, Enterprise",
@@ -93,43 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 75,
-        "timestamp": "2026-08-09 04:59"
-    },
-    {
-        "title": "Full Stack Engineer: Retail Media",
-        "company": "Constructor",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-full-stack-engineer-retail-media-84755",
-        "loc": "Remote - EMEA",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-08-09 04:59"
-    },
-    {
-        "title": "Data Analyst: Retail Media",
-        "company": "Constructor",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-data-analyst-retail-media-360467",
-        "loc": "Remote - EMEA",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 77,
-        "timestamp": "2026-08-09 04:59"
-    },
-    {
-        "title": "Senior Backend Engineer: Machine Learning Infrastructure",
-        "company": "Constructor",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-senior-backend-engineer-machine-learning-infrastructure-169800",
-        "loc": "Remote - EMEA",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-09 04:59"
+        "timestamp": "2026-08-09 08:36"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -141,6 +129,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-09 04:59"
+        "timestamp": "2026-08-09 08:36"
     }
 ]
