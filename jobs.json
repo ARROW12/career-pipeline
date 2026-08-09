@@ -9,7 +9,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-08 20:23"
+        "timestamp": "2026-08-09 01:19"
     },
     {
         "title": "Forward Deployment Engineer",
@@ -21,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-08 20:23"
+        "timestamp": "2026-08-09 01:19"
     },
     {
         "title": "Founding Cloud Infrastructure Engineer",
@@ -33,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-08 20:23"
+        "timestamp": "2026-08-09 01:19"
     },
     {
         "title": "Founding Engineer",
@@ -45,31 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-08 20:23"
-    },
-    {
-        "title": "Staff Engineer (Founding)",
-        "company": "Clera",
-        "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-staff-engineer-founding-111093",
-        "loc": "remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-08 20:23"
-    },
-    {
-        "title": "AI/LLM Engineer",
-        "company": "Clera",
-        "url": "https://www.arbeitnow.com/jobs/companies/clera/ai-llm-engineer-munich-303117",
-        "loc": "Munich",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 58,
-        "timestamp": "2026-08-08 20:23"
+        "timestamp": "2026-08-09 01:19"
     },
     {
         "title": "Engineering Manager - Data Platform",
@@ -81,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-08-08 20:23"
+        "timestamp": "2026-08-09 01:19"
     },
     {
         "title": "Alts Data Ops Analyst",
@@ -93,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-08 20:23"
+        "timestamp": "2026-08-09 01:19"
     },
     {
         "title": "Senior Sales Engineer, Enterprise",
@@ -105,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 75,
-        "timestamp": "2026-08-08 20:23"
+        "timestamp": "2026-08-09 01:19"
     },
     {
         "title": "Full Stack Engineer: Retail Media",
@@ -117,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-08 20:23"
+        "timestamp": "2026-08-09 01:19"
     },
     {
         "title": "Data Analyst: Retail Media",
@@ -129,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 77,
-        "timestamp": "2026-08-08 20:23"
+        "timestamp": "2026-08-09 01:19"
     },
     {
         "title": "Senior Backend Engineer: Machine Learning Infrastructure",
@@ -141,31 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-08 20:23"
-    },
-    {
-        "title": "Senior Software Engineer, Custody Services",
-        "company": "Robinhood",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/robinhood/senior-software-engineer-custody-services-london-354666",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-08 20:23"
-    },
-    {
-        "title": "Manager, Software Engineering (Libraries Automation)",
-        "company": "chainguard",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/chainguard/manager-software-engineering-libraries-automation-100913",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 54,
-        "timestamp": "2026-08-08 20:23"
+        "timestamp": "2026-08-09 01:19"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -177,6 +129,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-08 20:23"
+        "timestamp": "2026-08-09 01:19"
     }
 ]
