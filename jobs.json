@@ -1,15 +1,15 @@
 [
     {
-        "title": "Senior Software Engineer (Managed PostgreSQL)",
-        "company": "Nebius",
-        "url": "https://www.arbeitnow.com/jobs/companies/nebius/senior-software-engineer-managed-postgresql-193298",
-        "loc": "Remote",
+        "title": "Werkstudent:in Generative Engine Optimization (GEO) Data & Backend (m/w/d) vor Ort | hybrid",
+        "company": "Palmer Hargreaves GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/palmer-hargreaves-gmbh/werkstudentin-generative-engine-optimization-geo-data-backend-vor-ort-hybrid-cologne-324217",
+        "loc": "Cologne",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 50,
-        "timestamp": "2026-08-10 09:14"
+        "tejas_score": 53,
+        "timestamp": "2026-08-10 12:56"
     },
     {
         "title": "Senior IT Engineer (AI)",
@@ -21,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-10 09:14"
+        "timestamp": "2026-08-10 12:56"
     },
     {
         "title": "Manager, Forward Deployed Engineering",
@@ -33,19 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-10 09:14"
-    },
-    {
-        "title": "Staff Infrastructure Engineer",
-        "company": "Ripple",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/ripple/staff-infrastructure-engineer-sydney-australia-250414",
-        "loc": "Sydney, Australia",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-08-10 09:14"
+        "timestamp": "2026-08-10 12:56"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -57,6 +45,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-10 09:14"
+        "timestamp": "2026-08-10 12:56"
     }
 ]
