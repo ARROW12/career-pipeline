@@ -9,31 +9,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-08-10 05:21"
+        "timestamp": "2026-08-10 09:14"
     },
     {
-        "title": "Senior Mendix Engineer",
-        "company": "Mendix",
-        "url": "https://www.arbeitnow.com/jobs/companies/mendix/senior-mendix-engineer-munich-268177",
-        "loc": "Munich",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-10 05:21"
-    },
-    {
-        "title": "Senior AI-Native Fullstack Engineer (m/w/d)",
-        "company": "Zvoove",
-        "url": "https://www.arbeitnow.com/jobs/companies/zvoove/senior-ai-native-fullstack-engineer-de-munchen-385334",
-        "loc": "DE | M\u00fcnchen",
+        "title": "Senior IT Engineer (AI)",
+        "company": "Iterable",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/iterable/senior-it-engineer-ai-london-31960",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-10 05:21"
+        "timestamp": "2026-08-10 09:14"
     },
     {
         "title": "Manager, Forward Deployed Engineering",
@@ -45,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-10 05:21"
+        "timestamp": "2026-08-10 09:14"
     },
     {
         "title": "Staff Infrastructure Engineer",
@@ -57,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-10 05:21"
+        "timestamp": "2026-08-10 09:14"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -69,6 +57,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-10 05:21"
+        "timestamp": "2026-08-10 09:14"
     }
 ]
