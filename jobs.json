@@ -9,7 +9,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-08-10 01:20"
+        "timestamp": "2026-08-10 05:21"
     },
     {
         "title": "Senior Mendix Engineer",
@@ -21,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-10 01:20"
+        "timestamp": "2026-08-10 05:21"
     },
     {
         "title": "Senior AI-Native Fullstack Engineer (m/w/d)",
@@ -33,7 +33,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-10 01:20"
+        "timestamp": "2026-08-10 05:21"
+    },
+    {
+        "title": "Manager, Forward Deployed Engineering",
+        "company": "Parloa",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/parloa/manager-forward-deployed-engineering-279284",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-10 05:21"
     },
     {
         "title": "Staff Infrastructure Engineer",
@@ -45,67 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-10 01:20"
-    },
-    {
-        "title": "Forward Deployment Engineer",
-        "company": "Clera",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-forward-deployment-engineer-329361",
-        "loc": "remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-10 01:20"
-    },
-    {
-        "title": "Founding Cloud Infrastructure Engineer",
-        "company": "Clera",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-founding-cloud-infrastructure-engineer-80378",
-        "loc": "remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-10 01:20"
-    },
-    {
-        "title": "Staff Engineer (Founding)",
-        "company": "Clera",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-staff-engineer-founding-118878",
-        "loc": "remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-10 01:20"
-    },
-    {
-        "title": "Software Developer - Data Pipelines (Python)",
-        "company": "Squarepointcapital",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/squarepointcapital/software-developer-data-pipelines-python-london-montreal-madrid-bangalore-66834",
-        "loc": "London, Montreal, Madrid, Bangalore",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 65,
-        "timestamp": "2026-08-10 01:20"
-    },
-    {
-        "title": "Senior Data Engineer - Real time analytics",
-        "company": "Aircall",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/aircall/senior-data-engineer-real-time-analytics-london-office-417529",
-        "loc": "London Office",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-08-10 01:20"
+        "timestamp": "2026-08-10 05:21"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -117,6 +69,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-10 01:20"
+        "timestamp": "2026-08-10 05:21"
     }
 ]
