@@ -1,5 +1,41 @@
 [
     {
+        "title": "Machine Learning Engineer (f/m/d)",
+        "company": "Awin",
+        "url": "https://www.arbeitnow.com/jobs/companies/awin/machine-learning-engineer-berlin-berlin-munchen-bavaria-180645",
+        "loc": "Berlin, Berlin; M\u00fcnchen, Bavaria",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 69,
+        "timestamp": "2026-08-10 20:36"
+    },
+    {
+        "title": "Principal Data Scientist (m/f/d)",
+        "company": "autoscout24",
+        "url": "https://www.arbeitnow.com/jobs/companies/autoscout24/principal-data-scientist-481617",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-10 20:36"
+    },
+    {
+        "title": "Agentic AI Software Engineer",
+        "company": "Machine Learning Reply",
+        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/agentic-ai-software-engineer-munich-240120",
+        "loc": "Munich, Bayern, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-10 20:36"
+    },
+    {
         "title": "Staff Backend Engineer - JVM (Java/Kotlin) & AWS",
         "company": "Adsquare",
         "url": "https://www.arbeitnow.com/jobs/companies/adsquare/staff-backend-engineer-jvm-java-kotlin-aws-berlin-331742",
@@ -9,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 81,
-        "timestamp": "2026-08-10 16:49"
+        "timestamp": "2026-08-10 20:36"
     },
     {
         "title": "Data Engineer (m/w/d) - Azure Cloud & MS Fabric",
@@ -21,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-10 16:49"
+        "timestamp": "2026-08-10 20:36"
     },
     {
         "title": "Senior Snowflake Data Engineer (m/w/d)",
@@ -33,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-10 16:49"
+        "timestamp": "2026-08-10 20:36"
     },
     {
         "title": "Data Platform Engineer Working Student (m/w/d)",
@@ -45,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 83,
-        "timestamp": "2026-08-10 16:49"
+        "timestamp": "2026-08-10 20:36"
     },
     {
         "title": "Data Engineer Working Student (m/w/d)",
@@ -57,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-10 16:49"
+        "timestamp": "2026-08-10 20:36"
     },
     {
         "title": "Product Owner Data & AI (m/f/d) \u2013 fluege.de",
@@ -69,19 +105,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-10 16:49"
+        "timestamp": "2026-08-10 20:36"
     },
     {
-        "title": "Senior IT Engineer (AI)",
-        "company": "Iterable",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/iterable/senior-it-engineer-ai-london-31960",
+        "title": "Sr. Solutions Architect",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/sr-solutions-architect-london-50889",
         "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-10 16:49"
+        "tejas_score": 83,
+        "timestamp": "2026-08-10 20:36"
+    },
+    {
+        "title": "Senior Data Analyst",
+        "company": "Cloudflare",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/cloudflare/senior-data-analyst-hybrid-7351",
+        "loc": "Hybrid",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-08-10 20:36"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -93,6 +141,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-10 16:49"
+        "timestamp": "2026-08-10 20:36"
     }
 ]
