@@ -1,15 +1,75 @@
 [
     {
-        "title": "Werkstudent:in Generative Engine Optimization (GEO) Data & Backend (m/w/d) vor Ort | hybrid",
-        "company": "Palmer Hargreaves GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/palmer-hargreaves-gmbh/werkstudentin-generative-engine-optimization-geo-data-backend-vor-ort-hybrid-cologne-324217",
-        "loc": "Cologne",
+        "title": "Staff Backend Engineer - JVM (Java/Kotlin) & AWS",
+        "company": "Adsquare",
+        "url": "https://www.arbeitnow.com/jobs/companies/adsquare/staff-backend-engineer-jvm-java-kotlin-aws-berlin-331742",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 81,
+        "timestamp": "2026-08-10 16:49"
+    },
+    {
+        "title": "Data Engineer (m/w/d) - Azure Cloud & MS Fabric",
+        "company": "Doehle",
+        "url": "https://www.arbeitnow.com/jobs/companies/doehle/data-engineer-azure-cloud-ms-fabric-hamburg-94631",
+        "loc": "Hamburg",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-10 12:56"
+        "timestamp": "2026-08-10 16:49"
+    },
+    {
+        "title": "Senior Snowflake Data Engineer (m/w/d)",
+        "company": "Jobrad Loop",
+        "url": "https://www.arbeitnow.com/jobs/companies/jobrad-loop/senior-snowflake-data-engineer-munchen-299676",
+        "loc": "M\u00fcnchen",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-10 16:49"
+    },
+    {
+        "title": "Data Platform Engineer Working Student (m/w/d)",
+        "company": "Trusteq Gmbh",
+        "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-platform-engineer-working-student-munchen-4377",
+        "loc": "M\u00fcnchen",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 83,
+        "timestamp": "2026-08-10 16:49"
+    },
+    {
+        "title": "Data Engineer Working Student (m/w/d)",
+        "company": "Trusteq Gmbh",
+        "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-engineer-working-student-koln-454384",
+        "loc": "K\u00f6ln",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-10 16:49"
+    },
+    {
+        "title": "Product Owner Data & AI (m/f/d) \u2013 fluege.de",
+        "company": "TC Flights Germany GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/tc-flights-germany-gmbh/product-owner-data-ai-fluegede-leipzig-104383",
+        "loc": "Leipzig",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-10 16:49"
     },
     {
         "title": "Senior IT Engineer (AI)",
@@ -21,19 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-10 12:56"
-    },
-    {
-        "title": "Manager, Forward Deployed Engineering",
-        "company": "Parloa",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/parloa/manager-forward-deployed-engineering-279284",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-10 12:56"
+        "timestamp": "2026-08-10 16:49"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -45,6 +93,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-10 12:56"
+        "timestamp": "2026-08-10 16:49"
     }
 ]
