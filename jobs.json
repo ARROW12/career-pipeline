@@ -1,5 +1,17 @@
 [
     {
+        "title": "Senior Software Engineer (Managed PostgreSQL)",
+        "company": "Nebius",
+        "url": "https://www.arbeitnow.com/jobs/companies/nebius/senior-software-engineer-managed-postgresql-193298",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 50,
+        "timestamp": "2026-08-10 01:20"
+    },
+    {
         "title": "Senior Mendix Engineer",
         "company": "Mendix",
         "url": "https://www.arbeitnow.com/jobs/companies/mendix/senior-mendix-engineer-munich-268177",
@@ -9,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-09 20:26"
+        "timestamp": "2026-08-10 01:20"
     },
     {
         "title": "Senior AI-Native Fullstack Engineer (m/w/d)",
@@ -21,31 +33,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-09 20:26"
+        "timestamp": "2026-08-10 01:20"
     },
     {
-        "title": "Senior Backend Engineer - (Kotlin, Spring, AWS) - Better Places (d/f/m)",
-        "company": "Bettermile",
-        "url": "https://www.arbeitnow.com/jobs/companies/bettermile/senior-backend-engineer-kotlin-spring-aws-better-places-berlin-241709",
-        "loc": "Better Place, Oranienstra\u00dfe 183, Berlin",
+        "title": "Staff Infrastructure Engineer",
+        "company": "Ripple",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/ripple/staff-infrastructure-engineer-sydney-australia-250414",
+        "loc": "Sydney, Australia",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 58,
-        "timestamp": "2026-08-09 20:26"
-    },
-    {
-        "title": "Forward Deployment Engineer",
-        "company": "Clera",
-        "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-forward-deployment-engineer-250362",
-        "loc": "remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-09 20:26"
+        "tejas_score": 61,
+        "timestamp": "2026-08-10 01:20"
     },
     {
         "title": "Forward Deployment Engineer",
@@ -57,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-09 20:26"
+        "timestamp": "2026-08-10 01:20"
     },
     {
         "title": "Founding Cloud Infrastructure Engineer",
@@ -69,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-09 20:26"
+        "timestamp": "2026-08-10 01:20"
     },
     {
         "title": "Staff Engineer (Founding)",
@@ -81,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-09 20:26"
+        "timestamp": "2026-08-10 01:20"
     },
     {
         "title": "Software Developer - Data Pipelines (Python)",
@@ -93,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 65,
-        "timestamp": "2026-08-09 20:26"
+        "timestamp": "2026-08-10 01:20"
     },
     {
         "title": "Senior Data Engineer - Real time analytics",
@@ -105,19 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-08-09 20:26"
-    },
-    {
-        "title": "Security Engineering Lead",
-        "company": "Wehrtyou",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/security-engineering-lead-new-york-ny-united-states-398339",
-        "loc": "New York, NY, United States",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-09 20:26"
+        "timestamp": "2026-08-10 01:20"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -129,6 +117,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-09 20:26"
+        "timestamp": "2026-08-10 01:20"
     }
 ]
