@@ -1,5 +1,77 @@
 [
     {
+        "title": "Staff Site Reliability Engineer (x/f/m)",
+        "company": "Doctolib",
+        "url": "https://www.arbeitnow.com/jobs/companies/doctolib/staff-site-reliability-engineer-berlin-berlin-66031",
+        "loc": "Berlin, Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-11 16:53"
+    },
+    {
+        "title": "Senior Data Plattform Engineering (m/w/d) Azure und Databricks",
+        "company": "Natalie Felsinger Consulting",
+        "url": "https://www.arbeitnow.com/jobs/companies/natalie-felsinger-consulting/senior-data-plattform-engineering-azure-und-databricks-frechen-259814",
+        "loc": "Frechen",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 88,
+        "timestamp": "2026-08-11 16:53"
+    },
+    {
+        "title": "Senior Research Engineer (Agentic Behavior)",
+        "company": "Jetbrains",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/jetbrains/senior-research-engineer-agentic-behavior-london-392243",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-08-11 16:53"
+    },
+    {
+        "title": "Head of Data Engineering",
+        "company": "Numan",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/numan/head-of-data-engineering-london-94050",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-11 16:53"
+    },
+    {
+        "title": "Principal Engineer - Technical Lead (Gen AI and MACH Architecture)",
+        "company": "Akqa",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/akqa/principal-engineer-technical-lead-gen-ai-and-mach-architecture-london-477979",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-11 16:53"
+    },
+    {
+        "title": "Engineering Manager - Data",
+        "company": "Primer.io",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/primerio/engineering-manager-data-united-kingdom-12359",
+        "loc": "United Kingdom",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-11 16:53"
+    },
+    {
         "title": "Senior DevOps Engineer",
         "company": "Lemon.io",
         "url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2091067",
@@ -9,6 +81,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-11 12:53"
+        "timestamp": "2026-08-11 16:53"
     }
 ]
