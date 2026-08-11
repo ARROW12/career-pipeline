@@ -9,7 +9,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-08-11 01:18"
+        "timestamp": "2026-08-11 05:02"
     },
     {
         "title": "Team Lead Data Products & Analytics (gn)",
@@ -21,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-11 01:18"
+        "timestamp": "2026-08-11 05:02"
     },
     {
         "title": "Senior Research Engineer (Agentic Behavior)",
@@ -33,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-11 01:18"
+        "timestamp": "2026-08-11 05:02"
     },
     {
         "title": "Senior MLOps Engineer (ML Workflows Engineering)",
@@ -45,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-11 01:18"
+        "timestamp": "2026-08-11 05:02"
     },
     {
         "title": "Machine Learning Engineer (f/m/d)",
@@ -57,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 69,
-        "timestamp": "2026-08-11 01:18"
+        "timestamp": "2026-08-11 05:02"
     },
     {
         "title": "Principal Data Scientist (m/f/d)",
@@ -69,19 +69,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-11 01:18"
+        "timestamp": "2026-08-11 05:02"
     },
     {
-        "title": "Agentic AI Software Engineer",
-        "company": "Machine Learning Reply",
-        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/agentic-ai-software-engineer-munich-240120",
-        "loc": "Munich, Bayern, Germany",
+        "title": "Senior Data Engineer",
+        "company": "Instil",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/instil/senior-data-engineer-belfast-18470",
+        "loc": "Belfast",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-11 01:18"
+        "tejas_score": 100,
+        "timestamp": "2026-08-11 05:02"
+    },
+    {
+        "title": "Software Engineer",
+        "company": "sonymusicentertainment",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/sonymusicentertainment/software-engineer-london-249117",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-11 05:02"
     },
     {
         "title": "Data Science & Analytics Lead",
@@ -93,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-11 01:18"
+        "timestamp": "2026-08-11 05:02"
     },
     {
         "title": "Senior Manager, Forward Deployed AI Engineer",
@@ -105,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-08-11 01:18"
+        "timestamp": "2026-08-11 05:02"
     },
     {
         "title": "Senior Manager, Data Engineering",
@@ -117,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 60,
-        "timestamp": "2026-08-11 01:18"
+        "timestamp": "2026-08-11 05:02"
     },
     {
         "title": "Manager, Senior Platform Software Engineer",
@@ -129,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-08-11 01:18"
+        "timestamp": "2026-08-11 05:02"
     },
     {
         "title": "Lead Data Products Engineer",
@@ -141,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 60,
-        "timestamp": "2026-08-11 01:18"
+        "timestamp": "2026-08-11 05:02"
     },
     {
         "title": "Data Analyst (London, UK)",
@@ -153,19 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 69,
-        "timestamp": "2026-08-11 01:18"
-    },
-    {
-        "title": "Sr. Solutions Architect",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/sr-solutions-architect-london-50889",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 83,
-        "timestamp": "2026-08-11 01:18"
+        "timestamp": "2026-08-11 05:02"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -177,6 +177,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-11 01:18"
+        "timestamp": "2026-08-11 05:02"
     }
 ]
