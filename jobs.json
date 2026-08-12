@@ -1,63 +1,27 @@
 [
     {
-        "title": "Product Owner Data & AI (m/f/d) \u2013 fluege.de",
-        "company": "TC Flights Germany GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/tc-flights-germany-gmbh/product-owner-data-ai-fluegede-berlin-102207",
-        "loc": "Berlin",
+        "title": "Senior Full Stack Software Engineer",
+        "company": "FRYTE Mobility GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/fryte-mobility-gmbh/senior-full-stack-software-engineer-munich-85800",
+        "loc": "Munich",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-12 09:07"
+        "tejas_score": 45,
+        "timestamp": "2026-08-12 12:58"
     },
     {
-        "title": "Werkstudent / Praktikant (m/w/d) | Development & AI Engineering f\u00fcr SAP Business AI",
-        "company": "nfaculty GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/nfaculty-gmbh/werkstudent-praktikant-development-ai-engineering-fur-sap-business-ai-stuttgart-48578",
-        "loc": "Stuttgart",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-08-12 09:07"
-    },
-    {
-        "title": "Area Lead Analytics Engineer",
-        "company": "Vinteden",
-        "url": "https://www.arbeitnow.com/jobs/companies/vinteden/area-lead-analytics-engineer-berlin-433776",
-        "loc": "Berlin",
+        "title": "Senior Backend + Infrastructure Engineer (Platform)",
+        "company": "Soda Data Nv",
+        "url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/remote-senior-backend-infrastructure-engineer-platform-germany-169316",
+        "loc": "Germany",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-12 09:07"
-    },
-    {
-        "title": "Senior Python Engineer, Document App (Content Engineering Team)",
-        "company": "Pandadoc",
-        "url": "https://www.arbeitnow.com/jobs/companies/pandadoc/senior-python-engineer-document-app-content-engineering-team-346392",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 73,
-        "timestamp": "2026-08-12 09:07"
-    },
-    {
-        "title": "Senior Platform Engineer (m/f/d)",
-        "company": "autoscout24",
-        "url": "https://www.arbeitnow.com/jobs/companies/autoscout24/senior-platform-engineer-310177",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-12 09:07"
+        "timestamp": "2026-08-12 12:58"
     },
     {
         "title": "Lead Data Analyst (Pricing & Monetization)",
@@ -69,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-12 09:07"
+        "timestamp": "2026-08-12 12:58"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -81,6 +45,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-12 09:07"
+        "timestamp": "2026-08-12 12:58"
     }
 ]
