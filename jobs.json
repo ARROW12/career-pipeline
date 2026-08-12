@@ -1,5 +1,29 @@
 [
     {
+        "title": "Product Owner Data & AI (m/f/d) \u2013 fluege.de",
+        "company": "TC Flights Germany GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/tc-flights-germany-gmbh/product-owner-data-ai-fluegede-berlin-102207",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-12 09:07"
+    },
+    {
+        "title": "Werkstudent / Praktikant (m/w/d) | Development & AI Engineering f\u00fcr SAP Business AI",
+        "company": "nfaculty GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/nfaculty-gmbh/werkstudent-praktikant-development-ai-engineering-fur-sap-business-ai-stuttgart-48578",
+        "loc": "Stuttgart",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-08-12 09:07"
+    },
+    {
         "title": "Area Lead Analytics Engineer",
         "company": "Vinteden",
         "url": "https://www.arbeitnow.com/jobs/companies/vinteden/area-lead-analytics-engineer-berlin-433776",
@@ -9,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-12 05:27"
+        "timestamp": "2026-08-12 09:07"
     },
     {
         "title": "Senior Python Engineer, Document App (Content Engineering Team)",
@@ -21,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 73,
-        "timestamp": "2026-08-12 05:27"
+        "timestamp": "2026-08-12 09:07"
     },
     {
         "title": "Senior Platform Engineer (m/f/d)",
@@ -33,19 +57,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-12 05:27"
+        "timestamp": "2026-08-12 09:07"
     },
     {
-        "title": "Staff Site Reliability Engineer (x/f/m)",
-        "company": "Doctolib",
-        "url": "https://www.arbeitnow.com/jobs/companies/doctolib/staff-site-reliability-engineer-berlin-berlin-66031",
-        "loc": "Berlin, Berlin",
+        "title": "Lead Data Analyst (Pricing & Monetization)",
+        "company": "Trustpilot",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/trustpilot/lead-data-analyst-pricing-monetization-london-53093",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-12 05:27"
+        "tejas_score": 45,
+        "timestamp": "2026-08-12 09:07"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -57,6 +81,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-12 05:27"
+        "timestamp": "2026-08-12 09:07"
     }
 ]
