@@ -1,27 +1,111 @@
 [
     {
-        "title": "Backend Developer (m/w/d) \u2013 API & Data Integrations",
-        "company": "Octopus Energy Group",
-        "url": "https://www.arbeitnow.com/jobs/companies/octopus-energy-group/backend-developer-api-data-integrations-berlin-de-64748",
-        "loc": "Berlin (DE)",
+        "title": ".NET Core & Python Web Developer",
+        "company": "Jobgether",
+        "url": "https://www.arbeitnow.com/jobs/companies/jobgether/net-core-python-web-developer-germany-162401",
+        "loc": "Germany",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-08-12 16:52"
+        "tejas_score": 65,
+        "timestamp": "2026-08-12 20:38"
     },
     {
-        "title": "Lead Data Analyst (Pricing & Monetization)",
-        "company": "Trustpilot",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/trustpilot/lead-data-analyst-pricing-monetization-london-53093",
+        "title": "Senior/Lead Cloud Security Engineer",
+        "company": "Flohealth",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/flohealth/senior-lead-cloud-security-engineer-london-16817",
         "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-12 16:52"
+        "tejas_score": 53,
+        "timestamp": "2026-08-12 20:38"
+    },
+    {
+        "title": "Senior/Lead Cloud Security Engineer",
+        "company": "Flohealth",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/flohealth/senior-lead-cloud-security-engineer-vilnius-45548",
+        "loc": "Vilnius",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-12 20:38"
+    },
+    {
+        "title": "Staff Platform Engineer, Fanatics Markets - UK",
+        "company": "Fanaticsfbg",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/staff-platform-engineer-fanatics-markets-uk-edinburgh-leeds-london-267782",
+        "loc": "Edinburgh; Leeds; London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-12 20:38"
+    },
+    {
+        "title": "Senior Platform Engineer, Fanatics Markets - UK",
+        "company": "Fanaticsfbg",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/senior-platform-engineer-fanatics-markets-uk-edinburgh-leeds-london-493643",
+        "loc": "Edinburgh; Leeds; London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-12 20:38"
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Cloudbedsthirdpartyboard",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/cloudbedsthirdpartyboard/staff-software-engineer-434589",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-08-12 20:38"
+    },
+    {
+        "title": "Senior Software Engineer",
+        "company": "Cloudbedsthirdpartyboard",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/cloudbedsthirdpartyboard/senior-software-engineer-161981",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-12 20:38"
+    },
+    {
+        "title": "Technical Site Reliability Engineer",
+        "company": "Andurilindustries",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/technical-site-reliability-engineer-london-166563",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-12 20:38"
+    },
+    {
+        "title": "Forward Deployed AI Engineer",
+        "company": "gravity9",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gravity9/remote-forward-deployed-ai-engineer-birmingham-416431",
+        "loc": "Remote job",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 100,
+        "timestamp": "2026-08-12 20:38"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -33,6 +117,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-12 16:52"
+        "timestamp": "2026-08-12 20:38"
     }
 ]
