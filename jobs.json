@@ -1,27 +1,15 @@
 [
     {
-        "title": "Senior Full Stack Software Engineer",
-        "company": "FRYTE Mobility GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/fryte-mobility-gmbh/senior-full-stack-software-engineer-munich-85800",
-        "loc": "Munich",
+        "title": "Backend Developer (m/w/d) \u2013 API & Data Integrations",
+        "company": "Octopus Energy Group",
+        "url": "https://www.arbeitnow.com/jobs/companies/octopus-energy-group/backend-developer-api-data-integrations-berlin-de-64748",
+        "loc": "Berlin (DE)",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-12 12:58"
-    },
-    {
-        "title": "Senior Backend + Infrastructure Engineer (Platform)",
-        "company": "Soda Data Nv",
-        "url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/remote-senior-backend-infrastructure-engineer-platform-germany-169316",
-        "loc": "Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-08-12 12:58"
+        "tejas_score": 76,
+        "timestamp": "2026-08-12 16:52"
     },
     {
         "title": "Lead Data Analyst (Pricing & Monetization)",
@@ -33,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-12 12:58"
+        "timestamp": "2026-08-12 16:52"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -45,6 +33,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-12 12:58"
+        "timestamp": "2026-08-12 16:52"
     }
 ]
