@@ -9,7 +9,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-13 05:36"
+        "timestamp": "2026-08-13 09:07"
     },
     {
         "title": "Senior Forward Deployed Engineer, Intelligent Platforms Alliance (all genders)",
@@ -21,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-13 05:36"
+        "timestamp": "2026-08-13 09:07"
     },
     {
         "title": "Senior AI Solutions Engineer, GenAI Enablement (all genders)",
@@ -33,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-13 05:36"
+        "timestamp": "2026-08-13 09:07"
     },
     {
         "title": "Senior Software Engineer (Rust/Go/Python)",
@@ -45,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 65,
-        "timestamp": "2026-08-13 05:36"
+        "timestamp": "2026-08-13 09:07"
     },
     {
         "title": "AI Solution Architect (m/w/d)",
@@ -57,7 +57,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-13 05:36"
+        "timestamp": "2026-08-13 09:07"
+    },
+    {
+        "title": "Senior Data Analytics Engineer",
+        "company": "Dotmatics",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/dotmatics/senior-data-analytics-engineer-285756",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-13 09:07"
     },
     {
         "title": "Solutions Architect",
@@ -69,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-13 05:36"
+        "timestamp": "2026-08-13 09:07"
     },
     {
         "title": "Lead Analytics Engineer",
@@ -81,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-13 05:36"
+        "timestamp": "2026-08-13 09:07"
     },
     {
         "title": "(Senior) Analytics Engineer (m/f/d)",
@@ -93,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-13 05:36"
+        "timestamp": "2026-08-13 09:07"
     },
     {
         "title": ".NET Core & Python Web Developer",
@@ -105,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 65,
-        "timestamp": "2026-08-13 05:36"
+        "timestamp": "2026-08-13 09:07"
     },
     {
         "title": "Software Engineer I - Trust Tech",
@@ -117,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-13 05:36"
+        "timestamp": "2026-08-13 09:07"
     },
     {
         "title": "Software Engineer I - Trust Tech",
@@ -129,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-13 05:36"
+        "timestamp": "2026-08-13 09:07"
     },
     {
         "title": "Software Engineer I - Trust Tech",
@@ -141,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-13 05:36"
+        "timestamp": "2026-08-13 09:07"
     },
     {
         "title": "Senior Software Engineer, Backend (Payments)",
@@ -153,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-13 05:36"
+        "timestamp": "2026-08-13 09:07"
     },
     {
         "title": "Senior Back-End Engineer, Trading Platform",
@@ -165,7 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-13 05:36"
+        "timestamp": "2026-08-13 09:07"
     },
     {
         "title": "Infrastructure Security Engineer",
@@ -177,7 +189,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-13 05:36"
+        "timestamp": "2026-08-13 09:07"
     },
     {
         "title": "Back-End Engineer, Trading",
@@ -189,7 +201,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-13 05:36"
+        "timestamp": "2026-08-13 09:07"
     },
     {
         "title": "Head of Data Science (12m fixed-term contract)",
@@ -201,7 +213,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-08-13 05:36"
+        "timestamp": "2026-08-13 09:07"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -213,6 +225,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-13 05:36"
+        "timestamp": "2026-08-13 09:07"
     }
 ]
