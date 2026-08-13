@@ -1,99 +1,75 @@
 [
     {
-        "title": "Software Engineer, D2C",
-        "company": "Sonymusicentertainment",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/sonymusicentertainment/software-engineer-d2c-london-33483",
-        "loc": "London",
+        "title": "(Senior) Data Platform Engineer (all genders) - Parental leave cover 12 months",
+        "company": "moia",
+        "url": "https://www.arbeitnow.com/jobs/companies/moia/senior-data-platform-engineer-all-genders-parental-leave-cover-12-months-berlin-hamburg-226153",
+        "loc": "Berlin; Hamburg",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-13 16:52"
+        "tejas_score": 46,
+        "timestamp": "2026-08-13 20:37"
     },
     {
-        "title": "Senior Software Engineer, Accounting & Royalties",
-        "company": "Sonymusicentertainment",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/sonymusicentertainment/senior-software-engineer-accounting-royalties-london-328909",
-        "loc": "London",
+        "title": "(Senior) Data Platform Engineer (all genders) - Parental leave cover 12 months",
+        "company": "moia",
+        "url": "https://www.arbeitnow.com/jobs/companies/moia/senior-data-platform-engineer-all-genders-parental-leave-cover-12-months-hamburg-252854",
+        "loc": "Hamburg",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-13 16:52"
+        "tejas_score": 46,
+        "timestamp": "2026-08-13 20:37"
     },
     {
-        "title": "Lead Software Engineer, Pub Admin",
-        "company": "Sonymusicentertainment",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/sonymusicentertainment/lead-software-engineer-pub-admin-london-485894",
-        "loc": "London",
+        "title": "Senior Data Engineer - Real time analytics",
+        "company": "Aircall",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/aircall/senior-data-engineer-real-time-analytics-london-office-114269",
+        "loc": "London Office",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-13 16:52"
+        "tejas_score": 76,
+        "timestamp": "2026-08-13 20:37"
     },
     {
-        "title": "Full Stack Engineer",
-        "company": "Thought Machine",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/thought-machine/full-stack-engineer-london-203966",
-        "loc": "United Kingdom, London",
+        "title": "Lead Data Analyst (Pricing & Monetization)",
+        "company": "Trustpilot",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/trustpilot/lead-data-analyst-pricing-monetization-copenhagen-272231",
+        "loc": "Copenhagen",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-13 16:52"
+        "tejas_score": 53,
+        "timestamp": "2026-08-13 20:37"
     },
     {
-        "title": "Senior Finance Data Scientist",
-        "company": "Capitalontap",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/capitalontap/senior-finance-data-scientist-london-132418",
-        "loc": "London",
+        "title": "Lead Data Analyst (Pricing & Monetization)",
+        "company": "Trustpilot",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/trustpilot/lead-data-analyst-pricing-monetization-edinburgh-42399",
+        "loc": "Edinburgh",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-13 16:52"
+        "tejas_score": 53,
+        "timestamp": "2026-08-13 20:37"
     },
     {
-        "title": "Senior Data Analytics Engineer",
-        "company": "Dotmatics",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/dotmatics/senior-data-analytics-engineer-285756",
-        "loc": "Remote",
+        "title": "Fullstack Developer with Backend Focus",
+        "company": "BLP Digital AG",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/blp-digital-ag/fullstack-developer-with-backend-focus-london-181973",
+        "loc": "UK",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-13 16:52"
-    },
-    {
-        "title": "Solutions Architect",
-        "company": "mongodb",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/mongodb/solutions-architect-203690",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-13 16:52"
-    },
-    {
-        "title": "Lead Analytics Engineer",
-        "company": "Mubi",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/mubi/lead-analytics-engineer-london-386437",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-13 16:52"
+        "timestamp": "2026-08-13 20:37"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -105,6 +81,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-13 16:52"
+        "timestamp": "2026-08-13 20:37"
     }
 ]
