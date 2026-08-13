@@ -9,7 +9,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-13 01:29"
+        "timestamp": "2026-08-13 05:36"
     },
     {
         "title": "Senior Forward Deployed Engineer, Intelligent Platforms Alliance (all genders)",
@@ -21,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-13 01:29"
+        "timestamp": "2026-08-13 05:36"
     },
     {
         "title": "Senior AI Solutions Engineer, GenAI Enablement (all genders)",
@@ -33,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-13 01:29"
+        "timestamp": "2026-08-13 05:36"
     },
     {
         "title": "Senior Software Engineer (Rust/Go/Python)",
@@ -45,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 65,
-        "timestamp": "2026-08-13 01:29"
+        "timestamp": "2026-08-13 05:36"
     },
     {
         "title": "AI Solution Architect (m/w/d)",
@@ -57,19 +57,103 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-13 01:29"
+        "timestamp": "2026-08-13 05:36"
+    },
+    {
+        "title": "Solutions Architect",
+        "company": "mongodb",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/mongodb/solutions-architect-203690",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-13 05:36"
+    },
+    {
+        "title": "Lead Analytics Engineer",
+        "company": "Mubi",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/mubi/lead-analytics-engineer-london-386437",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-13 05:36"
+    },
+    {
+        "title": "(Senior) Analytics Engineer (m/f/d)",
+        "company": "1Komma5Grad",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-senior-analytics-engineer-166034",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-13 05:36"
     },
     {
         "title": ".NET Core & Python Web Developer",
         "company": "Jobgether",
-        "url": "https://www.arbeitnow.com/jobs/companies/jobgether/net-core-python-web-developer-germany-162401",
-        "loc": "Germany",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/net-core-python-web-developer-uk-303363",
+        "loc": "UK",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 65,
-        "timestamp": "2026-08-13 01:29"
+        "timestamp": "2026-08-13 05:36"
+    },
+    {
+        "title": "Software Engineer I - Trust Tech",
+        "company": "Trustpilot",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/trustpilot/software-engineer-i-trust-tech-london-356527",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-13 05:36"
+    },
+    {
+        "title": "Software Engineer I - Trust Tech",
+        "company": "Trustpilot",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/trustpilot/software-engineer-i-trust-tech-edinburgh-175295",
+        "loc": "Edinburgh",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-13 05:36"
+    },
+    {
+        "title": "Software Engineer I - Trust Tech",
+        "company": "Trustpilot",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/trustpilot/software-engineer-i-trust-tech-copenhagen-100773",
+        "loc": "Copenhagen",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-13 05:36"
+    },
+    {
+        "title": "Senior Software Engineer, Backend (Payments)",
+        "company": "Affirm",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/affirm/senior-software-engineer-backend-payments-356129",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-13 05:36"
     },
     {
         "title": "Senior Back-End Engineer, Trading Platform",
@@ -81,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-13 01:29"
+        "timestamp": "2026-08-13 05:36"
     },
     {
         "title": "Infrastructure Security Engineer",
@@ -93,7 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-13 01:29"
+        "timestamp": "2026-08-13 05:36"
     },
     {
         "title": "Back-End Engineer, Trading",
@@ -105,7 +189,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-13 01:29"
+        "timestamp": "2026-08-13 05:36"
     },
     {
         "title": "Head of Data Science (12m fixed-term contract)",
@@ -117,91 +201,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-08-13 01:29"
-    },
-    {
-        "title": "Senior/Lead Cloud Security Engineer",
-        "company": "Flohealth",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/flohealth/senior-lead-cloud-security-engineer-london-16817",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-13 01:29"
-    },
-    {
-        "title": "Senior/Lead Cloud Security Engineer",
-        "company": "Flohealth",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/flohealth/senior-lead-cloud-security-engineer-vilnius-45548",
-        "loc": "Vilnius",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-13 01:29"
-    },
-    {
-        "title": "Staff Platform Engineer, Fanatics Markets - UK",
-        "company": "Fanaticsfbg",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/staff-platform-engineer-fanatics-markets-uk-edinburgh-leeds-london-267782",
-        "loc": "Edinburgh; Leeds; London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-13 01:29"
-    },
-    {
-        "title": "Senior Platform Engineer, Fanatics Markets - UK",
-        "company": "Fanaticsfbg",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/senior-platform-engineer-fanatics-markets-uk-edinburgh-leeds-london-493643",
-        "loc": "Edinburgh; Leeds; London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-13 01:29"
-    },
-    {
-        "title": "Staff Software Engineer",
-        "company": "Cloudbedsthirdpartyboard",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/cloudbedsthirdpartyboard/staff-software-engineer-434589",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-08-13 01:29"
-    },
-    {
-        "title": "Senior Software Engineer",
-        "company": "Cloudbedsthirdpartyboard",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/cloudbedsthirdpartyboard/senior-software-engineer-161981",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-13 01:29"
-    },
-    {
-        "title": "Technical Site Reliability Engineer",
-        "company": "Andurilindustries",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/technical-site-reliability-engineer-london-166563",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-13 01:29"
+        "timestamp": "2026-08-13 05:36"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -213,6 +213,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-13 01:29"
+        "timestamp": "2026-08-13 05:36"
     }
 ]
