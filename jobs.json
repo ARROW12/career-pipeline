@@ -1,5 +1,65 @@
 [
     {
+        "title": "Senior Marketing Automation Engineer (all genders)",
+        "company": "hellofresh",
+        "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-marketing-automation-engineer-all-genders-berlin-berlin-115083",
+        "loc": "Berlin, Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-13 01:29"
+    },
+    {
+        "title": "Senior Forward Deployed Engineer, Intelligent Platforms Alliance (all genders)",
+        "company": "hellofresh",
+        "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-forward-deployed-engineer-intelligent-platforms-alliance-all-genders-berlin-berlin-320929",
+        "loc": "Berlin, Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-13 01:29"
+    },
+    {
+        "title": "Senior AI Solutions Engineer, GenAI Enablement (all genders)",
+        "company": "hellofresh",
+        "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-ai-solutions-engineer-genai-enablement-all-genders-berlin-berlin-241093",
+        "loc": "Berlin, Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-13 01:29"
+    },
+    {
+        "title": "Senior Software Engineer (Rust/Go/Python)",
+        "company": "Berlitz",
+        "url": "https://www.arbeitnow.com/jobs/companies/berlitz/remote-senior-software-engineer-rust-go-python-41151",
+        "loc": "Germany Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 65,
+        "timestamp": "2026-08-13 01:29"
+    },
+    {
+        "title": "AI Solution Architect (m/w/d)",
+        "company": "virtual7 GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-336398",
+        "loc": "Homeoffice",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-08-13 01:29"
+    },
+    {
         "title": ".NET Core & Python Web Developer",
         "company": "Jobgether",
         "url": "https://www.arbeitnow.com/jobs/companies/jobgether/net-core-python-web-developer-germany-162401",
@@ -9,7 +69,55 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 65,
-        "timestamp": "2026-08-12 20:38"
+        "timestamp": "2026-08-13 01:29"
+    },
+    {
+        "title": "Senior Back-End Engineer, Trading Platform",
+        "company": "Blockchain",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/blockchain/senior-back-end-engineer-trading-platform-london-156157",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-13 01:29"
+    },
+    {
+        "title": "Infrastructure Security Engineer",
+        "company": "Blockchain",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/blockchain/infrastructure-security-engineer-london-391905",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-13 01:29"
+    },
+    {
+        "title": "Back-End Engineer, Trading",
+        "company": "Blockchain",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/blockchain/back-end-engineer-trading-london-389725",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-13 01:29"
+    },
+    {
+        "title": "Head of Data Science (12m fixed-term contract)",
+        "company": "Marshmallow",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/marshmallow/head-of-data-science-12m-fixed-term-contract-london-7439",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-08-13 01:29"
     },
     {
         "title": "Senior/Lead Cloud Security Engineer",
@@ -21,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-12 20:38"
+        "timestamp": "2026-08-13 01:29"
     },
     {
         "title": "Senior/Lead Cloud Security Engineer",
@@ -33,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-12 20:38"
+        "timestamp": "2026-08-13 01:29"
     },
     {
         "title": "Staff Platform Engineer, Fanatics Markets - UK",
@@ -45,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-12 20:38"
+        "timestamp": "2026-08-13 01:29"
     },
     {
         "title": "Senior Platform Engineer, Fanatics Markets - UK",
@@ -57,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-12 20:38"
+        "timestamp": "2026-08-13 01:29"
     },
     {
         "title": "Staff Software Engineer",
@@ -69,7 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-12 20:38"
+        "timestamp": "2026-08-13 01:29"
     },
     {
         "title": "Senior Software Engineer",
@@ -81,7 +189,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-12 20:38"
+        "timestamp": "2026-08-13 01:29"
     },
     {
         "title": "Technical Site Reliability Engineer",
@@ -93,19 +201,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-12 20:38"
-    },
-    {
-        "title": "Forward Deployed AI Engineer",
-        "company": "gravity9",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/gravity9/remote-forward-deployed-ai-engineer-birmingham-416431",
-        "loc": "Remote job",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 100,
-        "timestamp": "2026-08-12 20:38"
+        "timestamp": "2026-08-13 01:29"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -117,6 +213,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-12 20:38"
+        "timestamp": "2026-08-13 01:29"
     }
 ]
