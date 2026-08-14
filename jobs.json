@@ -1,5 +1,29 @@
 [
     {
+        "title": "Senior Consultant/Manager, AI/ML Engineer",
+        "company": "Baringa",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/baringa/senior-consultant-manager-ai-ml-engineer-london-253486",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-08-14 16:48"
+    },
+    {
+        "title": "Staff Data Engineer",
+        "company": "MoonPay",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/moonpay/staff-data-engineer-london-hybrid-34944",
+        "loc": "London - Hybrid",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-14 16:48"
+    },
+    {
         "title": "Senior Data & Python Software Engineer",
         "company": "Ceartas",
         "url": "https://www.arbeitnow.co.uk/jobs/companies/ceartas/remote-senior-data-python-software-engineer-235366",
@@ -9,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 88,
-        "timestamp": "2026-08-14 12:54"
+        "timestamp": "2026-08-14 16:48"
     },
     {
         "title": "(Senior) Software Engineer (M/F/D) - Tools & Automation",
@@ -21,43 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-14 12:54"
-    },
-    {
-        "title": "Senior Manager - Portfolio Analytics",
-        "company": "Leovegasgroup",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/leovegasgroup/senior-manager-portfolio-analytics-newcastle-upon-tyne-444727",
-        "loc": "Newcastle Upon Tyne, UK",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-14 12:54"
-    },
-    {
-        "title": "Senior Manager - Portfolio Analytics",
-        "company": "Leovegasgroup",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/leovegasgroup/senior-manager-portfolio-analytics-leeds-154069",
-        "loc": "Leeds, UK",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-14 12:54"
-    },
-    {
-        "title": "Infrastructure Security Engineer",
-        "company": "Xai",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/xai/infrastructure-security-engineer-london-373050",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-14 12:54"
+        "timestamp": "2026-08-14 16:48"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -69,6 +57,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-14 12:54"
+        "timestamp": "2026-08-14 16:48"
     }
 ]
