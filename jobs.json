@@ -1,5 +1,41 @@
 [
     {
+        "title": "Senior Marketing Business Intelligence Analyst (all genders)",
+        "company": "hellofresh",
+        "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-marketing-business-intelligence-analyst-all-genders-berlin-berlin-242867",
+        "loc": "Berlin, Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-08-14 05:27"
+    },
+    {
+        "title": "Senior Go Backend Developer (Catalog) (f/m/d)",
+        "company": "adjoe",
+        "url": "https://www.arbeitnow.com/jobs/companies/adjoe/senior-go-backend-developer-catalog-hamburg-104898",
+        "loc": "Hamburg",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-14 05:27"
+    },
+    {
+        "title": "(Senior) Software Engineer (M/F/D) - Tools & Automation",
+        "company": "Jobgether",
+        "url": "https://www.arbeitnow.com/jobs/companies/jobgether/senior-software-engineer-tools-automation-germany-84380",
+        "loc": "Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-14 05:27"
+    },
+    {
         "title": "Platform Engineer - m/f/d",
         "company": "Langdock",
         "url": "https://www.arbeitnow.com/jobs/companies/langdock/platform-engineer-berlin-230260",
@@ -9,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-14 01:28"
+        "timestamp": "2026-08-14 05:27"
     },
     {
         "title": "(Senior) Data Platform Engineer (all genders) - Parental leave cover 12 months",
@@ -21,31 +57,55 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-14 01:28"
+        "timestamp": "2026-08-14 05:27"
     },
     {
-        "title": "(Senior) Data Platform Engineer (all genders) - Parental leave cover 12 months",
-        "company": "moia",
-        "url": "https://www.arbeitnow.com/jobs/companies/moia/senior-data-platform-engineer-all-genders-parental-leave-cover-12-months-hamburg-252854",
-        "loc": "Hamburg",
+        "title": "Senior Manager - Portfolio Analytics",
+        "company": "Leovegasgroup",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/leovegasgroup/senior-manager-portfolio-analytics-newcastle-upon-tyne-444727",
+        "loc": "Newcastle Upon Tyne, UK",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-14 05:27"
+    },
+    {
+        "title": "Senior Manager - Portfolio Analytics",
+        "company": "Leovegasgroup",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/leovegasgroup/senior-manager-portfolio-analytics-leeds-154069",
+        "loc": "Leeds, UK",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-14 05:27"
+    },
+    {
+        "title": "Infrastructure Security Engineer",
+        "company": "Xai",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/xai/infrastructure-security-engineer-london-373050",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-14 01:28"
+        "timestamp": "2026-08-14 05:27"
     },
     {
-        "title": "Senior Data Engineer - Real time analytics",
-        "company": "Aircall",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/aircall/senior-data-engineer-real-time-analytics-london-office-114269",
-        "loc": "London Office",
+        "title": "Senior Analytics Engineer",
+        "company": "Zilch",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/zilch/senior-analytics-engineer-london-472322",
+        "loc": "Zilch UK",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-08-14 01:28"
+        "tejas_score": 61,
+        "timestamp": "2026-08-14 05:27"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -57,6 +117,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-14 01:28"
+        "timestamp": "2026-08-14 05:27"
     }
 ]
