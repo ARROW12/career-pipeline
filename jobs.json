@@ -1,5 +1,17 @@
 [
     {
+        "title": "Platform Engineer - m/f/d",
+        "company": "Langdock",
+        "url": "https://www.arbeitnow.com/jobs/companies/langdock/platform-engineer-berlin-230260",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 91,
+        "timestamp": "2026-08-14 01:28"
+    },
+    {
         "title": "(Senior) Data Platform Engineer (all genders) - Parental leave cover 12 months",
         "company": "moia",
         "url": "https://www.arbeitnow.com/jobs/companies/moia/senior-data-platform-engineer-all-genders-parental-leave-cover-12-months-berlin-hamburg-226153",
@@ -9,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-13 20:37"
+        "timestamp": "2026-08-14 01:28"
     },
     {
         "title": "(Senior) Data Platform Engineer (all genders) - Parental leave cover 12 months",
@@ -21,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-13 20:37"
+        "timestamp": "2026-08-14 01:28"
     },
     {
         "title": "Senior Data Engineer - Real time analytics",
@@ -33,43 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-08-13 20:37"
-    },
-    {
-        "title": "Lead Data Analyst (Pricing & Monetization)",
-        "company": "Trustpilot",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/trustpilot/lead-data-analyst-pricing-monetization-copenhagen-272231",
-        "loc": "Copenhagen",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-13 20:37"
-    },
-    {
-        "title": "Lead Data Analyst (Pricing & Monetization)",
-        "company": "Trustpilot",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/trustpilot/lead-data-analyst-pricing-monetization-edinburgh-42399",
-        "loc": "Edinburgh",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-13 20:37"
-    },
-    {
-        "title": "Fullstack Developer with Backend Focus",
-        "company": "BLP Digital AG",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/blp-digital-ag/fullstack-developer-with-backend-focus-london-181973",
-        "loc": "UK",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-13 20:37"
+        "timestamp": "2026-08-14 01:28"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -81,6 +57,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-13 20:37"
+        "timestamp": "2026-08-14 01:28"
     }
 ]
