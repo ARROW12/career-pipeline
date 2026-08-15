@@ -9,7 +9,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 83,
-        "timestamp": "2026-08-15 12:27"
+        "timestamp": "2026-08-15 16:18"
     },
     {
         "title": "Data Engineer Working Student (m/w/d)",
@@ -21,30 +21,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-15 12:27"
-    },
-    {
-        "title": "Senior Solutions Architect",
-        "company": "mongodb",
-        "url": "https://www.arbeitnow.com/jobs/companies/mongodb/senior-solutions-architect-26794",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-15 12:27"
-    },
-    {
-        "title": "Forward Deployed Engineer - AI",
-        "company": "Avepoint",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/avepoint/forward-deployed-engineer-ai-london-223388",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-08-15 12:27"
+        "timestamp": "2026-08-15 16:18"
     }
 ]
