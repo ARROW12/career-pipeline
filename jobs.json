@@ -1,5 +1,17 @@
 [
     {
+        "title": "Senior Solutions Architect",
+        "company": "mongodb",
+        "url": "https://www.arbeitnow.com/jobs/companies/mongodb/senior-solutions-architect-26794",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-15 04:24"
+    },
+    {
         "title": "Senior Data Platform Engineer",
         "company": "Choco",
         "url": "https://www.arbeitnow.com/jobs/companies/choco/senior-data-platform-engineer-berlin-111883",
@@ -9,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-08-15 00:58"
+        "timestamp": "2026-08-15 04:24"
     },
     {
         "title": "Data Scientist",
@@ -21,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-15 00:58"
+        "timestamp": "2026-08-15 04:24"
     },
     {
         "title": "Senior Ruby Backend Engineer with affinity for observability (d/w/m)",
@@ -33,7 +45,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-15 00:58"
+        "timestamp": "2026-08-15 04:24"
+    },
+    {
+        "title": "Forward Deployed Engineer - AI",
+        "company": "Avepoint",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/avepoint/forward-deployed-engineer-ai-london-223388",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-08-15 04:24"
     },
     {
         "title": "Site Reliability Engineer",
@@ -45,19 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-15 00:58"
-    },
-    {
-        "title": "Senior Platform Engineer - Developer Platform",
-        "company": "Deliveroo",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-platform-engineer-developer-platform-london-119640",
-        "loc": "London - The River Building HQ",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-15 00:58"
+        "timestamp": "2026-08-15 04:24"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -69,6 +81,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-15 00:58"
+        "timestamp": "2026-08-15 04:24"
     }
 ]
