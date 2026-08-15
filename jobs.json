@@ -1,5 +1,29 @@
 [
     {
+        "title": "Senior Data Platform Engineer",
+        "company": "Choco",
+        "url": "https://www.arbeitnow.com/jobs/companies/choco/senior-data-platform-engineer-berlin-111883",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-08-15 00:58"
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Hilobyaktiia",
+        "url": "https://www.arbeitnow.com/jobs/companies/hilobyaktiia/remote-data-scientist-germany-475338",
+        "loc": "Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-15 00:58"
+    },
+    {
         "title": "Senior Ruby Backend Engineer with affinity for observability (d/w/m)",
         "company": "Hypofriend GmbH",
         "url": "https://www.arbeitnow.com/jobs/companies/hypofriend-gmbh/senior-ruby-backend-engineer-with-affinity-for-observability-berlin-497601",
@@ -9,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-14 20:25"
+        "timestamp": "2026-08-15 00:58"
     },
     {
         "title": "Site Reliability Engineer",
@@ -21,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-14 20:25"
+        "timestamp": "2026-08-15 00:58"
     },
     {
         "title": "Senior Platform Engineer - Developer Platform",
@@ -33,31 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-14 20:25"
-    },
-    {
-        "title": "Senior Consultant/Manager, AI/ML Engineer",
-        "company": "Baringa",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/baringa/senior-consultant-manager-ai-ml-engineer-london-253486",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-08-14 20:25"
-    },
-    {
-        "title": "Staff Data Engineer",
-        "company": "MoonPay",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/moonpay/staff-data-engineer-london-hybrid-34944",
-        "loc": "London - Hybrid",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-14 20:25"
+        "timestamp": "2026-08-15 00:58"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -69,6 +69,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-14 20:25"
+        "timestamp": "2026-08-15 00:58"
     }
 ]
