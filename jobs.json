@@ -1,5 +1,29 @@
 [
     {
+        "title": "Data Platform Engineer Working Student (m/w/d)",
+        "company": "Trusteq Gmbh",
+        "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-platform-engineer-working-student-munchen-496680",
+        "loc": "M\u00fcnchen",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 83,
+        "timestamp": "2026-08-15 12:27"
+    },
+    {
+        "title": "Data Engineer Working Student (m/w/d)",
+        "company": "Trusteq Gmbh",
+        "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-engineer-working-student-koln-371370",
+        "loc": "K\u00f6ln",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-15 12:27"
+    },
+    {
         "title": "Senior Solutions Architect",
         "company": "mongodb",
         "url": "https://www.arbeitnow.com/jobs/companies/mongodb/senior-solutions-architect-26794",
@@ -9,31 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-15 08:21"
-    },
-    {
-        "title": "Senior Data Platform Engineer",
-        "company": "Choco",
-        "url": "https://www.arbeitnow.com/jobs/companies/choco/senior-data-platform-engineer-berlin-111883",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-08-15 08:21"
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Hilobyaktiia",
-        "url": "https://www.arbeitnow.com/jobs/companies/hilobyaktiia/remote-data-scientist-germany-475338",
-        "loc": "Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-15 08:21"
+        "timestamp": "2026-08-15 12:27"
     },
     {
         "title": "Forward Deployed Engineer - AI",
@@ -45,18 +45,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-08-15 08:21"
-    },
-    {
-        "title": "Senior DevOps Engineer",
-        "company": "Lemon.io",
-        "url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2091067",
-        "loc": "Americas, Europe, Asia, Africa, Oceania",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-08-15 08:21"
+        "timestamp": "2026-08-15 12:27"
     }
 ]
