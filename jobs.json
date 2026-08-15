@@ -9,7 +9,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-15 04:24"
+        "timestamp": "2026-08-15 08:21"
     },
     {
         "title": "Senior Data Platform Engineer",
@@ -21,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-08-15 04:24"
+        "timestamp": "2026-08-15 08:21"
     },
     {
         "title": "Data Scientist",
@@ -33,19 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-15 04:24"
-    },
-    {
-        "title": "Senior Ruby Backend Engineer with affinity for observability (d/w/m)",
-        "company": "Hypofriend GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/hypofriend-gmbh/senior-ruby-backend-engineer-with-affinity-for-observability-berlin-497601",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-15 04:24"
+        "timestamp": "2026-08-15 08:21"
     },
     {
         "title": "Forward Deployed Engineer - AI",
@@ -57,19 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-08-15 04:24"
-    },
-    {
-        "title": "Site Reliability Engineer",
-        "company": "Paddle",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/paddle/site-reliability-engineer-uk-202482",
-        "loc": "UK",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-15 04:24"
+        "timestamp": "2026-08-15 08:21"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -81,6 +57,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-15 04:24"
+        "timestamp": "2026-08-15 08:21"
     }
 ]
