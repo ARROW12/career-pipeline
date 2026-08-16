@@ -9,7 +9,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-16 04:30"
+        "timestamp": "2026-08-16 08:22"
     },
     {
         "title": "Senior Data Analyst (m/f/d)",
@@ -21,7 +21,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-16 04:30"
+        "timestamp": "2026-08-16 08:22"
+    },
+    {
+        "title": "Back-End Engineer - Repeats",
+        "company": "iwoca",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/back-end-engineer-repeats-london-58882",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-16 08:22"
     },
     {
         "title": "Senior Software Engineer, Fullstack (International)",
@@ -33,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-16 04:30"
+        "timestamp": "2026-08-16 08:22"
     },
     {
         "title": "Software Engineer II, Foundation",
@@ -45,6 +57,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-16 04:30"
+        "timestamp": "2026-08-16 08:22"
     }
 ]
