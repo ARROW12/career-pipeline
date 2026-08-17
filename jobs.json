@@ -1,5 +1,29 @@
 [
     {
+        "title": "Agentic AI Software Engineer",
+        "company": "Machine Learning Reply",
+        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/agentic-ai-software-engineer-munich-353000",
+        "loc": "Munich, Bayern, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-17 20:20"
+    },
+    {
+        "title": "Praktikum - Political Data Engineering (w/d/m)",
+        "company": "Christundcompany",
+        "url": "https://www.arbeitnow.com/jobs/companies/christundcompany/praktikum-political-data-engineering-berlin-285507",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-17 20:20"
+    },
+    {
         "title": "Senior Data Engineer (m/w/x)",
         "company": "K-tronik GmbH",
         "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/senior-data-engineer-dresden-162970",
@@ -9,31 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 54,
-        "timestamp": "2026-08-17 16:21"
-    },
-    {
-        "title": "Lead Software Engineer (m/w/d)",
-        "company": "Fincite Gmbh",
-        "url": "https://www.arbeitnow.com/jobs/companies/fincite-gmbh/lead-software-engineer-frankfurt-am-main-415015",
-        "loc": "Frankfurt am Main",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-17 16:21"
-    },
-    {
-        "title": "Founding Backend Engineer(Go)",
-        "company": "TechBiz Global GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/founding-backend-engineergo-berlin-36030",
-        "loc": "Berlin, Berlin, Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-08-17 16:21"
+        "timestamp": "2026-08-17 20:20"
     },
     {
         "title": "Junior Data Engineer (S\u00e3o Paulo, BR)",
@@ -45,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 62,
-        "timestamp": "2026-08-17 16:21"
+        "timestamp": "2026-08-17 20:20"
     },
     {
         "title": "Junior Data Engineer (Philadelphia, PA)",
@@ -57,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 62,
-        "timestamp": "2026-08-17 16:21"
+        "timestamp": "2026-08-17 20:20"
     },
     {
         "title": "Junior Data Engineer (New York, NY)",
@@ -69,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 62,
-        "timestamp": "2026-08-17 16:21"
+        "timestamp": "2026-08-17 20:20"
     },
     {
         "title": "Data Analyst (London, UK)",
@@ -81,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 69,
-        "timestamp": "2026-08-17 16:21"
+        "timestamp": "2026-08-17 20:20"
     },
     {
         "title": "Data Analyst (Amsterdam, NLD)",
@@ -93,6 +93,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 69,
-        "timestamp": "2026-08-17 16:21"
+        "timestamp": "2026-08-17 20:20"
     }
 ]
