@@ -9,7 +9,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-16 20:16"
+        "timestamp": "2026-08-17 00:58"
+    },
+    {
+        "title": "Staff ML Engineer",
+        "company": "Cloudbedsthirdpartyboard",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/cloudbedsthirdpartyboard/staff-ml-engineer-191647",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-17 00:58"
     },
     {
         "title": "Back-End Engineer - Repeats",
@@ -21,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-16 20:16"
+        "timestamp": "2026-08-17 00:58"
     },
     {
         "title": "Senior Software Engineer, Fullstack (International)",
@@ -33,18 +45,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-16 20:16"
-    },
-    {
-        "title": "Software Engineer II, Foundation",
-        "company": "Chainalysis",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/chainalysis/software-engineer-ii-foundation-london-214029",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-16 20:16"
+        "timestamp": "2026-08-17 00:58"
     }
 ]
