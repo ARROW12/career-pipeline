@@ -1,17 +1,5 @@
 [
     {
-        "title": "Team Lead Data Products & Analytics (gn)",
-        "company": "Bikeleasing",
-        "url": "https://www.arbeitnow.com/jobs/companies/bikeleasing/remote-team-lead-data-products-analytics-gn-162562",
-        "loc": "Remote Deutschland",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-17 04:36"
-    },
-    {
         "title": "Staff ML Engineer",
         "company": "Cloudbedsthirdpartyboard",
         "url": "https://www.arbeitnow.co.uk/jobs/companies/cloudbedsthirdpartyboard/staff-ml-engineer-191647",
@@ -21,7 +9,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-17 04:36"
+        "timestamp": "2026-08-17 08:36"
     },
     {
         "title": "Back-End Engineer - Repeats",
@@ -33,6 +21,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-17 04:36"
+        "timestamp": "2026-08-17 08:36"
     }
 ]
