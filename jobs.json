@@ -1,5 +1,17 @@
 [
     {
+        "title": "AI Solution Architect (m/w/d)",
+        "company": "virtual7 GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-234638",
+        "loc": "Homeoffice",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-08-17 12:34"
+    },
+    {
         "title": "Staff ML Engineer",
         "company": "Cloudbedsthirdpartyboard",
         "url": "https://www.arbeitnow.co.uk/jobs/companies/cloudbedsthirdpartyboard/staff-ml-engineer-191647",
@@ -9,18 +21,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-17 08:36"
-    },
-    {
-        "title": "Back-End Engineer - Repeats",
-        "company": "iwoca",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/back-end-engineer-repeats-london-58882",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-17 08:36"
+        "timestamp": "2026-08-17 12:34"
     }
 ]
