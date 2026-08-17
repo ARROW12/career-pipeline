@@ -1,26 +1,98 @@
 [
     {
-        "title": "AI Solution Architect (m/w/d)",
-        "company": "virtual7 GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-234638",
-        "loc": "Homeoffice",
+        "title": "Senior Data Engineer (m/w/x)",
+        "company": "K-tronik GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/senior-data-engineer-dresden-162970",
+        "loc": "Dresden",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-08-17 12:34"
+        "tejas_score": 54,
+        "timestamp": "2026-08-17 16:21"
     },
     {
-        "title": "Staff ML Engineer",
-        "company": "Cloudbedsthirdpartyboard",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/cloudbedsthirdpartyboard/staff-ml-engineer-191647",
-        "loc": "Remote",
+        "title": "Lead Software Engineer (m/w/d)",
+        "company": "Fincite Gmbh",
+        "url": "https://www.arbeitnow.com/jobs/companies/fincite-gmbh/lead-software-engineer-frankfurt-am-main-415015",
+        "loc": "Frankfurt am Main",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-17 12:34"
+        "tejas_score": 45,
+        "timestamp": "2026-08-17 16:21"
+    },
+    {
+        "title": "Founding Backend Engineer(Go)",
+        "company": "TechBiz Global GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/founding-backend-engineergo-berlin-36030",
+        "loc": "Berlin, Berlin, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-08-17 16:21"
+    },
+    {
+        "title": "Junior Data Engineer (S\u00e3o Paulo, BR)",
+        "company": "Blab",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/blab/junior-data-engineer-sao-paulo-br-118043",
+        "loc": "S\u00e3o Paulo, BR",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 62,
+        "timestamp": "2026-08-17 16:21"
+    },
+    {
+        "title": "Junior Data Engineer (Philadelphia, PA)",
+        "company": "Blab",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/blab/junior-data-engineer-philadelphia-pa-philadelphia-pa-metro-area-384650",
+        "loc": "Philadelphia, PA metro area",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 62,
+        "timestamp": "2026-08-17 16:21"
+    },
+    {
+        "title": "Junior Data Engineer (New York, NY)",
+        "company": "Blab",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/blab/junior-data-engineer-new-york-ny-new-york-city-ny-metro-area-354342",
+        "loc": "New York City, NY metro area",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 62,
+        "timestamp": "2026-08-17 16:21"
+    },
+    {
+        "title": "Data Analyst (London, UK)",
+        "company": "Blab",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/blab/data-analyst-london-uk-184054",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 69,
+        "timestamp": "2026-08-17 16:21"
+    },
+    {
+        "title": "Data Analyst (Amsterdam, NLD)",
+        "company": "Blab",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/blab/data-analyst-amsterdam-nld-124096",
+        "loc": "Amsterdam, NL",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 69,
+        "timestamp": "2026-08-17 16:21"
     }
 ]
