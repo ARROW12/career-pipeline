@@ -1,5 +1,29 @@
 [
     {
+        "title": "Senior Software Engineer (Ruby / GOlang)",
+        "company": "workato",
+        "url": "https://www.arbeitnow.com/jobs/companies/workato/senior-software-engineer-ruby-golang-berlin-489336",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-18 00:57"
+    },
+    {
+        "title": "Senior Machine Learning Engineer: Search Quality",
+        "company": "Constructor",
+        "url": "https://www.arbeitnow.com/jobs/companies/constructor/senior-machine-learning-engineer-search-quality-munich-265685",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 54,
+        "timestamp": "2026-08-18 00:57"
+    },
+    {
         "title": "Agentic AI Software Engineer",
         "company": "Machine Learning Reply",
         "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/agentic-ai-software-engineer-munich-353000",
@@ -9,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-17 20:20"
+        "timestamp": "2026-08-18 00:57"
     },
     {
         "title": "Praktikum - Political Data Engineering (w/d/m)",
@@ -21,19 +45,55 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-17 20:20"
+        "timestamp": "2026-08-18 00:57"
     },
     {
-        "title": "Senior Data Engineer (m/w/x)",
-        "company": "K-tronik GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/senior-data-engineer-dresden-162970",
-        "loc": "Dresden",
+        "title": "(Senior) Backend Engineer, Marketplace",
+        "company": "Wheely",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/senior-backend-engineer-marketplace-london-297644",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 54,
-        "timestamp": "2026-08-17 20:20"
+        "tejas_score": 53,
+        "timestamp": "2026-08-18 00:57"
+    },
+    {
+        "title": "(Senior) Backend Engineer, Maps",
+        "company": "Wheely",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/senior-backend-engineer-maps-london-495117",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-18 00:57"
+    },
+    {
+        "title": "(Senior) Analytics Engineer (m/f/d)",
+        "company": "1Komma5Grad",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-senior-analytics-engineer-373361",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-18 00:57"
+    },
+    {
+        "title": "Senior Data Engineer - Real time analytics",
+        "company": "Aircall",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/aircall/senior-data-engineer-real-time-analytics-london-office-368823",
+        "loc": "London Office",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-08-18 00:57"
     },
     {
         "title": "Junior Data Engineer (S\u00e3o Paulo, BR)",
@@ -45,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 62,
-        "timestamp": "2026-08-17 20:20"
+        "timestamp": "2026-08-18 00:57"
     },
     {
         "title": "Junior Data Engineer (Philadelphia, PA)",
@@ -57,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 62,
-        "timestamp": "2026-08-17 20:20"
+        "timestamp": "2026-08-18 00:57"
     },
     {
         "title": "Junior Data Engineer (New York, NY)",
@@ -69,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 62,
-        "timestamp": "2026-08-17 20:20"
+        "timestamp": "2026-08-18 00:57"
     },
     {
         "title": "Data Analyst (London, UK)",
@@ -81,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 69,
-        "timestamp": "2026-08-17 20:20"
+        "timestamp": "2026-08-18 00:57"
     },
     {
         "title": "Data Analyst (Amsterdam, NLD)",
@@ -93,6 +153,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 69,
-        "timestamp": "2026-08-17 20:20"
+        "timestamp": "2026-08-18 00:57"
     }
 ]
