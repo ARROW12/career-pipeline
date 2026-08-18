@@ -1,5 +1,17 @@
 [
     {
+        "title": "Forward Deployed Engineer",
+        "company": "anthropic",
+        "url": "https://www.arbeitnow.com/jobs/companies/anthropic/forward-deployed-engineer-munich-370247",
+        "loc": "Munich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-18 08:30"
+    },
+    {
         "title": "Werkstudent*in Klimafreundliche Busse (Data Analysis)",
         "company": "NOW GmbH Nationale Organisation f\u00fcr den Wandel in der ...",
         "url": "https://www.arbeitnow.com/jobs/companies/now-gmbh-nationale-organisation-fur-den-wandel-in-der/werkstudentin-klimafreundliche-busse-data-analysis-berlin-fasanenstrasse-356726",
@@ -9,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-18 04:30"
+        "timestamp": "2026-08-18 08:30"
     },
     {
         "title": "Werkstudent*in Data Science & KI",
@@ -21,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-18 04:30"
+        "timestamp": "2026-08-18 08:30"
     },
     {
         "title": "Senior Data Engineer (m/w/d) \u2013 Snowflake",
@@ -33,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-18 04:30"
+        "timestamp": "2026-08-18 08:30"
     },
     {
         "title": "Senior Software Engineer (Ruby / GOlang)",
@@ -45,19 +57,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-18 04:30"
+        "timestamp": "2026-08-18 08:30"
     },
     {
-        "title": "Senior Machine Learning Engineer: Search Quality",
-        "company": "Constructor",
-        "url": "https://www.arbeitnow.com/jobs/companies/constructor/senior-machine-learning-engineer-search-quality-munich-265685",
-        "loc": "Remote",
+        "title": "Pre-Sales Senior Engineer",
+        "company": "Kaluza",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/pre-sales-senior-engineer-london-347617",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 54,
-        "timestamp": "2026-08-18 04:30"
+        "tejas_score": 46,
+        "timestamp": "2026-08-18 08:30"
     },
     {
         "title": "Data Engineer",
@@ -69,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-18 04:30"
+        "timestamp": "2026-08-18 08:30"
     },
     {
         "title": "(Senior) Backend Engineer, Marketplace",
@@ -81,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-18 04:30"
+        "timestamp": "2026-08-18 08:30"
     },
     {
         "title": "(Senior) Backend Engineer, Maps",
@@ -93,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-18 04:30"
+        "timestamp": "2026-08-18 08:30"
     },
     {
         "title": "(Senior) Analytics Engineer (m/f/d)",
@@ -105,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-18 04:30"
+        "timestamp": "2026-08-18 08:30"
     },
     {
         "title": "Senior Data Engineer - Real time analytics",
@@ -117,42 +129,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-08-18 04:30"
-    },
-    {
-        "title": "Junior Data Engineer (S\u00e3o Paulo, BR)",
-        "company": "Blab",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/blab/junior-data-engineer-sao-paulo-br-118043",
-        "loc": "S\u00e3o Paulo, BR",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 62,
-        "timestamp": "2026-08-18 04:30"
-    },
-    {
-        "title": "Junior Data Engineer (Philadelphia, PA)",
-        "company": "Blab",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/blab/junior-data-engineer-philadelphia-pa-philadelphia-pa-metro-area-384650",
-        "loc": "Philadelphia, PA metro area",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 62,
-        "timestamp": "2026-08-18 04:30"
-    },
-    {
-        "title": "Junior Data Engineer (New York, NY)",
-        "company": "Blab",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/blab/junior-data-engineer-new-york-ny-new-york-city-ny-metro-area-354342",
-        "loc": "New York City, NY metro area",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 62,
-        "timestamp": "2026-08-18 04:30"
+        "timestamp": "2026-08-18 08:30"
     }
 ]
