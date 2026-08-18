@@ -1,5 +1,89 @@
 [
     {
+        "title": "Sr. Solutions Engineer",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.com/jobs/companies/databricks/sr-solutions-engineer-munich-186893",
+        "loc": "Munich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-18 20:17"
+    },
+    {
+        "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.com/jobs/companies/databricks/senior-solutions-architect-edw-enterprise-data-warehouse-migrations-berlin-munich-271828",
+        "loc": "Berlin; Munich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 91,
+        "timestamp": "2026-08-18 20:17"
+    },
+    {
+        "title": "(Senior) IT Product Owner Data Platform (m/w/d)",
+        "company": "OXG Glasfaser GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/oxg-glasfaser-gmbh/remote-senior-it-product-owner-data-platform-43391",
+        "loc": "D\u00fcsseldorf und Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-18 20:17"
+    },
+    {
+        "title": "Senior Manager Data Analytics (w/m/d)",
+        "company": "Eraneos",
+        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-manager-data-analytics-134976",
+        "loc": "Hamburg, M\u00fcnchen, D\u00fcsseldorf, remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-18 20:17"
+    },
+    {
+        "title": "Senior Analytics Engineer (all genders)",
+        "company": "Eraneos",
+        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-analytics-engineer-all-genders-281631",
+        "loc": "Hamburg, M\u00fcnchen, D\u00fcsseldorf, remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-08-18 20:17"
+    },
+    {
+        "title": "Senior AI Engineer (w/m/d)",
+        "company": "Eraneos",
+        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-ai-engineer-300978",
+        "loc": "Hamburg, M\u00fcnchen, D\u00fcsseldorf, remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-08-18 20:17"
+    },
+    {
+        "title": "Software Developer Linux Python Integrations (m/w/d) REMOTE",
+        "company": "Pont Connects e.K.",
+        "url": "https://www.arbeitnow.com/jobs/companies/pont-connects-ek/software-developer-linux-python-integrations-remote-dusseldorf-486714",
+        "loc": "D\u00fcsseldorf",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 50,
+        "timestamp": "2026-08-18 20:17"
+    },
+    {
         "title": "Data Engineer",
         "company": "Superhuman%20Platform%20Inc",
         "url": "https://www.arbeitnow.com/jobs/companies/superhuman20platform20inc/data-engineer-berlin-279973",
@@ -9,7 +93,55 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 85,
-        "timestamp": "2026-08-18 16:25"
+        "timestamp": "2026-08-18 20:17"
+    },
+    {
+        "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-solutions-architect-edw-enterprise-data-warehouse-migrations-london-219495",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 91,
+        "timestamp": "2026-08-18 20:17"
+    },
+    {
+        "title": "Senior Software Engineer",
+        "company": "Menlosecurity",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/menlosecurity/senior-software-engineer-bracknell-477221",
+        "loc": "EMEA - UK",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-18 20:17"
+    },
+    {
+        "title": "Senior Software Engineer (Chromium)",
+        "company": "Menlosecurity",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/menlosecurity/senior-software-engineer-chromium-bracknell-375420",
+        "loc": "EMEA - UK",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-08-18 20:17"
+    },
+    {
+        "title": "Senior Full Stack Engineer - (HawkAI)",
+        "company": "Hawkeyeinnovations",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/hawkeyeinnovations/senior-full-stack-engineer-hawkai-budapest-311397",
+        "loc": "Budapest, Hungary",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-18 20:17"
     },
     {
         "title": "Data Analytics Engineer I",
@@ -21,30 +153,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-08-18 16:25"
-    },
-    {
-        "title": "Pre-Sales Senior Engineer",
-        "company": "Kaluza",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/pre-sales-senior-engineer-london-347617",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-18 16:25"
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Fanduel",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/fanduel/data-engineer-edinburgh-318318",
-        "loc": "Edinburgh",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-18 16:25"
+        "timestamp": "2026-08-18 20:17"
     }
 ]
