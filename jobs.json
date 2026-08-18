@@ -1,5 +1,41 @@
 [
     {
+        "title": "Werkstudent*in Klimafreundliche Busse (Data Analysis)",
+        "company": "NOW GmbH Nationale Organisation f\u00fcr den Wandel in der ...",
+        "url": "https://www.arbeitnow.com/jobs/companies/now-gmbh-nationale-organisation-fur-den-wandel-in-der/werkstudentin-klimafreundliche-busse-data-analysis-berlin-fasanenstrasse-356726",
+        "loc": "Berlin Fasanenstrasse",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-18 04:30"
+    },
+    {
+        "title": "Werkstudent*in Data Science & KI",
+        "company": "NOW GmbH Nationale Organisation f\u00fcr den Wandel in der ...",
+        "url": "https://www.arbeitnow.com/jobs/companies/now-gmbh-nationale-organisation-fur-den-wandel-in-der/werkstudentin-data-science-ki-berlin-fasanenstrasse-168604",
+        "loc": "Berlin Fasanenstrasse",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-18 04:30"
+    },
+    {
+        "title": "Senior Data Engineer (m/w/d) \u2013 Snowflake",
+        "company": "Jobrad Loop",
+        "url": "https://www.arbeitnow.com/jobs/companies/jobrad-loop/senior-data-engineer-snowflake-munchen-412727",
+        "loc": "M\u00fcnchen",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-18 04:30"
+    },
+    {
         "title": "Senior Software Engineer (Ruby / GOlang)",
         "company": "workato",
         "url": "https://www.arbeitnow.com/jobs/companies/workato/senior-software-engineer-ruby-golang-berlin-489336",
@@ -9,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-18 00:57"
+        "timestamp": "2026-08-18 04:30"
     },
     {
         "title": "Senior Machine Learning Engineer: Search Quality",
@@ -21,31 +57,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 54,
-        "timestamp": "2026-08-18 00:57"
+        "timestamp": "2026-08-18 04:30"
     },
     {
-        "title": "Agentic AI Software Engineer",
-        "company": "Machine Learning Reply",
-        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/agentic-ai-software-engineer-munich-353000",
-        "loc": "Munich, Bayern, Germany",
+        "title": "Data Engineer",
+        "company": "Fanduel",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/fanduel/data-engineer-edinburgh-318318",
+        "loc": "Edinburgh",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-18 00:57"
-    },
-    {
-        "title": "Praktikum - Political Data Engineering (w/d/m)",
-        "company": "Christundcompany",
-        "url": "https://www.arbeitnow.com/jobs/companies/christundcompany/praktikum-political-data-engineering-berlin-285507",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-18 00:57"
+        "tejas_score": 46,
+        "timestamp": "2026-08-18 04:30"
     },
     {
         "title": "(Senior) Backend Engineer, Marketplace",
@@ -57,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-18 00:57"
+        "timestamp": "2026-08-18 04:30"
     },
     {
         "title": "(Senior) Backend Engineer, Maps",
@@ -69,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-18 00:57"
+        "timestamp": "2026-08-18 04:30"
     },
     {
         "title": "(Senior) Analytics Engineer (m/f/d)",
@@ -81,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-18 00:57"
+        "timestamp": "2026-08-18 04:30"
     },
     {
         "title": "Senior Data Engineer - Real time analytics",
@@ -93,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-08-18 00:57"
+        "timestamp": "2026-08-18 04:30"
     },
     {
         "title": "Junior Data Engineer (S\u00e3o Paulo, BR)",
@@ -105,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 62,
-        "timestamp": "2026-08-18 00:57"
+        "timestamp": "2026-08-18 04:30"
     },
     {
         "title": "Junior Data Engineer (Philadelphia, PA)",
@@ -117,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 62,
-        "timestamp": "2026-08-18 00:57"
+        "timestamp": "2026-08-18 04:30"
     },
     {
         "title": "Junior Data Engineer (New York, NY)",
@@ -129,30 +153,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 62,
-        "timestamp": "2026-08-18 00:57"
-    },
-    {
-        "title": "Data Analyst (London, UK)",
-        "company": "Blab",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/blab/data-analyst-london-uk-184054",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 69,
-        "timestamp": "2026-08-18 00:57"
-    },
-    {
-        "title": "Data Analyst (Amsterdam, NLD)",
-        "company": "Blab",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/blab/data-analyst-amsterdam-nld-124096",
-        "loc": "Amsterdam, NL",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 69,
-        "timestamp": "2026-08-18 00:57"
+        "timestamp": "2026-08-18 04:30"
     }
 ]
