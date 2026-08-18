@@ -1,5 +1,29 @@
 [
     {
+        "title": "Data Engineer",
+        "company": "Superhuman%20Platform%20Inc",
+        "url": "https://www.arbeitnow.com/jobs/companies/superhuman20platform20inc/data-engineer-berlin-279973",
+        "loc": "Hub - Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 85,
+        "timestamp": "2026-08-18 16:25"
+    },
+    {
+        "title": "Data Analytics Engineer I",
+        "company": "Checkout.com",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/data-analytics-engineer-i-london-438463",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-08-18 16:25"
+    },
+    {
         "title": "Pre-Sales Senior Engineer",
         "company": "Kaluza",
         "url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/pre-sales-senior-engineer-london-347617",
@@ -9,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-18 12:35"
+        "timestamp": "2026-08-18 16:25"
     },
     {
         "title": "Data Engineer",
@@ -21,54 +45,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-18 12:35"
-    },
-    {
-        "title": "(Senior) Backend Engineer, Marketplace",
-        "company": "Wheely",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/senior-backend-engineer-marketplace-london-297644",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-18 12:35"
-    },
-    {
-        "title": "(Senior) Backend Engineer, Maps",
-        "company": "Wheely",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/senior-backend-engineer-maps-london-495117",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-18 12:35"
-    },
-    {
-        "title": "(Senior) Analytics Engineer (m/f/d)",
-        "company": "1Komma5Grad",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-senior-analytics-engineer-373361",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-18 12:35"
-    },
-    {
-        "title": "Senior Data Engineer - Real time analytics",
-        "company": "Aircall",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/aircall/senior-data-engineer-real-time-analytics-london-office-368823",
-        "loc": "London Office",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-08-18 12:35"
+        "timestamp": "2026-08-18 16:25"
     }
 ]
