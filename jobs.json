@@ -1,51 +1,39 @@
 [
     {
+        "title": "Principal DevOps Engineer (m/w/d)",
+        "company": "Alexander Thamm GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/principal-devops-engineer-munchen-312598",
+        "loc": "M\u00fcnchen",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-19 12:36"
+    },
+    {
         "title": "Senior Data Engineer (m/w/d)",
-        "company": "celebrate company GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/celebrate-company-gmbh/remote-senior-data-engineer-gilching-244485",
-        "loc": "Homeoffice",
+        "company": "Alexander Thamm GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/senior-data-engineer-munchen-361544",
+        "loc": "M\u00fcnchen",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 60,
+        "timestamp": "2026-08-19 12:36"
+    },
+    {
+        "title": "Principal Data Engineer (m/w/d)",
+        "company": "Alexander Thamm GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/principal-data-engineer-munchen-77292",
+        "loc": "M\u00fcnchen",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-08-19 08:30"
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Platoapp",
-        "url": "https://www.arbeitnow.com/jobs/companies/platoapp/data-engineer-berlin-153233",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 99,
-        "timestamp": "2026-08-19 08:30"
-    },
-    {
-        "title": "Senior Database Administrator",
-        "company": "Xsolla",
-        "url": "https://www.arbeitnow.com/jobs/companies/xsolla/senior-database-administrator-berlin-germany-286422",
-        "loc": "Berlin, Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-19 08:30"
-    },
-    {
-        "title": "Senior AI-Native Fullstack Engineer (m/w/d)",
-        "company": "Zvoove",
-        "url": "https://www.arbeitnow.com/jobs/companies/zvoove/senior-ai-native-fullstack-engineer-de-munchen-465431",
-        "loc": "DE | M\u00fcnchen",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-19 08:30"
+        "timestamp": "2026-08-19 12:36"
     },
     {
         "title": "Staff+ Software Engineer, Platform Connectivity",
@@ -57,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-19 08:30"
+        "timestamp": "2026-08-19 12:36"
     },
     {
         "title": "Staff Software Engineer, Data Engineering",
@@ -69,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 99,
-        "timestamp": "2026-08-19 08:30"
+        "timestamp": "2026-08-19 12:36"
     },
     {
         "title": "Senior Software Engineer, Data Engineering",
@@ -81,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 100,
-        "timestamp": "2026-08-19 08:30"
+        "timestamp": "2026-08-19 12:36"
     },
     {
         "title": "Senior Software Engineer - AI Enablement HR",
@@ -93,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-19 08:30"
+        "timestamp": "2026-08-19 12:36"
     },
     {
         "title": "Senior Software Engineer - Future Opportunities",
@@ -105,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-08-19 08:30"
+        "timestamp": "2026-08-19 12:36"
     },
     {
         "title": "AWS Platform Engineer: Developer",
@@ -117,6 +105,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 58,
-        "timestamp": "2026-08-19 08:30"
+        "timestamp": "2026-08-19 12:36"
     }
 ]
