@@ -1,5 +1,17 @@
 [
     {
+        "title": "AI Field Engineer",
+        "company": "CHAPTERS Group AG",
+        "url": "https://www.arbeitnow.com/jobs/companies/chapters-group-ag/ai-field-engineer-cologne-232238",
+        "loc": "Cologne",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 69,
+        "timestamp": "2026-08-19 20:20"
+    },
+    {
         "title": "AI Platform Engineer",
         "company": "CHAPTERS Group AG",
         "url": "https://www.arbeitnow.com/jobs/companies/chapters-group-ag/ai-platform-engineer-cologne-428107",
@@ -9,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-08-19 16:25"
+        "timestamp": "2026-08-19 20:20"
     },
     {
         "title": "Senior Full-Stack Engineer (Python/Django + Vue.js)",
@@ -21,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 81,
-        "timestamp": "2026-08-19 16:25"
+        "timestamp": "2026-08-19 20:20"
     },
     {
         "title": "Data-Plattform Engineer (Fabric / Databricks) (m/w/d)",
@@ -33,78 +45,42 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-08-19 16:25"
+        "timestamp": "2026-08-19 20:20"
     },
     {
-        "title": "Data Analyst",
-        "company": "Planetlabs",
-        "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/data-analyst-berlin-21502",
-        "loc": "Berlin",
+        "title": "Data Engineering Senior Manager",
+        "company": "Fanduel",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/fanduel/data-engineering-senior-manager-edinburgh-354097",
+        "loc": "Edinburgh",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-19 16:25"
+        "timestamp": "2026-08-19 20:20"
     },
     {
-        "title": "Data Engineer (m/f/d)",
-        "company": "Statista",
-        "url": "https://www.arbeitnow.com/jobs/companies/statista/data-engineer-hamburg-or-berlin-92068",
-        "loc": "Hamburg or Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-19 16:25"
-    },
-    {
-        "title": "Staff+ Software Engineer, Platform Connectivity",
-        "company": "Anthropic",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/staff-software-engineer-platform-connectivity-london-369877",
+        "title": "Analytics Engineer",
+        "company": "Axle Careers",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/axle-careers/analytics-engineer-london-466020",
         "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-19 16:25"
+        "timestamp": "2026-08-19 20:20"
     },
     {
-        "title": "Staff Software Engineer, Data Engineering",
-        "company": "Ripple",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/ripple/staff-software-engineer-data-engineering-london-158309",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 99,
-        "timestamp": "2026-08-19 16:25"
-    },
-    {
-        "title": "Senior Software Engineer, Data Engineering",
-        "company": "Ripple",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/ripple/senior-software-engineer-data-engineering-london-155157",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 100,
-        "timestamp": "2026-08-19 16:25"
-    },
-    {
-        "title": "Senior Software Engineer - AI Enablement HR",
-        "company": "Kraken",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/senior-software-engineer-ai-enablement-hr-london-119241",
-        "loc": "United Kingdom",
+        "title": "Backend Engineer",
+        "company": "Octopus Energy Group jobs",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group-jobs/backend-engineer-london-gb-482649",
+        "loc": "London (GB)",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-19 16:25"
+        "timestamp": "2026-08-19 20:20"
     }
 ]
