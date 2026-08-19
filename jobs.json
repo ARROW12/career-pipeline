@@ -1,39 +1,63 @@
 [
     {
-        "title": "Principal DevOps Engineer (m/w/d)",
-        "company": "Alexander Thamm GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/principal-devops-engineer-munchen-312598",
-        "loc": "M\u00fcnchen",
+        "title": "AI Platform Engineer",
+        "company": "CHAPTERS Group AG",
+        "url": "https://www.arbeitnow.com/jobs/companies/chapters-group-ag/ai-platform-engineer-cologne-428107",
+        "loc": "Cologne",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-19 12:36"
+        "tejas_score": 84,
+        "timestamp": "2026-08-19 16:25"
     },
     {
-        "title": "Senior Data Engineer (m/w/d)",
-        "company": "Alexander Thamm GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/senior-data-engineer-munchen-361544",
-        "loc": "M\u00fcnchen",
+        "title": "Senior Full-Stack Engineer (Python/Django + Vue.js)",
+        "company": "Hivebuy",
+        "url": "https://www.arbeitnow.com/jobs/companies/hivebuy/senior-full-stack-engineer-python-django-vuejs-berlin-423545",
+        "loc": "Berlin",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 60,
-        "timestamp": "2026-08-19 12:36"
+        "tejas_score": 81,
+        "timestamp": "2026-08-19 16:25"
     },
     {
-        "title": "Principal Data Engineer (m/w/d)",
-        "company": "Alexander Thamm GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/principal-data-engineer-munchen-77292",
-        "loc": "M\u00fcnchen",
+        "title": "Data-Plattform Engineer (Fabric / Databricks) (m/w/d)",
+        "company": "Ailio GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/ailio-gmbh/data-plattform-engineer-fabric-databricks-bielefeld-273667",
+        "loc": "Bielefeld",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-08-19 12:36"
+        "tejas_score": 50,
+        "timestamp": "2026-08-19 16:25"
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Planetlabs",
+        "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/data-analyst-berlin-21502",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-19 16:25"
+    },
+    {
+        "title": "Data Engineer (m/f/d)",
+        "company": "Statista",
+        "url": "https://www.arbeitnow.com/jobs/companies/statista/data-engineer-hamburg-or-berlin-92068",
+        "loc": "Hamburg or Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-19 16:25"
     },
     {
         "title": "Staff+ Software Engineer, Platform Connectivity",
@@ -45,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-19 12:36"
+        "timestamp": "2026-08-19 16:25"
     },
     {
         "title": "Staff Software Engineer, Data Engineering",
@@ -57,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 99,
-        "timestamp": "2026-08-19 12:36"
+        "timestamp": "2026-08-19 16:25"
     },
     {
         "title": "Senior Software Engineer, Data Engineering",
@@ -69,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 100,
-        "timestamp": "2026-08-19 12:36"
+        "timestamp": "2026-08-19 16:25"
     },
     {
         "title": "Senior Software Engineer - AI Enablement HR",
@@ -81,30 +105,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-19 12:36"
-    },
-    {
-        "title": "Senior Software Engineer - Future Opportunities",
-        "company": "Baringa",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/baringa/senior-software-engineer-future-opportunities-london-292728",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-08-19 12:36"
-    },
-    {
-        "title": "AWS Platform Engineer: Developer",
-        "company": "Baringa",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/baringa/aws-platform-engineer-developer-london-210429",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 58,
-        "timestamp": "2026-08-19 12:36"
+        "timestamp": "2026-08-19 16:25"
     }
 ]
