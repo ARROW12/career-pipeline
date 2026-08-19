@@ -1,5 +1,17 @@
 [
     {
+        "title": "Senior Data Engineer (m/w/d)",
+        "company": "celebrate company GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/celebrate-company-gmbh/remote-senior-data-engineer-gilching-244485",
+        "loc": "Homeoffice",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-08-19 08:30"
+    },
+    {
         "title": "Data Engineer",
         "company": "Platoapp",
         "url": "https://www.arbeitnow.com/jobs/companies/platoapp/data-engineer-berlin-153233",
@@ -9,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 99,
-        "timestamp": "2026-08-19 04:31"
+        "timestamp": "2026-08-19 08:30"
     },
     {
         "title": "Senior Database Administrator",
@@ -21,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-19 04:31"
+        "timestamp": "2026-08-19 08:30"
     },
     {
         "title": "Senior AI-Native Fullstack Engineer (m/w/d)",
@@ -33,43 +45,55 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-19 04:31"
+        "timestamp": "2026-08-19 08:30"
     },
     {
-        "title": "Data Engineer",
-        "company": "Superhuman",
-        "url": "https://www.arbeitnow.com/jobs/companies/superhuman/data-engineer-berlin-89243",
-        "loc": "Hub - Berlin",
+        "title": "Staff+ Software Engineer, Platform Connectivity",
+        "company": "Anthropic",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/staff-software-engineer-platform-connectivity-london-369877",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 85,
-        "timestamp": "2026-08-19 04:31"
+        "tejas_score": 45,
+        "timestamp": "2026-08-19 08:30"
     },
     {
-        "title": "Sr. Solutions Engineer",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.com/jobs/companies/databricks/sr-solutions-engineer-munich-186893",
-        "loc": "Munich",
+        "title": "Staff Software Engineer, Data Engineering",
+        "company": "Ripple",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/ripple/staff-software-engineer-data-engineering-london-158309",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 99,
+        "timestamp": "2026-08-19 08:30"
+    },
+    {
+        "title": "Senior Software Engineer, Data Engineering",
+        "company": "Ripple",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/ripple/senior-software-engineer-data-engineering-london-155157",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 100,
+        "timestamp": "2026-08-19 08:30"
+    },
+    {
+        "title": "Senior Software Engineer - AI Enablement HR",
+        "company": "Kraken",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/senior-software-engineer-ai-enablement-hr-london-119241",
+        "loc": "United Kingdom",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-19 04:31"
-    },
-    {
-        "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.com/jobs/companies/databricks/senior-solutions-architect-edw-enterprise-data-warehouse-migrations-berlin-munich-271828",
-        "loc": "Berlin; Munich",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 91,
-        "timestamp": "2026-08-19 04:31"
+        "timestamp": "2026-08-19 08:30"
     },
     {
         "title": "Senior Software Engineer - Future Opportunities",
@@ -81,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-08-19 04:31"
+        "timestamp": "2026-08-19 08:30"
     },
     {
         "title": "AWS Platform Engineer: Developer",
@@ -93,18 +117,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 58,
-        "timestamp": "2026-08-19 04:31"
-    },
-    {
-        "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-solutions-architect-edw-enterprise-data-warehouse-migrations-london-219495",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 91,
-        "timestamp": "2026-08-19 04:31"
+        "timestamp": "2026-08-19 08:30"
     }
 ]
