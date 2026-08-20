@@ -1,27 +1,51 @@
 [
     {
-        "title": "Senior Data Analyst - Operations (m/f/x)",
-        "company": "FINN",
-        "url": "https://www.arbeitnow.com/jobs/companies/finn/senior-data-analyst-operations-germany-49920",
-        "loc": "Germany",
+        "title": "Staff Data Engineer (f/m/d)_metrify",
+        "company": "Enpal",
+        "url": "https://www.arbeitnow.com/jobs/companies/enpal/staff-data-engineer-metrify-berlin-347291",
+        "loc": "Berlin",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-20 08:31"
+        "tejas_score": 61,
+        "timestamp": "2026-08-20 12:37"
     },
     {
-        "title": "Geospatial Data Analyst (f/m/x) in the field of AI & Satellite Data",
-        "company": "Liveeo Gmbh",
-        "url": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/geospatial-data-analyst-in-the-field-of-ai-satellite-data-liveeo-gmbh-berlin-office-hybrid-257623",
-        "loc": "LiveEO GmbH Berlin Office (Hybrid)",
+        "title": "Senior Data Engineer (f/m/d)_metrify",
+        "company": "Enpal",
+        "url": "https://www.arbeitnow.com/jobs/companies/enpal/senior-data-engineer-metrify-berlin-61854",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-08-20 12:37"
+    },
+    {
+        "title": "DevOps Engineer- Night Shift(10:00 PM - 6:00 AM)",
+        "company": "Nice",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/nice/devops-engineer-night-shift1000-pm-600-am-475706",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-08-20 12:37"
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Thought Machine",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/thought-machine/software-engineer-london-164681",
+        "loc": "United Kingdom, London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-20 08:31"
+        "timestamp": "2026-08-20 12:37"
     },
     {
         "title": "Software Engineer-II  Backend",
@@ -33,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-20 08:31"
+        "timestamp": "2026-08-20 12:37"
     },
     {
         "title": "Platform Data Engineer - Cardiff",
@@ -45,18 +69,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 100,
-        "timestamp": "2026-08-20 08:31"
-    },
-    {
-        "title": "Senior Security Engineer",
-        "company": "Docebo",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/docebo/senior-security-engineer-london-164567",
-        "loc": "London, UK",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-20 08:31"
+        "timestamp": "2026-08-20 12:37"
     }
 ]
