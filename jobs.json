@@ -9,43 +9,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 69,
-        "timestamp": "2026-08-19 20:20"
+        "timestamp": "2026-08-20 00:57"
     },
     {
-        "title": "AI Platform Engineer",
-        "company": "CHAPTERS Group AG",
-        "url": "https://www.arbeitnow.com/jobs/companies/chapters-group-ag/ai-platform-engineer-cologne-428107",
-        "loc": "Cologne",
+        "title": "Senior Security Engineer",
+        "company": "Docebo",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/docebo/senior-security-engineer-london-164567",
+        "loc": "London, UK",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 84,
-        "timestamp": "2026-08-19 20:20"
-    },
-    {
-        "title": "Senior Full-Stack Engineer (Python/Django + Vue.js)",
-        "company": "Hivebuy",
-        "url": "https://www.arbeitnow.com/jobs/companies/hivebuy/senior-full-stack-engineer-python-django-vuejs-berlin-423545",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 81,
-        "timestamp": "2026-08-19 20:20"
-    },
-    {
-        "title": "Data-Plattform Engineer (Fabric / Databricks) (m/w/d)",
-        "company": "Ailio GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/ailio-gmbh/data-plattform-engineer-fabric-databricks-bielefeld-273667",
-        "loc": "Bielefeld",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 50,
-        "timestamp": "2026-08-19 20:20"
+        "tejas_score": 46,
+        "timestamp": "2026-08-20 00:57"
     },
     {
         "title": "Data Engineering Senior Manager",
@@ -57,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-19 20:20"
+        "timestamp": "2026-08-20 00:57"
     },
     {
         "title": "Analytics Engineer",
@@ -69,7 +45,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-19 20:20"
+        "timestamp": "2026-08-20 00:57"
+    },
+    {
+        "title": "Data Architect",
+        "company": "Techtorch",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/techtorch/data-architect-eu-uk-339554",
+        "loc": "EU + UK",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-20 00:57"
+    },
+    {
+        "title": "Forward Deployed AI Engineer",
+        "company": "Techtorch",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/techtorch/forward-deployed-ai-engineer-eu-uk-260204",
+        "loc": "EU + UK",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 100,
+        "timestamp": "2026-08-20 00:57"
     },
     {
         "title": "Backend Engineer",
@@ -81,6 +81,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-19 20:20"
+        "timestamp": "2026-08-20 00:57"
     }
 ]
