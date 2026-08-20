@@ -1,15 +1,27 @@
 [
     {
-        "title": "AI Field Engineer",
-        "company": "CHAPTERS Group AG",
-        "url": "https://www.arbeitnow.com/jobs/companies/chapters-group-ag/ai-field-engineer-cologne-232238",
-        "loc": "Cologne",
+        "title": "Senior Data Analyst - Operations (m/f/x)",
+        "company": "FINN",
+        "url": "https://www.arbeitnow.com/jobs/companies/finn/senior-data-analyst-operations-germany-49920",
+        "loc": "Germany",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 69,
-        "timestamp": "2026-08-20 00:57"
+        "tejas_score": 45,
+        "timestamp": "2026-08-20 04:31"
+    },
+    {
+        "title": "Geospatial Data Analyst (f/m/x) in the field of AI & Satellite Data",
+        "company": "Liveeo Gmbh",
+        "url": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/geospatial-data-analyst-in-the-field-of-ai-satellite-data-liveeo-gmbh-berlin-office-hybrid-257623",
+        "loc": "LiveEO GmbH Berlin Office (Hybrid)",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-20 04:31"
     },
     {
         "title": "Senior Security Engineer",
@@ -21,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-20 00:57"
+        "timestamp": "2026-08-20 04:31"
     },
     {
         "title": "Data Engineering Senior Manager",
@@ -33,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-20 00:57"
+        "timestamp": "2026-08-20 04:31"
     },
     {
         "title": "Analytics Engineer",
@@ -45,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-20 00:57"
+        "timestamp": "2026-08-20 04:31"
     },
     {
         "title": "Data Architect",
@@ -57,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-20 00:57"
+        "timestamp": "2026-08-20 04:31"
     },
     {
         "title": "Forward Deployed AI Engineer",
@@ -69,18 +81,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 100,
-        "timestamp": "2026-08-20 00:57"
-    },
-    {
-        "title": "Backend Engineer",
-        "company": "Octopus Energy Group jobs",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group-jobs/backend-engineer-london-gb-482649",
-        "loc": "London (GB)",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-20 00:57"
+        "timestamp": "2026-08-20 04:31"
     }
 ]
