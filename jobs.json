@@ -9,7 +9,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-20 04:31"
+        "timestamp": "2026-08-20 08:31"
     },
     {
         "title": "Geospatial Data Analyst (f/m/x) in the field of AI & Satellite Data",
@@ -21,7 +21,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-20 04:31"
+        "timestamp": "2026-08-20 08:31"
+    },
+    {
+        "title": "Software Engineer-II  Backend",
+        "company": "Socure",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/socure/software-engineer-ii-backend-london-205275",
+        "loc": "Hybrid - London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-20 08:31"
+    },
+    {
+        "title": "Platform Data Engineer - Cardiff",
+        "company": "Rocketsciencegg",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/rocketsciencegg/platform-data-engineer-cardiff-474975",
+        "loc": "Cardiff, Wales, UK",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 100,
+        "timestamp": "2026-08-20 08:31"
     },
     {
         "title": "Senior Security Engineer",
@@ -33,54 +57,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-20 04:31"
-    },
-    {
-        "title": "Data Engineering Senior Manager",
-        "company": "Fanduel",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/fanduel/data-engineering-senior-manager-edinburgh-354097",
-        "loc": "Edinburgh",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-20 04:31"
-    },
-    {
-        "title": "Analytics Engineer",
-        "company": "Axle Careers",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/axle-careers/analytics-engineer-london-466020",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-20 04:31"
-    },
-    {
-        "title": "Data Architect",
-        "company": "Techtorch",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/techtorch/data-architect-eu-uk-339554",
-        "loc": "EU + UK",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-20 04:31"
-    },
-    {
-        "title": "Forward Deployed AI Engineer",
-        "company": "Techtorch",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/techtorch/forward-deployed-ai-engineer-eu-uk-260204",
-        "loc": "EU + UK",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 100,
-        "timestamp": "2026-08-20 04:31"
+        "timestamp": "2026-08-20 08:31"
     }
 ]
