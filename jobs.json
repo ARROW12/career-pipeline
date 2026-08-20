@@ -1,27 +1,87 @@
 [
     {
-        "title": "Staff Data Engineer (f/m/d)_metrify",
-        "company": "Enpal",
-        "url": "https://www.arbeitnow.com/jobs/companies/enpal/staff-data-engineer-metrify-berlin-347291",
-        "loc": "Berlin",
+        "title": "Senior Data Engineer (Databricks) (m/w/d)",
+        "company": "Collaboration Betters The World GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/collaboration-betters-the-world-gmbh/senior-data-engineer-databricks-stuttgart-187617",
+        "loc": "Stuttgart",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-08-20 12:37"
+        "tejas_score": 65,
+        "timestamp": "2026-08-20 16:28"
     },
     {
-        "title": "Senior Data Engineer (f/m/d)_metrify",
-        "company": "Enpal",
-        "url": "https://www.arbeitnow.com/jobs/companies/enpal/senior-data-engineer-metrify-berlin-61854",
+        "title": "Data Engineer (Professional) (Databricks) (m/w/d)",
+        "company": "Collaboration Betters The World GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/collaboration-betters-the-world-gmbh/data-engineer-professional-databricks-stuttgart-296815",
+        "loc": "Stuttgart",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 80,
+        "timestamp": "2026-08-20 16:28"
+    },
+    {
+        "title": "Junior Data Engineer (Databricks) (m/w/d)",
+        "company": "Collaboration Betters The World GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/collaboration-betters-the-world-gmbh/junior-data-engineer-databricks-stuttgart-267806",
+        "loc": "Stuttgart",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 65,
+        "timestamp": "2026-08-20 16:28"
+    },
+    {
+        "title": "Senior Data Scientist/ML Engineer - Financial Crime",
+        "company": "sumup",
+        "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-data-scientist-ml-engineer-financial-crime-berlin-185839",
         "loc": "Berlin",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-08-20 12:37"
+        "tejas_score": 46,
+        "timestamp": "2026-08-20 16:28"
+    },
+    {
+        "title": "Senior Data Scientist/ML Engineer - Financial Crime",
+        "company": "SumUp",
+        "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-data-scientist-ml-engineer-financial-crime-berlin-257478",
+        "loc": "Berlin, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-20 16:28"
+    },
+    {
+        "title": "Head of Data Engineering",
+        "company": "PHMG Careers",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/phmg-careers/head-of-data-engineering-manchester-188111",
+        "loc": "Manchester, England, United Kingdom",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 84,
+        "timestamp": "2026-08-20 16:28"
+    },
+    {
+        "title": "Software Engineer II, Security",
+        "company": "Everquote",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/everquote/software-engineer-ii-security-belfast-northern-ireland-83881",
+        "loc": "Belfast, Northern Ireland",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-20 16:28"
     },
     {
         "title": "DevOps Engineer- Night Shift(10:00 PM - 6:00 AM)",
@@ -33,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-20 12:37"
+        "timestamp": "2026-08-20 16:28"
     },
     {
         "title": "Software Engineer",
@@ -45,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-20 12:37"
+        "timestamp": "2026-08-20 16:28"
     },
     {
         "title": "Software Engineer-II  Backend",
@@ -57,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-20 12:37"
+        "timestamp": "2026-08-20 16:28"
     },
     {
         "title": "Platform Data Engineer - Cardiff",
@@ -69,6 +129,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 100,
-        "timestamp": "2026-08-20 12:37"
+        "timestamp": "2026-08-20 16:28"
     }
 ]
