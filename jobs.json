@@ -1,5 +1,41 @@
 [
     {
+        "title": "Working Student Data Engineer (m/f/d)",
+        "company": "raisin",
+        "url": "https://www.arbeitnow.com/jobs/companies/raisin/working-student-data-engineer-berlin-berlin-303757",
+        "loc": "Berlin, Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-08-21 01:01"
+    },
+    {
+        "title": "Data & Machine Learning Engineer (All genders)",
+        "company": "Stark",
+        "url": "https://www.arbeitnow.com/jobs/companies/stark/data-machine-learning-engineer-all-genders-munich-160503",
+        "loc": "Munich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-08-21 01:01"
+    },
+    {
+        "title": "Data Analyst (all genders)",
+        "company": "MUVN",
+        "url": "https://www.arbeitnow.com/jobs/companies/muvn/data-analyst-all-genders-hamburg-222708",
+        "loc": "Hamburg",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-21 01:01"
+    },
+    {
         "title": "Data Platform & Data Architecture Consultant",
         "company": "Netlight",
         "url": "https://www.arbeitnow.com/jobs/companies/netlight/data-platform-data-architecture-consultant-berlin-248331",
@@ -9,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 54,
-        "timestamp": "2026-08-20 20:22"
+        "timestamp": "2026-08-21 01:01"
     },
     {
         "title": "Data Engineer (m/w/d) \u2013 Fokus Messdatenmanagement & Ownership",
@@ -21,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-08-20 20:22"
+        "timestamp": "2026-08-21 01:01"
     },
     {
         "title": "Senior Data Engineer (Databricks) (m/w/d)",
@@ -33,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 65,
-        "timestamp": "2026-08-20 20:22"
+        "timestamp": "2026-08-21 01:01"
     },
     {
         "title": "Data Engineer (Professional) (Databricks) (m/w/d)",
@@ -45,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 80,
-        "timestamp": "2026-08-20 20:22"
+        "timestamp": "2026-08-21 01:01"
     },
     {
         "title": "Junior Data Engineer (Databricks) (m/w/d)",
@@ -57,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 65,
-        "timestamp": "2026-08-20 20:22"
+        "timestamp": "2026-08-21 01:01"
     },
     {
         "title": "Senior Data Scientist/ML Engineer - Financial Crime",
@@ -69,7 +105,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-20 20:22"
+        "timestamp": "2026-08-21 01:01"
+    },
+    {
+        "title": "Senior Software Engineer, Web Development \u2013 AI",
+        "company": "Roku",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-software-engineer-web-development-ai-manchester-82235",
+        "loc": "Manchester",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-21 01:01"
     },
     {
         "title": "Solutions Engineer - EMEA",
@@ -81,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-20 20:22"
+        "timestamp": "2026-08-21 01:01"
     },
     {
         "title": "Staff Data Scientist",
@@ -93,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-20 20:22"
+        "timestamp": "2026-08-21 01:01"
     },
     {
         "title": "Data Engineer",
@@ -105,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 69,
-        "timestamp": "2026-08-20 20:22"
+        "timestamp": "2026-08-21 01:01"
     },
     {
         "title": "Lead Software Engineer",
@@ -117,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-20 20:22"
+        "timestamp": "2026-08-21 01:01"
     },
     {
         "title": "Staff Analytics Engineer",
@@ -129,7 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-20 20:22"
+        "timestamp": "2026-08-21 01:01"
     },
     {
         "title": "Staff Analytics Engineer",
@@ -141,7 +189,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-20 20:22"
+        "timestamp": "2026-08-21 01:01"
     },
     {
         "title": "Head of Data Engineering",
@@ -153,7 +201,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-08-20 20:22"
+        "timestamp": "2026-08-21 01:01"
     },
     {
         "title": "Software Engineer II, Security",
@@ -165,18 +213,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-20 20:22"
-    },
-    {
-        "title": "DevOps Engineer- Night Shift(10:00 PM - 6:00 AM)",
-        "company": "Nice",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/nice/devops-engineer-night-shift1000-pm-600-am-475706",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-08-20 20:22"
+        "timestamp": "2026-08-21 01:01"
     }
 ]
