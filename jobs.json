@@ -1,39 +1,39 @@
 [
     {
-        "title": "(Senior) Consultant (m/w/d) Microsoft Data & Analytics / Microsoft Fabric",
-        "company": "Windhoff Group",
-        "url": "https://www.arbeitnow.com/jobs/companies/windhoff-group/senior-consultant-microsoft-data-analytics-microsoft-fabric-gescher-229953",
-        "loc": "Gescher",
+        "title": "Fullstack Developer \u2013 AI & LLM (m/w/d)",
+        "company": "Cleverly edu GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/cleverly-edu-gmbh/fullstack-developer-ai-llm-berlin-55332",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 50,
+        "timestamp": "2026-08-21 20:19"
+    },
+    {
+        "title": "GTM Engineer",
+        "company": "Lilt Corporate",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/lilt-corporate/gtm-engineer-london-497604",
+        "loc": "London, UK",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-21 20:19"
+    },
+    {
+        "title": "Security Engineer - Product",
+        "company": "Wizinc",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/wizinc/security-engineer-product-london-421812",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-21 16:27"
-    },
-    {
-        "title": "DevOps/ML Engineer (m/f/d)",
-        "company": "Machine Learning Reply",
-        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/devops-ml-engineer-munich-201312",
-        "loc": "Munich, Bayern, Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-08-21 16:27"
-    },
-    {
-        "title": "DevOps/ML Engineer (m/f/d)",
-        "company": "Machine Learning Reply",
-        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/devops-ml-engineer-munich-101304",
-        "loc": "Munich",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-08-21 16:27"
+        "timestamp": "2026-08-21 20:19"
     },
     {
         "title": "Senior Backend Engineer (Python), Agent Developer: Flow Components",
@@ -45,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-08-21 16:27"
+        "timestamp": "2026-08-21 20:19"
     },
     {
         "title": "Senior Engineer, Data Infrastructure",
@@ -57,19 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-21 16:27"
-    },
-    {
-        "title": "Lead Data Engineer",
-        "company": "TodayTix Group",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/todaytix-group/lead-data-engineer-london-uk-15503",
-        "loc": "London, UK",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-08-21 16:27"
+        "timestamp": "2026-08-21 20:19"
     },
     {
         "title": "Senior Data Engineer",
@@ -81,6 +69,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-21 16:27"
+        "timestamp": "2026-08-21 20:19"
     }
 ]
