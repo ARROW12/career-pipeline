@@ -9,7 +9,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-08-21 04:32"
+        "timestamp": "2026-08-21 08:34"
     },
     {
         "title": "Data & Machine Learning Engineer (All genders)",
@@ -21,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-08-21 04:32"
+        "timestamp": "2026-08-21 08:34"
     },
     {
         "title": "Data Analyst (all genders)",
@@ -33,31 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-21 04:32"
-    },
-    {
-        "title": "Data Platform & Data Architecture Consultant",
-        "company": "Netlight",
-        "url": "https://www.arbeitnow.com/jobs/companies/netlight/data-platform-data-architecture-consultant-berlin-248331",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 54,
-        "timestamp": "2026-08-21 04:32"
-    },
-    {
-        "title": "Data Engineer (m/w/d) \u2013 Fokus Messdatenmanagement & Ownership",
-        "company": "Octopus Energy Group",
-        "url": "https://www.arbeitnow.com/jobs/companies/octopus-energy-group/data-engineer-fokus-messdatenmanagement-ownership-berlin-de-197367",
-        "loc": "Berlin (DE)",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-08-21 04:32"
+        "timestamp": "2026-08-21 08:34"
     },
     {
         "title": "Lead Data Engineer",
@@ -69,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-21 04:32"
+        "timestamp": "2026-08-21 08:34"
     },
     {
         "title": "Senior Software Engineer, Web Development \u2013 AI",
@@ -81,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-21 04:32"
+        "timestamp": "2026-08-21 08:34"
     },
     {
         "title": "Solutions Engineer - EMEA",
@@ -93,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-21 04:32"
+        "timestamp": "2026-08-21 08:34"
     },
     {
         "title": "Staff Data Scientist",
@@ -105,54 +81,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-21 04:32"
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Ivcevidensia",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/data-engineer-keynsham-bristol-england-420378",
-        "loc": "Keynsham, Bristol, England",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 69,
-        "timestamp": "2026-08-21 04:32"
-    },
-    {
-        "title": "Lead Software Engineer",
-        "company": "Sonymusicentertainment",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/sonymusicentertainment/lead-software-engineer-london-24155",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-21 04:32"
-    },
-    {
-        "title": "Staff Analytics Engineer",
-        "company": "Pleo",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/staff-analytics-engineer-london-28392",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-08-21 04:32"
-    },
-    {
-        "title": "Staff Analytics Engineer",
-        "company": "Pleo",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/staff-analytics-engineer-united-kingdom-420867",
-        "loc": "United Kingdom",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-08-21 04:32"
+        "timestamp": "2026-08-21 08:34"
     }
 ]
