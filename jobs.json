@@ -1,39 +1,27 @@
 [
     {
-        "title": "Working Student Data Engineer (m/f/d)",
-        "company": "raisin",
-        "url": "https://www.arbeitnow.com/jobs/companies/raisin/working-student-data-engineer-berlin-berlin-303757",
-        "loc": "Berlin, Berlin",
+        "title": "Senior Backend Engineer (Python), Agent Developer: Flow Components",
+        "company": "gitlab",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-backend-engineer-python-agent-developer-flow-components-296673",
+        "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-08-21 08:34"
+        "tejas_score": 50,
+        "timestamp": "2026-08-21 12:36"
     },
     {
-        "title": "Data & Machine Learning Engineer (All genders)",
-        "company": "Stark",
-        "url": "https://www.arbeitnow.com/jobs/companies/stark/data-machine-learning-engineer-all-genders-munich-160503",
-        "loc": "Munich",
+        "title": "Senior Engineer, Data Infrastructure",
+        "company": "Flagshippioneeringinc",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/flagshippioneeringinc/senior-engineer-data-infrastructure-cambridge-293079",
+        "loc": "Cambridge",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-08-21 08:34"
-    },
-    {
-        "title": "Data Analyst (all genders)",
-        "company": "MUVN",
-        "url": "https://www.arbeitnow.com/jobs/companies/muvn/data-analyst-all-genders-hamburg-222708",
-        "loc": "Hamburg",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-21 08:34"
+        "tejas_score": 46,
+        "timestamp": "2026-08-21 12:36"
     },
     {
         "title": "Lead Data Engineer",
@@ -45,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-21 08:34"
+        "timestamp": "2026-08-21 12:36"
     },
     {
         "title": "Senior Software Engineer, Web Development \u2013 AI",
@@ -57,30 +45,18 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-21 08:34"
+        "timestamp": "2026-08-21 12:36"
     },
     {
-        "title": "Solutions Engineer - EMEA",
-        "company": "Redpanda Data",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/redpanda-data/remote-solutions-engineer-emea-387821",
-        "loc": "UK - Remote",
+        "title": "Senior Data Engineer",
+        "company": "Lemon.io",
+        "url": "https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097",
+        "loc": "LATAM, Europe, USA, Canada, APAC",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-21 08:34"
-    },
-    {
-        "title": "Staff Data Scientist",
-        "company": "Duck Duck Go",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/duck-duck-go/remote-staff-data-scientist-152804",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-21 08:34"
+        "tejas_score": 91,
+        "timestamp": "2026-08-21 12:36"
     }
 ]
