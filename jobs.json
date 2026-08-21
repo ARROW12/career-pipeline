@@ -1,5 +1,41 @@
 [
     {
+        "title": "(Senior) Consultant (m/w/d) Microsoft Data & Analytics / Microsoft Fabric",
+        "company": "Windhoff Group",
+        "url": "https://www.arbeitnow.com/jobs/companies/windhoff-group/senior-consultant-microsoft-data-analytics-microsoft-fabric-gescher-229953",
+        "loc": "Gescher",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-21 16:27"
+    },
+    {
+        "title": "DevOps/ML Engineer (m/f/d)",
+        "company": "Machine Learning Reply",
+        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/devops-ml-engineer-munich-201312",
+        "loc": "Munich, Bayern, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-08-21 16:27"
+    },
+    {
+        "title": "DevOps/ML Engineer (m/f/d)",
+        "company": "Machine Learning Reply",
+        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/devops-ml-engineer-munich-101304",
+        "loc": "Munich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-08-21 16:27"
+    },
+    {
         "title": "Senior Backend Engineer (Python), Agent Developer: Flow Components",
         "company": "gitlab",
         "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-backend-engineer-python-agent-developer-flow-components-296673",
@@ -9,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-08-21 12:36"
+        "timestamp": "2026-08-21 16:27"
     },
     {
         "title": "Senior Engineer, Data Infrastructure",
@@ -21,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-21 12:36"
+        "timestamp": "2026-08-21 16:27"
     },
     {
         "title": "Lead Data Engineer",
@@ -33,19 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-21 12:36"
-    },
-    {
-        "title": "Senior Software Engineer, Web Development \u2013 AI",
-        "company": "Roku",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-software-engineer-web-development-ai-manchester-82235",
-        "loc": "Manchester",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-21 12:36"
+        "timestamp": "2026-08-21 16:27"
     },
     {
         "title": "Senior Data Engineer",
@@ -57,6 +81,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-21 12:36"
+        "timestamp": "2026-08-21 16:27"
     }
 ]
