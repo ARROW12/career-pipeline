@@ -1,5 +1,17 @@
 [
     {
+        "title": "Team Lead Data Products & Analytics (gn)",
+        "company": "Bikeleasing",
+        "url": "https://www.arbeitnow.com/jobs/companies/bikeleasing/remote-team-lead-data-products-analytics-gn-9339",
+        "loc": "Remote Deutschland",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-22 12:28"
+    },
+    {
         "title": "Senior Data Engineer (m/w/d) \u2013 Snowflake",
         "company": "Jobrad Loop",
         "url": "https://www.arbeitnow.com/jobs/companies/jobrad-loop/senior-data-engineer-snowflake-munchen-10090",
@@ -9,19 +21,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-22 08:23"
+        "timestamp": "2026-08-22 12:28"
     },
     {
-        "title": "AI Solution Architect (m/w/d)",
-        "company": "virtual7 GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-115971",
-        "loc": "Homeoffice",
+        "title": "Senior Data Engineer - Real time analytics",
+        "company": "Aircall",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/aircall/senior-data-engineer-real-time-analytics-london-office-382266",
+        "loc": "London Office",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-08-22 08:23"
+        "tejas_score": 76,
+        "timestamp": "2026-08-22 12:28"
     },
     {
         "title": "Senior Consulting Engineer",
@@ -33,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-22 08:23"
+        "timestamp": "2026-08-22 12:28"
     },
     {
         "title": "Sr. Solutions Engineer",
@@ -45,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-22 08:23"
+        "timestamp": "2026-08-22 12:28"
     },
     {
         "title": "GTM Engineer",
@@ -57,19 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-22 08:23"
-    },
-    {
-        "title": "Security Engineer - Product",
-        "company": "Wizinc",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/wizinc/security-engineer-product-london-421812",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-22 08:23"
+        "timestamp": "2026-08-22 12:28"
     },
     {
         "title": "Senior Data Engineer",
@@ -81,6 +81,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-22 08:23"
+        "timestamp": "2026-08-22 12:28"
     }
 ]
