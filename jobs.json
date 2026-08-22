@@ -1,5 +1,17 @@
 [
     {
+        "title": "Senior Data Engineer (m/w/d) \u2013 Snowflake",
+        "company": "Jobrad Loop",
+        "url": "https://www.arbeitnow.com/jobs/companies/jobrad-loop/senior-data-engineer-snowflake-munchen-10090",
+        "loc": "M\u00fcnchen",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-22 08:23"
+    },
+    {
         "title": "AI Solution Architect (m/w/d)",
         "company": "virtual7 GmbH",
         "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-115971",
@@ -9,19 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-22 04:27"
-    },
-    {
-        "title": "Senior Data Analyst (m/f/d)",
-        "company": "Westwing Group SE",
-        "url": "https://www.arbeitnow.com/jobs/companies/westwing-group-se/senior-data-analyst-munich-office-472692",
-        "loc": "Munich Office",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-22 04:27"
+        "timestamp": "2026-08-22 08:23"
     },
     {
         "title": "Senior Consulting Engineer",
@@ -33,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-22 04:27"
+        "timestamp": "2026-08-22 08:23"
     },
     {
         "title": "Sr. Solutions Engineer",
@@ -45,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-22 04:27"
+        "timestamp": "2026-08-22 08:23"
     },
     {
         "title": "GTM Engineer",
@@ -57,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-22 04:27"
+        "timestamp": "2026-08-22 08:23"
     },
     {
         "title": "Security Engineer - Product",
@@ -69,19 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-22 04:27"
-    },
-    {
-        "title": "Senior Backend Engineer (Python), Agent Developer: Flow Components",
-        "company": "gitlab",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-backend-engineer-python-agent-developer-flow-components-296673",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 50,
-        "timestamp": "2026-08-22 04:27"
+        "timestamp": "2026-08-22 08:23"
     },
     {
         "title": "Senior Data Engineer",
@@ -93,6 +81,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-22 04:27"
+        "timestamp": "2026-08-22 08:23"
     }
 ]
