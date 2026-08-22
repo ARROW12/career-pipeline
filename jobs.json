@@ -9,7 +9,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-22 00:57"
+        "timestamp": "2026-08-22 04:27"
     },
     {
         "title": "Senior Data Analyst (m/f/d)",
@@ -21,7 +21,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-22 00:57"
+        "timestamp": "2026-08-22 04:27"
+    },
+    {
+        "title": "Senior Consulting Engineer",
+        "company": "mongodb",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/mongodb/senior-consulting-engineer-117449",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-22 04:27"
+    },
+    {
+        "title": "Sr. Solutions Engineer",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/sr-solutions-engineer-london-110837",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 91,
+        "timestamp": "2026-08-22 04:27"
     },
     {
         "title": "GTM Engineer",
@@ -33,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-22 00:57"
+        "timestamp": "2026-08-22 04:27"
     },
     {
         "title": "Security Engineer - Product",
@@ -45,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-22 00:57"
+        "timestamp": "2026-08-22 04:27"
     },
     {
         "title": "Senior Backend Engineer (Python), Agent Developer: Flow Components",
@@ -57,19 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-08-22 00:57"
-    },
-    {
-        "title": "Senior Engineer, Data Infrastructure",
-        "company": "Flagshippioneeringinc",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/flagshippioneeringinc/senior-engineer-data-infrastructure-cambridge-293079",
-        "loc": "Cambridge",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-22 00:57"
+        "timestamp": "2026-08-22 04:27"
     },
     {
         "title": "Senior Data Engineer",
@@ -81,6 +93,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-22 00:57"
+        "timestamp": "2026-08-22 04:27"
     }
 ]
