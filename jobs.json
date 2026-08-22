@@ -1,5 +1,17 @@
 [
     {
+        "title": "Solutions Architect",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.com/jobs/companies/databricks/solutions-architect-munich-455392",
+        "loc": "Munich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-22 16:17"
+    },
+    {
         "title": "Team Lead Data Products & Analytics (gn)",
         "company": "Bikeleasing",
         "url": "https://www.arbeitnow.com/jobs/companies/bikeleasing/remote-team-lead-data-products-analytics-gn-9339",
@@ -9,19 +21,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-22 12:28"
+        "timestamp": "2026-08-22 16:17"
     },
     {
-        "title": "Senior Data Engineer (m/w/d) \u2013 Snowflake",
-        "company": "Jobrad Loop",
-        "url": "https://www.arbeitnow.com/jobs/companies/jobrad-loop/senior-data-engineer-snowflake-munchen-10090",
-        "loc": "M\u00fcnchen",
+        "title": "(Senior) Analytics Engineer (m/f/d)",
+        "company": "1Komma5Grad",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-senior-analytics-engineer-465811",
+        "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-22 12:28"
+        "tejas_score": 45,
+        "timestamp": "2026-08-22 16:17"
     },
     {
         "title": "Senior Data Engineer - Real time analytics",
@@ -33,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-08-22 12:28"
+        "timestamp": "2026-08-22 16:17"
     },
     {
         "title": "Senior Consulting Engineer",
@@ -45,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-22 12:28"
+        "timestamp": "2026-08-22 16:17"
     },
     {
         "title": "Sr. Solutions Engineer",
@@ -57,19 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-22 12:28"
-    },
-    {
-        "title": "GTM Engineer",
-        "company": "Lilt Corporate",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/lilt-corporate/gtm-engineer-london-497604",
-        "loc": "London, UK",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-22 12:28"
+        "timestamp": "2026-08-22 16:17"
     },
     {
         "title": "Senior Data Engineer",
@@ -81,6 +81,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-22 12:28"
+        "timestamp": "2026-08-22 16:17"
     }
 ]
