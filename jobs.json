@@ -1,5 +1,17 @@
 [
     {
+        "title": "Senior AI Engineer (m/f/d)",
+        "company": "Artefact",
+        "url": "https://www.arbeitnow.com/jobs/companies/artefact/senior-ai-engineer-berlin-berlin-hamburg-hamburg-munchen-bavaria-74951",
+        "loc": "Berlin, Berlin; Hamburg, Hamburg; M\u00fcnchen, Bavaria",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-22 20:16"
+    },
+    {
         "title": "Solutions Architect",
         "company": "databricks",
         "url": "https://www.arbeitnow.com/jobs/companies/databricks/solutions-architect-munich-455392",
@@ -9,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-22 16:17"
+        "timestamp": "2026-08-22 20:16"
     },
     {
         "title": "Team Lead Data Products & Analytics (gn)",
@@ -21,7 +33,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-22 16:17"
+        "timestamp": "2026-08-22 20:16"
+    },
+    {
+        "title": "Forward Deployed Engineer",
+        "company": "Globalwebindex",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/globalwebindex/forward-deployed-engineer-london-177344",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-22 20:16"
+    },
+    {
+        "title": "Senior Manager, Analytics",
+        "company": "Eucalyptus",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/eucalyptus/senior-manager-analytics-140230",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-22 20:16"
     },
     {
         "title": "(Senior) Analytics Engineer (m/f/d)",
@@ -33,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-22 16:17"
+        "timestamp": "2026-08-22 20:16"
     },
     {
         "title": "Senior Data Engineer - Real time analytics",
@@ -45,31 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-08-22 16:17"
-    },
-    {
-        "title": "Senior Consulting Engineer",
-        "company": "mongodb",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/mongodb/senior-consulting-engineer-117449",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-22 16:17"
-    },
-    {
-        "title": "Sr. Solutions Engineer",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/sr-solutions-engineer-london-110837",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 91,
-        "timestamp": "2026-08-22 16:17"
+        "timestamp": "2026-08-22 20:16"
     },
     {
         "title": "Senior Data Engineer",
@@ -81,6 +93,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-22 16:17"
+        "timestamp": "2026-08-22 20:16"
     }
 ]
