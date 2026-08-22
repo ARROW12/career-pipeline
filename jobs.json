@@ -1,15 +1,27 @@
 [
     {
-        "title": "Fullstack Developer \u2013 AI & LLM (m/w/d)",
-        "company": "Cleverly edu GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/cleverly-edu-gmbh/fullstack-developer-ai-llm-berlin-55332",
-        "loc": "Berlin",
+        "title": "AI Solution Architect (m/w/d)",
+        "company": "virtual7 GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-115971",
+        "loc": "Homeoffice",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 50,
-        "timestamp": "2026-08-21 20:19"
+        "tejas_score": 61,
+        "timestamp": "2026-08-22 00:57"
+    },
+    {
+        "title": "Senior Data Analyst (m/f/d)",
+        "company": "Westwing Group SE",
+        "url": "https://www.arbeitnow.com/jobs/companies/westwing-group-se/senior-data-analyst-munich-office-472692",
+        "loc": "Munich Office",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-22 00:57"
     },
     {
         "title": "GTM Engineer",
@@ -21,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-21 20:19"
+        "timestamp": "2026-08-22 00:57"
     },
     {
         "title": "Security Engineer - Product",
@@ -33,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-21 20:19"
+        "timestamp": "2026-08-22 00:57"
     },
     {
         "title": "Senior Backend Engineer (Python), Agent Developer: Flow Components",
@@ -45,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-08-21 20:19"
+        "timestamp": "2026-08-22 00:57"
     },
     {
         "title": "Senior Engineer, Data Infrastructure",
@@ -57,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-21 20:19"
+        "timestamp": "2026-08-22 00:57"
     },
     {
         "title": "Senior Data Engineer",
@@ -69,6 +81,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-21 20:19"
+        "timestamp": "2026-08-22 00:57"
     }
 ]
