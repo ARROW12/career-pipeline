@@ -1,5 +1,17 @@
 [
     {
+        "title": "Senior Software Engineer - Python control software (f/m/d)",
+        "company": "eleQtron GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/eleqtron-gmbh/senior-software-engineer-python-control-software-siegen-213022",
+        "loc": "Siegen, Nordrhein-Westfalen, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 50,
+        "timestamp": "2026-08-23 12:30"
+    },
+    {
         "title": "Software Engineer - Data (All Genders)",
         "company": "PREMATCH Sports GmbH",
         "url": "https://www.arbeitnow.com/jobs/companies/prematch-sports-gmbh/software-engineer-data-all-genders-koln-358585",
@@ -9,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-23 08:23"
+        "timestamp": "2026-08-23 12:30"
     },
     {
         "title": "Lead Software Engineer (m/f/d)",
@@ -21,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-23 08:23"
+        "timestamp": "2026-08-23 12:30"
     },
     {
         "title": "Senior Data Engineer (m/f/d)",
@@ -33,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-23 08:23"
+        "timestamp": "2026-08-23 12:30"
     },
     {
         "title": "Data Engineer (m/f/d)",
@@ -45,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-23 08:23"
+        "timestamp": "2026-08-23 12:30"
     },
     {
         "title": "Praktikum - Political Data Engineering (w/d/m)",
@@ -57,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-23 08:23"
+        "timestamp": "2026-08-23 12:30"
     },
     {
         "title": "Analytics Engineer, Payments Intelligence",
@@ -69,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-08-23 08:23"
+        "timestamp": "2026-08-23 12:30"
     },
     {
         "title": "Data Engineer (m/w/d) - Azure Cloud & MS Fabric",
@@ -81,19 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-23 08:23"
-    },
-    {
-        "title": "Senior AI Engineer (m/f/d)",
-        "company": "Artefact",
-        "url": "https://www.arbeitnow.com/jobs/companies/artefact/senior-ai-engineer-berlin-berlin-hamburg-hamburg-munchen-bavaria-74951",
-        "loc": "Berlin, Berlin; Hamburg, Hamburg; M\u00fcnchen, Bavaria",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-23 08:23"
+        "timestamp": "2026-08-23 12:30"
     },
     {
         "title": "Senior Data Engineer | Betty CA",
@@ -105,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-23 08:23"
+        "timestamp": "2026-08-23 12:30"
     },
     {
         "title": "Associate Sales Engineer",
@@ -117,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-23 08:23"
+        "timestamp": "2026-08-23 12:30"
     },
     {
         "title": "Principal Software Engineer (Hybrid)",
@@ -129,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-23 08:23"
+        "timestamp": "2026-08-23 12:30"
     },
     {
         "title": "Lead Software Engineer (Hybrid)",
@@ -141,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-23 08:23"
+        "timestamp": "2026-08-23 12:30"
     },
     {
         "title": "Forward Deployed Engineer",
@@ -153,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-23 08:23"
+        "timestamp": "2026-08-23 12:30"
     },
     {
         "title": "Senior Manager, Analytics",
@@ -165,19 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-23 08:23"
-    },
-    {
-        "title": "(Senior) Analytics Engineer (m/f/d)",
-        "company": "1Komma5Grad",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-senior-analytics-engineer-465811",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-23 08:23"
+        "timestamp": "2026-08-23 12:30"
     },
     {
         "title": "Senior Data Engineer",
@@ -189,6 +177,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-23 08:23"
+        "timestamp": "2026-08-23 12:30"
     }
 ]
