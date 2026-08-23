@@ -1,5 +1,29 @@
 [
     {
+        "title": "Analytics Engineer, Payments Intelligence",
+        "company": "Vinteden",
+        "url": "https://www.arbeitnow.com/jobs/companies/vinteden/analytics-engineer-payments-intelligence-berlin-224168",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-08-23 01:02"
+    },
+    {
+        "title": "Data Engineer (m/w/d) - Azure Cloud & MS Fabric",
+        "company": "Doehle",
+        "url": "https://www.arbeitnow.com/jobs/companies/doehle/data-engineer-azure-cloud-ms-fabric-hamburg-82581",
+        "loc": "Hamburg",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-23 01:02"
+    },
+    {
         "title": "Senior AI Engineer (m/f/d)",
         "company": "Artefact",
         "url": "https://www.arbeitnow.com/jobs/companies/artefact/senior-ai-engineer-berlin-berlin-hamburg-hamburg-munchen-bavaria-74951",
@@ -9,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-22 20:16"
+        "timestamp": "2026-08-23 01:02"
     },
     {
         "title": "Solutions Architect",
@@ -21,19 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-22 20:16"
-    },
-    {
-        "title": "Team Lead Data Products & Analytics (gn)",
-        "company": "Bikeleasing",
-        "url": "https://www.arbeitnow.com/jobs/companies/bikeleasing/remote-team-lead-data-products-analytics-gn-9339",
-        "loc": "Remote Deutschland",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-22 20:16"
+        "timestamp": "2026-08-23 01:02"
     },
     {
         "title": "Forward Deployed Engineer",
@@ -45,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-22 20:16"
+        "timestamp": "2026-08-23 01:02"
     },
     {
         "title": "Senior Manager, Analytics",
@@ -57,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-22 20:16"
+        "timestamp": "2026-08-23 01:02"
     },
     {
         "title": "(Senior) Analytics Engineer (m/f/d)",
@@ -69,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-22 20:16"
+        "timestamp": "2026-08-23 01:02"
     },
     {
         "title": "Senior Data Engineer - Real time analytics",
@@ -81,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-08-22 20:16"
+        "timestamp": "2026-08-23 01:02"
     },
     {
         "title": "Senior Data Engineer",
@@ -93,6 +105,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-22 20:16"
+        "timestamp": "2026-08-23 01:02"
     }
 ]
