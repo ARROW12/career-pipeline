@@ -1,5 +1,29 @@
 [
     {
+        "title": "Senior Python Developer (w/m/d) - Remote",
+        "company": "node.energy",
+        "url": "https://www.arbeitnow.com/jobs/companies/nodeenergy/senior-python-developer-remote-110978",
+        "loc": "Frankfurt a. M., Freiburg oder remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 65,
+        "timestamp": "2026-08-23 20:16"
+    },
+    {
+        "title": "Senior AI-Native Fullstack Engineer (m/w/d)",
+        "company": "Zvoove",
+        "url": "https://www.arbeitnow.com/jobs/companies/zvoove/senior-ai-native-fullstack-engineer-de-munchen-283285",
+        "loc": "DE | M\u00fcnchen",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-23 20:16"
+    },
+    {
         "title": "Senior Data Visualization Engineer - Microsoft Fabric (m/w/d)",
         "company": "Alexander Thamm GmbH",
         "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/senior-data-visualization-engineer-microsoft-fabric-hybrid-munchen-273332",
@@ -9,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-23 16:18"
+        "timestamp": "2026-08-23 20:16"
     },
     {
         "title": "Senior Data Scientist (m/w/d) - Chemical Engineering & Verfahrenstechnik",
@@ -21,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-23 16:18"
+        "timestamp": "2026-08-23 20:16"
     },
     {
         "title": "Senior Software Engineer - Python control software (f/m/d)",
@@ -33,19 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-08-23 16:18"
-    },
-    {
-        "title": "Software Engineer - Data (All Genders)",
-        "company": "PREMATCH Sports GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/prematch-sports-gmbh/software-engineer-data-all-genders-koln-358585",
-        "loc": "K\u00f6ln",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-08-23 16:18"
+        "timestamp": "2026-08-23 20:16"
     },
     {
         "title": "Senior Data Engineer | Betty CA",
@@ -57,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-23 16:18"
+        "timestamp": "2026-08-23 20:16"
     },
     {
         "title": "Associate Sales Engineer",
@@ -69,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-23 16:18"
+        "timestamp": "2026-08-23 20:16"
     },
     {
         "title": "Principal Software Engineer (Hybrid)",
@@ -81,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-23 16:18"
+        "timestamp": "2026-08-23 20:16"
     },
     {
         "title": "Lead Software Engineer (Hybrid)",
@@ -93,31 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-23 16:18"
-    },
-    {
-        "title": "Forward Deployed Engineer",
-        "company": "Globalwebindex",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/globalwebindex/forward-deployed-engineer-london-177344",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-23 16:18"
-    },
-    {
-        "title": "Senior Manager, Analytics",
-        "company": "Eucalyptus",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/eucalyptus/senior-manager-analytics-140230",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-23 16:18"
+        "timestamp": "2026-08-23 20:16"
     },
     {
         "title": "Senior Data Engineer",
@@ -129,6 +117,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-23 16:18"
+        "timestamp": "2026-08-23 20:16"
     }
 ]
