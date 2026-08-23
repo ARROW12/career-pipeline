@@ -1,5 +1,53 @@
 [
     {
+        "title": "Software Engineer - Data (All Genders)",
+        "company": "PREMATCH Sports GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/prematch-sports-gmbh/software-engineer-data-all-genders-koln-358585",
+        "loc": "K\u00f6ln",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-08-23 08:23"
+    },
+    {
+        "title": "Lead Software Engineer (m/f/d)",
+        "company": "Fincite Gmbh",
+        "url": "https://www.arbeitnow.com/jobs/companies/fincite-gmbh/lead-software-engineer-frankfurt-am-main-115503",
+        "loc": "Frankfurt am Main",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-23 08:23"
+    },
+    {
+        "title": "Senior Data Engineer (m/f/d)",
+        "company": "DISH Digital Solutions GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/dish-digital-solutions-gmbh/senior-data-engineer-dusseldorf-259265",
+        "loc": "D\u00fcsseldorf",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-23 08:23"
+    },
+    {
+        "title": "Data Engineer (m/f/d)",
+        "company": "DISH Digital Solutions GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/dish-digital-solutions-gmbh/data-engineer-dusseldorf-363424",
+        "loc": "D\u00fcsseldorf",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-08-23 08:23"
+    },
+    {
         "title": "Praktikum - Political Data Engineering (w/d/m)",
         "company": "Christundcompany",
         "url": "https://www.arbeitnow.com/jobs/companies/christundcompany/praktikum-political-data-engineering-berlin-255318",
@@ -9,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-23 04:31"
+        "timestamp": "2026-08-23 08:23"
     },
     {
         "title": "Analytics Engineer, Payments Intelligence",
@@ -21,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-08-23 04:31"
+        "timestamp": "2026-08-23 08:23"
     },
     {
         "title": "Data Engineer (m/w/d) - Azure Cloud & MS Fabric",
@@ -33,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-23 04:31"
+        "timestamp": "2026-08-23 08:23"
     },
     {
         "title": "Senior AI Engineer (m/f/d)",
@@ -45,19 +93,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-23 04:31"
+        "timestamp": "2026-08-23 08:23"
     },
     {
-        "title": "Solutions Architect",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.com/jobs/companies/databricks/solutions-architect-munich-455392",
-        "loc": "Munich",
+        "title": "Senior Data Engineer | Betty CA",
+        "company": "Bettyjobboard",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/bettyjobboard/senior-data-engineer-betty-ca-london-169535",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-08-23 08:23"
+    },
+    {
+        "title": "Associate Sales Engineer",
+        "company": "Influxdata",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/influxdata/associate-sales-engineer-manchester-449075",
+        "loc": "Remote UK",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-23 04:31"
+        "timestamp": "2026-08-23 08:23"
     },
     {
         "title": "Principal Software Engineer (Hybrid)",
@@ -69,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-23 04:31"
+        "timestamp": "2026-08-23 08:23"
     },
     {
         "title": "Lead Software Engineer (Hybrid)",
@@ -81,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-23 04:31"
+        "timestamp": "2026-08-23 08:23"
     },
     {
         "title": "Forward Deployed Engineer",
@@ -93,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-23 04:31"
+        "timestamp": "2026-08-23 08:23"
     },
     {
         "title": "Senior Manager, Analytics",
@@ -105,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-23 04:31"
+        "timestamp": "2026-08-23 08:23"
     },
     {
         "title": "(Senior) Analytics Engineer (m/f/d)",
@@ -117,19 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-23 04:31"
-    },
-    {
-        "title": "Senior Data Engineer - Real time analytics",
-        "company": "Aircall",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/aircall/senior-data-engineer-real-time-analytics-london-office-382266",
-        "loc": "London Office",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-08-23 04:31"
+        "timestamp": "2026-08-23 08:23"
     },
     {
         "title": "Senior Data Engineer",
@@ -141,6 +189,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-23 04:31"
+        "timestamp": "2026-08-23 08:23"
     }
 ]
