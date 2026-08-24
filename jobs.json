@@ -1,5 +1,29 @@
 [
     {
+        "title": "Security Engineer - Product",
+        "company": "wizinc",
+        "url": "https://www.arbeitnow.com/jobs/companies/wizinc/security-engineer-product-berlin-216370",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-24 01:00"
+    },
+    {
+        "title": "(Senior) GenAI Engineer (f/m/d)",
+        "company": "Trusted Shops SE (DE)",
+        "url": "https://www.arbeitnow.com/jobs/companies/trusted-shops-se-de/senior-genai-engineer-berlin-144358",
+        "loc": "Berlin, Berlin, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 60,
+        "timestamp": "2026-08-24 01:00"
+    },
+    {
         "title": "Senior Python Developer (w/m/d) - Remote",
         "company": "node.energy",
         "url": "https://www.arbeitnow.com/jobs/companies/nodeenergy/senior-python-developer-remote-110978",
@@ -9,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 65,
-        "timestamp": "2026-08-23 20:16"
+        "timestamp": "2026-08-24 01:00"
     },
     {
         "title": "Senior AI-Native Fullstack Engineer (m/w/d)",
@@ -21,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-23 20:16"
+        "timestamp": "2026-08-24 01:00"
     },
     {
         "title": "Senior Data Visualization Engineer - Microsoft Fabric (m/w/d)",
@@ -33,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-23 20:16"
+        "timestamp": "2026-08-24 01:00"
     },
     {
         "title": "Senior Data Scientist (m/w/d) - Chemical Engineering & Verfahrenstechnik",
@@ -45,19 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-23 20:16"
-    },
-    {
-        "title": "Senior Software Engineer - Python control software (f/m/d)",
-        "company": "eleQtron GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/eleqtron-gmbh/senior-software-engineer-python-control-software-siegen-213022",
-        "loc": "Siegen, Nordrhein-Westfalen, Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 50,
-        "timestamp": "2026-08-23 20:16"
+        "timestamp": "2026-08-24 01:00"
     },
     {
         "title": "Senior Data Engineer | Betty CA",
@@ -69,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-23 20:16"
+        "timestamp": "2026-08-24 01:00"
     },
     {
         "title": "Associate Sales Engineer",
@@ -81,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-23 20:16"
+        "timestamp": "2026-08-24 01:00"
     },
     {
         "title": "Principal Software Engineer (Hybrid)",
@@ -93,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-23 20:16"
+        "timestamp": "2026-08-24 01:00"
     },
     {
         "title": "Lead Software Engineer (Hybrid)",
@@ -105,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-23 20:16"
+        "timestamp": "2026-08-24 01:00"
     },
     {
         "title": "Senior Data Engineer",
@@ -117,6 +129,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-23 20:16"
+        "timestamp": "2026-08-24 01:00"
     }
 ]
