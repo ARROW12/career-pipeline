@@ -1,5 +1,53 @@
 [
     {
+        "title": "Product Owner Data & AI (m/w/d) \u2013 fluege.de",
+        "company": "TC Flights Germany GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/tc-flights-germany-gmbh/product-owner-data-ai-fluegede-berlin-85158",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-24 08:41"
+    },
+    {
+        "title": "Head of AI Engineering (f/m/x)",
+        "company": "neoshare",
+        "url": "https://www.arbeitnow.com/jobs/companies/neoshare/head-of-ai-engineering-frankfurt-am-main-408406",
+        "loc": "Frankfurt am Main",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-24 08:41"
+    },
+    {
+        "title": "Head of AI Engineering (f/m/x)",
+        "company": "neoshare",
+        "url": "https://www.arbeitnow.com/jobs/companies/neoshare/head-of-ai-engineering-berlin-393582",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-24 08:41"
+    },
+    {
+        "title": "Senior Python Engineer, Platform Libraries (m/f/d)",
+        "company": "Unitelabs",
+        "url": "https://www.arbeitnow.com/jobs/companies/unitelabs/senior-python-engineer-platform-libraries-munchen-490367",
+        "loc": "M\u00fcnchen",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 88,
+        "timestamp": "2026-08-24 08:41"
+    },
+    {
         "title": "Data Platform Engineer Working Student (m/w/d)",
         "company": "Trusteq Gmbh",
         "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-platform-engineer-working-student-munchen-230477",
@@ -9,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 83,
-        "timestamp": "2026-08-24 04:39"
+        "timestamp": "2026-08-24 08:41"
     },
     {
         "title": "Data Engineer Working Student (m/w/d)",
@@ -21,31 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-24 04:39"
-    },
-    {
-        "title": "Security Engineer - Product",
-        "company": "wizinc",
-        "url": "https://www.arbeitnow.com/jobs/companies/wizinc/security-engineer-product-berlin-216370",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-24 04:39"
-    },
-    {
-        "title": "(Senior) GenAI Engineer (f/m/d)",
-        "company": "Trusted Shops SE (DE)",
-        "url": "https://www.arbeitnow.com/jobs/companies/trusted-shops-se-de/senior-genai-engineer-berlin-144358",
-        "loc": "Berlin, Berlin, Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 60,
-        "timestamp": "2026-08-24 04:39"
+        "timestamp": "2026-08-24 08:41"
     },
     {
         "title": "Senior Data Engineer | Betty CA",
@@ -57,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-24 04:39"
+        "timestamp": "2026-08-24 08:41"
     },
     {
         "title": "Associate Sales Engineer",
@@ -69,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-24 04:39"
+        "timestamp": "2026-08-24 08:41"
     },
     {
         "title": "Principal Software Engineer (Hybrid)",
@@ -81,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-24 04:39"
+        "timestamp": "2026-08-24 08:41"
     },
     {
         "title": "Lead Software Engineer (Hybrid)",
@@ -93,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-24 04:39"
+        "timestamp": "2026-08-24 08:41"
     },
     {
         "title": "Senior Data Engineer",
@@ -105,6 +129,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-24 04:39"
+        "timestamp": "2026-08-24 08:41"
     }
 ]
