@@ -9,31 +9,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 65,
-        "timestamp": "2026-08-24 12:39"
+        "timestamp": "2026-08-24 16:31"
     },
     {
-        "title": "AI/ML Engineer (m/f/d) Autonomous Systems",
-        "company": "MOTOR Ai",
-        "url": "https://www.arbeitnow.com/jobs/companies/motor-ai/ai-ml-engineer-autonomous-systems-berlin-374054",
-        "loc": "Berlin",
+        "title": "Senior Analytics Engineer",
+        "company": "Perk",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/senior-analytics-engineer-london-101557",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-24 12:39"
-    },
-    {
-        "title": "Product Owner Data & AI (m/w/d) \u2013 fluege.de",
-        "company": "TC Flights Germany GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/tc-flights-germany-gmbh/product-owner-data-ai-fluegede-berlin-85158",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-24 12:39"
+        "tejas_score": 61,
+        "timestamp": "2026-08-24 16:31"
     },
     {
         "title": "Senior Data Engineer | Betty CA",
@@ -45,43 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-24 12:39"
-    },
-    {
-        "title": "Associate Sales Engineer",
-        "company": "Influxdata",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/influxdata/associate-sales-engineer-manchester-449075",
-        "loc": "Remote UK",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-24 12:39"
-    },
-    {
-        "title": "Principal Software Engineer (Hybrid)",
-        "company": "8Thlightrebuild",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/8thlightrebuild/principal-software-engineer-hybrid-london-29809",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-24 12:39"
-    },
-    {
-        "title": "Lead Software Engineer (Hybrid)",
-        "company": "8Thlightrebuild",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/8thlightrebuild/lead-software-engineer-hybrid-london-415877",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-24 12:39"
+        "timestamp": "2026-08-24 16:31"
     },
     {
         "title": "Senior Data Engineer",
@@ -93,6 +45,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-24 12:39"
+        "timestamp": "2026-08-24 16:31"
     }
 ]
