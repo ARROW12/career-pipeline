@@ -1,5 +1,29 @@
 [
     {
+        "title": "Head of Engineering",
+        "company": "deeploi - This is IT",
+        "url": "https://www.arbeitnow.com/jobs/companies/deeploi-this-is-it/head-of-engineering-munchen-104347",
+        "loc": "M\u00fcnchen",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-24 20:24"
+    },
+    {
+        "title": "(Senior) IT Product Owner Data Platform (m/w/d)",
+        "company": "OXG Glasfaser GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/oxg-glasfaser-gmbh/remote-senior-it-product-owner-data-platform-146430",
+        "loc": "D\u00fcsseldorf und Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-24 20:24"
+    },
+    {
         "title": "Senior Python Developer (w/m/d) - Remote",
         "company": "node.energy",
         "url": "https://www.arbeitnow.com/jobs/companies/nodeenergy/senior-python-developer-remote-frankfurt-am-main-273878",
@@ -9,7 +33,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 65,
-        "timestamp": "2026-08-24 16:31"
+        "timestamp": "2026-08-24 20:24"
+    },
+    {
+        "title": "Staff Data Scientist",
+        "company": "Ripple",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/ripple/staff-data-scientist-london-283841",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-08-24 20:24"
+    },
+    {
+        "title": "Future Interest: Analytics Engineer",
+        "company": "Kaluza",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/future-interest-analytics-engineer-bristol-edinburgh-london-427433",
+        "loc": "Bristol; Edinburgh; London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-24 20:24"
     },
     {
         "title": "Senior Analytics Engineer",
@@ -21,19 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-24 16:31"
-    },
-    {
-        "title": "Senior Data Engineer | Betty CA",
-        "company": "Bettyjobboard",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/bettyjobboard/senior-data-engineer-betty-ca-london-169535",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-08-24 16:31"
+        "timestamp": "2026-08-24 20:24"
     },
     {
         "title": "Senior Data Engineer",
@@ -45,6 +81,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-24 16:31"
+        "timestamp": "2026-08-24 20:24"
     }
 ]
