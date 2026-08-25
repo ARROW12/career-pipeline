@@ -1,5 +1,29 @@
 [
     {
+        "title": "Manager, Forward Deployed Engineering",
+        "company": "parloa",
+        "url": "https://www.arbeitnow.com/jobs/companies/parloa/manager-forward-deployed-engineering-11944",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-25 04:33"
+    },
+    {
+        "title": "(Senior) DevOps Engineer (m/w/d)",
+        "company": "HyPlus Technology GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/remote-senior-devops-engineer-ratingen-325974",
+        "loc": "Remote job",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-25 04:33"
+    },
+    {
         "title": "Senior Agent Platform Engineer",
         "company": "Proxima Fusion GmbH",
         "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/senior-agent-platform-engineer-munich-474076",
@@ -9,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-25 00:59"
+        "timestamp": "2026-08-25 04:33"
     },
     {
         "title": "(Senior) Software Engineer (M/F/D) - Tools & Automation",
@@ -21,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-25 00:59"
+        "timestamp": "2026-08-25 04:33"
     },
     {
         "title": "Professor (m/f/d) of Data Engineering",
@@ -33,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-25 00:59"
+        "timestamp": "2026-08-25 04:33"
     },
     {
         "title": "Geospatial Data Analyst (f/m/x) in the field of AI & Satellite Data",
@@ -45,31 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-25 00:59"
-    },
-    {
-        "title": "Head of Engineering",
-        "company": "deeploi - This is IT",
-        "url": "https://www.arbeitnow.com/jobs/companies/deeploi-this-is-it/head-of-engineering-munchen-104347",
-        "loc": "M\u00fcnchen",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-25 00:59"
-    },
-    {
-        "title": "(Senior) IT Product Owner Data Platform (m/w/d)",
-        "company": "OXG Glasfaser GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/oxg-glasfaser-gmbh/remote-senior-it-product-owner-data-platform-146430",
-        "loc": "D\u00fcsseldorf und Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-25 00:59"
+        "timestamp": "2026-08-25 04:33"
     },
     {
         "title": "Staff Data Scientist",
@@ -81,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-08-25 00:59"
+        "timestamp": "2026-08-25 04:33"
     },
     {
         "title": "Future Interest: Analytics Engineer",
@@ -93,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-25 00:59"
+        "timestamp": "2026-08-25 04:33"
     },
     {
         "title": "Senior Analytics Engineer",
@@ -105,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-25 00:59"
+        "timestamp": "2026-08-25 04:33"
     },
     {
         "title": "Senior Data Engineer",
@@ -117,6 +117,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-25 00:59"
+        "timestamp": "2026-08-25 04:33"
     }
 ]
