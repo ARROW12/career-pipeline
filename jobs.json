@@ -1,5 +1,41 @@
 [
     {
+        "title": "Senior Machine Learning Engineer I",
+        "company": "SumUp",
+        "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-machine-learning-engineer-i-berlin-409615",
+        "loc": "Berlin, Berlin, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-25 08:35"
+    },
+    {
+        "title": "Senior BI Developer (m/f/d) - Microsoft Fabric & Power BI",
+        "company": "MultiBase GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/multibase-gmbh/senior-bi-developer-microsoft-fabric-power-bi-gilching-69880",
+        "loc": "Gilching",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 69,
+        "timestamp": "2026-08-25 08:35"
+    },
+    {
+        "title": "Agentic AI Software Engineer",
+        "company": "Machine Learning Reply",
+        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/agentic-ai-software-engineer-munich-147389",
+        "loc": "Munich, Bayern, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-25 08:35"
+    },
+    {
         "title": "Manager, Forward Deployed Engineering",
         "company": "parloa",
         "url": "https://www.arbeitnow.com/jobs/companies/parloa/manager-forward-deployed-engineering-11944",
@@ -9,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-25 04:33"
+        "timestamp": "2026-08-25 08:35"
     },
     {
         "title": "(Senior) DevOps Engineer (m/w/d)",
@@ -21,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-25 04:33"
+        "timestamp": "2026-08-25 08:35"
     },
     {
         "title": "Senior Agent Platform Engineer",
@@ -33,43 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-25 04:33"
-    },
-    {
-        "title": "(Senior) Software Engineer (M/F/D) - Tools & Automation",
-        "company": "Vmray Gmbh",
-        "url": "https://www.arbeitnow.com/jobs/companies/vmray-gmbh/remote-senior-software-engineer-tools-automation-94433",
-        "loc": "Germany, Bochum or Remote (Europe)",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-25 04:33"
-    },
-    {
-        "title": "Professor (m/f/d) of Data Engineering",
-        "company": "Global University Systems GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/global-university-systems-gmbh/professor-of-data-engineering-potsdam-354082",
-        "loc": "Potsdam",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-25 04:33"
-    },
-    {
-        "title": "Geospatial Data Analyst (f/m/x) in the field of AI & Satellite Data",
-        "company": "LiveEO GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/geospatial-data-analyst-in-the-field-of-ai-satellite-data-liveeo-gmbh-berlin-office-hybrid-135984",
-        "loc": "LiveEO GmbH Berlin Office (Hybrid)",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-25 04:33"
+        "timestamp": "2026-08-25 08:35"
     },
     {
         "title": "Staff Data Scientist",
@@ -81,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-08-25 04:33"
+        "timestamp": "2026-08-25 08:35"
     },
     {
         "title": "Future Interest: Analytics Engineer",
@@ -93,19 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-25 04:33"
-    },
-    {
-        "title": "Senior Analytics Engineer",
-        "company": "Perk",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/senior-analytics-engineer-london-101557",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-08-25 04:33"
+        "timestamp": "2026-08-25 08:35"
     },
     {
         "title": "Senior Data Engineer",
@@ -117,6 +105,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-25 04:33"
+        "timestamp": "2026-08-25 08:35"
     }
 ]
