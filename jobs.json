@@ -1,39 +1,75 @@
 [
     {
-        "title": "Forward Deployed Engineer",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.com/jobs/companies/databricks/forward-deployed-engineer-berlin-munich-440770",
-        "loc": "Berlin; Munich",
+        "title": "Senior Data Analyst (f/m/d)",
+        "company": "Zenjob",
+        "url": "https://www.arbeitnow.com/jobs/companies/zenjob/senior-data-analyst-berlin-207954",
+        "loc": "Berlin",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-08-25 12:38"
+        "tejas_score": 45,
+        "timestamp": "2026-08-25 16:30"
     },
     {
         "title": "Senior Machine Learning Engineer I",
-        "company": "SumUp",
-        "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-machine-learning-engineer-i-berlin-409615",
-        "loc": "Berlin, Berlin, Germany",
+        "company": "sumup",
+        "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-machine-learning-engineer-i-berlin-296351",
+        "loc": "Berlin",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-25 12:38"
+        "timestamp": "2026-08-25 16:30"
     },
     {
-        "title": "Senior BI Developer (m/f/d) - Microsoft Fabric & Power BI",
-        "company": "MultiBase GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/multibase-gmbh/senior-bi-developer-microsoft-fabric-power-bi-gilching-69880",
-        "loc": "Gilching",
+        "title": "Software Engineer, Back-End (LLM Agents)",
+        "company": "Superhuman",
+        "url": "https://www.arbeitnow.com/jobs/companies/superhuman/software-engineer-back-end-llm-agents-berlin-452206",
+        "loc": "Hub - Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 50,
+        "timestamp": "2026-08-25 16:30"
+    },
+    {
+        "title": "Senior Go Developer (f/m/d) \u2013 Focus on gRPC & Enterprise Applications",
+        "company": "Natuvion GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-go-developer-focus-on-grpc-enterprise-applications-berlin-362940",
+        "loc": "Remote job",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-25 16:30"
+    },
+    {
+        "title": "AI DevOps Engineer",
+        "company": "Bluecrestcapitalmanagement",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/bluecrestcapitalmanagement/ai-devops-engineer-london-70192",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 69,
-        "timestamp": "2026-08-25 12:38"
+        "timestamp": "2026-08-25 16:30"
+    },
+    {
+        "title": "Senior Fullstack Software Engineer",
+        "company": "Pigment",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/pigment/senior-fullstack-software-engineer-london-98105",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-25 16:30"
     },
     {
         "title": "Senior Backend Software Engineer",
@@ -45,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-25 12:38"
+        "timestamp": "2026-08-25 16:30"
     },
     {
         "title": "Senior Data Engineer",
@@ -57,6 +93,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-25 12:38"
+        "timestamp": "2026-08-25 16:30"
     }
 ]
