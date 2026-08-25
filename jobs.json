@@ -1,5 +1,29 @@
 [
     {
+        "title": "Senior Data Analyst (f/m/x)",
+        "company": "exmox",
+        "url": "https://www.arbeitnow.com/jobs/companies/exmox/senior-data-analyst-hamburg-87705",
+        "loc": "Hamburg",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-25 20:22"
+    },
+    {
+        "title": "DevOps Engineer AWS & Kubernetes, Junior/Intermediate (m/w/d)",
+        "company": "New Monday GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/new-monday-gmbh/devops-engineer-aws-kubernetes-junior-intermediate-berlin-387611",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 73,
+        "timestamp": "2026-08-25 20:22"
+    },
+    {
         "title": "Senior Data Analyst (f/m/d)",
         "company": "Zenjob",
         "url": "https://www.arbeitnow.com/jobs/companies/zenjob/senior-data-analyst-berlin-207954",
@@ -9,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-25 16:30"
+        "timestamp": "2026-08-25 20:22"
     },
     {
         "title": "Senior Machine Learning Engineer I",
@@ -21,31 +45,91 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-25 16:30"
+        "timestamp": "2026-08-25 20:22"
     },
     {
-        "title": "Software Engineer, Back-End (LLM Agents)",
-        "company": "Superhuman",
-        "url": "https://www.arbeitnow.com/jobs/companies/superhuman/software-engineer-back-end-llm-agents-berlin-452206",
-        "loc": "Hub - Berlin",
+        "title": "Senior Machine Learning Engineer",
+        "company": "Bazaarvoice",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/bazaarvoice/senior-machine-learning-engineer-belfast-280948",
+        "loc": "Belfast",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 50,
-        "timestamp": "2026-08-25 16:30"
+        "tejas_score": 54,
+        "timestamp": "2026-08-25 20:22"
     },
     {
-        "title": "Senior Go Developer (f/m/d) \u2013 Focus on gRPC & Enterprise Applications",
-        "company": "Natuvion GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-go-developer-focus-on-grpc-enterprise-applications-berlin-362940",
-        "loc": "Remote job",
+        "title": "Data Engineer",
+        "company": "Bgbxconsulting",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/bgbxconsulting/data-engineer-302711",
+        "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-25 16:30"
+        "tejas_score": 92,
+        "timestamp": "2026-08-25 20:22"
+    },
+    {
+        "title": "Lead Data Platform Engineer",
+        "company": "Akersystems",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/akersystems/remote-lead-data-platform-engineer-98007",
+        "loc": "Remote/Home Based",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 84,
+        "timestamp": "2026-08-25 20:22"
+    },
+    {
+        "title": "Principal Software Engineer - Full Stack - AI",
+        "company": "Anaplan",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-software-engineer-full-stack-ai-manchester-110420",
+        "loc": "Manchester",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-25 20:22"
+    },
+    {
+        "title": "Principal Software Engineer - Full Stack - AI",
+        "company": "Anaplan",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-software-engineer-full-stack-ai-york-151952",
+        "loc": "York",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-25 20:22"
+    },
+    {
+        "title": "Principal Architect AI",
+        "company": "Anaplan",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-architect-ai-london-234460",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-08-25 20:22"
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Anaplan",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/data-scientist-london-44343",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 83,
+        "timestamp": "2026-08-25 20:22"
     },
     {
         "title": "AI DevOps Engineer",
@@ -57,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 69,
-        "timestamp": "2026-08-25 16:30"
+        "timestamp": "2026-08-25 20:22"
     },
     {
         "title": "Senior Fullstack Software Engineer",
@@ -69,19 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-25 16:30"
-    },
-    {
-        "title": "Senior Backend Software Engineer",
-        "company": "Smarkets",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/smarkets/senior-backend-software-engineer-london-343973",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-25 16:30"
+        "timestamp": "2026-08-25 20:22"
     },
     {
         "title": "Senior Data Engineer",
@@ -93,6 +165,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-25 16:30"
+        "timestamp": "2026-08-25 20:22"
     }
 ]
