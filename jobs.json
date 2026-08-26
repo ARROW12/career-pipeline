@@ -1,5 +1,101 @@
 [
     {
+        "title": "Staff Engineer (m|w|d) - CRM Tech",
+        "company": "idealo internet GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/staff-engineer-mwd-crm-tech-berlin-37754",
+        "loc": "Berlin, Berlin, Deutschland",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-26 16:44"
+    },
+    {
+        "title": "Staff DevOps Engineer",
+        "company": "Ripple",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/ripple/staff-devops-engineer-london-48968",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-26 16:44"
+    },
+    {
+        "title": "Staff Data Scientist",
+        "company": "Ripple",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/ripple/staff-data-scientist-london-174818",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-08-26 16:44"
+    },
+    {
+        "title": "Senior Software Engineer, Advertising Engineering",
+        "company": "Roku",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-software-engineer-advertising-engineering-manchester-367207",
+        "loc": "Manchester",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 84,
+        "timestamp": "2026-08-26 16:44"
+    },
+    {
+        "title": "Principal Software Engineer",
+        "company": "Instil",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/instil/principal-software-engineer-belfast-132945",
+        "loc": "Belfast",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 54,
+        "timestamp": "2026-08-26 16:44"
+    },
+    {
+        "title": "Senior Software Engineer",
+        "company": "Instil",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/instil/senior-software-engineer-belfast-482953",
+        "loc": "Belfast",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 54,
+        "timestamp": "2026-08-26 16:44"
+    },
+    {
+        "title": "Senior Backend Engineer",
+        "company": "Midnite",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/midnite/senior-backend-engineer-united-kingdom-260719",
+        "loc": "United Kingdom",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-26 16:44"
+    },
+    {
+        "title": "Senior Data Engineer - Real time analytics",
+        "company": "Aircall",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/aircall/senior-data-engineer-real-time-analytics-london-office-72677",
+        "loc": "London Office",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-08-26 16:44"
+    },
+    {
         "title": "Engineering Manager, Royalty Share - PDEGO",
         "company": "sonymusicentertainment",
         "url": "https://www.arbeitnow.co.uk/jobs/companies/sonymusicentertainment/engineering-manager-royalty-share-pdego-london-140538",
@@ -9,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-26 12:41"
+        "timestamp": "2026-08-26 16:44"
     },
     {
         "title": "Solution Architect (London)",
@@ -21,55 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-26 12:41"
-    },
-    {
-        "title": "Sr. Solutions Engineer",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/sr-solutions-engineer-london-480765",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 99,
-        "timestamp": "2026-08-26 12:41"
-    },
-    {
-        "title": "Manager, Forward Deployed Engineering",
-        "company": "parloa",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/parloa/manager-forward-deployed-engineering-433653",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-26 12:41"
-    },
-    {
-        "title": "Senior Product Engineer, Issuer Partnerships",
-        "company": "Checkout.com",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-product-engineer-issuer-partnerships-london-422665",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-26 12:41"
-    },
-    {
-        "title": "Enterprise Architect Director",
-        "company": "celonis",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/celonis/enterprise-architect-director-london-140709",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-26 12:41"
+        "timestamp": "2026-08-26 16:44"
     },
     {
         "title": "Senior Data Engineer",
@@ -81,6 +129,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-26 12:41"
+        "timestamp": "2026-08-26 16:44"
     }
 ]
