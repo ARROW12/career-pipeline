@@ -1,27 +1,51 @@
 [
     {
-        "title": "Senior Data Analyst (f/m/x)",
-        "company": "exmox",
-        "url": "https://www.arbeitnow.com/jobs/companies/exmox/senior-data-analyst-hamburg-87705",
-        "loc": "Hamburg",
+        "title": "Werkstudent*in Klimafreundliche Busse (Data Analysis)",
+        "company": "NOW GmbH Nationale Organisation f\u00fcr den Wandel in der ...",
+        "url": "https://www.arbeitnow.com/jobs/companies/now-gmbh-nationale-organisation-fur-den-wandel-in-der/werkstudentin-klimafreundliche-busse-data-analysis-berlin-fasanenstrasse-434798",
+        "loc": "Berlin Fasanenstrasse",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-26 01:01"
+        "timestamp": "2026-08-26 04:34"
     },
     {
-        "title": "DevOps Engineer AWS & Kubernetes, Junior/Intermediate (m/w/d)",
-        "company": "New Monday GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/new-monday-gmbh/devops-engineer-aws-kubernetes-junior-intermediate-berlin-387611",
-        "loc": "Berlin",
+        "title": "Sr. Solutions Engineer",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/sr-solutions-engineer-london-480765",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 73,
-        "timestamp": "2026-08-26 01:01"
+        "tejas_score": 99,
+        "timestamp": "2026-08-26 04:34"
+    },
+    {
+        "title": "Manager, Forward Deployed Engineering",
+        "company": "parloa",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/parloa/manager-forward-deployed-engineering-433653",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-26 04:34"
+    },
+    {
+        "title": "Senior Product Engineer, Issuer Partnerships",
+        "company": "Checkout.com",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-product-engineer-issuer-partnerships-london-422665",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-26 04:34"
     },
     {
         "title": "Enterprise Architect Director",
@@ -33,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-26 01:01"
+        "timestamp": "2026-08-26 04:34"
     },
     {
         "title": "Senior Machine Learning Engineer",
@@ -45,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 54,
-        "timestamp": "2026-08-26 01:01"
+        "timestamp": "2026-08-26 04:34"
     },
     {
         "title": "Data Engineer",
@@ -57,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 92,
-        "timestamp": "2026-08-26 01:01"
+        "timestamp": "2026-08-26 04:34"
     },
     {
         "title": "Lead Data Platform Engineer",
@@ -69,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-08-26 01:01"
+        "timestamp": "2026-08-26 04:34"
     },
     {
         "title": "Principal Software Engineer - Full Stack - AI",
@@ -81,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-26 01:01"
+        "timestamp": "2026-08-26 04:34"
     },
     {
         "title": "Principal Software Engineer - Full Stack - AI",
@@ -93,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-26 01:01"
+        "timestamp": "2026-08-26 04:34"
     },
     {
         "title": "Principal Architect AI",
@@ -105,19 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-08-26 01:01"
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Anaplan",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/data-scientist-london-44343",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 83,
-        "timestamp": "2026-08-26 01:01"
+        "timestamp": "2026-08-26 04:34"
     },
     {
         "title": "Senior Data Engineer",
@@ -129,6 +141,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-26 01:01"
+        "timestamp": "2026-08-26 04:34"
     }
 ]
