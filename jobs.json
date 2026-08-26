@@ -9,7 +9,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-26 04:34"
+        "timestamp": "2026-08-26 08:37"
+    },
+    {
+        "title": "Solution Architect (London)",
+        "company": "LangChain",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/langchain/solution-architect-london-256631",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-26 08:37"
     },
     {
         "title": "Sr. Solutions Engineer",
@@ -21,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 99,
-        "timestamp": "2026-08-26 04:34"
+        "timestamp": "2026-08-26 08:37"
     },
     {
         "title": "Manager, Forward Deployed Engineering",
@@ -33,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-26 04:34"
+        "timestamp": "2026-08-26 08:37"
     },
     {
         "title": "Senior Product Engineer, Issuer Partnerships",
@@ -45,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-26 04:34"
+        "timestamp": "2026-08-26 08:37"
     },
     {
         "title": "Enterprise Architect Director",
@@ -57,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-26 04:34"
+        "timestamp": "2026-08-26 08:37"
     },
     {
         "title": "Senior Machine Learning Engineer",
@@ -69,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 54,
-        "timestamp": "2026-08-26 04:34"
+        "timestamp": "2026-08-26 08:37"
     },
     {
         "title": "Data Engineer",
@@ -81,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 92,
-        "timestamp": "2026-08-26 04:34"
+        "timestamp": "2026-08-26 08:37"
     },
     {
         "title": "Lead Data Platform Engineer",
@@ -93,43 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-08-26 04:34"
-    },
-    {
-        "title": "Principal Software Engineer - Full Stack - AI",
-        "company": "Anaplan",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-software-engineer-full-stack-ai-manchester-110420",
-        "loc": "Manchester",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-26 04:34"
-    },
-    {
-        "title": "Principal Software Engineer - Full Stack - AI",
-        "company": "Anaplan",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-software-engineer-full-stack-ai-york-151952",
-        "loc": "York",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-26 04:34"
-    },
-    {
-        "title": "Principal Architect AI",
-        "company": "Anaplan",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-architect-ai-london-234460",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-08-26 04:34"
+        "timestamp": "2026-08-26 08:37"
     },
     {
         "title": "Senior Data Engineer",
@@ -141,6 +117,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-26 04:34"
+        "timestamp": "2026-08-26 08:37"
     }
 ]
