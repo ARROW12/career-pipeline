@@ -1,5 +1,17 @@
 [
     {
+        "title": "Data Engineer",
+        "company": "Platoapp",
+        "url": "https://www.arbeitnow.com/jobs/companies/platoapp/data-engineer-berlin-6005",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 99,
+        "timestamp": "2026-08-26 22:40"
+    },
+    {
         "title": "Staff Engineer (m|w|d) - CRM Tech",
         "company": "idealo internet GmbH",
         "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/staff-engineer-mwd-crm-tech-berlin-37754",
@@ -9,7 +21,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-26 16:44"
+        "timestamp": "2026-08-26 22:40"
+    },
+    {
+        "title": "DevOps Engineer",
+        "company": "Prima",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/prima/devops-engineer-london-15600",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 69,
+        "timestamp": "2026-08-26 22:40"
     },
     {
         "title": "Staff DevOps Engineer",
@@ -21,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-26 16:44"
+        "timestamp": "2026-08-26 22:40"
     },
     {
         "title": "Staff Data Scientist",
@@ -33,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-08-26 16:44"
+        "timestamp": "2026-08-26 22:40"
     },
     {
         "title": "Senior Software Engineer, Advertising Engineering",
@@ -45,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-08-26 16:44"
+        "timestamp": "2026-08-26 22:40"
     },
     {
         "title": "Principal Software Engineer",
@@ -57,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 54,
-        "timestamp": "2026-08-26 16:44"
+        "timestamp": "2026-08-26 22:40"
     },
     {
         "title": "Senior Software Engineer",
@@ -69,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 54,
-        "timestamp": "2026-08-26 16:44"
+        "timestamp": "2026-08-26 22:40"
     },
     {
         "title": "Senior Backend Engineer",
@@ -81,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-26 16:44"
+        "timestamp": "2026-08-26 22:40"
     },
     {
         "title": "Senior Data Engineer - Real time analytics",
@@ -93,31 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-08-26 16:44"
-    },
-    {
-        "title": "Engineering Manager, Royalty Share - PDEGO",
-        "company": "sonymusicentertainment",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/sonymusicentertainment/engineering-manager-royalty-share-pdego-london-140538",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-26 16:44"
-    },
-    {
-        "title": "Solution Architect (London)",
-        "company": "LangChain",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/langchain/solution-architect-london-256631",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-26 16:44"
+        "timestamp": "2026-08-26 22:40"
     },
     {
         "title": "Senior Data Engineer",
@@ -129,6 +129,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-26 16:44"
+        "timestamp": "2026-08-26 22:40"
     }
 ]
