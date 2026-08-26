@@ -1,15 +1,15 @@
 [
     {
-        "title": "Werkstudent*in Klimafreundliche Busse (Data Analysis)",
-        "company": "NOW GmbH Nationale Organisation f\u00fcr den Wandel in der ...",
-        "url": "https://www.arbeitnow.com/jobs/companies/now-gmbh-nationale-organisation-fur-den-wandel-in-der/werkstudentin-klimafreundliche-busse-data-analysis-berlin-fasanenstrasse-434798",
-        "loc": "Berlin Fasanenstrasse",
+        "title": "Engineering Manager, Royalty Share - PDEGO",
+        "company": "sonymusicentertainment",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/sonymusicentertainment/engineering-manager-royalty-share-pdego-london-140538",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-26 08:37"
+        "tejas_score": 45,
+        "timestamp": "2026-08-26 12:41"
     },
     {
         "title": "Solution Architect (London)",
@@ -21,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-26 08:37"
+        "timestamp": "2026-08-26 12:41"
     },
     {
         "title": "Sr. Solutions Engineer",
@@ -33,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 99,
-        "timestamp": "2026-08-26 08:37"
+        "timestamp": "2026-08-26 12:41"
     },
     {
         "title": "Manager, Forward Deployed Engineering",
@@ -45,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-26 08:37"
+        "timestamp": "2026-08-26 12:41"
     },
     {
         "title": "Senior Product Engineer, Issuer Partnerships",
@@ -57,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-26 08:37"
+        "timestamp": "2026-08-26 12:41"
     },
     {
         "title": "Enterprise Architect Director",
@@ -69,43 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-26 08:37"
-    },
-    {
-        "title": "Senior Machine Learning Engineer",
-        "company": "Bazaarvoice",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/bazaarvoice/senior-machine-learning-engineer-belfast-280948",
-        "loc": "Belfast",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 54,
-        "timestamp": "2026-08-26 08:37"
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Bgbxconsulting",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/bgbxconsulting/data-engineer-302711",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 92,
-        "timestamp": "2026-08-26 08:37"
-    },
-    {
-        "title": "Lead Data Platform Engineer",
-        "company": "Akersystems",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/akersystems/remote-lead-data-platform-engineer-98007",
-        "loc": "Remote/Home Based",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 84,
-        "timestamp": "2026-08-26 08:37"
+        "timestamp": "2026-08-26 12:41"
     },
     {
         "title": "Senior Data Engineer",
@@ -117,6 +81,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-26 08:37"
+        "timestamp": "2026-08-26 12:41"
     }
 ]
