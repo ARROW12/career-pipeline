@@ -9,7 +9,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-25 20:22"
+        "timestamp": "2026-08-26 01:01"
     },
     {
         "title": "DevOps Engineer AWS & Kubernetes, Junior/Intermediate (m/w/d)",
@@ -21,31 +21,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 73,
-        "timestamp": "2026-08-25 20:22"
+        "timestamp": "2026-08-26 01:01"
     },
     {
-        "title": "Senior Data Analyst (f/m/d)",
-        "company": "Zenjob",
-        "url": "https://www.arbeitnow.com/jobs/companies/zenjob/senior-data-analyst-berlin-207954",
-        "loc": "Berlin",
+        "title": "Enterprise Architect Director",
+        "company": "celonis",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/celonis/enterprise-architect-director-london-140709",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-25 20:22"
-    },
-    {
-        "title": "Senior Machine Learning Engineer I",
-        "company": "sumup",
-        "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-machine-learning-engineer-i-berlin-296351",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-25 20:22"
+        "timestamp": "2026-08-26 01:01"
     },
     {
         "title": "Senior Machine Learning Engineer",
@@ -57,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 54,
-        "timestamp": "2026-08-25 20:22"
+        "timestamp": "2026-08-26 01:01"
     },
     {
         "title": "Data Engineer",
@@ -69,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 92,
-        "timestamp": "2026-08-25 20:22"
+        "timestamp": "2026-08-26 01:01"
     },
     {
         "title": "Lead Data Platform Engineer",
@@ -81,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-08-25 20:22"
+        "timestamp": "2026-08-26 01:01"
     },
     {
         "title": "Principal Software Engineer - Full Stack - AI",
@@ -93,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-25 20:22"
+        "timestamp": "2026-08-26 01:01"
     },
     {
         "title": "Principal Software Engineer - Full Stack - AI",
@@ -105,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-25 20:22"
+        "timestamp": "2026-08-26 01:01"
     },
     {
         "title": "Principal Architect AI",
@@ -117,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-08-25 20:22"
+        "timestamp": "2026-08-26 01:01"
     },
     {
         "title": "Data Scientist",
@@ -129,31 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 83,
-        "timestamp": "2026-08-25 20:22"
-    },
-    {
-        "title": "AI DevOps Engineer",
-        "company": "Bluecrestcapitalmanagement",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/bluecrestcapitalmanagement/ai-devops-engineer-london-70192",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 69,
-        "timestamp": "2026-08-25 20:22"
-    },
-    {
-        "title": "Senior Fullstack Software Engineer",
-        "company": "Pigment",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/pigment/senior-fullstack-software-engineer-london-98105",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-25 20:22"
+        "timestamp": "2026-08-26 01:01"
     },
     {
         "title": "Senior Data Engineer",
@@ -165,6 +129,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-25 20:22"
+        "timestamp": "2026-08-26 01:01"
     }
 ]
