@@ -1,5 +1,53 @@
 [
     {
+        "title": "Senior Python Developer (w/m/d) - Remote",
+        "company": "node.energy",
+        "url": "https://www.arbeitnow.com/jobs/companies/nodeenergy/senior-python-developer-remote-464921",
+        "loc": "Frankfurt a. M., Freiburg oder remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 65,
+        "timestamp": "2026-08-28 03:59"
+    },
+    {
+        "title": "Data Engineer (all genders)",
+        "company": "Eraneos",
+        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-data-engineer-all-genders-175813",
+        "loc": "Hamburg, M\u00fcnchen, D\u00fcsseldorf, remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-08-28 03:59"
+    },
+    {
+        "title": "Working Student Data Analyst (d/f/m)",
+        "company": "Bettermile",
+        "url": "https://www.arbeitnow.com/jobs/companies/bettermile/working-student-data-analyst-berlin-170440",
+        "loc": "Better Place, Oranienstra\u00dfe 183, Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-08-28 03:59"
+    },
+    {
+        "title": "Working Student Data Analytics/Engineering eMobility (f/m/d)",
+        "company": "Edri",
+        "url": "https://www.arbeitnow.com/jobs/companies/edri/working-student-data-analytics-engineering-emobility-essen-188024",
+        "loc": "Essen",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-08-28 03:59"
+    },
+    {
         "title": "Senior Data Visualization Engineer - Microsoft Fabric (m/w/d)",
         "company": "Alexander Thamm Gmbh",
         "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/senior-data-visualization-engineer-microsoft-fabric-hybrid-munchen-182425",
@@ -9,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-27 18:45"
+        "timestamp": "2026-08-28 03:59"
     },
     {
         "title": "Senior Data Scientist (m/w/d) - Chemical Engineering & Verfahrenstechnik",
@@ -21,115 +69,55 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-27 18:45"
+        "timestamp": "2026-08-28 03:59"
     },
     {
-        "title": "AI Engineer (m/w/d)",
-        "company": "adorsys GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/adorsys-gmbh/ai-engineer-nurnberg-371036",
-        "loc": "N\u00fcrnberg",
+        "title": "Sr. Solutions Engineer",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/sr-solutions-engineer-london-126975",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-27 18:45"
+        "tejas_score": 100,
+        "timestamp": "2026-08-28 03:59"
     },
     {
-        "title": "Applied AI Engineer",
-        "company": "CHAPTERS Group AG",
-        "url": "https://www.arbeitnow.com/jobs/companies/chapters-group-ag/applied-ai-engineer-cologne-54540",
-        "loc": "Cologne",
+        "title": "Senior Analytics Engineer",
+        "company": "SoSafe",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/sosafe/remote-senior-analytics-engineer-110481",
+        "loc": "United Kingdom Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 69,
-        "timestamp": "2026-08-27 18:45"
+        "tejas_score": 46,
+        "timestamp": "2026-08-28 03:59"
     },
     {
-        "title": "Senior Data Engineer (m/f/d)",
-        "company": "Dishdigital",
-        "url": "https://www.arbeitnow.com/jobs/companies/dishdigital/senior-data-engineer-dusseldorf-138329",
-        "loc": "D\u00fcsseldorf",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-27 18:45"
-    },
-    {
-        "title": "Data Engineer (m/f/d)",
-        "company": "Dishdigital",
-        "url": "https://www.arbeitnow.com/jobs/companies/dishdigital/data-engineer-dusseldorf-39634",
-        "loc": "D\u00fcsseldorf",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-08-27 18:45"
-    },
-    {
-        "title": "Software Engineer - Data (All Genders)",
-        "company": "PREMATCH Sports GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/prematch-sports-gmbh/software-engineer-data-all-genders-koln-291105",
-        "loc": "K\u00f6ln",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-08-27 18:45"
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Octopus Energy Group",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/data-engineer-london-gb-139637",
-        "loc": "London (GB)",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-27 18:45"
-    },
-    {
-        "title": "Principal Software Engineer (Hybrid)",
-        "company": "8Thlightrebuild",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/8thlightrebuild/principal-software-engineer-hybrid-london-394502",
+        "title": "AI Engineer",
+        "company": "commercetools",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/commercetools/ai-engineer-london-369499",
         "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-27 18:45"
+        "timestamp": "2026-08-28 03:59"
     },
     {
-        "title": "Lead Software Engineer (Hybrid)",
-        "company": "8Thlightrebuild",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/8thlightrebuild/lead-software-engineer-hybrid-london-200812",
-        "loc": "London",
+        "title": "Forward Deployed Engineer (Python, AI/ML, Generative AI) - UK based",
+        "company": "Modus Create",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/modus-create/forward-deployed-engineer-python-ai-ml-generative-ai-uk-based-united-kingdom-191034",
+        "loc": "United Kingdom",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-27 18:45"
-    },
-    {
-        "title": "Senior Software Engineer, Fullstack",
-        "company": "Muckrack",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/muckrack/remote-senior-software-engineer-fullstack-325902",
-        "loc": "Remote (Bulgaria, Ireland",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-27 18:45"
+        "tejas_score": 58,
+        "timestamp": "2026-08-28 03:59"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -141,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-27 18:45"
+        "timestamp": "2026-08-28 03:59"
     },
     {
         "title": "Senior Data Engineer",
@@ -153,6 +141,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-27 18:45"
+        "timestamp": "2026-08-28 03:59"
     }
 ]
