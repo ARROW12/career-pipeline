@@ -1,5 +1,89 @@
 [
     {
+        "title": "Senior Platform Engineer (d/f/m)",
+        "company": "Taxfix",
+        "url": "https://www.arbeitnow.com/jobs/companies/taxfix/senior-platform-engineer-berlin-67083",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 69,
+        "timestamp": "2026-08-29 16:06"
+    },
+    {
+        "title": "Head of AI Engineering (f/m/x)",
+        "company": "neoshare",
+        "url": "https://www.arbeitnow.com/jobs/companies/neoshare/head-of-ai-engineering-frankfurt-am-main-317656",
+        "loc": "Frankfurt am Main",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-29 16:06"
+    },
+    {
+        "title": "Head of AI Engineering (f/m/x)",
+        "company": "neoshare",
+        "url": "https://www.arbeitnow.com/jobs/companies/neoshare/head-of-ai-engineering-berlin-80787",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-08-29 16:06"
+    },
+    {
+        "title": "Senior Python Engineer, Platform Libraries (m/f/d)",
+        "company": "Unitelabs",
+        "url": "https://www.arbeitnow.com/jobs/companies/unitelabs/senior-python-engineer-platform-libraries-munchen-299438",
+        "loc": "M\u00fcnchen",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 88,
+        "timestamp": "2026-08-29 16:06"
+    },
+    {
+        "title": "Data Platform Engineer Working Student (m/w/d)",
+        "company": "Trusteq Gmbh",
+        "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-platform-engineer-working-student-munchen-442846",
+        "loc": "M\u00fcnchen",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 83,
+        "timestamp": "2026-08-29 16:06"
+    },
+    {
+        "title": "Data Engineer Working Student (m/w/d)",
+        "company": "Trusteq Gmbh",
+        "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-engineer-working-student-koln-276326",
+        "loc": "K\u00f6ln",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-29 16:06"
+    },
+    {
+        "title": "Senior Data Scientist",
+        "company": "Clarityinnovates",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/clarityinnovates/senior-data-scientist-raf-mildenhall-84779",
+        "loc": "RAF Mildenhall",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-29 16:06"
+    },
+    {
         "title": "Senior Software Engineer",
         "company": "BLP Digital AG",
         "url": "https://www.arbeitnow.co.uk/jobs/companies/blp-digital-ag/senior-software-engineer-london-468751",
@@ -9,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-29 10:41"
+        "timestamp": "2026-08-29 16:06"
     },
     {
         "title": "Director of Go-to-Market Engineering (Revenue Operations)",
@@ -21,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-29 10:41"
+        "timestamp": "2026-08-29 16:06"
     },
     {
         "title": "Director of Go-to-Market Engineering (Revenue Operations)",
@@ -33,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-29 10:41"
+        "timestamp": "2026-08-29 16:06"
     },
     {
         "title": "Staff Software Engineer, Backend (Identity International)",
@@ -45,31 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-29 10:41"
-    },
-    {
-        "title": "Alternatives  Data Operations Analyst",
-        "company": "Addepar1",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/alternatives-data-operations-analyst-edinburgh-296922",
-        "loc": "Edinburgh",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 69,
-        "timestamp": "2026-08-29 10:41"
-    },
-    {
-        "title": "Senior QA Automation Architect",
-        "company": "Roku",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-qa-automation-architect-cambridge-212965",
-        "loc": "Cambridge",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-29 10:41"
+        "timestamp": "2026-08-29 16:06"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -81,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-29 10:41"
+        "timestamp": "2026-08-29 16:06"
     },
     {
         "title": "Senior Data Engineer",
@@ -93,6 +153,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-29 10:41"
+        "timestamp": "2026-08-29 16:06"
     }
 ]
