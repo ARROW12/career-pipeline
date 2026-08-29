@@ -1,51 +1,39 @@
 [
     {
-        "title": "Senior Software Engineer (m/w/d) | Fullstack f\u00fcr KI-Produkte",
-        "company": "Avenit Ag",
-        "url": "https://www.arbeitnow.com/jobs/companies/avenit-ag/remote-senior-software-engineer-fullstack-fur-ki-produkte-424242",
-        "loc": "Remote in Deutschland",
+        "title": "Senior Software Engineer",
+        "company": "BLP Digital AG",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/blp-digital-ag/senior-software-engineer-london-468751",
+        "loc": "UK",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-29 10:41"
+    },
+    {
+        "title": "Director of Go-to-Market Engineering (Revenue Operations)",
+        "company": "Perk",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/director-of-go-to-market-engineering-revenue-operations-birmingham-221642",
+        "loc": "Birmingham",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-29 02:39"
+        "timestamp": "2026-08-29 10:41"
     },
     {
-        "title": "Senior AI-Native Fullstack Engineer (m/w/d)",
-        "company": "Zvoove",
-        "url": "https://www.arbeitnow.com/jobs/companies/zvoove/senior-ai-native-fullstack-engineer-de-munchen-321821",
-        "loc": "DE | M\u00fcnchen",
+        "title": "Director of Go-to-Market Engineering (Revenue Operations)",
+        "company": "Perk",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/director-of-go-to-market-engineering-revenue-operations-edinburgh-187418",
+        "loc": "Edinburgh",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-29 02:39"
-    },
-    {
-        "title": "Sr. Solutions Architect - FSI",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.com/jobs/companies/databricks/sr-solutions-architect-fsi-munich-349241",
-        "loc": "Munich",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 91,
-        "timestamp": "2026-08-29 02:39"
-    },
-    {
-        "title": "Senior Software Engineer - Integrations - AI/ML",
-        "company": "clickhouse",
-        "url": "https://www.arbeitnow.com/jobs/companies/clickhouse/senior-software-engineer-integrations-ai-ml-493224",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 84,
-        "timestamp": "2026-08-29 02:39"
+        "timestamp": "2026-08-29 10:41"
     },
     {
         "title": "Staff Software Engineer, Backend (Identity International)",
@@ -57,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-29 02:39"
+        "timestamp": "2026-08-29 10:41"
     },
     {
         "title": "Alternatives  Data Operations Analyst",
@@ -69,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 69,
-        "timestamp": "2026-08-29 02:39"
+        "timestamp": "2026-08-29 10:41"
     },
     {
         "title": "Senior QA Automation Architect",
@@ -81,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-29 02:39"
+        "timestamp": "2026-08-29 10:41"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -93,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-29 02:39"
+        "timestamp": "2026-08-29 10:41"
     },
     {
         "title": "Senior Data Engineer",
@@ -105,6 +93,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-29 02:39"
+        "timestamp": "2026-08-29 10:41"
     }
 ]
