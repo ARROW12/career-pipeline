@@ -1,39 +1,75 @@
 [
     {
-        "title": "Director of Go-to-Market Engineering (Revenue Operations)",
-        "company": "Perk",
-        "url": "https://www.arbeitnow.com/jobs/companies/perk/director-of-go-to-market-engineering-revenue-operations-berlin-489717",
-        "loc": "Berlin",
+        "title": "Senior Software Engineer (m/w/d) | Fullstack f\u00fcr KI-Produkte",
+        "company": "Avenit Ag",
+        "url": "https://www.arbeitnow.com/jobs/companies/avenit-ag/remote-senior-software-engineer-fullstack-fur-ki-produkte-424242",
+        "loc": "Remote in Deutschland",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-28 16:30"
+        "timestamp": "2026-08-29 02:39"
     },
     {
-        "title": "Director of Go-to-Market Engineering (Revenue Operations)",
-        "company": "Perk",
-        "url": "https://www.arbeitnow.com/jobs/companies/perk/director-of-go-to-market-engineering-revenue-operations-berlin-423474",
-        "loc": "Berlin",
+        "title": "Senior AI-Native Fullstack Engineer (m/w/d)",
+        "company": "Zvoove",
+        "url": "https://www.arbeitnow.com/jobs/companies/zvoove/senior-ai-native-fullstack-engineer-de-munchen-321821",
+        "loc": "DE | M\u00fcnchen",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-28 16:30"
+        "timestamp": "2026-08-29 02:39"
     },
     {
-        "title": "Staff Security Engineer",
-        "company": "Ppro",
-        "url": "https://www.arbeitnow.com/jobs/companies/ppro/staff-security-engineer-berlin-337361",
-        "loc": "Berlin",
+        "title": "Sr. Solutions Architect - FSI",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.com/jobs/companies/databricks/sr-solutions-architect-fsi-munich-349241",
+        "loc": "Munich",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-28 16:30"
+        "tejas_score": 91,
+        "timestamp": "2026-08-29 02:39"
+    },
+    {
+        "title": "Senior Software Engineer - Integrations - AI/ML",
+        "company": "clickhouse",
+        "url": "https://www.arbeitnow.com/jobs/companies/clickhouse/senior-software-engineer-integrations-ai-ml-493224",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 84,
+        "timestamp": "2026-08-29 02:39"
+    },
+    {
+        "title": "Staff Software Engineer, Backend (Identity International)",
+        "company": "Affirm",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/affirm/staff-software-engineer-backend-identity-international-271131",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-29 02:39"
+    },
+    {
+        "title": "Alternatives  Data Operations Analyst",
+        "company": "Addepar1",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/alternatives-data-operations-analyst-edinburgh-296922",
+        "loc": "Edinburgh",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 69,
+        "timestamp": "2026-08-29 02:39"
     },
     {
         "title": "Senior QA Automation Architect",
@@ -45,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-28 16:30"
+        "timestamp": "2026-08-29 02:39"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -57,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-28 16:30"
+        "timestamp": "2026-08-29 02:39"
     },
     {
         "title": "Senior Data Engineer",
@@ -69,6 +105,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-28 16:30"
+        "timestamp": "2026-08-29 02:39"
     }
 ]
