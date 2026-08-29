@@ -9,7 +9,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 69,
-        "timestamp": "2026-08-29 16:06"
+        "timestamp": "2026-08-29 22:14"
     },
     {
         "title": "Head of AI Engineering (f/m/x)",
@@ -21,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-29 16:06"
+        "timestamp": "2026-08-29 22:14"
     },
     {
         "title": "Head of AI Engineering (f/m/x)",
@@ -33,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-08-29 16:06"
+        "timestamp": "2026-08-29 22:14"
     },
     {
         "title": "Senior Python Engineer, Platform Libraries (m/f/d)",
@@ -45,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 88,
-        "timestamp": "2026-08-29 16:06"
+        "timestamp": "2026-08-29 22:14"
     },
     {
         "title": "Data Platform Engineer Working Student (m/w/d)",
@@ -57,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 83,
-        "timestamp": "2026-08-29 16:06"
+        "timestamp": "2026-08-29 22:14"
     },
     {
         "title": "Data Engineer Working Student (m/w/d)",
@@ -69,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-29 16:06"
+        "timestamp": "2026-08-29 22:14"
     },
     {
         "title": "Senior Data Scientist",
@@ -81,55 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-08-29 16:06"
-    },
-    {
-        "title": "Senior Software Engineer",
-        "company": "BLP Digital AG",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/blp-digital-ag/senior-software-engineer-london-468751",
-        "loc": "UK",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-29 16:06"
-    },
-    {
-        "title": "Director of Go-to-Market Engineering (Revenue Operations)",
-        "company": "Perk",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/director-of-go-to-market-engineering-revenue-operations-birmingham-221642",
-        "loc": "Birmingham",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-29 16:06"
-    },
-    {
-        "title": "Director of Go-to-Market Engineering (Revenue Operations)",
-        "company": "Perk",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/director-of-go-to-market-engineering-revenue-operations-edinburgh-187418",
-        "loc": "Edinburgh",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-29 16:06"
-    },
-    {
-        "title": "Staff Software Engineer, Backend (Identity International)",
-        "company": "Affirm",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/affirm/staff-software-engineer-backend-identity-international-271131",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-29 16:06"
+        "timestamp": "2026-08-29 22:14"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -141,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-29 16:06"
+        "timestamp": "2026-08-29 22:14"
     },
     {
         "title": "Senior Data Engineer",
@@ -153,6 +105,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-29 16:06"
+        "timestamp": "2026-08-29 22:14"
     }
 ]
