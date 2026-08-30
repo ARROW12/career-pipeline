@@ -1,5 +1,29 @@
 [
     {
+        "title": "Senior BI Developer (m/w/d)",
+        "company": "PRIME HR Agentur\u00ae",
+        "url": "https://www.arbeitnow.com/jobs/companies/prime-hr-agentur/senior-bi-developer-munich-2117",
+        "loc": "Munich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 69,
+        "timestamp": "2026-08-30 15:55"
+    },
+    {
+        "title": "Senior BI Developer (m/w/d) Microsoft Fabric & Power BI",
+        "company": "Jobbusters\u00ae GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/jobbusters-gmbh/senior-bi-developer-microsoft-fabric-power-bi-munich-14682",
+        "loc": "Munich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 69,
+        "timestamp": "2026-08-30 15:55"
+    },
+    {
         "title": "(Senior) Software Engineer (M/F/D) - Tools & Automation",
         "company": "Vmray Gmbh",
         "url": "https://www.arbeitnow.com/jobs/companies/vmray-gmbh/remote-senior-software-engineer-tools-automation-251844",
@@ -9,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-30 09:41"
+        "timestamp": "2026-08-30 15:55"
     },
     {
         "title": "Geospatial Data Analyst (f/m/x) in the field of AI & Satellite Data",
@@ -21,43 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-30 09:41"
-    },
-    {
-        "title": "Senior Data Engineer, Constellation Services",
-        "company": "planetlabs",
-        "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/senior-data-engineer-constellation-services-berlin-107524",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-08-30 09:41"
-    },
-    {
-        "title": "Head of Engineering",
-        "company": "deeploi - This is IT",
-        "url": "https://www.arbeitnow.com/jobs/companies/deeploi-this-is-it/head-of-engineering-munchen-205488",
-        "loc": "M\u00fcnchen",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-30 09:41"
-    },
-    {
-        "title": "(Senior) IT Product Owner Data Platform (m/w/d)",
-        "company": "OXG Glasfaser GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/oxg-glasfaser-gmbh/remote-senior-it-product-owner-data-platform-92446",
-        "loc": "D\u00fcsseldorf und Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-08-30 09:41"
+        "timestamp": "2026-08-30 15:55"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -69,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-30 09:41"
+        "timestamp": "2026-08-30 15:55"
     },
     {
         "title": "Senior Data Engineer",
@@ -81,6 +69,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-30 09:41"
+        "timestamp": "2026-08-30 15:55"
     }
 ]
