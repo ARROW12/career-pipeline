@@ -1,87 +1,63 @@
 [
     {
-        "title": "Senior Platform Engineer (d/f/m)",
-        "company": "Taxfix",
-        "url": "https://www.arbeitnow.com/jobs/companies/taxfix/senior-platform-engineer-berlin-67083",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 69,
-        "timestamp": "2026-08-29 22:14"
-    },
-    {
-        "title": "Head of AI Engineering (f/m/x)",
-        "company": "neoshare",
-        "url": "https://www.arbeitnow.com/jobs/companies/neoshare/head-of-ai-engineering-frankfurt-am-main-317656",
-        "loc": "Frankfurt am Main",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-29 22:14"
-    },
-    {
-        "title": "Head of AI Engineering (f/m/x)",
-        "company": "neoshare",
-        "url": "https://www.arbeitnow.com/jobs/companies/neoshare/head-of-ai-engineering-berlin-80787",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-08-29 22:14"
-    },
-    {
-        "title": "Senior Python Engineer, Platform Libraries (m/f/d)",
-        "company": "Unitelabs",
-        "url": "https://www.arbeitnow.com/jobs/companies/unitelabs/senior-python-engineer-platform-libraries-munchen-299438",
-        "loc": "M\u00fcnchen",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 88,
-        "timestamp": "2026-08-29 22:14"
-    },
-    {
-        "title": "Data Platform Engineer Working Student (m/w/d)",
-        "company": "Trusteq Gmbh",
-        "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-platform-engineer-working-student-munchen-442846",
-        "loc": "M\u00fcnchen",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 83,
-        "timestamp": "2026-08-29 22:14"
-    },
-    {
-        "title": "Data Engineer Working Student (m/w/d)",
-        "company": "Trusteq Gmbh",
-        "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-engineer-working-student-koln-276326",
-        "loc": "K\u00f6ln",
+        "title": "(Senior) Software Engineer (M/F/D) - Tools & Automation",
+        "company": "Vmray Gmbh",
+        "url": "https://www.arbeitnow.com/jobs/companies/vmray-gmbh/remote-senior-software-engineer-tools-automation-251844",
+        "loc": "Germany, Bochum or Remote (Europe)",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-29 22:14"
+        "timestamp": "2026-08-30 03:17"
     },
     {
-        "title": "Senior Data Scientist",
-        "company": "Clarityinnovates",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/clarityinnovates/senior-data-scientist-raf-mildenhall-84779",
-        "loc": "RAF Mildenhall",
+        "title": "Geospatial Data Analyst (f/m/x) in the field of AI & Satellite Data",
+        "company": "LiveEO GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/geospatial-data-analyst-in-the-field-of-ai-satellite-data-liveeo-gmbh-berlin-office-hybrid-270225",
+        "loc": "LiveEO GmbH Berlin Office (Hybrid)",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-29 22:14"
+        "tejas_score": 45,
+        "timestamp": "2026-08-30 03:17"
+    },
+    {
+        "title": "Senior Data Engineer, Constellation Services",
+        "company": "planetlabs",
+        "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/senior-data-engineer-constellation-services-berlin-107524",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-08-30 03:17"
+    },
+    {
+        "title": "Head of Engineering",
+        "company": "deeploi - This is IT",
+        "url": "https://www.arbeitnow.com/jobs/companies/deeploi-this-is-it/head-of-engineering-munchen-205488",
+        "loc": "M\u00fcnchen",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-30 03:17"
+    },
+    {
+        "title": "(Senior) IT Product Owner Data Platform (m/w/d)",
+        "company": "OXG Glasfaser GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/oxg-glasfaser-gmbh/remote-senior-it-product-owner-data-platform-92446",
+        "loc": "D\u00fcsseldorf und Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-30 03:17"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -93,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-29 22:14"
+        "timestamp": "2026-08-30 03:17"
     },
     {
         "title": "Senior Data Engineer",
@@ -105,6 +81,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-29 22:14"
+        "timestamp": "2026-08-30 03:17"
     }
 ]
