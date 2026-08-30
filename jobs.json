@@ -1,5 +1,17 @@
 [
     {
+        "title": "Data Engineer",
+        "company": "1Global",
+        "url": "https://www.arbeitnow.com/jobs/companies/1global/data-engineer-berlin-412094",
+        "loc": "Berlin, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 100,
+        "timestamp": "2026-08-30 19:01"
+    },
+    {
         "title": "Senior BI Developer (m/w/d)",
         "company": "PRIME HR Agentur\u00ae",
         "url": "https://www.arbeitnow.com/jobs/companies/prime-hr-agentur/senior-bi-developer-munich-2117",
@@ -9,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 69,
-        "timestamp": "2026-08-30 15:55"
+        "timestamp": "2026-08-30 19:01"
     },
     {
         "title": "Senior BI Developer (m/w/d) Microsoft Fabric & Power BI",
@@ -21,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 69,
-        "timestamp": "2026-08-30 15:55"
+        "timestamp": "2026-08-30 19:01"
     },
     {
         "title": "(Senior) Software Engineer (M/F/D) - Tools & Automation",
@@ -33,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-30 15:55"
+        "timestamp": "2026-08-30 19:01"
     },
     {
         "title": "Geospatial Data Analyst (f/m/x) in the field of AI & Satellite Data",
@@ -45,7 +57,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-08-30 15:55"
+        "timestamp": "2026-08-30 19:01"
+    },
+    {
+        "title": "Senior Data Engineer - Real time analytics",
+        "company": "Aircall",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/aircall/senior-data-engineer-real-time-analytics-london-office-439696",
+        "loc": "London Office",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-08-30 19:01"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -57,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-30 15:55"
+        "timestamp": "2026-08-30 19:01"
     },
     {
         "title": "Senior Data Engineer",
@@ -69,6 +93,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-30 15:55"
+        "timestamp": "2026-08-30 19:01"
     }
 ]
