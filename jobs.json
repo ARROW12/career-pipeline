@@ -1,5 +1,17 @@
 [
     {
+        "title": "Senior Data Analyst (f/m/x)",
+        "company": "exmox",
+        "url": "https://www.arbeitnow.com/jobs/companies/exmox/senior-data-analyst-hamburg-248551",
+        "loc": "Hamburg",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-08-31 10:25"
+    },
+    {
         "title": "AI Solution Architect (m/w/d)",
         "company": "virtual7 GmbH",
         "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-280706",
@@ -9,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-31 03:12"
+        "timestamp": "2026-08-31 10:25"
     },
     {
         "title": "Senior Analytics Engineer (all genders)",
@@ -21,67 +33,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-08-31 03:12"
+        "timestamp": "2026-08-31 10:25"
     },
     {
-        "title": "Senior AI Engineer (all genders)",
-        "company": "Eraneos",
-        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-ai-engineer-all-genders-447613",
-        "loc": "Hamburg, M\u00fcnchen, D\u00fcsseldorf, remote",
+        "title": "Principal Data Engineer",
+        "company": "Anaplan",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-data-engineer-london-84559",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-08-31 03:12"
-    },
-    {
-        "title": "Senior Cloud Consultant - Data & AI Engineer (f/m/d, 4-Days-Week), German Speaking",
-        "company": "Auvaria",
-        "url": "https://www.arbeitnow.com/jobs/companies/auvaria/senior-cloud-consultant-data-ai-engineer-4-days-week-german-speaking-hamburg-123240",
-        "loc": "Hamburg",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-08-31 03:12"
-    },
-    {
-        "title": "Data Engineer",
-        "company": "1Global",
-        "url": "https://www.arbeitnow.com/jobs/companies/1global/data-engineer-berlin-412094",
-        "loc": "Berlin, Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 100,
-        "timestamp": "2026-08-31 03:12"
-    },
-    {
-        "title": "Senior BI Developer (m/w/d)",
-        "company": "PRIME HR Agentur\u00ae",
-        "url": "https://www.arbeitnow.com/jobs/companies/prime-hr-agentur/senior-bi-developer-munich-2117",
-        "loc": "Munich",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 69,
-        "timestamp": "2026-08-31 03:12"
-    },
-    {
-        "title": "Senior BI Developer (m/w/d) Microsoft Fabric & Power BI",
-        "company": "Jobbusters\u00ae GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/jobbusters-gmbh/senior-bi-developer-microsoft-fabric-power-bi-munich-14682",
-        "loc": "Munich",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 69,
-        "timestamp": "2026-08-31 03:12"
+        "tejas_score": 92,
+        "timestamp": "2026-08-31 10:25"
     },
     {
         "title": "Senior Data Engineer - Real time analytics",
@@ -93,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-08-31 03:12"
+        "timestamp": "2026-08-31 10:25"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -105,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-31 03:12"
+        "timestamp": "2026-08-31 10:25"
     },
     {
         "title": "Senior Data Engineer",
@@ -117,6 +81,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-31 03:12"
+        "timestamp": "2026-08-31 10:25"
     }
 ]
