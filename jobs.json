@@ -1,15 +1,87 @@
 [
     {
-        "title": "Backend Engineer (Energy & AI)",
-        "company": "einklang",
-        "url": "https://www.arbeitnow.com/jobs/companies/einklang/backend-engineer-energy-ai-cologne-153165",
-        "loc": "Cologne",
+        "title": "Analytics Engineer, Data Platform",
+        "company": "Emma \u2013 The Sleep Company",
+        "url": "https://www.arbeitnow.com/jobs/companies/emma-the-sleep-company/analytics-engineer-data-platform-frankfurt-156939",
+        "loc": "Frankfurt",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-08-31 18:39"
+        "tejas_score": 100,
+        "timestamp": "2026-08-31 23:34"
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Aevi",
+        "url": "https://www.arbeitnow.com/jobs/companies/aevi/data-engineer-germany-230003",
+        "loc": "Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 92,
+        "timestamp": "2026-08-31 23:34"
+    },
+    {
+        "title": "Software Development Engineers in Test (Python)",
+        "company": "Xm",
+        "url": "https://www.arbeitnow.com/jobs/companies/xm/remote-software-development-engineers-in-test-python-130060",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 50,
+        "timestamp": "2026-08-31 23:34"
+    },
+    {
+        "title": "Site Reliability Engineers (SRE)",
+        "company": "Xm",
+        "url": "https://www.arbeitnow.com/jobs/companies/xm/remote-site-reliability-engineers-sre-252482",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-08-31 23:34"
+    },
+    {
+        "title": "Staff Software Engineer - Physical AI",
+        "company": "Coreweave",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweave/staff-software-engineer-physical-ai-london-246734",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 69,
+        "timestamp": "2026-08-31 23:34"
+    },
+    {
+        "title": "Senior Software Engineer - Physical AI",
+        "company": "Coreweave",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweave/senior-software-engineer-physical-ai-london-128249",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 69,
+        "timestamp": "2026-08-31 23:34"
+    },
+    {
+        "title": "Senior Data Scientist - Product",
+        "company": "Legora",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/legora/senior-data-scientist-product-london-207553",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-08-31 23:34"
     },
     {
         "title": "Principal Data Engineer",
@@ -21,19 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 92,
-        "timestamp": "2026-08-31 18:39"
-    },
-    {
-        "title": "Senior Data Engineer - Real time analytics",
-        "company": "Aircall",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/aircall/senior-data-engineer-real-time-analytics-london-office-439696",
-        "loc": "London Office",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-08-31 18:39"
+        "timestamp": "2026-08-31 23:34"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -45,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-08-31 18:39"
+        "timestamp": "2026-08-31 23:34"
     },
     {
         "title": "Senior Data Engineer",
@@ -57,6 +117,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-08-31 18:39"
+        "timestamp": "2026-08-31 23:34"
     }
 ]
