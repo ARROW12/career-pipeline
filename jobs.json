@@ -9,7 +9,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-01 15:58"
+        "timestamp": "2026-09-01 19:17"
     },
     {
         "title": "Senior DevOps Engineer (all genders) | Data Platform",
@@ -21,19 +21,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-09-01 15:58"
+        "timestamp": "2026-09-01 19:17"
     },
     {
-        "title": "Product Engineer (m/f/d)",
-        "company": "Buying Labs",
-        "url": "https://www.arbeitnow.com/jobs/companies/buying-labs/product-engineer-hamburg-172212",
-        "loc": "Hamburg",
+        "title": "Global Solutions Architect - Cloud",
+        "company": "Rubrik",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/rubrik/global-solutions-architect-cloud-london-119074",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-09-01 15:58"
+        "tejas_score": 46,
+        "timestamp": "2026-09-01 19:17"
+    },
+    {
+        "title": "Software Engineer (Data)",
+        "company": "Ben",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/ben/software-engineer-data-london-373837",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 98,
+        "timestamp": "2026-09-01 19:17"
     },
     {
         "title": "Head of Analytics - Commercial",
@@ -45,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 99,
-        "timestamp": "2026-09-01 15:58"
+        "timestamp": "2026-09-01 19:17"
     },
     {
         "title": "Staff Software Engineer - Physical AI",
@@ -57,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 69,
-        "timestamp": "2026-09-01 15:58"
+        "timestamp": "2026-09-01 19:17"
     },
     {
         "title": "Senior Software Engineer - Physical AI",
@@ -69,19 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 69,
-        "timestamp": "2026-09-01 15:58"
-    },
-    {
-        "title": "Senior Data Scientist - Product",
-        "company": "Legora",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/legora/senior-data-scientist-product-london-207553",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-01 15:58"
+        "timestamp": "2026-09-01 19:17"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -93,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-01 15:58"
+        "timestamp": "2026-09-01 19:17"
     },
     {
         "title": "Senior Data Engineer",
@@ -105,6 +105,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-01 15:58"
+        "timestamp": "2026-09-01 19:17"
     }
 ]
