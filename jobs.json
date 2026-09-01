@@ -1,5 +1,41 @@
 [
     {
+        "title": "Senior Backend Engineer (m|w|d) - Java/Kotlin, AWS, Kafka",
+        "company": "idealo internet GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/senior-backend-engineer-mwd-java-kotlin-aws-kafka-berlin-205855",
+        "loc": "Berlin, Berlin, Deutschland",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 81,
+        "timestamp": "2026-09-01 22:19"
+    },
+    {
+        "title": "Senior Software Engineer, Data",
+        "company": "Circonomit",
+        "url": "https://www.arbeitnow.com/jobs/companies/circonomit/senior-software-engineer-data-berlin-466023",
+        "loc": "Berlin, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-09-01 22:19"
+    },
+    {
+        "title": "Senior Software Engineer, Data",
+        "company": "Circonomit",
+        "url": "https://www.arbeitnow.com/jobs/companies/circonomit/senior-software-engineer-data-cologne-45873",
+        "loc": "Cologne, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-09-01 22:19"
+    },
+    {
         "title": "Analytics Engineer, Payments Intelligence",
         "company": "Vinteden",
         "url": "https://www.arbeitnow.com/jobs/companies/vinteden/analytics-engineer-payments-intelligence-berlin-175027",
@@ -9,19 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-01 19:17"
-    },
-    {
-        "title": "Senior DevOps Engineer (all genders) | Data Platform",
-        "company": "Real Digital",
-        "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-devops-engineer-all-genders-data-platform-263620",
-        "loc": "Remote oder K\u00f6ln / Darmstadt / D\u00fcsseldorf / Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 84,
-        "timestamp": "2026-09-01 19:17"
+        "timestamp": "2026-09-01 22:19"
     },
     {
         "title": "Global Solutions Architect - Cloud",
@@ -33,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-01 19:17"
+        "timestamp": "2026-09-01 22:19"
     },
     {
         "title": "Software Engineer (Data)",
@@ -45,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 98,
-        "timestamp": "2026-09-01 19:17"
+        "timestamp": "2026-09-01 22:19"
     },
     {
         "title": "Head of Analytics - Commercial",
@@ -57,31 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 99,
-        "timestamp": "2026-09-01 19:17"
-    },
-    {
-        "title": "Staff Software Engineer - Physical AI",
-        "company": "Coreweave",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweave/staff-software-engineer-physical-ai-london-246734",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 69,
-        "timestamp": "2026-09-01 19:17"
-    },
-    {
-        "title": "Senior Software Engineer - Physical AI",
-        "company": "Coreweave",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweave/senior-software-engineer-physical-ai-london-128249",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 69,
-        "timestamp": "2026-09-01 19:17"
+        "timestamp": "2026-09-01 22:19"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -93,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-01 19:17"
+        "timestamp": "2026-09-01 22:19"
     },
     {
         "title": "Senior Data Engineer",
@@ -105,6 +105,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-01 19:17"
+        "timestamp": "2026-09-01 22:19"
     }
 ]
