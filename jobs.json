@@ -1,51 +1,51 @@
 [
     {
-        "title": "Solutions Engineer",
-        "company": "Singlestore",
-        "url": "https://www.arbeitnow.com/jobs/companies/singlestore/solutions-engineer-147177",
-        "loc": "Remote",
+        "title": "Analytics Engineer, Payments Intelligence",
+        "company": "Vinteden",
+        "url": "https://www.arbeitnow.com/jobs/companies/vinteden/analytics-engineer-payments-intelligence-berlin-175027",
+        "loc": "Berlin",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-01 09:06"
+        "tejas_score": 68,
+        "timestamp": "2026-09-01 15:58"
     },
     {
-        "title": "Staff Data Scientist",
-        "company": "Duck Duck Go",
-        "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-staff-data-scientist-33041",
-        "loc": "Remote",
+        "title": "Senior DevOps Engineer (all genders) | Data Platform",
+        "company": "Real Digital",
+        "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-devops-engineer-all-genders-data-platform-263620",
+        "loc": "Remote oder K\u00f6ln / Darmstadt / D\u00fcsseldorf / Berlin",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-01 09:06"
+        "tejas_score": 84,
+        "timestamp": "2026-09-01 15:58"
     },
     {
-        "title": "Python Backend Engineer (m/f/x)",
-        "company": "Makersite GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-python-backend-engineer-berlin-341113",
-        "loc": "Remote job",
+        "title": "Product Engineer (m/f/d)",
+        "company": "Buying Labs",
+        "url": "https://www.arbeitnow.com/jobs/companies/buying-labs/product-engineer-hamburg-172212",
+        "loc": "Hamburg",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 65,
-        "timestamp": "2026-09-01 09:06"
+        "tejas_score": 68,
+        "timestamp": "2026-09-01 15:58"
     },
     {
-        "title": "Werkstudent*in Klimafreundliche Busse (Data Analysis)",
-        "company": "NOW GmbH Nationale Organisation f\u00fcr den Wandel in der ...",
-        "url": "https://www.arbeitnow.com/jobs/companies/now-gmbh-nationale-organisation-fur-den-wandel-in-der/werkstudentin-klimafreundliche-busse-data-analysis-berlin-fasanenstrasse-196577",
-        "loc": "Berlin Fasanenstrasse",
+        "title": "Head of Analytics - Commercial",
+        "company": "Octopus Energy Group",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/head-of-analytics-commercial-london-gb-267327",
+        "loc": "London (GB)",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-01 09:06"
+        "tejas_score": 99,
+        "timestamp": "2026-09-01 15:58"
     },
     {
         "title": "Staff Software Engineer - Physical AI",
@@ -57,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 69,
-        "timestamp": "2026-09-01 09:06"
+        "timestamp": "2026-09-01 15:58"
     },
     {
         "title": "Senior Software Engineer - Physical AI",
@@ -69,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 69,
-        "timestamp": "2026-09-01 09:06"
+        "timestamp": "2026-09-01 15:58"
     },
     {
         "title": "Senior Data Scientist - Product",
@@ -81,19 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-01 09:06"
-    },
-    {
-        "title": "Principal Data Engineer",
-        "company": "Anaplan",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-data-engineer-london-84559",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 92,
-        "timestamp": "2026-09-01 09:06"
+        "timestamp": "2026-09-01 15:58"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -105,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-01 09:06"
+        "timestamp": "2026-09-01 15:58"
     },
     {
         "title": "Senior Data Engineer",
@@ -117,6 +105,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-01 09:06"
+        "timestamp": "2026-09-01 15:58"
     }
 ]
