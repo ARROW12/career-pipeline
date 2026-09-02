@@ -9,31 +9,43 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 69,
-        "timestamp": "2026-09-02 15:51"
+        "timestamp": "2026-09-02 19:10"
     },
     {
-        "title": "Senior Business Intelligence Lead (all genders)",
-        "company": "Reev",
-        "url": "https://www.arbeitnow.com/jobs/companies/reev/senior-business-intelligence-lead-all-genders-munchen-21515",
-        "loc": "M\u00fcnchen",
+        "title": "Sr. Manager, AI Forward Deployed Engineering (AI-FDE)",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/sr-manager-ai-forward-deployed-engineering-ai-fde-london-241048",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-09-02 15:51"
+        "tejas_score": 45,
+        "timestamp": "2026-09-02 19:10"
     },
     {
-        "title": "Werkstudent:in - Cloud & DevOps Engineer (Azure)",
-        "company": "greenventory GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/greenventory-gmbh/werkstudentin-cloud-devops-engineer-azure-freiburg-im-breisgau-336167",
-        "loc": "Freiburg im Breisgau",
+        "title": "Fullstack Software Engineer - Core",
+        "company": "dataiku",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/dataiku/remote-fullstack-software-engineer-core-184220",
+        "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-09-02 15:51"
+        "tejas_score": 61,
+        "timestamp": "2026-09-02 19:10"
+    },
+    {
+        "title": "Senior Data Engineer",
+        "company": "Octopus Energy Group",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/senior-data-engineer-london-gb-380691",
+        "loc": "London (GB)",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 99,
+        "timestamp": "2026-09-02 19:10"
     },
     {
         "title": "Senior Data Engineer",
@@ -45,31 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-02 15:51"
-    },
-    {
-        "title": "Global Solutions Architect - Cloud",
-        "company": "Rubrik",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/rubrik/global-solutions-architect-cloud-london-119074",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-09-02 15:51"
-    },
-    {
-        "title": "Software Engineer (Data)",
-        "company": "Ben",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/ben/software-engineer-data-london-373837",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 98,
-        "timestamp": "2026-09-02 15:51"
+        "timestamp": "2026-09-02 19:10"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -81,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-02 15:51"
+        "timestamp": "2026-09-02 19:10"
     },
     {
         "title": "Senior Data Engineer",
@@ -93,6 +81,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-02 15:51"
+        "timestamp": "2026-09-02 19:10"
     }
 ]
