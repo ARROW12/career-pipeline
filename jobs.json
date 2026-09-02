@@ -1,5 +1,29 @@
 [
     {
+        "title": "SAP Integration Architect",
+        "company": "parloa",
+        "url": "https://www.arbeitnow.com/jobs/companies/parloa/sap-integration-architect-329226",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-09-02 02:34"
+    },
+    {
+        "title": "Principal Software Engineer, GO & Rust (Engine)",
+        "company": "workato",
+        "url": "https://www.arbeitnow.com/jobs/companies/workato/principal-software-engineer-go-rust-engine-berlin-frankfurt-munich-420731",
+        "loc": "Berlin; Frankfurt; Munich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-09-02 02:34"
+    },
+    {
         "title": "Senior Backend Engineer (m|w|d) - Java/Kotlin, AWS, Kafka",
         "company": "idealo internet GmbH",
         "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/senior-backend-engineer-mwd-java-kotlin-aws-kafka-berlin-205855",
@@ -9,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 81,
-        "timestamp": "2026-09-01 22:19"
+        "timestamp": "2026-09-02 02:34"
     },
     {
         "title": "Senior Software Engineer, Data",
@@ -21,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-01 22:19"
+        "timestamp": "2026-09-02 02:34"
     },
     {
         "title": "Senior Software Engineer, Data",
@@ -33,19 +57,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-01 22:19"
+        "timestamp": "2026-09-02 02:34"
     },
     {
-        "title": "Analytics Engineer, Payments Intelligence",
-        "company": "Vinteden",
-        "url": "https://www.arbeitnow.com/jobs/companies/vinteden/analytics-engineer-payments-intelligence-berlin-175027",
-        "loc": "Berlin",
+        "title": "Senior Data Engineer",
+        "company": "Quantum",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/senior-data-engineer-london-122244",
+        "loc": "London (hybrid)",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-01 22:19"
+        "timestamp": "2026-09-02 02:34"
     },
     {
         "title": "Global Solutions Architect - Cloud",
@@ -57,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-01 22:19"
+        "timestamp": "2026-09-02 02:34"
     },
     {
         "title": "Software Engineer (Data)",
@@ -69,19 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 98,
-        "timestamp": "2026-09-01 22:19"
-    },
-    {
-        "title": "Head of Analytics - Commercial",
-        "company": "Octopus Energy Group",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/head-of-analytics-commercial-london-gb-267327",
-        "loc": "London (GB)",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 99,
-        "timestamp": "2026-09-01 22:19"
+        "timestamp": "2026-09-02 02:34"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -93,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-01 22:19"
+        "timestamp": "2026-09-02 02:34"
     },
     {
         "title": "Senior Data Engineer",
@@ -105,6 +117,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-01 22:19"
+        "timestamp": "2026-09-02 02:34"
     }
 ]
