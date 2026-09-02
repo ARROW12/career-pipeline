@@ -1,5 +1,29 @@
 [
     {
+        "title": "Senior Kotlin Engineer (m/f/d) - B2B Sales & Distribution team",
+        "company": "Flix",
+        "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-kotlin-engineer-b2b-sales-distribution-team-munchen-203427",
+        "loc": "M\u00fcnchen, Bayern, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-09-02 22:17"
+    },
+    {
+        "title": "Data Scientist (f/m/d)",
+        "company": "Pair",
+        "url": "https://www.arbeitnow.com/jobs/companies/pair/data-scientist-berlin-hybrid-285917",
+        "loc": "Berlin (Hybrid)",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-09-02 22:17"
+    },
+    {
         "title": "Data Scientist / Data Engineer",
         "company": "80 Beats Medical GmbH",
         "url": "https://www.arbeitnow.com/jobs/companies/80-beats-medical-gmbh/data-scientist-data-engineer-berlin-75231",
@@ -9,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 69,
-        "timestamp": "2026-09-02 19:10"
+        "timestamp": "2026-09-02 22:17"
     },
     {
         "title": "Sr. Manager, AI Forward Deployed Engineering (AI-FDE)",
@@ -21,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-02 19:10"
+        "timestamp": "2026-09-02 22:17"
     },
     {
         "title": "Fullstack Software Engineer - Core",
@@ -33,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-02 19:10"
+        "timestamp": "2026-09-02 22:17"
     },
     {
         "title": "Senior Data Engineer",
@@ -45,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 99,
-        "timestamp": "2026-09-02 19:10"
+        "timestamp": "2026-09-02 22:17"
     },
     {
         "title": "Senior Data Engineer",
@@ -57,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-02 19:10"
+        "timestamp": "2026-09-02 22:17"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -69,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-02 19:10"
+        "timestamp": "2026-09-02 22:17"
     },
     {
         "title": "Senior Data Engineer",
@@ -81,6 +105,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-02 19:10"
+        "timestamp": "2026-09-02 22:17"
     }
 ]
