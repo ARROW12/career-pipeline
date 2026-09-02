@@ -1,5 +1,77 @@
 [
     {
+        "title": "Sr. Solutions Architect - Life Sciences",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.com/jobs/companies/databricks/sr-solutions-architect-life-sciences-munich-36699",
+        "loc": "Munich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 91,
+        "timestamp": "2026-09-02 08:20"
+    },
+    {
+        "title": "Sr. Solutions Architect - Automotive",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.com/jobs/companies/databricks/sr-solutions-architect-automotive-munich-463574",
+        "loc": "Munich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 91,
+        "timestamp": "2026-09-02 08:20"
+    },
+    {
+        "title": "Sr. Manager, AI Forward Deployed Engineering (AI-FDE)",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.com/jobs/companies/databricks/sr-manager-ai-forward-deployed-engineering-ai-fde-munich-364751",
+        "loc": "Munich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-09-02 08:20"
+    },
+    {
+        "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.com/jobs/companies/databricks/ai-engineer-fde-forward-deployed-engineer-munich-117849",
+        "loc": "Munich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-09-02 08:20"
+    },
+    {
+        "title": "Fullstack Software Engineer - Core",
+        "company": "dataiku",
+        "url": "https://www.arbeitnow.com/jobs/companies/dataiku/remote-fullstack-software-engineer-core-437469",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-09-02 08:20"
+    },
+    {
+        "title": "Senior Software Engineer, Toolkit",
+        "company": "Tiger Data",
+        "url": "https://www.arbeitnow.com/jobs/companies/tiger-data/senior-software-engineer-toolkit-germany-full-time-150858",
+        "loc": "Germany Full-time",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-09-02 08:20"
+    },
+    {
         "title": "SAP Integration Architect",
         "company": "parloa",
         "url": "https://www.arbeitnow.com/jobs/companies/parloa/sap-integration-architect-329226",
@@ -9,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-02 02:34"
+        "timestamp": "2026-09-02 08:20"
     },
     {
         "title": "Principal Software Engineer, GO & Rust (Engine)",
@@ -21,43 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-02 02:34"
-    },
-    {
-        "title": "Senior Backend Engineer (m|w|d) - Java/Kotlin, AWS, Kafka",
-        "company": "idealo internet GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/senior-backend-engineer-mwd-java-kotlin-aws-kafka-berlin-205855",
-        "loc": "Berlin, Berlin, Deutschland",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 81,
-        "timestamp": "2026-09-02 02:34"
-    },
-    {
-        "title": "Senior Software Engineer, Data",
-        "company": "Circonomit",
-        "url": "https://www.arbeitnow.com/jobs/companies/circonomit/senior-software-engineer-data-berlin-466023",
-        "loc": "Berlin, Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-02 02:34"
-    },
-    {
-        "title": "Senior Software Engineer, Data",
-        "company": "Circonomit",
-        "url": "https://www.arbeitnow.com/jobs/companies/circonomit/senior-software-engineer-data-cologne-45873",
-        "loc": "Cologne, Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-02 02:34"
+        "timestamp": "2026-09-02 08:20"
     },
     {
         "title": "Senior Data Engineer",
@@ -69,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-02 02:34"
+        "timestamp": "2026-09-02 08:20"
     },
     {
         "title": "Global Solutions Architect - Cloud",
@@ -81,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-02 02:34"
+        "timestamp": "2026-09-02 08:20"
     },
     {
         "title": "Software Engineer (Data)",
@@ -93,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 98,
-        "timestamp": "2026-09-02 02:34"
+        "timestamp": "2026-09-02 08:20"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -105,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-02 02:34"
+        "timestamp": "2026-09-02 08:20"
     },
     {
         "title": "Senior Data Engineer",
@@ -117,6 +153,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-02 02:34"
+        "timestamp": "2026-09-02 08:20"
     }
 ]
