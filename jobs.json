@@ -1,5 +1,29 @@
 [
     {
+        "title": "Senior Full-Stack Engineer - Team Agent",
+        "company": "Taktile",
+        "url": "https://www.arbeitnow.com/jobs/companies/taktile/senior-full-stack-engineer-team-agent-berlin-85709",
+        "loc": "Berlin Office",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-09-03 22:11"
+    },
+    {
+        "title": "Game Data Analyst (f/m/d)",
+        "company": "Kolibrigames",
+        "url": "https://www.arbeitnow.com/jobs/companies/kolibrigames/game-data-analyst-berlin-germany-197952",
+        "loc": "Berlin, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-09-03 22:11"
+    },
+    {
         "title": "Consulting Architect - Security (EMEA / Public Sector eligible )",
         "company": "Elastic",
         "url": "https://www.arbeitnow.com/jobs/companies/elastic/consulting-architect-security-emea-public-sector-eligible-468536",
@@ -9,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-03 19:03"
+        "timestamp": "2026-09-03 22:11"
     },
     {
         "title": "Remote AI Systems & Automation Engineer (Internal Operations) (m/f/d)",
@@ -21,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-03 19:03"
+        "timestamp": "2026-09-03 22:11"
     },
     {
         "title": "Senior Data Visualization Engineer - Microsoft Fabric (m/w/d)",
@@ -33,67 +57,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-03 19:03"
+        "timestamp": "2026-09-03 22:11"
     },
     {
-        "title": "DevOps/ML Engineer (m/f/d)",
-        "company": "Machine Learning Reply",
-        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/devops-ml-engineer-munich-292353",
-        "loc": "Munich, Bayern, Germany",
+        "title": "Data Analyst (Credit)",
+        "company": "Octopus Energy Group",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/data-analyst-credit-london-gb-139731",
+        "loc": "London (GB)",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-09-03 19:03"
-    },
-    {
-        "title": "GenAI Engineer (m/w/d)",
-        "company": "Machine Learning Reply",
-        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/genai-engineer-munich-162617",
-        "loc": "Munich, Bayern, Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 84,
-        "timestamp": "2026-09-03 19:03"
-    },
-    {
-        "title": "Data Scientist (m/w/d)",
-        "company": "Machine Learning Reply",
-        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/data-scientist-munich-314210",
-        "loc": "Munich, Bayern, Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-09-03 19:03"
-    },
-    {
-        "title": "Agentic AI Software Engineer",
-        "company": "Machine Learning Reply",
-        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/agentic-ai-software-engineer-munich-401706",
-        "loc": "Munich, Bayern, Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-03 19:03"
-    },
-    {
-        "title": "AI Engineer (m/w/d)",
-        "company": "adorsys GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/adorsys-gmbh/ai-engineer-nurnberg-289802",
-        "loc": "N\u00fcrnberg",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-03 19:03"
+        "tejas_score": 45,
+        "timestamp": "2026-09-03 22:11"
     },
     {
         "title": "Data Platform Engineer I",
@@ -105,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-09-03 19:03"
+        "timestamp": "2026-09-03 22:11"
     },
     {
         "title": "Senior Data Engineer - Real time analytics",
@@ -117,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-09-03 19:03"
+        "timestamp": "2026-09-03 22:11"
     },
     {
         "title": "Agentic AI Architect-Anthropic",
@@ -129,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-03 19:03"
+        "timestamp": "2026-09-03 22:11"
     },
     {
         "title": "Senior Software Engineer, Full-Stack",
@@ -141,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-03 19:03"
+        "timestamp": "2026-09-03 22:11"
     },
     {
         "title": "Senior Generative AI Engineer",
@@ -153,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-03 19:03"
+        "timestamp": "2026-09-03 22:11"
     },
     {
         "title": "Lead Generative AI Engineer",
@@ -165,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-03 19:03"
+        "timestamp": "2026-09-03 22:11"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -177,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-03 19:03"
+        "timestamp": "2026-09-03 22:11"
     },
     {
         "title": "Senior Data Engineer",
@@ -189,6 +165,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-03 19:03"
+        "timestamp": "2026-09-03 22:11"
     }
 ]
