@@ -9,7 +9,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-02 22:17"
+        "timestamp": "2026-09-03 02:41"
     },
     {
         "title": "Data Scientist (f/m/d)",
@@ -21,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-02 22:17"
+        "timestamp": "2026-09-03 02:41"
     },
     {
         "title": "Data Scientist / Data Engineer",
@@ -33,7 +33,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 69,
-        "timestamp": "2026-09-02 22:17"
+        "timestamp": "2026-09-03 02:41"
+    },
+    {
+        "title": "Head of Data Engineering",
+        "company": "PHMG Careers",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/phmg-careers/head-of-data-engineering-manchester-107883",
+        "loc": "Manchester, England, United Kingdom",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 84,
+        "timestamp": "2026-09-03 02:41"
     },
     {
         "title": "Sr. Manager, AI Forward Deployed Engineering (AI-FDE)",
@@ -45,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-02 22:17"
+        "timestamp": "2026-09-03 02:41"
     },
     {
         "title": "Fullstack Software Engineer - Core",
@@ -57,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-02 22:17"
+        "timestamp": "2026-09-03 02:41"
     },
     {
         "title": "Senior Data Engineer",
@@ -69,19 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 99,
-        "timestamp": "2026-09-02 22:17"
-    },
-    {
-        "title": "Senior Data Engineer",
-        "company": "Quantum",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/senior-data-engineer-london-122244",
-        "loc": "London (hybrid)",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-09-02 22:17"
+        "timestamp": "2026-09-03 02:41"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -93,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-02 22:17"
+        "timestamp": "2026-09-03 02:41"
     },
     {
         "title": "Senior Data Engineer",
@@ -105,6 +105,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-02 22:17"
+        "timestamp": "2026-09-03 02:41"
     }
 ]
