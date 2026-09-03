@@ -1,39 +1,63 @@
 [
     {
-        "title": "(Senior) IT Product Owner Data Platform (m/w/d)",
-        "company": "OXG Glasfaser GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/oxg-glasfaser-gmbh/remote-senior-it-product-owner-data-platform-473093",
-        "loc": "D\u00fcsseldorf und Remote",
+        "title": "(Senior) Software Engineer (M/F/D) - Tools & Automation",
+        "company": "Vmray Gmbh",
+        "url": "https://www.arbeitnow.com/jobs/companies/vmray-gmbh/remote-senior-software-engineer-tools-automation-186561",
+        "loc": "Germany, Bochum or Remote (Europe)",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-03 08:29"
+        "timestamp": "2026-09-03 15:41"
     },
     {
-        "title": "Senior Kotlin Engineer (m/f/d) - B2B Sales & Distribution team",
-        "company": "Flix",
-        "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-kotlin-engineer-b2b-sales-distribution-team-munchen-203427",
-        "loc": "M\u00fcnchen, Bayern, Germany",
+        "title": "Software Engineer - Data (All Genders)",
+        "company": "PREMATCH Sports GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/prematch-sports-gmbh/software-engineer-data-all-genders-koln-461808",
+        "loc": "K\u00f6ln",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-09-03 08:29"
+        "tejas_score": 61,
+        "timestamp": "2026-09-03 15:41"
     },
     {
-        "title": "Data Scientist (f/m/d)",
-        "company": "Pair",
-        "url": "https://www.arbeitnow.com/jobs/companies/pair/data-scientist-berlin-hybrid-285917",
-        "loc": "Berlin (Hybrid)",
+        "title": "Geospatial Data Analyst (f/m/x) in the field of AI & Satellite Data",
+        "company": "LiveEO GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/geospatial-data-analyst-in-the-field-of-ai-satellite-data-liveeo-gmbh-berlin-office-hybrid-212419",
+        "loc": "LiveEO GmbH Berlin Office (Hybrid)",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-03 08:29"
+        "tejas_score": 45,
+        "timestamp": "2026-09-03 15:41"
+    },
+    {
+        "title": "Agentic AI Architect-Anthropic",
+        "company": "Jobgether",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/agentic-ai-architect-anthropic-uk-145753",
+        "loc": "UK",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 91,
+        "timestamp": "2026-09-03 15:41"
+    },
+    {
+        "title": "Senior Software Engineer, Full-Stack",
+        "company": "Ripple",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/ripple/senior-software-engineer-full-stack-london-247377",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-09-03 15:41"
     },
     {
         "title": "Senior Generative AI Engineer",
@@ -45,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-03 08:29"
+        "timestamp": "2026-09-03 15:41"
     },
     {
         "title": "Lead Generative AI Engineer",
@@ -57,19 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-03 08:29"
-    },
-    {
-        "title": "Head of Data Engineering",
-        "company": "PHMG Careers",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/phmg-careers/head-of-data-engineering-manchester-107883",
-        "loc": "Manchester, England, United Kingdom",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 84,
-        "timestamp": "2026-09-03 08:29"
+        "timestamp": "2026-09-03 15:41"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -81,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-03 08:29"
+        "timestamp": "2026-09-03 15:41"
     },
     {
         "title": "Senior Data Engineer",
@@ -93,6 +105,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-03 08:29"
+        "timestamp": "2026-09-03 15:41"
     }
 ]
