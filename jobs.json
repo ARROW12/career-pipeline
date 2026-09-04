@@ -1,5 +1,41 @@
 [
     {
+        "title": "(Senior) Backend Engineer - Investing (f/m/x)",
+        "company": "Lemon Markets",
+        "url": "https://www.arbeitnow.com/jobs/companies/lemon-markets/senior-backend-engineer-investing-berlin-52342",
+        "loc": "Germany  (Hybrid)",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-09-04 02:38"
+    },
+    {
+        "title": "(Senior) Backend Engineer - Banking (f/m/x)",
+        "company": "Lemon Markets",
+        "url": "https://www.arbeitnow.com/jobs/companies/lemon-markets/senior-backend-engineer-banking-berlin-257486",
+        "loc": "Germany  (Hybrid)",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-09-04 02:38"
+    },
+    {
+        "title": "Senior Site Reliability Engineer",
+        "company": "Cloudfactory",
+        "url": "https://www.arbeitnow.com/jobs/companies/cloudfactory/senior-site-reliability-engineer-berlin-333367",
+        "loc": "Berlin, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 54,
+        "timestamp": "2026-09-04 02:38"
+    },
+    {
         "title": "Senior Full-Stack Engineer - Team Agent",
         "company": "Taktile",
         "url": "https://www.arbeitnow.com/jobs/companies/taktile/senior-full-stack-engineer-team-agent-berlin-85709",
@@ -9,55 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-03 22:11"
-    },
-    {
-        "title": "Game Data Analyst (f/m/d)",
-        "company": "Kolibrigames",
-        "url": "https://www.arbeitnow.com/jobs/companies/kolibrigames/game-data-analyst-berlin-germany-197952",
-        "loc": "Berlin, Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-03 22:11"
-    },
-    {
-        "title": "Consulting Architect - Security (EMEA / Public Sector eligible )",
-        "company": "Elastic",
-        "url": "https://www.arbeitnow.com/jobs/companies/elastic/consulting-architect-security-emea-public-sector-eligible-468536",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-09-03 22:11"
-    },
-    {
-        "title": "Remote AI Systems & Automation Engineer (Internal Operations) (m/f/d)",
-        "company": "Roompricegenie",
-        "url": "https://www.arbeitnow.com/jobs/companies/roompricegenie/remote-ai-systems-automation-engineer-internal-operations-96452",
-        "loc": "Remote Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-09-03 22:11"
-    },
-    {
-        "title": "Senior Data Visualization Engineer - Microsoft Fabric (m/w/d)",
-        "company": "Alexander Thamm Gmbh",
-        "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/senior-data-visualization-engineer-microsoft-fabric-hybrid-munchen-15986",
-        "loc": "Hybrid (M\u00fcnchen)",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-03 22:11"
+        "timestamp": "2026-09-04 02:38"
     },
     {
         "title": "Data Analyst (Credit)",
@@ -69,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-03 22:11"
+        "timestamp": "2026-09-04 02:38"
     },
     {
         "title": "Data Platform Engineer I",
@@ -81,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-09-03 22:11"
+        "timestamp": "2026-09-04 02:38"
     },
     {
         "title": "Senior Data Engineer - Real time analytics",
@@ -93,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-09-03 22:11"
+        "timestamp": "2026-09-04 02:38"
     },
     {
         "title": "Agentic AI Architect-Anthropic",
@@ -105,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-03 22:11"
+        "timestamp": "2026-09-04 02:38"
     },
     {
         "title": "Senior Software Engineer, Full-Stack",
@@ -117,31 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-03 22:11"
-    },
-    {
-        "title": "Senior Generative AI Engineer",
-        "company": "Motorway",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/motorway/senior-generative-ai-engineer-london-71224",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-03 22:11"
-    },
-    {
-        "title": "Lead Generative AI Engineer",
-        "company": "Motorway",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/motorway/lead-generative-ai-engineer-london-213245",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-03 22:11"
+        "timestamp": "2026-09-04 02:38"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -153,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-03 22:11"
+        "timestamp": "2026-09-04 02:38"
     },
     {
         "title": "Senior Data Engineer",
@@ -165,6 +129,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-03 22:11"
+        "timestamp": "2026-09-04 02:38"
     }
 ]
