@@ -1,135 +1,51 @@
 [
     {
-        "title": "Senior Python Developer (w/m/d) - Remote",
-        "company": "node.energy",
-        "url": "https://www.arbeitnow.com/jobs/companies/nodeenergy/senior-python-developer-remote-242634",
-        "loc": "Frankfurt a. M., Freiburg oder remote",
+        "title": "AI Solution Architect (m/w/d)",
+        "company": "virtual7 GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-423450",
+        "loc": "Homeoffice",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 65,
-        "timestamp": "2026-09-04 15:39"
+        "tejas_score": 61,
+        "timestamp": "2026-09-04 18:46"
     },
     {
-        "title": "Werkstudent Data & AI Engineering (m/w/d)",
-        "company": "Blue Incite GmbH (A company of Allianz)",
-        "url": "https://www.arbeitnow.com/jobs/companies/blue-incite-gmbh-a-company-of-allianz/werkstudent-data-ai-engineering-munich-397292",
-        "loc": "Munich",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-09-04 15:39"
-    },
-    {
-        "title": "Software Engineer (m/f/d) Backend & Applied AI Systems",
-        "company": "iACT",
-        "url": "https://www.arbeitnow.com/jobs/companies/iact/software-engineer-backend-applied-ai-systems-jena-92825",
-        "loc": "Jena",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-04 15:39"
-    },
-    {
-        "title": "AI Product Engineer - Internal Tools & Automation (m/w/d) - fully remote",
-        "company": "Lyto Brands Group GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/lyto-brands-group-gmbh/ai-product-engineer-internal-tools-automation-fully-remote-dusseldorf-81871",
-        "loc": "D\u00fcsseldorf",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-04 15:39"
-    },
-    {
-        "title": "Solutions Architect",
-        "company": "mongodb",
-        "url": "https://www.arbeitnow.com/jobs/companies/mongodb/solutions-architect-101416",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-04 15:39"
-    },
-    {
-        "title": "Solutions Architect",
-        "company": "mongodb",
-        "url": "https://www.arbeitnow.com/jobs/companies/mongodb/solutions-architect-415763",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-04 15:39"
-    },
-    {
-        "title": "Senior Solutions Architect",
-        "company": "mongodb",
-        "url": "https://www.arbeitnow.com/jobs/companies/mongodb/senior-solutions-architect-301835",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-04 15:39"
-    },
-    {
-        "title": "Senior Consulting Engineer",
-        "company": "mongodb",
-        "url": "https://www.arbeitnow.com/jobs/companies/mongodb/senior-consulting-engineer-231857",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-09-04 15:39"
-    },
-    {
-        "title": "Senior GenAI Solution Engineer (all genders)",
-        "company": "Eraneos",
-        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-genai-solution-engineer-all-genders-487847",
-        "loc": "Hamburg, M\u00fcnchen, D\u00fcsseldorf, remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-04 15:39"
-    },
-    {
-        "title": "Data Engineer (all genders)",
-        "company": "Eraneos",
-        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-data-engineer-all-genders-38665",
-        "loc": "Hamburg, M\u00fcnchen, D\u00fcsseldorf, remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-09-04 15:39"
-    },
-    {
-        "title": "Senior AI Engineer (Remote)",
-        "company": "Finom",
-        "url": "https://www.arbeitnow.com/jobs/companies/finom/senior-ai-engineer-remote-berlin-199448",
+        "title": "Machine Learning Engineer (m/f/x)",
+        "company": "caronsale",
+        "url": "https://www.arbeitnow.com/jobs/companies/caronsale/machine-learning-engineer-berlin-36406",
         "loc": "Berlin",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-09-04 18:46"
+    },
+    {
+        "title": "Cloud Native Senior Architect (Portworx)",
+        "company": "purestorage",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/purestorage/remote-cloud-native-senior-architect-portworx-206761",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-09-04 18:46"
+    },
+    {
+        "title": "Site Reliability Engineer",
+        "company": "Delinea",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/delinea/site-reliability-engineer-bracknell-424891",
+        "loc": "Home Office (United Kingdom)",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-04 15:39"
+        "timestamp": "2026-09-04 18:46"
     },
     {
         "title": "Senior GTM Systems AI and Automation Engineer",
@@ -141,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-04 15:39"
+        "timestamp": "2026-09-04 18:46"
     },
     {
         "title": "Polyglot Engineer (JS/Python/Go)",
@@ -153,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 81,
-        "timestamp": "2026-09-04 15:39"
+        "timestamp": "2026-09-04 18:46"
     },
     {
         "title": "Senior ML Engineer",
@@ -165,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-04 15:39"
+        "timestamp": "2026-09-04 18:46"
     },
     {
         "title": "Senior Data Engineer",
@@ -177,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-09-04 15:39"
+        "timestamp": "2026-09-04 18:46"
     },
     {
         "title": "Data Analyst (Credit)",
@@ -189,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-04 15:39"
+        "timestamp": "2026-09-04 18:46"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -201,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-04 15:39"
+        "timestamp": "2026-09-04 18:46"
     },
     {
         "title": "Senior Data Engineer",
@@ -213,6 +129,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-04 15:39"
+        "timestamp": "2026-09-04 18:46"
     }
 ]
