@@ -1,5 +1,17 @@
 [
     {
+        "title": "Senior Data Analyst (f/m/x)",
+        "company": "exmox",
+        "url": "https://www.arbeitnow.com/jobs/companies/exmox/senior-data-analyst-hamburg-472812",
+        "loc": "Hamburg",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-09-04 22:02"
+    },
+    {
         "title": "AI Solution Architect (m/w/d)",
         "company": "virtual7 GmbH",
         "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-423450",
@@ -9,19 +21,55 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-04 18:46"
+        "timestamp": "2026-09-04 22:02"
     },
     {
-        "title": "Machine Learning Engineer (m/f/x)",
-        "company": "caronsale",
-        "url": "https://www.arbeitnow.com/jobs/companies/caronsale/machine-learning-engineer-berlin-36406",
-        "loc": "Berlin",
+        "title": "Solutions Architect (Presales, Data & AI, Digital Native Business)",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/solutions-architect-presales-data-ai-digital-native-business-london-451174",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-09-04 18:46"
+        "tejas_score": 75,
+        "timestamp": "2026-09-04 22:02"
+    },
+    {
+        "title": "Solutions Architect (Media, Entertainment and Agencies)",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/solutions-architect-media-entertainment-and-agencies-london-205041",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 75,
+        "timestamp": "2026-09-04 22:02"
+    },
+    {
+        "title": "Infrastructure & Platform Senior Specialist Solutions Engineer",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/infrastructure-platform-senior-specialist-solutions-engineer-london-330079",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 92,
+        "timestamp": "2026-09-04 22:02"
+    },
+    {
+        "title": "Senior Data Platform Engineer",
+        "company": "Octopus Energy Group",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/senior-data-platform-engineer-london-gb-220448",
+        "loc": "London (GB)",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-09-04 22:02"
     },
     {
         "title": "Cloud Native Senior Architect (Portworx)",
@@ -33,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-04 18:46"
+        "timestamp": "2026-09-04 22:02"
     },
     {
         "title": "Site Reliability Engineer",
@@ -45,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-04 18:46"
+        "timestamp": "2026-09-04 22:02"
     },
     {
         "title": "Senior GTM Systems AI and Automation Engineer",
@@ -57,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-04 18:46"
+        "timestamp": "2026-09-04 22:02"
     },
     {
         "title": "Polyglot Engineer (JS/Python/Go)",
@@ -69,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 81,
-        "timestamp": "2026-09-04 18:46"
+        "timestamp": "2026-09-04 22:02"
     },
     {
         "title": "Senior ML Engineer",
@@ -81,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-04 18:46"
+        "timestamp": "2026-09-04 22:02"
     },
     {
         "title": "Senior Data Engineer",
@@ -93,19 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-09-04 18:46"
-    },
-    {
-        "title": "Data Analyst (Credit)",
-        "company": "Octopus Energy Group",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/data-analyst-credit-london-gb-139731",
-        "loc": "London (GB)",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-04 18:46"
+        "timestamp": "2026-09-04 22:02"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -117,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-04 18:46"
+        "timestamp": "2026-09-04 22:02"
     },
     {
         "title": "Senior Data Engineer",
@@ -129,6 +165,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-04 18:46"
+        "timestamp": "2026-09-04 22:02"
     }
 ]
