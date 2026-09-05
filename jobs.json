@@ -1,5 +1,29 @@
 [
     {
+        "title": "Staff Backend Engineer (.NET) (f/m/d)",
+        "company": "Apaleo",
+        "url": "https://www.arbeitnow.com/jobs/companies/apaleo/staff-backend-engineer-net-munchen-448619",
+        "loc": "M\u00fcnchen, Bavaria, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-09-05 21:51"
+    },
+    {
+        "title": "Sr. Backend Engineer",
+        "company": "Andercore",
+        "url": "https://www.arbeitnow.com/jobs/companies/andercore/sr-backend-engineer-berlin-26161",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-09-05 21:51"
+    },
+    {
         "title": "Python Backend Engineer (m/f/x)",
         "company": "Makersite GmbH",
         "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-python-backend-engineer-berlin-203775",
@@ -9,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 65,
-        "timestamp": "2026-09-05 17:52"
+        "timestamp": "2026-09-05 21:51"
     },
     {
         "title": "Senior Full-Stack Engineer - Team Decide",
@@ -21,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-05 17:52"
+        "timestamp": "2026-09-05 21:51"
     },
     {
         "title": "Werkstudent*in Klimafreundliche Busse (Data Analysis)",
@@ -33,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-05 17:52"
+        "timestamp": "2026-09-05 21:51"
     },
     {
         "title": "Senior GTM Systems AI and Automation Engineer",
@@ -45,19 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-05 17:52"
-    },
-    {
-        "title": "Senior Data Engineer",
-        "company": "Liqid Lig",
-        "url": "https://www.arbeitnow.com/jobs/companies/liqid-lig/senior-data-engineer-berlin-462279",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-09-05 17:52"
+        "timestamp": "2026-09-05 21:51"
     },
     {
         "title": "Sr. Software Engineer, Investor Solutions",
@@ -69,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 60,
-        "timestamp": "2026-09-05 17:52"
+        "timestamp": "2026-09-05 21:51"
     },
     {
         "title": "Sr. Software Engineer - AI/ML - AI Platform",
@@ -81,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-05 17:52"
+        "timestamp": "2026-09-05 21:51"
     },
     {
         "title": "Senior Software Engineer, Full Stack",
@@ -93,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-05 17:52"
+        "timestamp": "2026-09-05 21:51"
     },
     {
         "title": "Data Engineer",
@@ -105,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-05 17:52"
+        "timestamp": "2026-09-05 21:51"
     },
     {
         "title": "Agent Engineer",
@@ -117,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-05 17:52"
+        "timestamp": "2026-09-05 21:51"
     },
     {
         "title": "Senior Partner Deployed Engineer",
@@ -129,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-05 17:52"
+        "timestamp": "2026-09-05 21:51"
     },
     {
         "title": "Software quality engineer (UK)",
@@ -141,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-05 17:52"
+        "timestamp": "2026-09-05 21:51"
     },
     {
         "title": "Infrastructure engineer (UK)",
@@ -153,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-05 17:52"
+        "timestamp": "2026-09-05 21:51"
     },
     {
         "title": "Technical Support Engineer",
@@ -165,127 +177,43 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 60,
-        "timestamp": "2026-09-05 17:52"
+        "timestamp": "2026-09-05 21:51"
     },
     {
-        "title": "Full Stack Engineer, Data Orchestration",
-        "company": "Kestra Technologies",
-        "url": "https://www.arbeitnow.fr/jobs/companies/kestra-technologies/full-stack-engineer-data-orchestration-villeneuve-dascq-452733",
-        "loc": "Europe",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-09-05 17:52"
-    },
-    {
-        "title": "QA Engineer",
-        "company": "Kestra Technologies",
-        "url": "https://www.arbeitnow.fr/jobs/companies/kestra-technologies/qa-engineer-villeneuve-dascq-302557",
-        "loc": "Europe",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-09-05 17:52"
-    },
-    {
-        "title": "Senior Backend Engineer, AI Orchestration",
-        "company": "Kestra Technologies",
-        "url": "https://www.arbeitnow.fr/jobs/companies/kestra-technologies/senior-backend-engineer-ai-orchestration-villeneuve-dascq-101710",
-        "loc": "Europe",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-09-05 17:52"
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Owkin",
-        "url": "https://www.arbeitnow.fr/jobs/companies/owkin/software-engineer-paris-137699",
-        "loc": "Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 69,
-        "timestamp": "2026-09-05 17:52"
-    },
-    {
-        "title": "Senior Platform Engineer - ARTESCA",
-        "company": "Scality",
-        "url": "https://www.arbeitnow.fr/jobs/companies/scality/senior-platform-engineer-artesca-paris-france-464086",
-        "loc": "Paris, France",
+        "title": "Senior Software Engineer",
+        "company": "Artefact",
+        "url": "https://www.arbeitnow.fr/jobs/companies/artefact/senior-software-engineer-9th-arrondissement-of-paris-75009-paris-360066",
+        "loc": "9th arrondissement of Paris, 75009, Paris",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-05 17:52"
+        "timestamp": "2026-09-05 21:51"
     },
     {
-        "title": "Senior AI Engineer",
-        "company": "mirakllabs",
-        "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/senior-ai-engineer-bordeaux-91121",
-        "loc": "Bordeaux",
+        "title": "Lead Software Engineer - Paris",
+        "company": "Artefact",
+        "url": "https://www.arbeitnow.fr/jobs/companies/artefact/lead-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-43874",
+        "loc": "9th arrondissement of Paris, 75009, Paris",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-09-05 17:52"
+        "tejas_score": 53,
+        "timestamp": "2026-09-05 21:51"
     },
     {
-        "title": "Senior AI Engineer",
-        "company": "mirakllabs",
-        "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/senior-ai-engineer-paris-72618",
-        "loc": "Paris",
+        "title": "Data Analytics Manager",
+        "company": "Artefact",
+        "url": "https://www.arbeitnow.fr/jobs/companies/artefact/data-analytics-manager-9th-arrondissement-of-paris-75009-paris-296757",
+        "loc": "9th arrondissement of Paris, 75009, Paris",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-09-05 17:52"
-    },
-    {
-        "title": "Lead AI engineer",
-        "company": "mirakllabs",
-        "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/lead-ai-engineer-bordeaux-353267",
-        "loc": "Bordeaux",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-09-05 17:52"
-    },
-    {
-        "title": "Lead AI engineer",
-        "company": "mirakllabs",
-        "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/lead-ai-engineer-paris-356902",
-        "loc": "Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-09-05 17:52"
-    },
-    {
-        "title": "Security Engineer - Product",
-        "company": "wizinc",
-        "url": "https://www.arbeitnow.fr/jobs/companies/wizinc/security-engineer-product-paris-419205",
-        "loc": "Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-09-05 17:52"
+        "tejas_score": 90,
+        "timestamp": "2026-09-05 21:51"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -297,7 +225,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-05 17:52"
+        "timestamp": "2026-09-05 21:51"
     },
     {
         "title": "Senior Data Engineer",
@@ -309,6 +237,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-05 17:52"
+        "timestamp": "2026-09-05 21:51"
     }
 ]
