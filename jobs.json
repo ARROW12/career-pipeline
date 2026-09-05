@@ -1,5 +1,17 @@
 [
     {
+        "title": "Senior GTM Systems AI and Automation Engineer",
+        "company": "Camunda",
+        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-gtm-systems-ai-and-automation-engineer-43415",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-09-05 11:47"
+    },
+    {
         "title": "Senior Data Engineer",
         "company": "Liqid Lig",
         "url": "https://www.arbeitnow.com/jobs/companies/liqid-lig/senior-data-engineer-berlin-462279",
@@ -9,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-05 08:00"
+        "timestamp": "2026-09-05 11:47"
     },
     {
         "title": "(Senior) Backend Engineer - idealo Intelligence  (m|w|d)",
@@ -21,19 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 54,
-        "timestamp": "2026-09-05 08:00"
-    },
-    {
-        "title": "Senior Data Engineer (m/w/d) \u2013 Snowflake",
-        "company": "JobRad Loop",
-        "url": "https://www.arbeitnow.com/jobs/companies/jobrad-loop/senior-data-engineer-snowflake-munchen-375493",
-        "loc": "M\u00fcnchen",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-05 08:00"
+        "timestamp": "2026-09-05 11:47"
     },
     {
         "title": "Data Engineer",
@@ -45,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-05 08:00"
+        "timestamp": "2026-09-05 11:47"
     },
     {
         "title": "Agent Engineer",
@@ -57,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-05 08:00"
+        "timestamp": "2026-09-05 11:47"
     },
     {
         "title": "Senior Partner Deployed Engineer",
@@ -69,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-05 08:00"
+        "timestamp": "2026-09-05 11:47"
     },
     {
         "title": "Software quality engineer (UK)",
@@ -81,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-05 08:00"
+        "timestamp": "2026-09-05 11:47"
     },
     {
         "title": "Infrastructure engineer (UK)",
@@ -93,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-05 08:00"
+        "timestamp": "2026-09-05 11:47"
     },
     {
         "title": "Technical Support Engineer",
@@ -105,43 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 60,
-        "timestamp": "2026-09-05 08:00"
-    },
-    {
-        "title": "Senior Python Engineer (Full Stack)",
-        "company": "Lendable",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/senior-python-engineer-full-stack-london-132406",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 81,
-        "timestamp": "2026-09-05 08:00"
-    },
-    {
-        "title": "Senior Full Stack Engineer",
-        "company": "Lendable",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/senior-full-stack-engineer-london-285522",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-09-05 08:00"
-    },
-    {
-        "title": "Data Platform Engineer",
-        "company": "Lendable",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/data-platform-engineer-london-230787",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-09-05 08:00"
+        "timestamp": "2026-09-05 11:47"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -153,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-05 08:00"
+        "timestamp": "2026-09-05 11:47"
     },
     {
         "title": "Senior Data Engineer",
@@ -165,6 +129,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-05 08:00"
+        "timestamp": "2026-09-05 11:47"
     }
 ]
