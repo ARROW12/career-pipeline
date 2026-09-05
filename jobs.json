@@ -1,5 +1,17 @@
 [
     {
+        "title": "Senior Data Engineer",
+        "company": "Liqid Lig",
+        "url": "https://www.arbeitnow.com/jobs/companies/liqid-lig/senior-data-engineer-berlin-462279",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-09-05 08:00"
+    },
+    {
         "title": "(Senior) Backend Engineer - idealo Intelligence  (m|w|d)",
         "company": "idealo internet GmbH",
         "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/senior-backend-engineer-idealo-intelligence-mwd-berlin-448058",
@@ -9,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 54,
-        "timestamp": "2026-09-05 02:39"
+        "timestamp": "2026-09-05 08:00"
     },
     {
         "title": "Senior Data Engineer (m/w/d) \u2013 Snowflake",
@@ -21,31 +33,79 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-05 02:39"
+        "timestamp": "2026-09-05 08:00"
     },
     {
-        "title": "Senior Data Analyst (f/m/x)",
-        "company": "exmox",
-        "url": "https://www.arbeitnow.com/jobs/companies/exmox/senior-data-analyst-hamburg-472812",
-        "loc": "Hamburg",
+        "title": "Data Engineer",
+        "company": "Nebius",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/data-engineer-472202",
+        "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-05 02:39"
+        "tejas_score": 46,
+        "timestamp": "2026-09-05 08:00"
     },
     {
-        "title": "AI Solution Architect (m/w/d)",
-        "company": "virtual7 GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-423450",
-        "loc": "Homeoffice",
+        "title": "Agent Engineer",
+        "company": "Elliptic",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/elliptic/agent-engineer-london-united-kingdom-352641",
+        "loc": "London, United Kingdom",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-05 02:39"
+        "timestamp": "2026-09-05 08:00"
+    },
+    {
+        "title": "Senior Partner Deployed Engineer",
+        "company": "Coder",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/coder/senior-partner-deployed-engineer-united-kingdom-14900",
+        "loc": "United Kingdom",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-09-05 08:00"
+    },
+    {
+        "title": "Software quality engineer (UK)",
+        "company": "Writer",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/writer/software-quality-engineer-uk-london-220045",
+        "loc": "London, UK",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-09-05 08:00"
+    },
+    {
+        "title": "Infrastructure engineer (UK)",
+        "company": "Writer",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/writer/infrastructure-engineer-uk-london-60403",
+        "loc": "London, UK",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-09-05 08:00"
+    },
+    {
+        "title": "Technical Support Engineer",
+        "company": "Plaid",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/plaid/remote-technical-support-engineer-241358",
+        "loc": "London Office",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 60,
+        "timestamp": "2026-09-05 08:00"
     },
     {
         "title": "Senior Python Engineer (Full Stack)",
@@ -57,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 81,
-        "timestamp": "2026-09-05 02:39"
+        "timestamp": "2026-09-05 08:00"
     },
     {
         "title": "Senior Full Stack Engineer",
@@ -69,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-05 02:39"
+        "timestamp": "2026-09-05 08:00"
     },
     {
         "title": "Data Platform Engineer",
@@ -81,67 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-05 02:39"
-    },
-    {
-        "title": "Analytics Engineer",
-        "company": "Axle Careers",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/axle-careers/analytics-engineer-london-147499",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-05 02:39"
-    },
-    {
-        "title": "Solutions Architect (Presales, Data & AI, Digital Native Business)",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/solutions-architect-presales-data-ai-digital-native-business-london-451174",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 75,
-        "timestamp": "2026-09-05 02:39"
-    },
-    {
-        "title": "Solutions Architect (Media, Entertainment and Agencies)",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/solutions-architect-media-entertainment-and-agencies-london-205041",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 75,
-        "timestamp": "2026-09-05 02:39"
-    },
-    {
-        "title": "Infrastructure & Platform Senior Specialist Solutions Engineer",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/infrastructure-platform-senior-specialist-solutions-engineer-london-330079",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 92,
-        "timestamp": "2026-09-05 02:39"
-    },
-    {
-        "title": "Senior Data Platform Engineer",
-        "company": "Octopus Energy Group",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/senior-data-platform-engineer-london-gb-220448",
-        "loc": "London (GB)",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-09-05 02:39"
+        "timestamp": "2026-09-05 08:00"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -153,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-05 02:39"
+        "timestamp": "2026-09-05 08:00"
     },
     {
         "title": "Senior Data Engineer",
@@ -165,6 +165,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-05 02:39"
+        "timestamp": "2026-09-05 08:00"
     }
 ]
