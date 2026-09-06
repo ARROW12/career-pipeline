@@ -1,5 +1,53 @@
 [
     {
+        "title": "Staff Forward Deployed Engineer",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.com/jobs/companies/databricks/staff-forward-deployed-engineer-berlin-munich-227443",
+        "loc": "Berlin; Munich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-09-06 08:18"
+    },
+    {
+        "title": "Senior Software Engineer (m/w/d) | Fullstack f\u00fcr KI-Produkte",
+        "company": "Avenit Ag",
+        "url": "https://www.arbeitnow.com/jobs/companies/avenit-ag/remote-senior-software-engineer-fullstack-fur-ki-produkte-294858",
+        "loc": "Remote in Deutschland",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-09-06 08:18"
+    },
+    {
+        "title": "Senior DevOps Engineer (all genders) | Data Platform",
+        "company": "Real Digital",
+        "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-devops-engineer-all-genders-data-platform-426742",
+        "loc": "Remote oder K\u00f6ln / Darmstadt / D\u00fcsseldorf / Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 84,
+        "timestamp": "2026-09-06 08:18"
+    },
+    {
+        "title": "Senior AI-Native Fullstack Engineer (m/w/d)",
+        "company": "Zvoove",
+        "url": "https://www.arbeitnow.com/jobs/companies/zvoove/senior-ai-native-fullstack-engineer-de-munchen-265224",
+        "loc": "DE | M\u00fcnchen",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-09-06 08:18"
+    },
+    {
         "title": "Data Engineer",
         "company": "Nebius",
         "url": "https://www.arbeitnow.com/jobs/companies/nebius/data-engineer-393721",
@@ -9,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-06 02:36"
+        "timestamp": "2026-09-06 08:18"
     },
     {
         "title": "Staff Backend Engineer (.NET) (f/m/d)",
@@ -21,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-06 02:36"
+        "timestamp": "2026-09-06 08:18"
     },
     {
         "title": "Sr. Backend Engineer",
@@ -33,43 +81,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-06 02:36"
+        "timestamp": "2026-09-06 08:18"
     },
     {
-        "title": "Python Backend Engineer (m/f/x)",
-        "company": "Makersite GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-python-backend-engineer-berlin-203775",
-        "loc": "Remote job",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 65,
-        "timestamp": "2026-09-06 02:36"
-    },
-    {
-        "title": "Senior Full-Stack Engineer - Team Decide",
-        "company": "Taktile",
-        "url": "https://www.arbeitnow.com/jobs/companies/taktile/senior-full-stack-engineer-team-decide-berlin-197390",
-        "loc": "Berlin Office",
+        "title": "Director of Go-to-Market Engineering",
+        "company": "Perk",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/director-of-go-to-market-engineering-london-457240",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-06 02:36"
-    },
-    {
-        "title": "Werkstudent*in Klimafreundliche Busse (Data Analysis)",
-        "company": "NOW GmbH Nationale Organisation f\u00fcr den Wandel in der ...",
-        "url": "https://www.arbeitnow.com/jobs/companies/now-gmbh-nationale-organisation-fur-den-wandel-in-der/werkstudentin-klimafreundliche-busse-data-analysis-berlin-fasanenstrasse-337399",
-        "loc": "Berlin Fasanenstrasse",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-06 02:36"
+        "timestamp": "2026-09-06 08:18"
     },
     {
         "title": "Sr. Software Engineer, Investor Solutions",
@@ -81,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 60,
-        "timestamp": "2026-09-06 02:36"
+        "timestamp": "2026-09-06 08:18"
     },
     {
         "title": "Sr. Software Engineer - AI/ML - AI Platform",
@@ -93,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-06 02:36"
+        "timestamp": "2026-09-06 08:18"
     },
     {
         "title": "Senior Software Engineer, Full Stack",
@@ -105,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-06 02:36"
+        "timestamp": "2026-09-06 08:18"
     },
     {
         "title": "Data Engineer",
@@ -117,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-06 02:36"
+        "timestamp": "2026-09-06 08:18"
     },
     {
         "title": "Agent Engineer",
@@ -129,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-06 02:36"
+        "timestamp": "2026-09-06 08:18"
     },
     {
         "title": "Senior Partner Deployed Engineer",
@@ -141,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-06 02:36"
+        "timestamp": "2026-09-06 08:18"
     },
     {
         "title": "Software quality engineer (UK)",
@@ -153,7 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-06 02:36"
+        "timestamp": "2026-09-06 08:18"
     },
     {
         "title": "Infrastructure engineer (UK)",
@@ -165,7 +189,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-06 02:36"
+        "timestamp": "2026-09-06 08:18"
     },
     {
         "title": "Technical Support Engineer",
@@ -177,19 +201,43 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 60,
-        "timestamp": "2026-09-06 02:36"
+        "timestamp": "2026-09-06 08:18"
     },
     {
-        "title": "Senior Data Analyst - Strategy & Commercial",
-        "company": "Backmarket",
-        "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/senior-data-analyst-strategy-commercial-paris-224352",
+        "title": "Senior Software Engineer, Understanding",
+        "company": "Algolia",
+        "url": "https://www.arbeitnow.fr/jobs/companies/algolia/senior-software-engineer-understanding-paris-371651",
         "loc": "Paris",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-06 02:36"
+        "timestamp": "2026-09-06 08:18"
+    },
+    {
+        "title": "Customs AI Integration & Automation Engineer (France)",
+        "company": "Customs Support Group",
+        "url": "https://www.arbeitnow.fr/jobs/companies/customs-support-group/remote-customs-ai-integration-automation-engineer-france-lyon-124506",
+        "loc": "Remote job",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-09-06 08:18"
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Odaseva",
+        "url": "https://www.arbeitnow.fr/jobs/companies/odaseva/data-engineer-paris-198969",
+        "loc": "Paris",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 100,
+        "timestamp": "2026-09-06 08:18"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -201,7 +249,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-06 02:36"
+        "timestamp": "2026-09-06 08:18"
     },
     {
         "title": "Senior Data Engineer",
@@ -213,6 +261,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-06 02:36"
+        "timestamp": "2026-09-06 08:18"
     }
 ]
