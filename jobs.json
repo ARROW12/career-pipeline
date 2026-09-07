@@ -1,87 +1,99 @@
 [
     {
-        "title": "Senior BI Developer (m/w/d)",
-        "company": "PRIME HR Agentur\u00ae",
-        "url": "https://www.arbeitnow.com/jobs/companies/prime-hr-agentur/senior-bi-developer-munich-306496",
-        "loc": "Munich",
+        "title": "AI-First Data Engineer (m/f/d)",
+        "company": "Sport Alliance GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/sport-alliance-gmbh/remote-ai-first-data-engineer-7282",
+        "loc": "Remote (Germany)",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 100,
+        "timestamp": "2026-09-07 17:07"
+    },
+    {
+        "title": "Lead Data Engineer - Data Platform & AI (w/m/d)",
+        "company": "enua Pharma GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/enua-pharma-gmbh/lead-data-engineer-data-platform-ai-cologne-453793",
+        "loc": "Cologne",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 69,
-        "timestamp": "2026-09-07 08:51"
+        "timestamp": "2026-09-07 17:07"
     },
     {
-        "title": "Senior Business Intelligence Lead (all genders)",
-        "company": "Reev",
-        "url": "https://www.arbeitnow.com/jobs/companies/reev/senior-business-intelligence-lead-all-genders-munchen-198779",
-        "loc": "M\u00fcnchen",
+        "title": "Data Scientist (f/m/d)",
+        "company": "Pair",
+        "url": "https://www.arbeitnow.com/jobs/companies/pair/data-scientist-berlin-hybrid-327994",
+        "loc": "Berlin (Hybrid)",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-09-07 08:51"
+        "tejas_score": 53,
+        "timestamp": "2026-09-07 17:07"
     },
     {
-        "title": "Head of AI Engineering (f/m/x)",
-        "company": "neoshare",
-        "url": "https://www.arbeitnow.com/jobs/companies/neoshare/head-of-ai-engineering-frankfurt-am-main-332298",
-        "loc": "Frankfurt am Main",
+        "title": "Director, Product Data Analyst Team",
+        "company": "Contentsquare",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/contentsquare/director-product-data-analyst-team-london-area-29190",
+        "loc": "London area",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-09-07 08:51"
+        "tejas_score": 45,
+        "timestamp": "2026-09-07 17:07"
     },
     {
-        "title": "Head of AI Engineering (f/m/x)",
-        "company": "neoshare",
-        "url": "https://www.arbeitnow.com/jobs/companies/neoshare/head-of-ai-engineering-berlin-267386",
-        "loc": "Berlin",
+        "title": "Senior Backend Engineer",
+        "company": "SumUp",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/sumup/senior-backend-engineer-london-1290",
+        "loc": "London, England, United Kingdom",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-09-07 08:51"
+        "tejas_score": 45,
+        "timestamp": "2026-09-07 17:07"
     },
     {
-        "title": "Senior Python Engineer, Platform Libraries (m/f/d)",
-        "company": "Unitelabs",
-        "url": "https://www.arbeitnow.com/jobs/companies/unitelabs/senior-python-engineer-platform-libraries-munchen-363975",
-        "loc": "M\u00fcnchen",
+        "title": "[Job-31207] Data Analyst, UK - 6 Month FTC",
+        "company": "CI&T",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/cit/job-31207-data-analyst-uk-6-month-ftc-london-418930",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 88,
-        "timestamp": "2026-09-07 08:51"
+        "tejas_score": 45,
+        "timestamp": "2026-09-07 17:07"
     },
     {
-        "title": "DevOps Engineer (m/w/d)",
-        "company": "Skaylink",
-        "url": "https://www.arbeitnow.com/jobs/companies/skaylink/devops-engineer-leipzig-sachsen-478361",
-        "loc": "Leipzig, Sachsen",
+        "title": "Senior Backend Engineer",
+        "company": "sumup",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/sumup/senior-backend-engineer-london-24424",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-09-07 08:51"
+        "tejas_score": 45,
+        "timestamp": "2026-09-07 17:07"
     },
     {
-        "title": "Data Platform Engineer Working Student (m/w/d)",
-        "company": "Trusteq Gmbh",
-        "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-platform-engineer-working-student-munchen-56537",
-        "loc": "M\u00fcnchen",
+        "title": "Senior Data Scientist",
+        "company": "Carwow",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/carwow/senior-data-scientist-london-183366",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 83,
-        "timestamp": "2026-09-07 08:51"
+        "tejas_score": 53,
+        "timestamp": "2026-09-07 17:07"
     },
     {
         "title": "Production Support Engineer II - UK",
@@ -93,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-07 08:51"
+        "timestamp": "2026-09-07 17:07"
     },
     {
         "title": "Associate Backend Software Engineer (Python)",
@@ -105,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 96,
-        "timestamp": "2026-09-07 08:51"
+        "timestamp": "2026-09-07 17:07"
     },
     {
         "title": "Director of Go-to-Market Engineering",
@@ -117,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-07 08:51"
+        "timestamp": "2026-09-07 17:07"
     },
     {
         "title": "Sr. Software Engineer, Investor Solutions",
@@ -129,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 60,
-        "timestamp": "2026-09-07 08:51"
+        "timestamp": "2026-09-07 17:07"
     },
     {
         "title": "Sr. Software Engineer - AI/ML - AI Platform",
@@ -141,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-07 08:51"
+        "timestamp": "2026-09-07 17:07"
     },
     {
         "title": "Senior Software Engineer, Full Stack",
@@ -153,31 +165,43 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-07 08:51"
+        "timestamp": "2026-09-07 17:07"
     },
     {
-        "title": "Data Engineer",
-        "company": "Nebius",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/data-engineer-472202",
-        "loc": "Remote",
+        "title": "Principal AI Engineer",
+        "company": "Mirakl - Labs",
+        "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/principal-ai-engineer-bordeaux-164162",
+        "loc": "Bordeaux, France",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-09-07 08:51"
+        "tejas_score": 68,
+        "timestamp": "2026-09-07 17:07"
     },
     {
-        "title": "Agent Engineer",
-        "company": "Elliptic",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/elliptic/agent-engineer-london-united-kingdom-352641",
-        "loc": "London, United Kingdom",
+        "title": "Principal AI Engineer",
+        "company": "Mirakl - Labs",
+        "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/principal-ai-engineer-paris-233488",
+        "loc": "Paris, France",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-09-07 17:07"
+    },
+    {
+        "title": "Senior Backend + Infrastructure Engineer (Platform)",
+        "company": "Soda Data Nv",
+        "url": "https://www.arbeitnow.fr/jobs/companies/soda-data-nv/remote-senior-backend-infrastructure-engineer-platform-france-122771",
+        "loc": "France",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-07 08:51"
+        "timestamp": "2026-09-07 17:07"
     },
     {
         "title": "Senior Backend Engineer",
@@ -189,7 +213,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-07 08:51"
+        "timestamp": "2026-09-07 17:07"
     },
     {
         "title": "DevOps Engineer",
@@ -201,7 +225,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-07 08:51"
+        "timestamp": "2026-09-07 17:07"
     },
     {
         "title": "Consultant D\u00e9veloppeur Marketing Technology (CRM & Data) \u2013 3 \u00e0 5 ans d\u2019exp\u00e9rience",
@@ -213,7 +237,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-07 08:51"
+        "timestamp": "2026-09-07 17:07"
     },
     {
         "title": "Consultant Data Analyst Marketing - F/H",
@@ -225,7 +249,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-07 08:51"
+        "timestamp": "2026-09-07 17:07"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -237,7 +261,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-07 08:51"
+        "timestamp": "2026-09-07 17:07"
     },
     {
         "title": "Senior Data Engineer",
@@ -249,6 +273,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-07 08:51"
+        "timestamp": "2026-09-07 17:07"
     }
 ]
