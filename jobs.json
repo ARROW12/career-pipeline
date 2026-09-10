@@ -1,5 +1,53 @@
 [
     {
+        "title": "Senior Ai Engineer",
+        "company": "typeform",
+        "url": "https://www.arbeitnow.com/jobs/companies/typeform/senior-ai-engineer-219471",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 69,
+        "timestamp": "2026-09-10 08:35"
+    },
+    {
+        "title": "Analytics Engineer (m/f/d)",
+        "company": "Enpal",
+        "url": "https://www.arbeitnow.com/jobs/companies/enpal/analytics-engineer-berlin-300399",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-09-10 08:35"
+    },
+    {
+        "title": "Application Security Engineer (f/m/d)",
+        "company": "Awin",
+        "url": "https://www.arbeitnow.com/jobs/companies/awin/application-security-engineer-berlin-berlin-342451",
+        "loc": "Berlin, Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-09-10 08:35"
+    },
+    {
+        "title": "Senior Data Scientist \u2014 Data Cloud Acceleration",
+        "company": "zetaglobal",
+        "url": "https://www.arbeitnow.com/jobs/companies/zetaglobal/senior-data-scientist-data-cloud-acceleration-berlin-347439",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 91,
+        "timestamp": "2026-09-10 08:35"
+    },
+    {
         "title": "Werkstudent*in Klimafreundliche Busse (Data Analysis)",
         "company": "NOW GmbH Nationale Organisation f\u00fcr den Wandel in der ...",
         "url": "https://www.arbeitnow.com/jobs/companies/now-gmbh-nationale-organisation-fur-den-wandel-in-der/werkstudentin-klimafreundliche-busse-data-analysis-berlin-fasanenstrasse-330716",
@@ -9,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-10 02:48"
+        "timestamp": "2026-09-10 08:35"
     },
     {
         "title": "Python Backend Engineer (m/f/x)",
@@ -21,19 +69,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 65,
-        "timestamp": "2026-09-10 02:48"
+        "timestamp": "2026-09-10 08:35"
     },
     {
-        "title": "Data Engineer Mid-Level (m/w/d)",
-        "company": "Octopus Energy Group",
-        "url": "https://www.arbeitnow.com/jobs/companies/octopus-energy-group/data-engineer-mid-level-berlin-de-63464",
-        "loc": "Berlin (DE)",
+        "title": "Forward Deployed Engineer, Manager -London",
+        "company": "Notion",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/notion/forward-deployed-engineer-manager-london-123580",
+        "loc": "London, United Kingdom",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 100,
-        "timestamp": "2026-09-10 02:48"
+        "tejas_score": 53,
+        "timestamp": "2026-09-10 08:35"
     },
     {
         "title": "Senior Data Engineer",
@@ -45,31 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-10 02:48"
-    },
-    {
-        "title": "Senior Data Analyst, Financial Health",
-        "company": "Monzoreferrals",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/monzoreferrals/senior-data-analyst-financial-health-cardiff-415195",
-        "loc": "Cardiff",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 60,
-        "timestamp": "2026-09-10 02:48"
-    },
-    {
-        "title": "Senior Data Engineer",
-        "company": "Livescore9",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/livescore9/senior-data-engineer-london-278714",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-09-10 02:48"
+        "timestamp": "2026-09-10 08:35"
     },
     {
         "title": "Staff Software Engineer",
@@ -81,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-10 02:48"
+        "timestamp": "2026-09-10 08:35"
     },
     {
         "title": "Senior Data Engineer - Real time analytics",
@@ -93,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-09-10 02:48"
+        "timestamp": "2026-09-10 08:35"
     },
     {
         "title": "Senior Data Engineer - Real time analytics",
@@ -105,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-09-10 02:48"
+        "timestamp": "2026-09-10 08:35"
     },
     {
         "title": "Solutions Architect, CustomerLake",
@@ -117,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 60,
-        "timestamp": "2026-09-10 02:48"
+        "timestamp": "2026-09-10 08:35"
     },
     {
         "title": "Stage - Data Scientist / Data Analyst (H/F)",
@@ -129,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-10 02:48"
+        "timestamp": "2026-09-10 08:35"
     },
     {
         "title": "Senior Data Engineer",
@@ -141,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-10 02:48"
+        "timestamp": "2026-09-10 08:35"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -153,7 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-10 02:48"
+        "timestamp": "2026-09-10 08:35"
     },
     {
         "title": "Senior Data Engineer",
@@ -165,6 +189,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-10 02:48"
+        "timestamp": "2026-09-10 08:35"
     }
 ]
