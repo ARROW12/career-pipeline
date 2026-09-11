@@ -1,15 +1,39 @@
 [
     {
-        "title": "Senior Software Engineer (m/w/d) | Fullstack f\u00fcr KI-Produkte",
-        "company": "Avenit Ag",
-        "url": "https://www.arbeitnow.com/jobs/companies/avenit-ag/remote-senior-software-engineer-fullstack-fur-ki-produkte-137665",
-        "loc": "Remote in Deutschland",
+        "title": "Product Engineer (m/f/d)",
+        "company": "Buying Labs Gmbh 1",
+        "url": "https://www.arbeitnow.com/jobs/companies/buying-labs-gmbh-1/product-engineer-hamburg-hq-189755",
+        "loc": "Hamburg HQ",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-11 02:42"
+        "tejas_score": 68,
+        "timestamp": "2026-09-11 08:30"
+    },
+    {
+        "title": "Senior Machine Learning Engineer, Search & Recommendations",
+        "company": "Roku",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-machine-learning-engineer-search-recommendations-cambridge-381724",
+        "loc": "Cambridge",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 54,
+        "timestamp": "2026-09-11 08:30"
+    },
+    {
+        "title": "Software Engineer, Platform",
+        "company": "scaleai",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/scaleai/software-engineer-platform-london-396764",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-09-11 08:30"
     },
     {
         "title": "Software Engineer, Backend (BI Platform)\u00a0",
@@ -21,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-11 02:42"
+        "timestamp": "2026-09-11 08:30"
     },
     {
         "title": "Senior Platform Engineer, Foundations",
@@ -33,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-11 02:42"
+        "timestamp": "2026-09-11 08:30"
     },
     {
         "title": "Data Engineer- UK",
@@ -45,55 +69,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 83,
-        "timestamp": "2026-09-11 02:42"
+        "timestamp": "2026-09-11 08:30"
     },
     {
-        "title": "Senior Offensive Security Engineer",
-        "company": "Atariinc",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/atariinc/senior-offensive-security-engineer-newcastle-upon-tyne-43443",
-        "loc": "Newcastle upon Tyne",
+        "title": "Senior Data Engineer (x/f/m)",
+        "company": "Doctolib",
+        "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/senior-data-engineer-paris-paris-266200",
+        "loc": "Paris, Paris",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-11 02:42"
+        "tejas_score": 53,
+        "timestamp": "2026-09-11 08:30"
     },
     {
-        "title": "Delivery Solutions Architect",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/delivery-solutions-architect-london-467373",
-        "loc": "London",
+        "title": "Platform Security Engineer (x/f/m)",
+        "company": "Doctolib",
+        "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/platform-security-engineer-paris-paris-266318",
+        "loc": "Paris, Paris",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 60,
-        "timestamp": "2026-09-11 02:42"
-    },
-    {
-        "title": "Data Scientist",
-        "company": "dataiku",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/dataiku/data-scientist-london-364935",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-09-11 02:42"
-    },
-    {
-        "title": "Software Engineer, Backend (BI Platform)\u00a0",
-        "company": "wolt",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/wolt/software-engineer-backend-bi-platform-london-235616",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-09-11 02:42"
+        "tejas_score": 46,
+        "timestamp": "2026-09-11 08:30"
     },
     {
         "title": "Staff Software Engineer",
@@ -105,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-11 02:42"
+        "timestamp": "2026-09-11 08:30"
     },
     {
         "title": "Senior Data Engineer - Real time analytics",
@@ -117,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-09-11 02:42"
+        "timestamp": "2026-09-11 08:30"
     },
     {
         "title": "Senior Data Engineer - Real time analytics",
@@ -129,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-09-11 02:42"
+        "timestamp": "2026-09-11 08:30"
     },
     {
         "title": "Solutions Architect, CustomerLake",
@@ -141,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 60,
-        "timestamp": "2026-09-11 02:42"
+        "timestamp": "2026-09-11 08:30"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -153,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-11 02:42"
+        "timestamp": "2026-09-11 08:30"
     },
     {
         "title": "Senior Data Engineer",
@@ -165,6 +165,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-11 02:42"
+        "timestamp": "2026-09-11 08:30"
     }
 ]
