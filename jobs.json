@@ -1,15 +1,39 @@
 [
     {
-        "title": "Product Engineer (m/f/d)",
-        "company": "Buying Labs Gmbh 1",
-        "url": "https://www.arbeitnow.com/jobs/companies/buying-labs-gmbh-1/product-engineer-hamburg-hq-189755",
-        "loc": "Hamburg HQ",
+        "title": "Senior Business Intelligence Lead (all genders)",
+        "company": "Reev",
+        "url": "https://www.arbeitnow.com/jobs/companies/reev/senior-business-intelligence-lead-all-genders-munchen-127181",
+        "loc": "M\u00fcnchen",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-11 08:30"
+        "timestamp": "2026-09-11 15:45"
+    },
+    {
+        "title": "Senior Python Engineer, Platform Libraries (m/f/d)",
+        "company": "Unitelabs",
+        "url": "https://www.arbeitnow.com/jobs/companies/unitelabs/senior-python-engineer-platform-libraries-munchen-371781",
+        "loc": "M\u00fcnchen",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 88,
+        "timestamp": "2026-09-11 15:45"
+    },
+    {
+        "title": "Data Platform Engineer Working Student (m/w/d)",
+        "company": "Trusteq Gmbh",
+        "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-platform-engineer-working-student-munchen-164015",
+        "loc": "M\u00fcnchen",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 83,
+        "timestamp": "2026-09-11 15:45"
     },
     {
         "title": "Senior Machine Learning Engineer, Search & Recommendations",
@@ -21,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 54,
-        "timestamp": "2026-09-11 08:30"
+        "timestamp": "2026-09-11 15:45"
     },
     {
         "title": "Software Engineer, Platform",
@@ -33,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-11 08:30"
+        "timestamp": "2026-09-11 15:45"
     },
     {
         "title": "Software Engineer, Backend (BI Platform)\u00a0",
@@ -45,31 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-11 08:30"
-    },
-    {
-        "title": "Senior Platform Engineer, Foundations",
-        "company": "Chainalysis",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/chainalysis/senior-platform-engineer-foundations-london-390027",
-        "loc": "London Office",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-11 08:30"
-    },
-    {
-        "title": "Data Engineer- UK",
-        "company": "Coreview",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/coreview/data-engineer-uk-239308",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 83,
-        "timestamp": "2026-09-11 08:30"
+        "timestamp": "2026-09-11 15:45"
     },
     {
         "title": "Senior Data Engineer (x/f/m)",
@@ -81,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-11 08:30"
+        "timestamp": "2026-09-11 15:45"
     },
     {
         "title": "Platform Security Engineer (x/f/m)",
@@ -93,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-11 08:30"
+        "timestamp": "2026-09-11 15:45"
     },
     {
         "title": "Staff Software Engineer",
@@ -105,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-11 08:30"
+        "timestamp": "2026-09-11 15:45"
     },
     {
         "title": "Senior Data Engineer - Real time analytics",
@@ -117,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-09-11 08:30"
+        "timestamp": "2026-09-11 15:45"
     },
     {
         "title": "Senior Data Engineer - Real time analytics",
@@ -129,19 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-09-11 08:30"
-    },
-    {
-        "title": "Solutions Architect, CustomerLake",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.fr/jobs/companies/databricks/solutions-architect-customerlake-paris-375154",
-        "loc": "Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 60,
-        "timestamp": "2026-09-11 08:30"
+        "timestamp": "2026-09-11 15:45"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -153,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-11 08:30"
+        "timestamp": "2026-09-11 15:45"
     },
     {
         "title": "Senior Data Engineer",
@@ -165,6 +153,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-11 08:30"
+        "timestamp": "2026-09-11 15:45"
     }
 ]
