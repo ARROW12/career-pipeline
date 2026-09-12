@@ -1,5 +1,41 @@
 [
     {
+        "title": "Senior Fullstack Engineer - Localization",
+        "company": "sumup",
+        "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-fullstack-engineer-localization-berlin-276796",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-09-12 14:53"
+    },
+    {
+        "title": "Geospatial Data Analyst (f/m/x) in the field of AI & Satellite Data",
+        "company": "LiveEO GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/geospatial-data-analyst-in-the-field-of-ai-satellite-data-liveeo-gmbh-berlin-office-hybrid-99091",
+        "loc": "LiveEO GmbH Berlin Office (Hybrid)",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-09-12 14:53"
+    },
+    {
+        "title": "Solutions Architect, CustomerLake",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.com/jobs/companies/databricks/solutions-architect-customerlake-berlin-114067",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 60,
+        "timestamp": "2026-09-12 14:53"
+    },
+    {
         "title": "Principal Enterprise Architect",
         "company": "celonis",
         "url": "https://www.arbeitnow.com/jobs/companies/celonis/principal-enterprise-architect-munich-425728",
@@ -9,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-12 08:18"
+        "timestamp": "2026-09-12 14:53"
     },
     {
         "title": "Senior Site Reliability Engineer",
@@ -21,43 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-12 08:18"
-    },
-    {
-        "title": "Senior Software Engineer - Node.js/TypeScript (x/f/m)",
-        "company": "Doctolib",
-        "url": "https://www.arbeitnow.com/jobs/companies/doctolib/senior-software-engineer-nodejs-typescript-berlin-berlin-383924",
-        "loc": "Berlin, Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-12 08:18"
-    },
-    {
-        "title": "AI Engineer - Data",
-        "company": "Almedia",
-        "url": "https://www.arbeitnow.com/jobs/companies/almedia/ai-engineer-data-berlin-450785",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-12 08:18"
-    },
-    {
-        "title": "Senior AI Engineer, Location AI",
-        "company": "Mapbox",
-        "url": "https://www.arbeitnow.com/jobs/companies/mapbox/senior-ai-engineer-location-ai-mapbox-germany-1055",
-        "loc": "Mapbox Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-12 08:18"
+        "timestamp": "2026-09-12 14:53"
     },
     {
         "title": "Senior Product Data Scientist",
@@ -69,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-12 08:18"
+        "timestamp": "2026-09-12 14:53"
     },
     {
         "title": "Senior AI Engineer, Location AI",
@@ -81,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-12 08:18"
+        "timestamp": "2026-09-12 14:53"
     },
     {
         "title": "Senior Data Engineer - Real time analytics",
@@ -93,19 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-09-12 08:18"
-    },
-    {
-        "title": "Senior Software Engineer- Python",
-        "company": "Kraken",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/senior-software-engineer-python-manchester-121079",
-        "loc": "Manchester, UK",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 96,
-        "timestamp": "2026-09-12 08:18"
+        "timestamp": "2026-09-12 14:53"
     },
     {
         "title": "Stage Data Analyst - Paris (H/F/X)",
@@ -117,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-12 08:18"
+        "timestamp": "2026-09-12 14:53"
     },
     {
         "title": "Senior Software Engineer",
@@ -129,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-12 08:18"
+        "timestamp": "2026-09-12 14:53"
     },
     {
         "title": "Senior Data Analyst",
@@ -141,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 90,
-        "timestamp": "2026-09-12 08:18"
+        "timestamp": "2026-09-12 14:53"
     },
     {
         "title": "Stage Data Analyst - Paris (H/F/X)",
@@ -153,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-12 08:18"
+        "timestamp": "2026-09-12 14:53"
     },
     {
         "title": "Senior Data Analyst",
@@ -165,31 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 90,
-        "timestamp": "2026-09-12 08:18"
-    },
-    {
-        "title": "Senior Data Engineer (x/f/m)",
-        "company": "Doctolib",
-        "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/senior-data-engineer-paris-paris-266200",
-        "loc": "Paris, Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-12 08:18"
-    },
-    {
-        "title": "Platform Security Engineer (x/f/m)",
-        "company": "Doctolib",
-        "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/platform-security-engineer-paris-paris-266318",
-        "loc": "Paris, Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-09-12 08:18"
+        "timestamp": "2026-09-12 14:53"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -201,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-12 08:18"
+        "timestamp": "2026-09-12 14:53"
     },
     {
         "title": "Senior Data Engineer",
@@ -213,6 +177,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-12 08:18"
+        "timestamp": "2026-09-12 14:53"
     }
 ]
