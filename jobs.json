@@ -1,5 +1,29 @@
 [
     {
+        "title": "Senior Data & Backend Software Engineer (f/m/d)",
+        "company": "isaraerospace",
+        "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/senior-data-backend-software-engineer-ottobrunn-bavaria-290266",
+        "loc": "Ottobrunn, Bavaria",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-09-12 21:54"
+    },
+    {
+        "title": "AI Engineer (m/w/d)",
+        "company": "adorsys GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/adorsys-gmbh/ai-engineer-nurnberg-213617",
+        "loc": "N\u00fcrnberg",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-09-12 21:54"
+    },
+    {
         "title": "Senior/Staff Data Analyst, Storefront",
         "company": "Quince",
         "url": "https://www.arbeitnow.com/jobs/companies/quince/senior-staff-data-analyst-storefront-176558",
@@ -9,79 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-12 18:02"
-    },
-    {
-        "title": "Software Engineer - Data (All Genders)",
-        "company": "PREMATCH Sports GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/prematch-sports-gmbh/software-engineer-data-all-genders-koln-274758",
-        "loc": "K\u00f6ln",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-09-12 18:02"
-    },
-    {
-        "title": "Senior Fullstack Engineer - Localization",
-        "company": "sumup",
-        "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-fullstack-engineer-localization-berlin-276796",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-12 18:02"
-    },
-    {
-        "title": "Geospatial Data Analyst (f/m/x) in the field of AI & Satellite Data",
-        "company": "LiveEO GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/geospatial-data-analyst-in-the-field-of-ai-satellite-data-liveeo-gmbh-berlin-office-hybrid-99091",
-        "loc": "LiveEO GmbH Berlin Office (Hybrid)",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-12 18:02"
-    },
-    {
-        "title": "Solutions Architect, CustomerLake",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.com/jobs/companies/databricks/solutions-architect-customerlake-berlin-114067",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 60,
-        "timestamp": "2026-09-12 18:02"
-    },
-    {
-        "title": "Senior Product Data Scientist",
-        "company": "Mubi",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/mubi/senior-product-data-scientist-london-133482",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-12 18:02"
-    },
-    {
-        "title": "Senior AI Engineer, Location AI",
-        "company": "Mapbox",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/mapbox/senior-ai-engineer-location-ai-mapbox-uk-263919",
-        "loc": "Mapbox UK",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-12 18:02"
+        "timestamp": "2026-09-12 21:54"
     },
     {
         "title": "Stage Data Analyst - Paris (H/F/X)",
@@ -93,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-12 18:02"
+        "timestamp": "2026-09-12 21:54"
     },
     {
         "title": "Senior Software Engineer",
@@ -105,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-12 18:02"
+        "timestamp": "2026-09-12 21:54"
     },
     {
         "title": "Senior Data Analyst",
@@ -117,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 90,
-        "timestamp": "2026-09-12 18:02"
+        "timestamp": "2026-09-12 21:54"
     },
     {
         "title": "Stage Data Analyst - Paris (H/F/X)",
@@ -129,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-12 18:02"
+        "timestamp": "2026-09-12 21:54"
     },
     {
         "title": "Senior Data Analyst",
@@ -141,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 90,
-        "timestamp": "2026-09-12 18:02"
+        "timestamp": "2026-09-12 21:54"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -153,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-12 18:02"
+        "timestamp": "2026-09-12 21:54"
     },
     {
         "title": "Senior Data Engineer",
@@ -165,6 +117,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-12 18:02"
+        "timestamp": "2026-09-12 21:54"
     }
 ]
