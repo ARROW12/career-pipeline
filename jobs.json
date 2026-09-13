@@ -1,5 +1,17 @@
 [
     {
+        "title": "Data Analyst (m/f/d)",
+        "company": "METYCLE",
+        "url": "https://www.arbeitnow.com/jobs/companies/metycle/data-analyst-cologne-ger-220074",
+        "loc": "Cologne (GER)",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-09-13 08:43"
+    },
+    {
         "title": "Founding Backend Engineer(Go)",
         "company": "TechBiz Global GmbH",
         "url": "https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/founding-backend-engineergo-berlin-147504",
@@ -9,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-09-13 02:50"
+        "timestamp": "2026-09-13 08:43"
     },
     {
         "title": "Senior Data & Backend Software Engineer (f/m/d)",
@@ -21,7 +33,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-13 02:50"
+        "timestamp": "2026-09-13 08:43"
+    },
+    {
+        "title": "Pre-Sales Senior Engineer",
+        "company": "Kaluza",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/pre-sales-senior-engineer-london-223227",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-09-13 08:43"
+    },
+    {
+        "title": "Senior/Staff Data Analyst, Storefront",
+        "company": "Quince",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/quince/senior-staff-data-analyst-storefront-london-47899",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-09-13 08:43"
     },
     {
         "title": "Software Engineer, Backend (BI Platform)",
@@ -33,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-13 02:50"
+        "timestamp": "2026-09-13 08:43"
     },
     {
         "title": "BI Engineer",
@@ -45,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-09-13 02:50"
+        "timestamp": "2026-09-13 08:43"
     },
     {
         "title": "Sr. Data Scientist",
@@ -57,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-13 02:50"
+        "timestamp": "2026-09-13 08:43"
     },
     {
         "title": "Staff Data Scientist",
@@ -69,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-13 02:50"
+        "timestamp": "2026-09-13 08:43"
     },
     {
         "title": "Stage Data Analyst - Paris (H/F/X)",
@@ -81,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-13 02:50"
+        "timestamp": "2026-09-13 08:43"
     },
     {
         "title": "Senior Software Engineer",
@@ -93,43 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-13 02:50"
-    },
-    {
-        "title": "Senior Data Analyst",
-        "company": "Artefactlinkedin",
-        "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/senior-data-analyst-9th-arrondissement-of-paris-75009-paris-30123",
-        "loc": "9th arrondissement of Paris, 75009, Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 90,
-        "timestamp": "2026-09-13 02:50"
-    },
-    {
-        "title": "Stage Data Analyst - Paris (H/F/X)",
-        "company": "Artefact",
-        "url": "https://www.arbeitnow.fr/jobs/companies/artefact/stage-data-analyst-paris-9th-arrondissement-of-paris-75009-paris-123583",
-        "loc": "9th arrondissement of Paris, 75009, Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-13 02:50"
-    },
-    {
-        "title": "Senior Data Analyst",
-        "company": "Artefact",
-        "url": "https://www.arbeitnow.fr/jobs/companies/artefact/senior-data-analyst-9th-arrondissement-of-paris-75009-paris-198988",
-        "loc": "9th arrondissement of Paris, 75009, Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 90,
-        "timestamp": "2026-09-13 02:50"
+        "timestamp": "2026-09-13 08:43"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -141,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-13 02:50"
+        "timestamp": "2026-09-13 08:43"
     },
     {
         "title": "Senior Data Engineer",
@@ -153,6 +153,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-13 02:50"
+        "timestamp": "2026-09-13 08:43"
     }
 ]
