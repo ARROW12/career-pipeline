@@ -1,5 +1,17 @@
 [
     {
+        "title": "Founding Backend Engineer(Go)",
+        "company": "TechBiz Global GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/founding-backend-engineergo-berlin-147504",
+        "loc": "Berlin, Berlin, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-09-13 02:50"
+    },
+    {
         "title": "Senior Data & Backend Software Engineer (f/m/d)",
         "company": "isaraerospace",
         "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/senior-data-backend-software-engineer-ottobrunn-bavaria-290266",
@@ -9,31 +21,55 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-12 21:54"
+        "timestamp": "2026-09-13 02:50"
     },
     {
-        "title": "AI Engineer (m/w/d)",
-        "company": "adorsys GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/adorsys-gmbh/ai-engineer-nurnberg-213617",
-        "loc": "N\u00fcrnberg",
+        "title": "Software Engineer, Backend (BI Platform)",
+        "company": "Deliveroo",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-backend-bi-platform-london-234160",
+        "loc": "London - The River Building HQ",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-12 21:54"
+        "tejas_score": 68,
+        "timestamp": "2026-09-13 02:50"
     },
     {
-        "title": "Senior/Staff Data Analyst, Storefront",
-        "company": "Quince",
-        "url": "https://www.arbeitnow.com/jobs/companies/quince/senior-staff-data-analyst-storefront-176558",
-        "loc": "Remote",
+        "title": "BI Engineer",
+        "company": "Deliveroo",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/bi-engineer-london-9211",
+        "loc": "London - The River Building HQ",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-09-13 02:50"
+    },
+    {
+        "title": "Sr. Data Scientist",
+        "company": "Hims And Hers",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/hims-and-hers/sr-data-scientist-london-312512",
+        "loc": "London, England",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-12 21:54"
+        "timestamp": "2026-09-13 02:50"
+    },
+    {
+        "title": "Staff Data Scientist",
+        "company": "Hims And Hers",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/hims-and-hers/staff-data-scientist-london-154498",
+        "loc": "London, England",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-09-13 02:50"
     },
     {
         "title": "Stage Data Analyst - Paris (H/F/X)",
@@ -45,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-12 21:54"
+        "timestamp": "2026-09-13 02:50"
     },
     {
         "title": "Senior Software Engineer",
@@ -57,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-12 21:54"
+        "timestamp": "2026-09-13 02:50"
     },
     {
         "title": "Senior Data Analyst",
@@ -69,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 90,
-        "timestamp": "2026-09-12 21:54"
+        "timestamp": "2026-09-13 02:50"
     },
     {
         "title": "Stage Data Analyst - Paris (H/F/X)",
@@ -81,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-12 21:54"
+        "timestamp": "2026-09-13 02:50"
     },
     {
         "title": "Senior Data Analyst",
@@ -93,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 90,
-        "timestamp": "2026-09-12 21:54"
+        "timestamp": "2026-09-13 02:50"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -105,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-12 21:54"
+        "timestamp": "2026-09-13 02:50"
     },
     {
         "title": "Senior Data Engineer",
@@ -117,6 +153,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-12 21:54"
+        "timestamp": "2026-09-13 02:50"
     }
 ]
