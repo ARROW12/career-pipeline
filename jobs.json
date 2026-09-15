@@ -1,207 +1,123 @@
 [
     {
-        "title": "Senior Analytics Engineer",
-        "company": "sonyinteractiveentertainmentglobal",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/senior-analytics-engineer-london-17331",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-09-15 03:06"
-    },
-    {
-        "title": "Data Scientist - Forecasting",
-        "company": "sonyinteractiveentertainmentglobal",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/data-scientist-forecasting-london-119239",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-09-15 03:06"
-    },
-    {
-        "title": "Data Engineer (12 month Fixed term Contract)",
-        "company": "sonyinteractiveentertainmentglobal",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/data-engineer-12-month-fixed-term-contract-london-337055",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-09-15 03:06"
-    },
-    {
-        "title": "Senior Data Analyst",
-        "company": "Midnite",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/midnite/senior-data-analyst-united-kingdom-396844",
-        "loc": "United Kingdom",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-15 03:06"
-    },
-    {
-        "title": "Staff Software Engineer - Backend",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/staff-software-engineer-backend-london-339452",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 60,
-        "timestamp": "2026-09-15 03:06"
-    },
-    {
-        "title": "Solutions Architect - Lakebase",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/solutions-architect-lakebase-london-440773",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 75,
-        "timestamp": "2026-09-15 03:06"
-    },
-    {
-        "title": "Solutions Architect",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/solutions-architect-london-363313",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 75,
-        "timestamp": "2026-09-15 03:06"
-    },
-    {
-        "title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-staff-software-engineer-unity-catalog-runtime-enforcement-london-332986",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 50,
-        "timestamp": "2026-09-15 03:06"
-    },
-    {
-        "title": "Senior Specialist Solutions Architect (AI/ML)",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-specialist-solutions-architect-ai-ml-london-129678",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-09-15 03:06"
-    },
-    {
-        "title": "Senior Solutions Engineer (Technical, Presales, Data & AI, DNB)",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-solutions-engineer-technical-presales-data-ai-dnb-london-215738",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 99,
-        "timestamp": "2026-09-15 03:06"
-    },
-    {
-        "title": "Senior Solutions Engineer (Manufacturing, Automotive, Defence)",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-solutions-engineer-manufacturing-automotive-defence-london-40904",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 99,
-        "timestamp": "2026-09-15 03:06"
-    },
-    {
-        "title": "Senior Solutions Architect (Enterprise Accounts)",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-solutions-architect-enterprise-accounts-london-284194",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 83,
-        "timestamp": "2026-09-15 03:06"
-    },
-    {
-        "title": "Senior Forward Deployed Engineering - Architect",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-forward-deployed-engineering-architect-london-376949",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-09-15 03:06"
-    },
-    {
-        "title": "Lead Solutions Architect  - Strategic Customers",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/lead-solutions-architect-strategic-customers-london-432997",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 83,
-        "timestamp": "2026-09-15 03:06"
-    },
-    {
-        "title": "Infrastructure & Platform Specialist Solutions Architect (SSA)",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/infrastructure-platform-specialist-solutions-architect-ssa-london-453776",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 92,
-        "timestamp": "2026-09-15 03:06"
-    },
-    {
-        "title": "Delivery Solutions Architect",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/delivery-solutions-architect-london-109924",
-        "loc": "London",
+        "title": "Senior Software Engineer (m/w/d) | Fullstack f\u00fcr KI-Produkte",
+        "company": "Avenit Ag",
+        "url": "https://www.arbeitnow.com/jobs/companies/avenit-ag/remote-senior-software-engineer-fullstack-fur-ki-produkte-38098",
+        "loc": "Remote in Deutschland",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-15 03:06"
+        "timestamp": "2026-09-15 09:08"
     },
     {
-        "title": "AI Engineer - FDE (Forward Deployed Engineer)",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/ai-engineer-fde-forward-deployed-engineer-london-232474",
+        "title": "Senior DevOps Engineer (all genders) | Data Platform",
+        "company": "Real Digital",
+        "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-devops-engineer-all-genders-data-platform-245703",
+        "loc": "Remote oder K\u00f6ln / Darmstadt / D\u00fcsseldorf / Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 84,
+        "timestamp": "2026-09-15 09:08"
+    },
+    {
+        "title": "Senior Software Engineer (Managed PostgreSQL)",
+        "company": "Nebius",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-software-engineer-managed-postgresql-429633",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 50,
+        "timestamp": "2026-09-15 09:08"
+    },
+    {
+        "title": "Senior Software Engineer (Data Platform, C++)",
+        "company": "Nebius",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-software-engineer-data-platform-c-london-46375",
         "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-09-15 03:06"
+        "tejas_score": 54,
+        "timestamp": "2026-09-15 09:08"
+    },
+    {
+        "title": "Staff Data Engineer",
+        "company": "Bazaarvoice",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/bazaarvoice/staff-data-engineer-belfast-272357",
+        "loc": "Belfast",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 85,
+        "timestamp": "2026-09-15 09:08"
+    },
+    {
+        "title": "Senior Staff Software Engineer",
+        "company": "Bazaarvoice",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/bazaarvoice/senior-staff-software-engineer-belfast-303335",
+        "loc": "Belfast",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-09-15 09:08"
+    },
+    {
+        "title": "Staff Engineer \u2014 Data Platform",
+        "company": "Yuno",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/yuno/staff-engineer-data-platform-london-429735",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 84,
+        "timestamp": "2026-09-15 09:08"
+    },
+    {
+        "title": "Engineering Manager \u2013 Data Platform",
+        "company": "Yuno",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/yuno/engineering-manager-data-platform-london-124714",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 84,
+        "timestamp": "2026-09-15 09:08"
+    },
+    {
+        "title": "Senior Data Scientist",
+        "company": "capco",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/senior-data-scientist-456207",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 54,
+        "timestamp": "2026-09-15 09:08"
+    },
+    {
+        "title": "Senior Data Engineer - AWS",
+        "company": "capco",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/senior-data-engineer-aws-263834",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 73,
+        "timestamp": "2026-09-15 09:08"
     },
     {
         "title": "Senior Analytical Engineer",
@@ -213,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-15 03:06"
+        "timestamp": "2026-09-15 09:08"
     },
     {
         "title": "Staff Software Engineer",
@@ -225,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-15 03:06"
+        "timestamp": "2026-09-15 09:08"
     },
     {
         "title": "Senior Data Engineer - Real time analytics",
@@ -237,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-09-15 03:06"
+        "timestamp": "2026-09-15 09:08"
     },
     {
         "title": "Senior Data Engineer - Real time analytics",
@@ -249,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-09-15 03:06"
+        "timestamp": "2026-09-15 09:08"
     },
     {
         "title": "Senior Python / Agentic AI Engineer H/F",
@@ -261,7 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 58,
-        "timestamp": "2026-09-15 03:06"
+        "timestamp": "2026-09-15 09:08"
     },
     {
         "title": "Analytics Engineer - Finance",
@@ -273,7 +189,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 60,
-        "timestamp": "2026-09-15 03:06"
+        "timestamp": "2026-09-15 09:08"
     },
     {
         "title": "Stage Software Engineer - Paris - H/F/X",
@@ -285,7 +201,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-15 03:06"
+        "timestamp": "2026-09-15 09:08"
     },
     {
         "title": "Stage Data Analyst - Paris (H/F/X)",
@@ -297,7 +213,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-15 03:06"
+        "timestamp": "2026-09-15 09:08"
     },
     {
         "title": "Senior Software Engineer",
@@ -309,7 +225,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-15 03:06"
+        "timestamp": "2026-09-15 09:08"
     },
     {
         "title": "Senior Data Analyst",
@@ -321,7 +237,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 90,
-        "timestamp": "2026-09-15 03:06"
+        "timestamp": "2026-09-15 09:08"
     },
     {
         "title": "Forward Deployed Engineer, France/Nordics",
@@ -333,7 +249,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-15 03:06"
+        "timestamp": "2026-09-15 09:08"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -345,7 +261,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-15 03:06"
+        "timestamp": "2026-09-15 09:08"
     },
     {
         "title": "Senior Data Engineer",
@@ -357,6 +273,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-15 03:06"
+        "timestamp": "2026-09-15 09:08"
     }
 ]
