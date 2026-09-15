@@ -1,123 +1,75 @@
 [
     {
-        "title": "Senior Software Engineer (m/w/d) | Fullstack f\u00fcr KI-Produkte",
-        "company": "Avenit Ag",
-        "url": "https://www.arbeitnow.com/jobs/companies/avenit-ag/remote-senior-software-engineer-fullstack-fur-ki-produkte-38098",
-        "loc": "Remote in Deutschland",
+        "title": "Senior DevOps / Platform Engineer, AI Infrastructure (m/f/x)",
+        "company": "MAIA",
+        "url": "https://www.arbeitnow.com/jobs/companies/maia/senior-devops-platform-engineer-ai-infrastructure-leipzig-223621",
+        "loc": "Leipzig",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-15 09:08"
+        "tejas_score": 46,
+        "timestamp": "2026-09-15 16:07"
     },
     {
-        "title": "Senior DevOps Engineer (all genders) | Data Platform",
-        "company": "Real Digital",
-        "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-devops-engineer-all-genders-data-platform-245703",
-        "loc": "Remote oder K\u00f6ln / Darmstadt / D\u00fcsseldorf / Berlin",
+        "title": "Senior DevOps / Platform Engineer, AI Infrastructure (m/w/d)",
+        "company": "MAIA",
+        "url": "https://www.arbeitnow.com/jobs/companies/maia/senior-devops-platform-engineer-ai-infrastructure-leipzig-241297",
+        "loc": "Leipzig",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-09-15 16:07"
+    },
+    {
+        "title": "Senior Software Engineer - Clickpipes (CDC/Streaming)",
+        "company": "Clickhouse",
+        "url": "https://www.arbeitnow.com/jobs/companies/clickhouse/senior-software-engineer-clickpipes-cdc-streaming-germany-68075",
+        "loc": "Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-09-15 16:07"
+    },
+    {
+        "title": "Senior Software Engineer - Integrations - AI/ML",
+        "company": "Clickhouse",
+        "url": "https://www.arbeitnow.com/jobs/companies/clickhouse/senior-software-engineer-integrations-ai-ml-germany-275597",
+        "loc": "Germany",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-09-15 09:08"
+        "timestamp": "2026-09-15 16:07"
     },
     {
-        "title": "Senior Software Engineer (Managed PostgreSQL)",
-        "company": "Nebius",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-software-engineer-managed-postgresql-429633",
-        "loc": "Remote",
+        "title": "Senior Software Engineer, ML Infrastructure",
+        "company": "Roku",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-software-engineer-ml-infrastructure-cambridge-142812",
+        "loc": "Cambridge",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 50,
-        "timestamp": "2026-09-15 09:08"
+        "tejas_score": 76,
+        "timestamp": "2026-09-15 16:07"
     },
     {
-        "title": "Senior Software Engineer (Data Platform, C++)",
-        "company": "Nebius",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-software-engineer-data-platform-c-london-46375",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 54,
-        "timestamp": "2026-09-15 09:08"
-    },
-    {
-        "title": "Staff Data Engineer",
-        "company": "Bazaarvoice",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/bazaarvoice/staff-data-engineer-belfast-272357",
+        "title": "Principal Data Engineer",
+        "company": "Blackduck",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/blackduck/principal-data-engineer-belfast-249456",
         "loc": "Belfast",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 85,
-        "timestamp": "2026-09-15 09:08"
-    },
-    {
-        "title": "Senior Staff Software Engineer",
-        "company": "Bazaarvoice",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/bazaarvoice/senior-staff-software-engineer-belfast-303335",
-        "loc": "Belfast",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-15 09:08"
-    },
-    {
-        "title": "Staff Engineer \u2014 Data Platform",
-        "company": "Yuno",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/yuno/staff-engineer-data-platform-london-429735",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 84,
-        "timestamp": "2026-09-15 09:08"
-    },
-    {
-        "title": "Engineering Manager \u2013 Data Platform",
-        "company": "Yuno",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/yuno/engineering-manager-data-platform-london-124714",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 84,
-        "timestamp": "2026-09-15 09:08"
-    },
-    {
-        "title": "Senior Data Scientist",
-        "company": "capco",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/senior-data-scientist-456207",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 54,
-        "timestamp": "2026-09-15 09:08"
-    },
-    {
-        "title": "Senior Data Engineer - AWS",
-        "company": "capco",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/senior-data-engineer-aws-263834",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 73,
-        "timestamp": "2026-09-15 09:08"
+        "tejas_score": 45,
+        "timestamp": "2026-09-15 16:07"
     },
     {
         "title": "Senior Analytical Engineer",
@@ -129,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-15 09:08"
+        "timestamp": "2026-09-15 16:07"
     },
     {
         "title": "Staff Software Engineer",
@@ -141,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-15 09:08"
+        "timestamp": "2026-09-15 16:07"
     },
     {
         "title": "Senior Data Engineer - Real time analytics",
@@ -153,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-09-15 09:08"
+        "timestamp": "2026-09-15 16:07"
     },
     {
         "title": "Senior Data Engineer - Real time analytics",
@@ -165,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-09-15 09:08"
+        "timestamp": "2026-09-15 16:07"
     },
     {
         "title": "Senior Python / Agentic AI Engineer H/F",
@@ -177,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 58,
-        "timestamp": "2026-09-15 09:08"
+        "timestamp": "2026-09-15 16:07"
     },
     {
         "title": "Analytics Engineer - Finance",
@@ -189,67 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 60,
-        "timestamp": "2026-09-15 09:08"
-    },
-    {
-        "title": "Stage Software Engineer - Paris - H/F/X",
-        "company": "Artefactjobs",
-        "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/stage-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-336556",
-        "loc": "9th arrondissement of Paris, 75009, Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-09-15 09:08"
-    },
-    {
-        "title": "Stage Data Analyst - Paris (H/F/X)",
-        "company": "Artefactjobs",
-        "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/stage-data-analyst-paris-9th-arrondissement-of-paris-75009-paris-302545",
-        "loc": "9th arrondissement of Paris, 75009, Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-15 09:08"
-    },
-    {
-        "title": "Senior Software Engineer",
-        "company": "Artefactjobs",
-        "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/senior-software-engineer-9th-arrondissement-of-paris-75009-paris-62444",
-        "loc": "9th arrondissement of Paris, 75009, Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-15 09:08"
-    },
-    {
-        "title": "Senior Data Analyst",
-        "company": "Artefactjobs",
-        "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/senior-data-analyst-9th-arrondissement-of-paris-75009-paris-423305",
-        "loc": "9th arrondissement of Paris, 75009, Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 90,
-        "timestamp": "2026-09-15 09:08"
-    },
-    {
-        "title": "Forward Deployed Engineer, France/Nordics",
-        "company": "Telnyx54",
-        "url": "https://www.arbeitnow.fr/jobs/companies/telnyx54/forward-deployed-engineer-france-nordics-paris-391173",
-        "loc": "Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-15 09:08"
+        "timestamp": "2026-09-15 16:07"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -261,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-15 09:08"
+        "timestamp": "2026-09-15 16:07"
     },
     {
         "title": "Senior Data Engineer",
@@ -273,6 +165,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-15 09:08"
+        "timestamp": "2026-09-15 16:07"
     }
 ]
