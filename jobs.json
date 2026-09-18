@@ -1,171 +1,39 @@
 [
     {
-        "title": "Data Platform Engineer",
-        "company": "sumup",
-        "url": "https://www.arbeitnow.com/jobs/companies/sumup/data-platform-engineer-berlin-376146",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-09-18 15:43"
-    },
-    {
-        "title": "Senior Marketing Data Analyst Pricing (all genders)",
-        "company": "hellofresh",
-        "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-marketing-data-analyst-pricing-all-genders-berlin-berlin-194706",
-        "loc": "Berlin, Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-09-18 15:43"
-    },
-    {
-        "title": "Senior Data Engineer, Analytical Data Platform, Inteligent Platforms (all genders)",
-        "company": "hellofresh",
-        "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-data-engineer-analytical-data-platform-inteligent-platforms-all-genders-berlin-berlin-207118",
-        "loc": "Berlin, Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 99,
-        "timestamp": "2026-09-18 15:43"
-    },
-    {
-        "title": "Principal Engineer, Growth Mega Alliance (all genders)",
-        "company": "hellofresh",
-        "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/principal-engineer-growth-mega-alliance-all-genders-berlin-berlin-417328",
-        "loc": "Berlin, Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-18 15:43"
-    },
-    {
-        "title": "Junior Data Engineer",
-        "company": "Flix",
-        "url": "https://www.arbeitnow.com/jobs/companies/flix/junior-data-engineer-berlin-484779",
-        "loc": "Berlin, Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-18 15:43"
-    },
-    {
-        "title": "Platform Engineer",
-        "company": "Akunacapital",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/akunacapital/platform-engineer-london-436490",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 54,
-        "timestamp": "2026-09-18 15:43"
-    },
-    {
-        "title": "Software Development Engineers in Test (Python)",
-        "company": "Xm",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/xm/remote-software-development-engineers-in-test-python-2361",
+        "title": "Senior/Staff Data Analyst, Storefront",
+        "company": "Quince",
+        "url": "https://www.arbeitnow.com/jobs/companies/quince/senior-staff-data-analyst-storefront-42526",
         "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 50,
-        "timestamp": "2026-09-18 15:43"
+        "tejas_score": 45,
+        "timestamp": "2026-09-18 18:49"
     },
     {
-        "title": "Site Reliability Engineers (SRE)",
-        "company": "Xm",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/xm/remote-site-reliability-engineers-sre-134292",
-        "loc": "Remote",
+        "title": "Forward Deployed Engineer - Infrastructure",
+        "company": "Thought Machine",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/thought-machine/forward-deployed-engineer-infrastructure-london-408817",
+        "loc": "United Kingdom, London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-09-18 15:43"
+        "tejas_score": 53,
+        "timestamp": "2026-09-18 18:49"
     },
     {
-        "title": "Software/Data Engineer",
-        "company": "Prima",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/prima/software-data-engineer-london-198004",
-        "loc": "London",
+        "title": "Power Grid Analyst (Data Centres and Industrials)",
+        "company": "Octopus Energy Group",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/power-grid-analyst-data-centres-and-industrials-london-gb-417653",
+        "loc": "London (GB)",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-09-18 15:43"
-    },
-    {
-        "title": "Senior Sales Engineer",
-        "company": "Artemis",
-        "url": "https://www.arbeitnow.fr/jobs/companies/artemis/remote-senior-sales-engineer-332667",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-18 15:43"
-    },
-    {
-        "title": "Manager Data Analyst - Casablanca",
-        "company": "Artefactlinkedin",
-        "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/manager-data-analyst-casablanca-9th-arrondissement-of-paris-75009-paris-480202",
-        "loc": "9th arrondissement of Paris, 75009, Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-18 15:43"
-    },
-    {
-        "title": "Lead Software Engineer - Paris",
-        "company": "Artefactlinkedin",
-        "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/lead-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-426472",
-        "loc": "9th arrondissement of Paris, 75009, Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-18 15:43"
-    },
-    {
-        "title": "Data Analytics Manager",
-        "company": "Artefactlinkedin",
-        "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/data-analytics-manager-9th-arrondissement-of-paris-75009-paris-127625",
-        "loc": "9th arrondissement of Paris, 75009, Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 90,
-        "timestamp": "2026-09-18 15:43"
-    },
-    {
-        "title": "Senior Backend Engineer | Cybersecurity AI AppSec",
-        "company": "Escape",
-        "url": "https://www.arbeitnow.fr/jobs/companies/escape/senior-backend-engineer-cybersecurity-ai-appsec-paris-30162",
-        "loc": "Paris Office",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-09-18 15:43"
+        "timestamp": "2026-09-18 18:49"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -177,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-18 15:43"
+        "timestamp": "2026-09-18 18:49"
     },
     {
         "title": "Senior Data Engineer",
@@ -189,6 +57,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-18 15:43"
+        "timestamp": "2026-09-18 18:49"
     }
 ]
