@@ -1,39 +1,39 @@
 [
     {
-        "title": "Senior/Staff Data Analyst, Storefront",
-        "company": "Quince",
-        "url": "https://www.arbeitnow.com/jobs/companies/quince/senior-staff-data-analyst-storefront-42526",
-        "loc": "Remote",
+        "title": "Software Engineer II",
+        "company": "Axon",
+        "url": "https://www.arbeitnow.com/jobs/companies/axon/software-engineer-ii-kassel-hesse-311769",
+        "loc": "Kassel, Hesse",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-18 18:49"
+        "timestamp": "2026-09-18 22:12"
     },
     {
-        "title": "Forward Deployed Engineer - Infrastructure",
-        "company": "Thought Machine",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/thought-machine/forward-deployed-engineer-infrastructure-london-408817",
-        "loc": "United Kingdom, London",
+        "title": "Data Platform Engineer (m/w/d)",
+        "company": "ANGEHEUERT GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/data-platform-engineer-berlin-253234",
+        "loc": "Berlin, Berlin, Deutschland",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-18 18:49"
+        "timestamp": "2026-09-18 22:12"
     },
     {
-        "title": "Power Grid Analyst (Data Centres and Industrials)",
-        "company": "Octopus Energy Group",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/power-grid-analyst-data-centres-and-industrials-london-gb-417653",
-        "loc": "London (GB)",
+        "title": "Senior Data Engineer (m/w/d)",
+        "company": "ANGEHEUERT GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/senior-data-engineer-berlin-498016",
+        "loc": "Berlin, Berlin, Deutschland",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 84,
-        "timestamp": "2026-09-18 18:49"
+        "tejas_score": 53,
+        "timestamp": "2026-09-18 22:12"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -45,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-18 18:49"
+        "timestamp": "2026-09-18 22:12"
     },
     {
         "title": "Senior Data Engineer",
@@ -57,6 +57,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-18 18:49"
+        "timestamp": "2026-09-18 22:12"
     }
 ]
