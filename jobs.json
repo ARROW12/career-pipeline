@@ -9,19 +9,55 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-19 02:52"
+        "timestamp": "2026-09-19 08:28"
     },
     {
-        "title": "Software Engineer II",
-        "company": "Axon",
-        "url": "https://www.arbeitnow.com/jobs/companies/axon/software-engineer-ii-kassel-hesse-311769",
-        "loc": "Kassel, Hesse",
+        "title": "Senior Analytics Engineer",
+        "company": "remotewoman",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/remotewoman/remote-senior-analytics-engineer-455638",
+        "loc": "Remote \u2022 France, Germany",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-19 02:52"
+        "tejas_score": 68,
+        "timestamp": "2026-09-19 08:28"
+    },
+    {
+        "title": "Senior Solutions Engineer",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-solutions-engineer-london-406972",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 99,
+        "timestamp": "2026-09-19 08:28"
+    },
+    {
+        "title": "Senior Solutions Architect (Data & AI)",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-solutions-architect-data-ai-467428",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 91,
+        "timestamp": "2026-09-19 08:28"
+    },
+    {
+        "title": "Delivery Solutions Architect",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/delivery-solutions-architect-london-46496",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 60,
+        "timestamp": "2026-09-19 08:28"
     },
     {
         "title": "Senior AI Product Engineer",
@@ -33,43 +69,67 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-19 02:52"
+        "timestamp": "2026-09-19 08:28"
     },
     {
-        "title": "AI Engineer",
-        "company": "commercetools",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/commercetools/ai-engineer-london-411682",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-19 02:52"
-    },
-    {
-        "title": "Staff Backend Engineer - Grafana Second Horizon | UK | Remote",
-        "company": "grafanalabs",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/staff-backend-engineer-grafana-second-horizon-uk-remote-382343",
+        "title": "Principal Infrastructure Engineer",
+        "company": "Sezzle",
+        "url": "https://www.arbeitnow.fr/jobs/companies/sezzle/remote-principal-infrastructure-engineer-376229",
         "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-19 02:52"
+        "tejas_score": 61,
+        "timestamp": "2026-09-19 08:28"
     },
     {
-        "title": "Data Platform Engineer",
-        "company": "Qonto",
-        "url": "https://www.arbeitnow.fr/jobs/companies/qonto/data-platform-engineer-paris-202815",
+        "title": "Senior Cloud Ops Engineer (AWS/GCP)",
+        "company": "Decathlontechnology",
+        "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/senior-cloud-ops-engineer-aws-gcp-lille-btwin-village-nord-paris-paris-223741",
+        "loc": "Lille - Btwin Village, Nord; Paris, Paris",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 58,
+        "timestamp": "2026-09-19 08:28"
+    },
+    {
+        "title": "Full Stack Analytics - Digital Unit Sports (f/m/d)",
+        "company": "Decathlontechnology",
+        "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/full-stack-analytics-digital-unit-sports-lille-btwin-village-nord-248174",
+        "loc": "Lille - Btwin Village, Nord",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 99,
+        "timestamp": "2026-09-19 08:28"
+    },
+    {
+        "title": "Data Engineer Confirmed - Core Data Product(f/m/d)",
+        "company": "Decathlontechnology",
+        "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/data-engineer-confirmed-core-data-product-paris-paris-villeneuve-dascq-nord-351322",
+        "loc": "Paris, Paris; Villeneuve-d'Ascq, Nord",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 99,
+        "timestamp": "2026-09-19 08:28"
+    },
+    {
+        "title": "Business Intelligence Engineer Intern \u2014 Ops Excellence",
+        "company": "Bigblue",
+        "url": "https://www.arbeitnow.fr/jobs/companies/bigblue/business-intelligence-engineer-intern-ops-excellence-paris-401122",
         "loc": "Paris",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-09-19 02:52"
+        "tejas_score": 53,
+        "timestamp": "2026-09-19 08:28"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -81,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-19 02:52"
+        "timestamp": "2026-09-19 08:28"
     },
     {
         "title": "Senior Data Engineer",
@@ -93,6 +153,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-19 02:52"
+        "timestamp": "2026-09-19 08:28"
     }
 ]
