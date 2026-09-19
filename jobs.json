@@ -1,5 +1,17 @@
 [
     {
+        "title": "Langfuse - Senior Product Engineer",
+        "company": "Clickhouse",
+        "url": "https://www.arbeitnow.com/jobs/companies/clickhouse/langfuse-senior-product-engineer-germany-165284",
+        "loc": "Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-09-19 02:52"
+    },
+    {
         "title": "Software Engineer II",
         "company": "Axon",
         "url": "https://www.arbeitnow.com/jobs/companies/axon/software-engineer-ii-kassel-hesse-311769",
@@ -9,31 +21,55 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-18 22:12"
+        "timestamp": "2026-09-19 02:52"
     },
     {
-        "title": "Data Platform Engineer (m/w/d)",
-        "company": "ANGEHEUERT GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/data-platform-engineer-berlin-253234",
-        "loc": "Berlin, Berlin, Deutschland",
+        "title": "Senior AI Product Engineer",
+        "company": "Elliptic",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/elliptic/senior-ai-product-engineer-london-united-kingdom-45038",
+        "loc": "London, United Kingdom",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-09-19 02:52"
+    },
+    {
+        "title": "AI Engineer",
+        "company": "commercetools",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/commercetools/ai-engineer-london-411682",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-18 22:12"
+        "timestamp": "2026-09-19 02:52"
     },
     {
-        "title": "Senior Data Engineer (m/w/d)",
-        "company": "ANGEHEUERT GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/senior-data-engineer-berlin-498016",
-        "loc": "Berlin, Berlin, Deutschland",
+        "title": "Staff Backend Engineer - Grafana Second Horizon | UK | Remote",
+        "company": "grafanalabs",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/staff-backend-engineer-grafana-second-horizon-uk-remote-382343",
+        "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-18 22:12"
+        "timestamp": "2026-09-19 02:52"
+    },
+    {
+        "title": "Data Platform Engineer",
+        "company": "Qonto",
+        "url": "https://www.arbeitnow.fr/jobs/companies/qonto/data-platform-engineer-paris-202815",
+        "loc": "Paris",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-09-19 02:52"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -45,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-18 22:12"
+        "timestamp": "2026-09-19 02:52"
     },
     {
         "title": "Senior Data Engineer",
@@ -57,6 +93,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-18 22:12"
+        "timestamp": "2026-09-19 02:52"
     }
 ]
