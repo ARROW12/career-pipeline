@@ -1,15 +1,39 @@
 [
     {
-        "title": "Backend Engineer - Agentic AI (m/w/d)",
-        "company": "Getpress Gmbh",
-        "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-backend-engineer-agentic-ai-berlin-107711",
-        "loc": "Berlin",
+        "title": "Senior DevOps Engineer (all genders) | Data Platform",
+        "company": "Real Digital",
+        "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-devops-engineer-all-genders-data-platform-16527",
+        "loc": "Remote oder K\u00f6ln / Darmstadt / D\u00fcsseldorf / Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 84,
+        "timestamp": "2026-09-19 18:21"
+    },
+    {
+        "title": "Junior Data Engineer",
+        "company": "Reeeliance",
+        "url": "https://www.arbeitnow.com/jobs/companies/reeeliance/junior-data-engineer-hamburg-63055",
+        "loc": "Hamburg",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-19 15:14"
+        "timestamp": "2026-09-19 18:21"
+    },
+    {
+        "title": "Data Engineer",
+        "company": "prolific",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-data-engineer-73233",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-09-19 18:21"
     },
     {
         "title": "Senior Analytics Engineer",
@@ -21,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-19 15:14"
+        "timestamp": "2026-09-19 18:21"
     },
     {
         "title": "Senior Solutions Engineer",
@@ -33,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 99,
-        "timestamp": "2026-09-19 15:14"
+        "timestamp": "2026-09-19 18:21"
     },
     {
         "title": "Senior Solutions Architect (Data & AI)",
@@ -45,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-19 15:14"
+        "timestamp": "2026-09-19 18:21"
     },
     {
         "title": "Delivery Solutions Architect",
@@ -57,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 60,
-        "timestamp": "2026-09-19 15:14"
+        "timestamp": "2026-09-19 18:21"
     },
     {
         "title": "Staff Backend Engineer, Integrations",
@@ -69,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-19 15:14"
+        "timestamp": "2026-09-19 18:21"
     },
     {
         "title": "Principal Infrastructure Engineer",
@@ -81,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-19 15:14"
+        "timestamp": "2026-09-19 18:21"
     },
     {
         "title": "Senior Cloud Ops Engineer (AWS/GCP)",
@@ -93,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 58,
-        "timestamp": "2026-09-19 15:14"
+        "timestamp": "2026-09-19 18:21"
     },
     {
         "title": "Full Stack Analytics - Digital Unit Sports (f/m/d)",
@@ -105,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 99,
-        "timestamp": "2026-09-19 15:14"
+        "timestamp": "2026-09-19 18:21"
     },
     {
         "title": "Data Engineer Confirmed - Core Data Product(f/m/d)",
@@ -117,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 99,
-        "timestamp": "2026-09-19 15:14"
+        "timestamp": "2026-09-19 18:21"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -129,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-19 15:14"
+        "timestamp": "2026-09-19 18:21"
     },
     {
         "title": "Senior Data Engineer",
@@ -141,6 +165,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-19 15:14"
+        "timestamp": "2026-09-19 18:21"
     }
 ]
