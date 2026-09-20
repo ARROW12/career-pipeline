@@ -1,5 +1,101 @@
 [
     {
+        "title": "ML Data Engineer (m/f/d) - Sensor Data & Pipelines",
+        "company": "autonomous-teaming",
+        "url": "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/ml-data-engineer-sensor-data-pipelines-munich-deu-456196",
+        "loc": "Munich (DEU)",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-09-20 15:19"
+    },
+    {
+        "title": "Data Platform Engineer Working Student (m/w/d)",
+        "company": "Trusteq Gmbh",
+        "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-platform-engineer-working-student-munchen-15969",
+        "loc": "M\u00fcnchen",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 83,
+        "timestamp": "2026-09-20 15:19"
+    },
+    {
+        "title": "Principal Infrastructure Engineer",
+        "company": "Sezzle",
+        "url": "https://www.arbeitnow.com/jobs/companies/sezzle/remote-principal-infrastructure-engineer-320329",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-09-20 15:19"
+    },
+    {
+        "title": "Software Engineer (all levels) - Core Technology",
+        "company": "Aisi",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/aisi/software-engineer-all-levels-core-technology-london-342178",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-09-20 15:19"
+    },
+    {
+        "title": "Software Engineer, GenAI Platform",
+        "company": "Deliveroo",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-genai-platform-london-481615",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-09-20 15:19"
+    },
+    {
+        "title": "Software Engineer, Backend (BI Platform)",
+        "company": "Deliveroo",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-backend-bi-platform-london-345210",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-09-20 15:19"
+    },
+    {
+        "title": "Senior Software Engineer, Proactive Security",
+        "company": "Deliveroo",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-software-engineer-proactive-security-london-352517",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-09-20 15:19"
+    },
+    {
+        "title": "Senior Platform Engineer, Developer Platform",
+        "company": "Deliveroo",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-platform-engineer-developer-platform-london-324896",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-09-20 15:19"
+    },
+    {
         "title": "Senior DevOps Engineer",
         "company": "Lemon.io",
         "url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2091099",
@@ -9,18 +105,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-20 08:59"
-    },
-    {
-        "title": "Senior Data Engineer",
-        "company": "Lemon.io",
-        "url": "https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097",
-        "loc": "LATAM, Europe, USA, Canada, APAC",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 91,
-        "timestamp": "2026-09-20 08:59"
+        "timestamp": "2026-09-20 15:19"
     }
 ]
