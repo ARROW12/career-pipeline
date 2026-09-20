@@ -1,5 +1,17 @@
 [
     {
+        "title": "Senior Business Intelligence Lead (all genders)",
+        "company": "Reev",
+        "url": "https://www.arbeitnow.com/jobs/companies/reev/senior-business-intelligence-lead-all-genders-munchen-80998",
+        "loc": "M\u00fcnchen",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-09-20 18:26"
+    },
+    {
         "title": "ML Data Engineer (m/f/d) - Sensor Data & Pipelines",
         "company": "autonomous-teaming",
         "url": "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/ml-data-engineer-sensor-data-pipelines-munich-deu-456196",
@@ -9,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-20 15:19"
+        "timestamp": "2026-09-20 18:26"
     },
     {
         "title": "Data Platform Engineer Working Student (m/w/d)",
@@ -21,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 83,
-        "timestamp": "2026-09-20 15:19"
+        "timestamp": "2026-09-20 18:26"
     },
     {
         "title": "Principal Infrastructure Engineer",
@@ -33,7 +45,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-20 15:19"
+        "timestamp": "2026-09-20 18:26"
+    },
+    {
+        "title": "Full Stack Engineer, Contract",
+        "company": "66Degrees",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/66degrees/full-stack-engineer-contract-218844",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-09-20 18:26"
+    },
+    {
+        "title": "Senior DevOps Engineer",
+        "company": "Xyz Reality",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/xyz-reality/senior-devops-engineer-london-22911",
+        "loc": "London Office",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-09-20 18:26"
     },
     {
         "title": "Software Engineer (all levels) - Core Technology",
@@ -45,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-20 15:19"
+        "timestamp": "2026-09-20 18:26"
     },
     {
         "title": "Software Engineer, GenAI Platform",
@@ -57,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-20 15:19"
+        "timestamp": "2026-09-20 18:26"
     },
     {
         "title": "Software Engineer, Backend (BI Platform)",
@@ -69,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-20 15:19"
+        "timestamp": "2026-09-20 18:26"
     },
     {
         "title": "Senior Software Engineer, Proactive Security",
@@ -81,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-20 15:19"
+        "timestamp": "2026-09-20 18:26"
     },
     {
         "title": "Senior Platform Engineer, Developer Platform",
@@ -93,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-20 15:19"
+        "timestamp": "2026-09-20 18:26"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -105,6 +141,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-20 15:19"
+        "timestamp": "2026-09-20 18:26"
     }
 ]
