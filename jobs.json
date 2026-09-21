@@ -1,75 +1,111 @@
 [
     {
-        "title": "Senior Software Engineer \u2013 IT Risk & Pricing (m/f/d)",
-        "company": "Auxmoney Gmbh",
-        "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-software-engineer-it-risk-pricing-89515",
-        "loc": "Remote / D\u00fcsseldorf",
+        "title": "AI Engineer (m/w/d)",
+        "company": "adorsys GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/adorsys-gmbh/ai-engineer-nurnberg-133535",
+        "loc": "N\u00fcrnberg",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-09-21 22:57"
+    },
+    {
+        "title": "Senior Software Engineer \u2013 Live & VOD Video Infrastructure",
+        "company": "Roku",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-software-engineer-live-vod-video-infrastructure-cambridge-300254",
+        "loc": "Cambridge",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-21 17:44"
+        "timestamp": "2026-09-21 22:57"
     },
     {
-        "title": "Senior Enterprise Solution Architect",
-        "company": "Cyber Insight GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/cyber-insight-gmbh/senior-enterprise-solution-architect-leipzig-262285",
-        "loc": "Leipzig",
+        "title": "Senior Software Engineer in Test, Python",
+        "company": "Roku",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-software-engineer-in-test-python-cambridge-85395",
+        "loc": "Cambridge",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-09-21 17:44"
+        "tejas_score": 73,
+        "timestamp": "2026-09-21 22:57"
     },
     {
-        "title": "London - Senior ML Ops Engineer (Experiences)",
-        "company": "tripadvisor",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/tripadvisor/london-senior-ml-ops-engineer-experiences-18118",
-        "loc": "Remote",
+        "title": "Senior Software Engineer, AD Serving",
+        "company": "Roku",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-software-engineer-ad-serving-manchester-235061",
+        "loc": "Manchester",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 54,
-        "timestamp": "2026-09-21 17:44"
+        "tejas_score": 45,
+        "timestamp": "2026-09-21 22:57"
     },
     {
-        "title": "Forward Deployed Engineering - Senior Architect",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/forward-deployed-engineering-senior-architect-london-453875",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-09-21 17:44"
-    },
-    {
-        "title": "Forward Deployed Engineer - Emerging Enterprise & DNB",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/forward-deployed-engineer-emerging-enterprise-dnb-london-6238",
-        "loc": "London",
+        "title": "Senior Full Stack Engineer",
+        "company": "Roku",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-full-stack-engineer-cambridge-53877",
+        "loc": "Cambridge",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-21 17:44"
+        "timestamp": "2026-09-21 22:57"
     },
     {
-        "title": "Data Governance Analyst",
-        "company": "wppmedia",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/data-governance-analyst-london-279560",
+        "title": "Senior Data Engineer, Python, Spark",
+        "company": "Roku",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-data-engineer-python-spark-manchester-331277",
+        "loc": "Manchester",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 100,
+        "timestamp": "2026-09-21 22:57"
+    },
+    {
+        "title": "Senior Data Engineer, Python, Spark",
+        "company": "Roku",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-data-engineer-python-spark-cambridge-290960",
+        "loc": "Cambridge",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 100,
+        "timestamp": "2026-09-21 22:57"
+    },
+    {
+        "title": "Senior Backend Engineer \u2014 Distributed Systems (Streaming Platform)",
+        "company": "Roku",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-backend-engineer-distributed-systems-streaming-platform-cambridge-463314",
+        "loc": "Cambridge",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-09-21 22:57"
+    },
+    {
+        "title": "Sr Staff ML Forward Deployed Engineer, Enterprise GenAI",
+        "company": "scaleai",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/scaleai/sr-staff-ml-forward-deployed-engineer-enterprise-genai-london-403189",
         "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-09-21 17:44"
+        "tejas_score": 53,
+        "timestamp": "2026-09-21 22:57"
     },
     {
         "title": "Data Product Manager - Core Data Product (f/m/d)",
@@ -81,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-21 17:44"
+        "timestamp": "2026-09-21 22:57"
     },
     {
         "title": "Data Product Manager - Core Data Product (f/m/d)",
@@ -93,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-21 17:44"
+        "timestamp": "2026-09-21 22:57"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -105,6 +141,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-21 17:44"
+        "timestamp": "2026-09-21 22:57"
     }
 ]
