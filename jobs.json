@@ -1,63 +1,99 @@
 [
     {
-        "title": "DATA ENGINEER*IN (m/w/d)",
-        "company": "Ramp106 Gmbh",
-        "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/data-engineerin-hamburg-367808",
-        "loc": "Hamburg",
+        "title": "Backend Engineer - FinTech",
+        "company": "Andercore",
+        "url": "https://www.arbeitnow.com/jobs/companies/andercore/backend-engineer-fintech-berlin-304555",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-09-21 09:32"
+    },
+    {
+        "title": "Backend Engineer - Supply Chain & Logistics",
+        "company": "Andercore",
+        "url": "https://www.arbeitnow.com/jobs/companies/andercore/backend-engineer-supply-chain-logistics-berlin-369362",
+        "loc": "Berlin",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-21 03:01"
+        "timestamp": "2026-09-21 09:32"
     },
     {
-        "title": "ANALYTICS ENGINEER*IN (m/w/d)",
-        "company": "Ramp106 Gmbh",
-        "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/analytics-engineerin-hamburg-65168",
-        "loc": "Hamburg",
+        "title": "Data Lead (BI & Analytics)",
+        "company": "Andercore",
+        "url": "https://www.arbeitnow.com/jobs/companies/andercore/data-lead-bi-analytics-berlin-235326",
+        "loc": "Berlin",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-21 03:01"
+        "timestamp": "2026-09-21 09:32"
     },
     {
-        "title": "Senior Business Intelligence Lead (all genders)",
-        "company": "Reev",
-        "url": "https://www.arbeitnow.com/jobs/companies/reev/senior-business-intelligence-lead-all-genders-munchen-80998",
-        "loc": "M\u00fcnchen",
+        "title": "Backend Engineer (AI Agents/Workflows)",
+        "company": "Andercore",
+        "url": "https://www.arbeitnow.com/jobs/companies/andercore/backend-engineer-ai-agents-workflows-berlin-446500",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-09-21 09:32"
+    },
+    {
+        "title": "Senior Data Scientist (m/w/d)",
+        "company": "Machine Learning Reply",
+        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/senior-data-scientist-munich-381110",
+        "loc": "Munich, Bayern, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-09-21 09:32"
+    },
+    {
+        "title": "Forward Deployed Engineering - Senior Architect",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/forward-deployed-engineering-senior-architect-london-453875",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-21 03:01"
+        "timestamp": "2026-09-21 09:32"
     },
     {
-        "title": "ML Data Engineer (m/f/d) - Sensor Data & Pipelines",
-        "company": "autonomous-teaming",
-        "url": "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/ml-data-engineer-sensor-data-pipelines-munich-deu-456196",
-        "loc": "Munich (DEU)",
+        "title": "Forward Deployed Engineer - Emerging Enterprise & DNB",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/forward-deployed-engineer-emerging-enterprise-dnb-london-6238",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-21 03:01"
+        "tejas_score": 68,
+        "timestamp": "2026-09-21 09:32"
     },
     {
-        "title": "Data Platform Engineer Working Student (m/w/d)",
-        "company": "Trusteq Gmbh",
-        "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-platform-engineer-working-student-munchen-15969",
-        "loc": "M\u00fcnchen",
+        "title": "Data Governance Analyst",
+        "company": "wppmedia",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/data-governance-analyst-london-279560",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 83,
-        "timestamp": "2026-09-21 03:01"
+        "tejas_score": 68,
+        "timestamp": "2026-09-21 09:32"
     },
     {
         "title": "Full Stack Engineer, Contract",
@@ -69,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-21 03:01"
+        "timestamp": "2026-09-21 09:32"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -81,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-21 03:01"
+        "timestamp": "2026-09-21 09:32"
     },
     {
         "title": "Software Engineer (all levels) - Core Technology",
@@ -93,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-21 03:01"
+        "timestamp": "2026-09-21 09:32"
     },
     {
         "title": "Software Engineer, GenAI Platform",
@@ -105,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-21 03:01"
+        "timestamp": "2026-09-21 09:32"
     },
     {
         "title": "Software Engineer, Backend (BI Platform)",
@@ -117,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-21 03:01"
+        "timestamp": "2026-09-21 09:32"
     },
     {
         "title": "Senior Software Engineer, Proactive Security",
@@ -129,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-21 03:01"
+        "timestamp": "2026-09-21 09:32"
     },
     {
         "title": "Senior Platform Engineer, Developer Platform",
@@ -141,7 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-21 03:01"
+        "timestamp": "2026-09-21 09:32"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -153,6 +189,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-21 03:01"
+        "timestamp": "2026-09-21 09:32"
     }
 ]
