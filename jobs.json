@@ -1,5 +1,29 @@
 [
     {
+        "title": "DATA ENGINEER*IN (m/w/d)",
+        "company": "Ramp106 Gmbh",
+        "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/data-engineerin-hamburg-367808",
+        "loc": "Hamburg",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-09-21 03:01"
+    },
+    {
+        "title": "ANALYTICS ENGINEER*IN (m/w/d)",
+        "company": "Ramp106 Gmbh",
+        "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/analytics-engineerin-hamburg-65168",
+        "loc": "Hamburg",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-09-21 03:01"
+    },
+    {
         "title": "Senior Business Intelligence Lead (all genders)",
         "company": "Reev",
         "url": "https://www.arbeitnow.com/jobs/companies/reev/senior-business-intelligence-lead-all-genders-munchen-80998",
@@ -9,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-20 22:08"
+        "timestamp": "2026-09-21 03:01"
     },
     {
         "title": "ML Data Engineer (m/f/d) - Sensor Data & Pipelines",
@@ -21,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-20 22:08"
+        "timestamp": "2026-09-21 03:01"
     },
     {
         "title": "Data Platform Engineer Working Student (m/w/d)",
@@ -33,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 83,
-        "timestamp": "2026-09-20 22:08"
+        "timestamp": "2026-09-21 03:01"
     },
     {
         "title": "Full Stack Engineer, Contract",
@@ -45,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-20 22:08"
+        "timestamp": "2026-09-21 03:01"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -57,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-20 22:08"
+        "timestamp": "2026-09-21 03:01"
     },
     {
         "title": "Software Engineer (all levels) - Core Technology",
@@ -69,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-20 22:08"
+        "timestamp": "2026-09-21 03:01"
     },
     {
         "title": "Software Engineer, GenAI Platform",
@@ -81,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-20 22:08"
+        "timestamp": "2026-09-21 03:01"
     },
     {
         "title": "Software Engineer, Backend (BI Platform)",
@@ -93,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-20 22:08"
+        "timestamp": "2026-09-21 03:01"
     },
     {
         "title": "Senior Software Engineer, Proactive Security",
@@ -105,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-20 22:08"
+        "timestamp": "2026-09-21 03:01"
     },
     {
         "title": "Senior Platform Engineer, Developer Platform",
@@ -117,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-20 22:08"
+        "timestamp": "2026-09-21 03:01"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -129,6 +153,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-20 22:08"
+        "timestamp": "2026-09-21 03:01"
     }
 ]
