@@ -1,15 +1,27 @@
 [
     {
-        "title": "AI Engineer (m/w/d)",
-        "company": "adorsys GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/adorsys-gmbh/ai-engineer-nurnberg-133535",
-        "loc": "N\u00fcrnberg",
+        "title": "Sales Engineer",
+        "company": "Litmus",
+        "url": "https://www.arbeitnow.com/jobs/companies/litmus/sales-engineer-munchen-6138",
+        "loc": "Germany",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-21 22:57"
+        "tejas_score": 45,
+        "timestamp": "2026-09-22 03:01"
+    },
+    {
+        "title": "Senior Analytics Engineer",
+        "company": "Cosuno",
+        "url": "https://www.arbeitnow.com/jobs/companies/cosuno/senior-analytics-engineer-berlin-20803",
+        "loc": "Berlin/Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-09-22 03:01"
     },
     {
         "title": "Senior Software Engineer \u2013 Live & VOD Video Infrastructure",
@@ -21,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-21 22:57"
+        "timestamp": "2026-09-22 03:01"
     },
     {
         "title": "Senior Software Engineer in Test, Python",
@@ -33,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 73,
-        "timestamp": "2026-09-21 22:57"
+        "timestamp": "2026-09-22 03:01"
     },
     {
         "title": "Senior Software Engineer, AD Serving",
@@ -45,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-21 22:57"
+        "timestamp": "2026-09-22 03:01"
     },
     {
         "title": "Senior Full Stack Engineer",
@@ -57,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-21 22:57"
+        "timestamp": "2026-09-22 03:01"
     },
     {
         "title": "Senior Data Engineer, Python, Spark",
@@ -69,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 100,
-        "timestamp": "2026-09-21 22:57"
+        "timestamp": "2026-09-22 03:01"
     },
     {
         "title": "Senior Data Engineer, Python, Spark",
@@ -81,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 100,
-        "timestamp": "2026-09-21 22:57"
+        "timestamp": "2026-09-22 03:01"
     },
     {
         "title": "Senior Backend Engineer \u2014 Distributed Systems (Streaming Platform)",
@@ -93,19 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-21 22:57"
-    },
-    {
-        "title": "Sr Staff ML Forward Deployed Engineer, Enterprise GenAI",
-        "company": "scaleai",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/scaleai/sr-staff-ml-forward-deployed-engineer-enterprise-genai-london-403189",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-21 22:57"
+        "timestamp": "2026-09-22 03:01"
     },
     {
         "title": "Data Product Manager - Core Data Product (f/m/d)",
@@ -117,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-21 22:57"
+        "timestamp": "2026-09-22 03:01"
     },
     {
         "title": "Data Product Manager - Core Data Product (f/m/d)",
@@ -129,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-21 22:57"
+        "timestamp": "2026-09-22 03:01"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -141,6 +141,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-21 22:57"
+        "timestamp": "2026-09-22 03:01"
     }
 ]
