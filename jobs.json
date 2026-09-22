@@ -1,111 +1,15 @@
 [
     {
-        "title": "Sales Engineer",
-        "company": "Litmus",
-        "url": "https://www.arbeitnow.com/jobs/companies/litmus/sales-engineer-munchen-6138",
-        "loc": "Germany",
+        "title": "Principal Software Engineer - Product Platforms",
+        "company": "Alphasense",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/principal-software-engineer-product-platforms-382371",
+        "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-22 03:01"
-    },
-    {
-        "title": "Senior Analytics Engineer",
-        "company": "Cosuno",
-        "url": "https://www.arbeitnow.com/jobs/companies/cosuno/senior-analytics-engineer-berlin-20803",
-        "loc": "Berlin/Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-22 03:01"
-    },
-    {
-        "title": "Senior Software Engineer \u2013 Live & VOD Video Infrastructure",
-        "company": "Roku",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-software-engineer-live-vod-video-infrastructure-cambridge-300254",
-        "loc": "Cambridge",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-22 03:01"
-    },
-    {
-        "title": "Senior Software Engineer in Test, Python",
-        "company": "Roku",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-software-engineer-in-test-python-cambridge-85395",
-        "loc": "Cambridge",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 73,
-        "timestamp": "2026-09-22 03:01"
-    },
-    {
-        "title": "Senior Software Engineer, AD Serving",
-        "company": "Roku",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-software-engineer-ad-serving-manchester-235061",
-        "loc": "Manchester",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-22 03:01"
-    },
-    {
-        "title": "Senior Full Stack Engineer",
-        "company": "Roku",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-full-stack-engineer-cambridge-53877",
-        "loc": "Cambridge",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-09-22 03:01"
-    },
-    {
-        "title": "Senior Data Engineer, Python, Spark",
-        "company": "Roku",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-data-engineer-python-spark-manchester-331277",
-        "loc": "Manchester",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 100,
-        "timestamp": "2026-09-22 03:01"
-    },
-    {
-        "title": "Senior Data Engineer, Python, Spark",
-        "company": "Roku",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-data-engineer-python-spark-cambridge-290960",
-        "loc": "Cambridge",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 100,
-        "timestamp": "2026-09-22 03:01"
-    },
-    {
-        "title": "Senior Backend Engineer \u2014 Distributed Systems (Streaming Platform)",
-        "company": "Roku",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-backend-engineer-distributed-systems-streaming-platform-cambridge-463314",
-        "loc": "Cambridge",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-22 03:01"
+        "timestamp": "2026-09-22 08:58"
     },
     {
         "title": "Data Product Manager - Core Data Product (f/m/d)",
@@ -117,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-22 03:01"
+        "timestamp": "2026-09-22 08:58"
     },
     {
         "title": "Data Product Manager - Core Data Product (f/m/d)",
@@ -129,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-22 03:01"
+        "timestamp": "2026-09-22 08:58"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -141,6 +45,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-22 03:01"
+        "timestamp": "2026-09-22 08:58"
     }
 ]
