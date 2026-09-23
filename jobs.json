@@ -1,111 +1,87 @@
 [
     {
-        "title": "Senior Software Engineer, Python",
-        "company": "Nelly Solutions",
-        "url": "https://www.arbeitnow.com/jobs/companies/nelly-solutions/senior-software-engineer-python-berlin-38678",
-        "loc": "Berlin",
+        "title": "Senior Python Developer (w/m/d) - Remote",
+        "company": "node.energy",
+        "url": "https://www.arbeitnow.com/jobs/companies/nodeenergy/senior-python-developer-remote-frankfurt-am-main-250296",
+        "loc": "Frankfurt am Main",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 81,
-        "timestamp": "2026-09-23 09:01"
+        "tejas_score": 65,
+        "timestamp": "2026-09-23 15:59"
     },
     {
-        "title": "Senior Cloud Platform Engineer (AWS/GCP)",
-        "company": "Ensono",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/ensono/senior-cloud-platform-engineer-aws-gcp-494787",
+        "title": "Head of Data Engineering",
+        "company": "PHMG Careers",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/phmg-careers/head-of-data-engineering-manchester-273667",
+        "loc": "Manchester, England, United Kingdom",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 84,
+        "timestamp": "2026-09-23 15:59"
+    },
+    {
+        "title": "Principal AI Engineer - Context - Agents and Context",
+        "company": "Elastic",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/elastic/principal-ai-engineer-context-agents-and-context-179934",
         "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 58,
-        "timestamp": "2026-09-23 09:01"
+        "tejas_score": 53,
+        "timestamp": "2026-09-23 15:59"
     },
     {
-        "title": "Software Engineer",
-        "company": "Fanduel",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/fanduel/software-engineer-edinburgh-358283",
-        "loc": "Edinburgh",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-09-23 09:01"
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Fanduel",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/fanduel/data-engineer-edinburgh-490285",
-        "loc": "Edinburgh",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-09-23 09:01"
-    },
-    {
-        "title": "Software Engineer, Backend (BI Platform)",
-        "company": "Deliveroo ",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-backend-bi-platform-london-222046",
-        "loc": "London, England, United Kingdom",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-09-23 09:01"
-    },
-    {
-        "title": "Senior Software Engineer (Contractor)",
-        "company": "Wearebeyondsports",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/wearebeyondsports/senior-software-engineer-contractor-london-234775",
+        "title": "Senior Director, Reporting & Analytics Engineering",
+        "company": "sonyinteractiveentertainmentglobal",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/senior-director-reporting-analytics-engineering-london-17039",
         "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-23 09:01"
-    },
-    {
-        "title": "Staff Software Engineer",
-        "company": "Aircall",
-        "url": "https://www.arbeitnow.fr/jobs/companies/aircall/staff-software-engineer-paris-office-331303",
-        "loc": "Paris Office",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-23 09:01"
-    },
-    {
-        "title": "Senior Data Engineer - Real time analytics",
-        "company": "Aircall",
-        "url": "https://www.arbeitnow.fr/jobs/companies/aircall/remote-senior-data-engineer-real-time-analytics-494507",
-        "loc": "France Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-09-23 09:01"
+        "timestamp": "2026-09-23 15:59"
     },
     {
-        "title": "Senior Data Engineer - Real time analytics",
-        "company": "Aircall",
-        "url": "https://www.arbeitnow.fr/jobs/companies/aircall/senior-data-engineer-real-time-analytics-paris-office-440809",
-        "loc": "Paris Office",
+        "title": "Senior Data Platform Engineer",
+        "company": "Deepl",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/deepl/senior-data-platform-engineer-london-140270",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-09-23 09:01"
+        "tejas_score": 61,
+        "timestamp": "2026-09-23 15:59"
+    },
+    {
+        "title": "Staff AI Engineer - EU",
+        "company": "typeform",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/typeform/staff-ai-engineer-eu-150061",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 69,
+        "timestamp": "2026-09-23 15:59"
+    },
+    {
+        "title": "Senior Software & Data Engineering (H/F)",
+        "company": "ILLUIN Technology",
+        "url": "https://www.arbeitnow.fr/jobs/companies/illuin-technology/senior-software-data-engineering-h-f-paris-83837",
+        "loc": "Paris La D\u00e9fense",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-09-23 15:59"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -117,6 +93,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-23 09:01"
+        "timestamp": "2026-09-23 15:59"
     }
 ]
