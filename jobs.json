@@ -9,7 +9,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 65,
-        "timestamp": "2026-09-23 15:59"
+        "timestamp": "2026-09-23 19:35"
+    },
+    {
+        "title": "Senior Data Engineer",
+        "company": "tripadvisor",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/tripadvisor/senior-data-engineer-london-270437",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-09-23 19:35"
     },
     {
         "title": "Head of Data Engineering",
@@ -21,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-09-23 15:59"
+        "timestamp": "2026-09-23 19:35"
     },
     {
         "title": "Principal AI Engineer - Context - Agents and Context",
@@ -33,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-23 15:59"
+        "timestamp": "2026-09-23 19:35"
     },
     {
         "title": "Senior Director, Reporting & Analytics Engineering",
@@ -45,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-09-23 15:59"
+        "timestamp": "2026-09-23 19:35"
     },
     {
         "title": "Senior Data Platform Engineer",
@@ -57,19 +69,43 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-23 15:59"
+        "timestamp": "2026-09-23 19:35"
     },
     {
-        "title": "Staff AI Engineer - EU",
-        "company": "typeform",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/typeform/staff-ai-engineer-eu-150061",
-        "loc": "Remote",
+        "title": "Senior Full-Stack Product Engineer",
+        "company": "The Flex",
+        "url": "https://www.arbeitnow.fr/jobs/companies/the-flex/senior-full-stack-product-engineer-paris-446978",
+        "loc": "Paris",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 69,
-        "timestamp": "2026-09-23 15:59"
+        "tejas_score": 53,
+        "timestamp": "2026-09-23 19:35"
+    },
+    {
+        "title": "Product Engineer",
+        "company": "The Flex",
+        "url": "https://www.arbeitnow.fr/jobs/companies/the-flex/product-engineer-paris-29691",
+        "loc": "Paris",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-09-23 19:35"
+    },
+    {
+        "title": "Senior Software Engineer",
+        "company": "The Flex",
+        "url": "https://www.arbeitnow.fr/jobs/companies/the-flex/senior-software-engineer-paris-202243",
+        "loc": "Paris",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-09-23 19:35"
     },
     {
         "title": "Senior Software & Data Engineering (H/F)",
@@ -81,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-23 15:59"
+        "timestamp": "2026-09-23 19:35"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -93,6 +129,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-23 15:59"
+        "timestamp": "2026-09-23 19:35"
     }
 ]
