@@ -1,75 +1,63 @@
 [
     {
-        "title": "Junior Data Engineer (Databricks) (m/w/d)",
-        "company": "Collaboration Betters The World GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/collaboration-betters-the-world-gmbh/junior-data-engineer-databricks-stuttgart-121910",
-        "loc": "Stuttgart",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 100,
-        "timestamp": "2026-09-24 16:22"
-    },
-    {
-        "title": "Data Engineer (Professional) (Databricks) (m/w/d)",
-        "company": "Collaboration Betters The World GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/collaboration-betters-the-world-gmbh/data-engineer-professional-databricks-stuttgart-6155",
-        "loc": "Stuttgart",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 80,
-        "timestamp": "2026-09-24 16:22"
-    },
-    {
-        "title": "Senior Data Engineer (Databricks) (m/w/d)",
-        "company": "Collaboration Betters The World GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/collaboration-betters-the-world-gmbh/senior-data-engineer-databricks-stuttgart-411578",
-        "loc": "Stuttgart",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 65,
-        "timestamp": "2026-09-24 16:22"
-    },
-    {
-        "title": "Senior Technical Architect",
-        "company": "Vmlenterprisesolutions",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/vmlenterprisesolutions/senior-technical-architect-london-manchester-148459",
-        "loc": "London; Manchester",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 54,
-        "timestamp": "2026-09-24 16:22"
-    },
-    {
-        "title": "Senior Engineer, Payout Network",
-        "company": "Taptapsend",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/taptapsend/senior-engineer-payout-network-london-18147",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-09-24 16:22"
-    },
-    {
-        "title": "Senior Analytics Engineer",
-        "company": "Monzoreferrals",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/monzoreferrals/senior-analytics-engineer-207590",
-        "loc": "Remote",
+        "title": "Data Analytics Team Lead",
+        "company": "YAZIO",
+        "url": "https://www.arbeitnow.com/jobs/companies/yazio/data-analytics-team-lead-berlin-34045",
+        "loc": "Berlin",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-24 16:22"
+        "timestamp": "2026-09-24 22:57"
+    },
+    {
+        "title": "Software Engineer (f/m/d)",
+        "company": "Manex AI GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/manex-ai-gmbh/software-engineer-munich-183229",
+        "loc": "Munich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-09-24 22:57"
+    },
+    {
+        "title": "Senior Software Engineer, Proactive Security",
+        "company": "Deliveroo ",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-software-engineer-proactive-security-london-385186",
+        "loc": "London, England, United Kingdom",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-09-24 22:57"
+    },
+    {
+        "title": "Agentic Systems Engineer (Digital Services)",
+        "company": "Cambridgeconsultantslimited",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/agentic-systems-engineer-digital-services-102698",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-09-24 22:57"
+    },
+    {
+        "title": "Sales Engineer",
+        "company": "Validio",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/validio/sales-engineer-london-189238",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-09-24 22:57"
     },
     {
         "title": "Applied ML Engineer",
@@ -81,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-24 16:22"
+        "timestamp": "2026-09-24 22:57"
     },
     {
         "title": "Big Data Engineer",
@@ -93,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 100,
-        "timestamp": "2026-09-24 16:22"
+        "timestamp": "2026-09-24 22:57"
     },
     {
         "title": "Senior Cloud Infrastructure Engineer",
@@ -105,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 54,
-        "timestamp": "2026-09-24 16:22"
+        "timestamp": "2026-09-24 22:57"
     },
     {
         "title": "Staff Software Engineer (f/m/d)",
@@ -117,79 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 77,
-        "timestamp": "2026-09-24 16:22"
-    },
-    {
-        "title": "Internship - Data Engineer Core Data Product - Lille (f/m/d)",
-        "company": "Decathlontechnology",
-        "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/internship-data-engineer-core-data-product-lille-villeneuve-dascq-nord-171725",
-        "loc": "Villeneuve-d'Ascq, Nord",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 84,
-        "timestamp": "2026-09-24 16:22"
-    },
-    {
-        "title": "Internship - Data Engineer Core Data Product (f/m/d)- Paris",
-        "company": "Decathlontechnology",
-        "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/internship-data-engineer-core-data-product-paris-paris-paris-421816",
-        "loc": "Paris, Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 84,
-        "timestamp": "2026-09-24 16:22"
-    },
-    {
-        "title": "ML Engineer - Power",
-        "company": "Kpler",
-        "url": "https://www.arbeitnow.fr/jobs/companies/kpler/ml-engineer-power-paris-215115",
-        "loc": "Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-24 16:22"
-    },
-    {
-        "title": "Senior Full-Stack Product Engineer",
-        "company": "The Flex",
-        "url": "https://www.arbeitnow.fr/jobs/companies/the-flex/senior-full-stack-product-engineer-paris-446978",
-        "loc": "Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-24 16:22"
-    },
-    {
-        "title": "Product Engineer",
-        "company": "The Flex",
-        "url": "https://www.arbeitnow.fr/jobs/companies/the-flex/product-engineer-paris-29691",
-        "loc": "Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-24 16:22"
-    },
-    {
-        "title": "Senior Software Engineer",
-        "company": "The Flex",
-        "url": "https://www.arbeitnow.fr/jobs/companies/the-flex/senior-software-engineer-paris-202243",
-        "loc": "Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-24 16:22"
+        "timestamp": "2026-09-24 22:57"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -201,6 +117,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-24 16:22"
+        "timestamp": "2026-09-24 22:57"
     }
 ]
