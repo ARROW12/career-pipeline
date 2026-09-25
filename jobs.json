@@ -1,27 +1,27 @@
 [
     {
-        "title": "Data Analytics Team Lead",
-        "company": "YAZIO",
-        "url": "https://www.arbeitnow.com/jobs/companies/yazio/data-analytics-team-lead-berlin-34045",
-        "loc": "Berlin",
+        "title": "Product Engineer (m/f/d)",
+        "company": "Buying Labs Gmbh 1",
+        "url": "https://www.arbeitnow.com/jobs/companies/buying-labs-gmbh-1/product-engineer-hamburg-hq-74436",
+        "loc": "Hamburg HQ",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-24 22:57"
+        "tejas_score": 68,
+        "timestamp": "2026-09-25 03:09"
     },
     {
-        "title": "Software Engineer (f/m/d)",
-        "company": "Manex AI GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/manex-ai-gmbh/software-engineer-munich-183229",
-        "loc": "Munich",
+        "title": "Senior Analytics Engineer",
+        "company": "Accurx",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/accurx/senior-analytics-engineer-london-205757",
+        "loc": "London (Shoreditch)",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-09-24 22:57"
+        "tejas_score": 45,
+        "timestamp": "2026-09-25 03:09"
     },
     {
         "title": "Senior Software Engineer, Proactive Security",
@@ -33,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-24 22:57"
+        "timestamp": "2026-09-25 03:09"
     },
     {
         "title": "Agentic Systems Engineer (Digital Services)",
@@ -45,19 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-24 22:57"
-    },
-    {
-        "title": "Sales Engineer",
-        "company": "Validio",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/validio/sales-engineer-london-189238",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-24 22:57"
+        "timestamp": "2026-09-25 03:09"
     },
     {
         "title": "Applied ML Engineer",
@@ -69,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-24 22:57"
+        "timestamp": "2026-09-25 03:09"
     },
     {
         "title": "Big Data Engineer",
@@ -81,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 100,
-        "timestamp": "2026-09-24 22:57"
+        "timestamp": "2026-09-25 03:09"
     },
     {
         "title": "Senior Cloud Infrastructure Engineer",
@@ -93,19 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 54,
-        "timestamp": "2026-09-24 22:57"
-    },
-    {
-        "title": "Staff Software Engineer (f/m/d)",
-        "company": "Decathlontechnology",
-        "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/staff-software-engineer-villeneuve-dascq-nord-94126",
-        "loc": "Villeneuve-d'Ascq, Nord",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 77,
-        "timestamp": "2026-09-24 22:57"
+        "timestamp": "2026-09-25 03:09"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -117,6 +93,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-24 22:57"
+        "timestamp": "2026-09-25 03:09"
     }
 ]
