@@ -1,51 +1,87 @@
 [
     {
-        "title": "Trading Infrastructure Engineer \u2013 Algorithmic Power Trading",
-        "company": "Ostrom",
-        "url": "https://www.arbeitnow.com/jobs/companies/ostrom/trading-infrastructure-engineer-algorithmic-power-trading-berlin-215762",
-        "loc": "Berlin / Remote",
+        "title": "Data Platform Engineer (f/m/d)",
+        "company": "Ruhrdot Gmbh",
+        "url": "https://www.arbeitnow.com/jobs/companies/ruhrdot-gmbh/data-platform-engineer-headoffice-onsite-hybrid-essen-464729",
+        "loc": "Headoffice Onsite/Hybrid Essen",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-09-25 16:23"
+        "tejas_score": 68,
+        "timestamp": "2026-09-25 23:01"
     },
     {
-        "title": "Senior Data Analyst",
-        "company": "Cosuno",
-        "url": "https://www.arbeitnow.com/jobs/companies/cosuno/senior-data-analyst-berlin-213348",
-        "loc": "Berlin/Remote",
+        "title": "(Senior) Consultant Data & AI (f/m/d)",
+        "company": "Ruhrdot Gmbh",
+        "url": "https://www.arbeitnow.com/jobs/companies/ruhrdot-gmbh/senior-consultant-data-ai-headoffice-onsite-hybrid-essen-154179",
+        "loc": "Headoffice Onsite/Hybrid Essen",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-25 16:23"
+        "tejas_score": 84,
+        "timestamp": "2026-09-25 23:01"
     },
     {
-        "title": "(Senior) Software Engineer - Kotlin/Java/ AWS (m|w|d)",
-        "company": "idealo internet GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/senior-software-engineer-kotlin-java-aws-mwd-berlin-163261",
-        "loc": "Berlin, Berlin, Deutschland",
+        "title": "Data Scientist (m/w/d)",
+        "company": "Machine Learning Reply",
+        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/data-scientist-munich-346186",
+        "loc": "Munich, Bayern, Germany",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 73,
-        "timestamp": "2026-09-25 16:23"
+        "tejas_score": 76,
+        "timestamp": "2026-09-25 23:01"
     },
     {
-        "title": "AI Integration Engineer / Specialist",
-        "company": "BaehrBots GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/baehrbots-gmbh/ai-integration-engineer-specialist-dresden-146964",
-        "loc": "Dresden",
+        "title": "GenAI Engineer (m/w/d)",
+        "company": "Machine Learning Reply",
+        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/genai-engineer-munich-372143",
+        "loc": "Munich, Bayern, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 84,
+        "timestamp": "2026-09-25 23:01"
+    },
+    {
+        "title": "Senior Systems Engineer Linux (m/w/d)",
+        "company": "JACOB Elektronik GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/jacob-elektronik-gmbh/senior-systems-engineer-linux-karlsruhe-196564",
+        "loc": "Karlsruhe",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-25 16:23"
+        "timestamp": "2026-09-25 23:01"
+    },
+    {
+        "title": "Senior Analytics Engineer",
+        "company": "Material Bank",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/material-bank/senior-analytics-engineer-london-429326",
+        "loc": "London, England, United Kingdom",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-09-25 23:01"
+    },
+    {
+        "title": "Senior Platform Engineer, Developer Platform",
+        "company": "Deliveroo ",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-platform-engineer-developer-platform-london-425510",
+        "loc": "London, England, United Kingdom",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-09-25 23:01"
     },
     {
         "title": "Staff Security Engineer, Incident Response",
@@ -57,67 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-25 16:23"
-    },
-    {
-        "title": "Chief Strategic Architect",
-        "company": "workato",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/workato/chief-strategic-architect-london-243420",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-25 16:23"
-    },
-    {
-        "title": "Staff Fullstack Data Analyst (Commercial Analytics)",
-        "company": "Pleo",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/staff-fullstack-data-analyst-commercial-analytics-london-37656",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-25 16:23"
-    },
-    {
-        "title": "Staff Fullstack Data Analyst (Commercial Analytics)",
-        "company": "Pleo",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/staff-fullstack-data-analyst-commercial-analytics-united-kingdom-262129",
-        "loc": "United Kingdom",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-25 16:23"
-    },
-    {
-        "title": "Senior Fullstack Data Analyst (Commercial Analytics)",
-        "company": "Pleo",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/senior-fullstack-data-analyst-commercial-analytics-london-365788",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-25 16:23"
-    },
-    {
-        "title": "Senior Fullstack Data Analyst (Commercial Analytics)",
-        "company": "Pleo",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/senior-fullstack-data-analyst-commercial-analytics-united-kingdom-377926",
-        "loc": "United Kingdom",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-25 16:23"
+        "timestamp": "2026-09-25 23:01"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -129,6 +105,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-25 16:23"
+        "timestamp": "2026-09-25 23:01"
     }
 ]
