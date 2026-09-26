@@ -1,5 +1,29 @@
 [
     {
+        "title": "Senior Software Engineer \u2013 IT Risk & Pricing (m/f/d)",
+        "company": "Auxmoney Gmbh",
+        "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-software-engineer-it-risk-pricing-172194",
+        "loc": "Remote / D\u00fcsseldorf",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-09-26 03:13"
+    },
+    {
+        "title": "Analytics Engineer - Cost Modelling (m/w/d)",
+        "company": "Octopus Energy Group",
+        "url": "https://www.arbeitnow.com/jobs/companies/octopus-energy-group/analytics-engineer-cost-modelling-munich-de-418543",
+        "loc": "Munich (DE)",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-09-26 03:13"
+    },
+    {
         "title": "Data Platform Engineer (f/m/d)",
         "company": "Ruhrdot Gmbh",
         "url": "https://www.arbeitnow.com/jobs/companies/ruhrdot-gmbh/data-platform-engineer-headoffice-onsite-hybrid-essen-464729",
@@ -9,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-25 23:01"
+        "timestamp": "2026-09-26 03:13"
     },
     {
         "title": "(Senior) Consultant Data & AI (f/m/d)",
@@ -21,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-09-25 23:01"
+        "timestamp": "2026-09-26 03:13"
     },
     {
         "title": "Data Scientist (m/w/d)",
@@ -33,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-09-25 23:01"
+        "timestamp": "2026-09-26 03:13"
     },
     {
         "title": "GenAI Engineer (m/w/d)",
@@ -45,19 +69,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-09-25 23:01"
+        "timestamp": "2026-09-26 03:13"
     },
     {
-        "title": "Senior Systems Engineer Linux (m/w/d)",
-        "company": "JACOB Elektronik GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/jacob-elektronik-gmbh/senior-systems-engineer-linux-karlsruhe-196564",
-        "loc": "Karlsruhe",
+        "title": "Data Analyst, Regulatory Analytics and Reporting",
+        "company": "Kraken",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/data-analyst-regulatory-analytics-and-reporting-london-426920",
+        "loc": "United Kingdom",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-25 23:01"
+        "tejas_score": 68,
+        "timestamp": "2026-09-26 03:13"
     },
     {
         "title": "Senior Analytics Engineer",
@@ -69,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-25 23:01"
+        "timestamp": "2026-09-26 03:13"
     },
     {
         "title": "Senior Platform Engineer, Developer Platform",
@@ -81,19 +105,43 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-25 23:01"
+        "timestamp": "2026-09-26 03:13"
     },
     {
-        "title": "Staff Security Engineer, Incident Response",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/staff-security-engineer-incident-response-54047",
-        "loc": "Remote",
+        "title": "Senior Data Steward",
+        "company": "Decathlontechnology",
+        "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/senior-data-steward-paris-paris-178481",
+        "loc": "Paris, Paris",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-25 23:01"
+        "tejas_score": 83,
+        "timestamp": "2026-09-26 03:13"
+    },
+    {
+        "title": "Senior Data Scientist - Demand Forecast (f/m/d)",
+        "company": "Decathlontechnology",
+        "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/senior-data-scientist-demand-forecast-lille-upline-nord-paris-paris-488740",
+        "loc": "Lille, Upline, Nord; Paris, Paris",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 84,
+        "timestamp": "2026-09-26 03:13"
+    },
+    {
+        "title": "Senior Data Scientist - Demand Forecast (f/m/d)",
+        "company": "Decathlontechnology",
+        "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/senior-data-scientist-demand-forecast-lille-upline-nord-paris-paris-224273",
+        "loc": "Lille, Upline, Nord; Paris, Paris",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 84,
+        "timestamp": "2026-09-26 03:13"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -105,6 +153,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-25 23:01"
+        "timestamp": "2026-09-26 03:13"
     }
 ]
