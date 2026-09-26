@@ -1,5 +1,29 @@
 [
     {
+        "title": "Staff Security Engineer, Incident Response",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.com/jobs/companies/databricks/staff-security-engineer-incident-response-394678",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-09-26 18:56"
+    },
+    {
+        "title": "AI Engineer (m/w/d)",
+        "company": "Nerdware",
+        "url": "https://www.arbeitnow.com/jobs/companies/nerdware/ai-engineer-nurnberg-56096",
+        "loc": "N\u00fcrnberg",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-09-26 18:56"
+    },
+    {
         "title": "Senior Data Engineer & Consultant (all genders) \u2013 Microsoft Fabric",
         "company": "teccle group GmbH",
         "url": "https://www.arbeitnow.com/jobs/companies/teccle-group-gmbh/remote-senior-data-engineer-consultant-all-genders-microsoft-fabric-berlin-191205",
@@ -9,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-26 15:38"
+        "timestamp": "2026-09-26 18:56"
     },
     {
         "title": "Data Analyst (m/f/d)",
@@ -21,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-26 15:38"
+        "timestamp": "2026-09-26 18:56"
     },
     {
         "title": "Senior Infrastructure Solutions Engineer",
@@ -33,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-26 15:38"
+        "timestamp": "2026-09-26 18:56"
     },
     {
         "title": "Satellite Data Processing Engineer",
@@ -45,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-26 15:38"
+        "timestamp": "2026-09-26 18:56"
     },
     {
         "title": "Senior Infrastructure Engineer (PostgreSQL DBA)",
@@ -57,79 +81,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 73,
-        "timestamp": "2026-09-26 15:38"
+        "timestamp": "2026-09-26 18:56"
     },
     {
-        "title": "Senior Analytics Engineer (f/m/x) - Enpal Energy",
-        "company": "Enpal",
-        "url": "https://www.arbeitnow.com/jobs/companies/enpal/senior-analytics-engineer-enpal-energy-berlin-8015",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 60,
-        "timestamp": "2026-09-26 15:38"
-    },
-    {
-        "title": "Principal Data Engineer",
-        "company": "Firmus",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/firmus/principal-data-engineer-sydney-australia-53701",
-        "loc": "Sydney, Australia",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 92,
-        "timestamp": "2026-09-26 15:38"
-    },
-    {
-        "title": "Python Analytics Engineer",
-        "company": "Lendable",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/python-analytics-engineer-london-78193",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 65,
-        "timestamp": "2026-09-26 15:38"
-    },
-    {
-        "title": "Analytics Engineer",
-        "company": "Lendable",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/analytics-engineer-london-81303",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-26 15:38"
-    },
-    {
-        "title": "Telematics Data Scientist",
-        "company": "Zego",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/zego/telematics-data-scientist-london-233924",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-26 15:38"
-    },
-    {
-        "title": "Senior Analytics Engineer",
-        "company": "Monzo",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-analytics-engineer-cardiff-408174",
-        "loc": "Cardiff",
+        "title": "Staff Security Engineer, Incident Response",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.fr/jobs/companies/databricks/staff-security-engineer-incident-response-356707",
+        "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-26 15:38"
+        "timestamp": "2026-09-26 18:56"
     },
     {
         "title": "Senior Data Steward",
@@ -141,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 83,
-        "timestamp": "2026-09-26 15:38"
+        "timestamp": "2026-09-26 18:56"
     },
     {
         "title": "Senior Data Scientist - Demand Forecast (f/m/d)",
@@ -153,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-09-26 15:38"
+        "timestamp": "2026-09-26 18:56"
     },
     {
         "title": "Senior Data Scientist - Demand Forecast (f/m/d)",
@@ -165,6 +129,42 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-09-26 15:38"
+        "timestamp": "2026-09-26 18:56"
+    },
+    {
+        "title": "Staff Data Scientist",
+        "company": "Duck Duck Go",
+        "url": "https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-staff-data-scientist-413722",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-09-26 18:56"
+    },
+    {
+        "title": "Software Development Engineers in Test (Python)",
+        "company": "Xm",
+        "url": "https://www.arbeitnow.ch/jobs/companies/xm/remote-software-development-engineers-in-test-python-101930",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 50,
+        "timestamp": "2026-09-26 18:56"
+    },
+    {
+        "title": "Site Reliability Engineers (SRE)",
+        "company": "Xm",
+        "url": "https://www.arbeitnow.ch/jobs/companies/xm/remote-site-reliability-engineers-sre-95334",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-09-26 18:56"
     }
 ]
