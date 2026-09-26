@@ -1,5 +1,65 @@
 [
     {
+        "title": "AI Solution Architect (m/w/d)",
+        "company": "virtual7 GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-72576",
+        "loc": "Homeoffice",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-09-26 22:19"
+    },
+    {
+        "title": "(Senior) Oracle Data Warehouse / BI-Developer (m/w/d)",
+        "company": "virtual7 GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-oracle-data-warehouse-bi-developer-karlsruhe-388750",
+        "loc": "Karlsruhe, Baden-W\u00fcrttemberg, Deutschland",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-09-26 22:19"
+    },
+    {
+        "title": "Senior GenAI Solution Engineer (all genders)",
+        "company": "Eraneos",
+        "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-genai-solution-engineer-all-genders-297775",
+        "loc": "Hamburg, M\u00fcnchen, D\u00fcsseldorf, remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-09-26 22:19"
+    },
+    {
+        "title": "Senior Solutions Architect - Data & AI Engineer (f/m/d, 4-Days-Week), German Speaking",
+        "company": "Auvaria",
+        "url": "https://www.arbeitnow.com/jobs/companies/auvaria/senior-solutions-architect-data-ai-engineer-4-days-week-german-speaking-munchen-414296",
+        "loc": "M\u00fcnchen",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-09-26 22:19"
+    },
+    {
+        "title": "Senior Fullstack Software Engineer, Analyze & Report (f/m/d)",
+        "company": "Solactive",
+        "url": "https://www.arbeitnow.com/jobs/companies/solactive/senior-fullstack-software-engineer-analyze-report-berlin-91905",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-09-26 22:19"
+    },
+    {
         "title": "Staff Security Engineer, Incident Response",
         "company": "databricks",
         "url": "https://www.arbeitnow.com/jobs/companies/databricks/staff-security-engineer-incident-response-394678",
@@ -9,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-26 18:56"
+        "timestamp": "2026-09-26 22:19"
     },
     {
         "title": "AI Engineer (m/w/d)",
@@ -21,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-26 18:56"
+        "timestamp": "2026-09-26 22:19"
     },
     {
         "title": "Senior Data Engineer & Consultant (all genders) \u2013 Microsoft Fabric",
@@ -33,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-26 18:56"
+        "timestamp": "2026-09-26 22:19"
     },
     {
         "title": "Data Analyst (m/f/d)",
@@ -45,43 +105,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-26 18:56"
+        "timestamp": "2026-09-26 22:19"
     },
     {
-        "title": "Senior Infrastructure Solutions Engineer",
-        "company": "planetlabs",
-        "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/remote-senior-infrastructure-solutions-engineer-59844",
-        "loc": "Remote",
+        "title": "Team Lead, Platform Engineering",
+        "company": "Volta",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/volta/team-lead-platform-engineering-london-212655",
+        "loc": "London, UK",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-09-26 18:56"
+        "tejas_score": 45,
+        "timestamp": "2026-09-26 22:19"
     },
     {
-        "title": "Satellite Data Processing Engineer",
-        "company": "planetlabs",
-        "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/satellite-data-processing-engineer-berlin-1471",
-        "loc": "Berlin",
+        "title": "Platform Engineer (10x Openings)",
+        "company": "Volta",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/volta/platform-engineer-10x-openings-london-304256",
+        "loc": "London, UK",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-26 18:56"
-    },
-    {
-        "title": "Senior Infrastructure Engineer (PostgreSQL DBA)",
-        "company": "workato",
-        "url": "https://www.arbeitnow.com/jobs/companies/workato/senior-infrastructure-engineer-postgresql-dba-berlin-frankfurt-munich-34011",
-        "loc": "Berlin; Frankfurt; Munich",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 73,
-        "timestamp": "2026-09-26 18:56"
+        "tejas_score": 45,
+        "timestamp": "2026-09-26 22:19"
     },
     {
         "title": "Staff Security Engineer, Incident Response",
@@ -93,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-26 18:56"
+        "timestamp": "2026-09-26 22:19"
     },
     {
         "title": "Senior Data Steward",
@@ -105,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 83,
-        "timestamp": "2026-09-26 18:56"
+        "timestamp": "2026-09-26 22:19"
     },
     {
         "title": "Senior Data Scientist - Demand Forecast (f/m/d)",
@@ -117,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-09-26 18:56"
+        "timestamp": "2026-09-26 22:19"
     },
     {
         "title": "Senior Data Scientist - Demand Forecast (f/m/d)",
@@ -129,7 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-09-26 18:56"
+        "timestamp": "2026-09-26 22:19"
     },
     {
         "title": "Staff Data Scientist",
@@ -141,7 +189,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-26 18:56"
+        "timestamp": "2026-09-26 22:19"
     },
     {
         "title": "Software Development Engineers in Test (Python)",
@@ -153,7 +201,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-09-26 18:56"
+        "timestamp": "2026-09-26 22:19"
     },
     {
         "title": "Site Reliability Engineers (SRE)",
@@ -165,6 +213,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-26 18:56"
+        "timestamp": "2026-09-26 22:19"
     }
 ]
