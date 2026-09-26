@@ -1,75 +1,51 @@
 [
     {
-        "title": "Senior Software Engineer \u2013 IT Risk & Pricing (m/f/d)",
-        "company": "Auxmoney Gmbh",
-        "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-software-engineer-it-risk-pricing-172194",
-        "loc": "Remote / D\u00fcsseldorf",
+        "title": "Data Platform Engineer (m/f/d)",
+        "company": "Flix",
+        "url": "https://www.arbeitnow.com/jobs/companies/flix/data-platform-engineer-berlin-324571",
+        "loc": "Berlin, Berlin, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 84,
+        "timestamp": "2026-09-26 09:00"
+    },
+    {
+        "title": "Working Student Analytics Engineer (m/w/d)",
+        "company": "Pergolux",
+        "url": "https://www.arbeitnow.com/jobs/companies/pergolux/working-student-analytics-engineer-berlin-127740",
+        "loc": "Berlin | Global Team",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-26 03:13"
+        "timestamp": "2026-09-26 09:00"
     },
     {
-        "title": "Analytics Engineer - Cost Modelling (m/w/d)",
-        "company": "Octopus Energy Group",
-        "url": "https://www.arbeitnow.com/jobs/companies/octopus-energy-group/analytics-engineer-cost-modelling-munich-de-418543",
-        "loc": "Munich (DE)",
+        "title": "Senior Software Engineer - Platform & Infrastructure (f/m/d)",
+        "company": "Holoplot",
+        "url": "https://www.arbeitnow.com/jobs/companies/holoplot/senior-software-engineer-platform-infrastructure-berlin-375070",
+        "loc": "Berlin",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-26 03:13"
+        "timestamp": "2026-09-26 09:00"
     },
     {
-        "title": "Data Platform Engineer (f/m/d)",
-        "company": "Ruhrdot Gmbh",
-        "url": "https://www.arbeitnow.com/jobs/companies/ruhrdot-gmbh/data-platform-engineer-headoffice-onsite-hybrid-essen-464729",
-        "loc": "Headoffice Onsite/Hybrid Essen",
+        "title": "Senior Analytics Engineer",
+        "company": "Monzo",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-analytics-engineer-cardiff-408174",
+        "loc": "Cardiff",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-09-26 03:13"
-    },
-    {
-        "title": "(Senior) Consultant Data & AI (f/m/d)",
-        "company": "Ruhrdot Gmbh",
-        "url": "https://www.arbeitnow.com/jobs/companies/ruhrdot-gmbh/senior-consultant-data-ai-headoffice-onsite-hybrid-essen-154179",
-        "loc": "Headoffice Onsite/Hybrid Essen",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 84,
-        "timestamp": "2026-09-26 03:13"
-    },
-    {
-        "title": "Data Scientist (m/w/d)",
-        "company": "Machine Learning Reply",
-        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/data-scientist-munich-346186",
-        "loc": "Munich, Bayern, Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-09-26 03:13"
-    },
-    {
-        "title": "GenAI Engineer (m/w/d)",
-        "company": "Machine Learning Reply",
-        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/genai-engineer-munich-372143",
-        "loc": "Munich, Bayern, Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 84,
-        "timestamp": "2026-09-26 03:13"
+        "tejas_score": 53,
+        "timestamp": "2026-09-26 09:00"
     },
     {
         "title": "Data Analyst, Regulatory Analytics and Reporting",
@@ -81,31 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-26 03:13"
-    },
-    {
-        "title": "Senior Analytics Engineer",
-        "company": "Material Bank",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/material-bank/senior-analytics-engineer-london-429326",
-        "loc": "London, England, United Kingdom",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-26 03:13"
-    },
-    {
-        "title": "Senior Platform Engineer, Developer Platform",
-        "company": "Deliveroo ",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-platform-engineer-developer-platform-london-425510",
-        "loc": "London, England, United Kingdom",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-09-26 03:13"
+        "timestamp": "2026-09-26 09:00"
     },
     {
         "title": "Senior Data Steward",
@@ -117,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 83,
-        "timestamp": "2026-09-26 03:13"
+        "timestamp": "2026-09-26 09:00"
     },
     {
         "title": "Senior Data Scientist - Demand Forecast (f/m/d)",
@@ -129,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-09-26 03:13"
+        "timestamp": "2026-09-26 09:00"
     },
     {
         "title": "Senior Data Scientist - Demand Forecast (f/m/d)",
@@ -141,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-09-26 03:13"
+        "timestamp": "2026-09-26 09:00"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -153,6 +105,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-26 03:13"
+        "timestamp": "2026-09-26 09:00"
     }
 ]
