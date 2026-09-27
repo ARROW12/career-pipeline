@@ -1,5 +1,29 @@
 [
     {
+        "title": "Senior AI-Native Data Engineer (f/m/x)",
+        "company": "exmox",
+        "url": "https://www.arbeitnow.com/jobs/companies/exmox/senior-ai-native-data-engineer-hamburg-413553",
+        "loc": "Hamburg",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-09-27 09:45"
+    },
+    {
+        "title": "Senior AI Data Expert (f/m/x)",
+        "company": "exmox",
+        "url": "https://www.arbeitnow.com/jobs/companies/exmox/senior-ai-data-expert-hamburg-155834",
+        "loc": "Hamburg",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-09-27 09:45"
+    },
+    {
         "title": "AI Solution Architect (m/w/d)",
         "company": "virtual7 GmbH",
         "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-72576",
@@ -9,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-27 03:20"
+        "timestamp": "2026-09-27 09:45"
     },
     {
         "title": "(Senior) Oracle Data Warehouse / BI-Developer (m/w/d)",
@@ -21,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-27 03:20"
+        "timestamp": "2026-09-27 09:45"
     },
     {
         "title": "Senior GenAI Solution Engineer (all genders)",
@@ -33,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-27 03:20"
+        "timestamp": "2026-09-27 09:45"
     },
     {
         "title": "Senior Solutions Architect - Data & AI Engineer (f/m/d, 4-Days-Week), German Speaking",
@@ -45,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-27 03:20"
+        "timestamp": "2026-09-27 09:45"
     },
     {
         "title": "Senior Fullstack Software Engineer, Analyze & Report (f/m/d)",
@@ -57,31 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-27 03:20"
-    },
-    {
-        "title": "Staff Security Engineer, Incident Response",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.com/jobs/companies/databricks/staff-security-engineer-incident-response-394678",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-27 03:20"
-    },
-    {
-        "title": "AI Engineer (m/w/d)",
-        "company": "Nerdware",
-        "url": "https://www.arbeitnow.com/jobs/companies/nerdware/ai-engineer-nurnberg-56096",
-        "loc": "N\u00fcrnberg",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-09-27 03:20"
+        "timestamp": "2026-09-27 09:45"
     },
     {
         "title": "Team Lead, Platform Engineering",
@@ -93,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-27 03:20"
+        "timestamp": "2026-09-27 09:45"
     },
     {
         "title": "Platform Engineer (10x Openings)",
@@ -105,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-27 03:20"
+        "timestamp": "2026-09-27 09:45"
     },
     {
         "title": "Staff Security Engineer, Incident Response",
@@ -117,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-27 03:20"
+        "timestamp": "2026-09-27 09:45"
     },
     {
         "title": "Senior Data Steward",
@@ -129,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 83,
-        "timestamp": "2026-09-27 03:20"
+        "timestamp": "2026-09-27 09:45"
     },
     {
         "title": "Senior Data Scientist - Demand Forecast (f/m/d)",
@@ -141,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-09-27 03:20"
+        "timestamp": "2026-09-27 09:45"
     },
     {
         "title": "Senior Data Scientist - Demand Forecast (f/m/d)",
@@ -153,54 +153,66 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-09-27 03:20"
+        "timestamp": "2026-09-27 09:45"
     },
     {
-        "title": "Senior GTM Systems AI and Automation Engineer",
-        "company": "Camunda",
-        "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-gtm-systems-ai-and-automation-engineer-98803",
+        "title": "Staff Software Engineer",
+        "company": "Cloudbedsthirdpartyboard",
+        "url": "https://www.arbeitnow.ch/jobs/companies/cloudbedsthirdpartyboard/staff-software-engineer-135065",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-09-27 09:45"
+    },
+    {
+        "title": "Senior Software Engineer",
+        "company": "Cloudbedsthirdpartyboard",
+        "url": "https://www.arbeitnow.ch/jobs/companies/cloudbedsthirdpartyboard/senior-software-engineer-137385",
         "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-27 03:20"
+        "timestamp": "2026-09-27 09:45"
     },
     {
-        "title": "Staff Data Engineer",
-        "company": "Sonarsource",
-        "url": "https://www.arbeitnow.ch/jobs/companies/sonarsource/staff-data-engineer-geneva-374411",
-        "loc": "Geneva",
+        "title": "Data Architect mit Expertise in Databricks (m/w/d) | Join our Talent Pool - Switzerland",
+        "company": "Callista Group AG",
+        "url": "https://www.arbeitnow.ch/jobs/companies/callista-group-ag/data-architect-mit-expertise-in-databricks-join-our-talent-pool-switzerland-zurich-160960",
+        "loc": "Z\u00fcrich, Z\u00fcrich, Switzerland",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 100,
-        "timestamp": "2026-09-27 03:20"
+        "tejas_score": 50,
+        "timestamp": "2026-09-27 09:45"
     },
     {
-        "title": "Data Scientist, Product Analytics",
-        "company": "Sonarsource",
-        "url": "https://www.arbeitnow.ch/jobs/companies/sonarsource/data-scientist-product-analytics-geneva-116661",
-        "loc": "Geneva",
+        "title": "Data Engineer / Platform Engineer mit Expertise in Databricks (m/w/d) | Join our Talent Pool - Switzerland",
+        "company": "Callista Group AG",
+        "url": "https://www.arbeitnow.ch/jobs/companies/callista-group-ag/data-engineer-platform-engineer-mit-expertise-in-databricks-join-our-talent-pool-switzerland-zurich-5431",
+        "loc": "Z\u00fcrich, Z\u00fcrich, Switzerland",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-27 03:20"
+        "tejas_score": 58,
+        "timestamp": "2026-09-27 09:45"
     },
     {
-        "title": "Data Scientist, Marketing Analytics",
-        "company": "Sonarsource",
-        "url": "https://www.arbeitnow.ch/jobs/companies/sonarsource/data-scientist-marketing-analytics-geneva-297245",
-        "loc": "Geneva",
+        "title": "Talent Pool - Data & AI Engineer - DWH Transformation",
+        "company": "Callista Group AG",
+        "url": "https://www.arbeitnow.ch/jobs/companies/callista-group-ag/talent-pool-data-ai-engineer-dwh-transformation-zurich-94195",
+        "loc": "Z\u00fcrich, Z\u00fcrich, Switzerland",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-27 03:20"
+        "tejas_score": 77,
+        "timestamp": "2026-09-27 09:45"
     }
 ]
