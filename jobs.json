@@ -1,15 +1,27 @@
 [
     {
-        "title": "Backend Engineer - (Kotlin, Spring, AWS) - Better Places (d/f/m)",
-        "company": "Bettermile",
-        "url": "https://www.arbeitnow.com/jobs/companies/bettermile/backend-engineer-kotlin-spring-aws-better-places-berlin-475926",
-        "loc": "Better Place, Oranienstra\u00dfe 183, Berlin",
+        "title": "Partner Solutions Architect - MSP",
+        "company": "wizinc",
+        "url": "https://www.arbeitnow.com/jobs/companies/wizinc/partner-solutions-architect-msp-115100",
+        "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 58,
-        "timestamp": "2026-09-28 03:17"
+        "tejas_score": 61,
+        "timestamp": "2026-09-28 10:27"
+    },
+    {
+        "title": "Senior DevOps Engineer (AWS + CDK)",
+        "company": "JTL-Software-GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/jtl-software-gmbh/senior-devops-engineer-aws-cdk-berlin-253709",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 50,
+        "timestamp": "2026-09-28 10:27"
     },
     {
         "title": "Security Analytics Engineer",
@@ -21,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-28 03:17"
+        "timestamp": "2026-09-28 10:27"
     },
     {
         "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
@@ -33,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-09-28 03:17"
+        "timestamp": "2026-09-28 10:27"
     },
     {
         "title": "Senior Backend Engineer: Machine Learning Infrastructure",
@@ -45,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-28 03:17"
+        "timestamp": "2026-09-28 10:27"
     },
     {
         "title": "Senior Analytics Engineer",
@@ -57,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-28 03:17"
+        "timestamp": "2026-09-28 10:27"
     },
     {
         "title": "Staff Machine Learning Engineer - Applied ML & Research",
@@ -69,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 69,
-        "timestamp": "2026-09-28 03:17"
+        "timestamp": "2026-09-28 10:27"
     },
     {
         "title": "Senior Engineering Manager - Machine Learning",
@@ -81,19 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-28 03:17"
-    },
-    {
-        "title": "Senior Data Engineer",
-        "company": "Bursonglobalcareers",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/bursonglobalcareers/senior-data-engineer-london-375027",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-09-28 03:17"
+        "timestamp": "2026-09-28 10:27"
     },
     {
         "title": "Software Engineer (Integrations)",
@@ -105,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-28 03:17"
+        "timestamp": "2026-09-28 10:27"
     },
     {
         "title": "AI Engineer",
@@ -117,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-28 03:17"
+        "timestamp": "2026-09-28 10:27"
     },
     {
         "title": "Senior Analytics Engineer",
@@ -129,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-28 03:17"
+        "timestamp": "2026-09-28 10:27"
     },
     {
         "title": "Analytics Engineer",
@@ -141,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-28 03:17"
+        "timestamp": "2026-09-28 10:27"
     },
     {
         "title": "Founding Analytics Engineer",
@@ -153,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-09-28 03:17"
+        "timestamp": "2026-09-28 10:27"
     },
     {
         "title": "Senior Software Engineer (Python/TypeScript)",
@@ -165,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 59,
-        "timestamp": "2026-09-28 03:17"
+        "timestamp": "2026-09-28 10:27"
     },
     {
         "title": "Data Engineer, Places",
@@ -177,7 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-28 03:17"
+        "timestamp": "2026-09-28 10:27"
     },
     {
         "title": "Senior Data Engineer",
@@ -189,7 +189,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-28 03:17"
+        "timestamp": "2026-09-28 10:27"
     },
     {
         "title": "Staff Security Engineer, Incident Response",
@@ -201,7 +201,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-28 03:17"
+        "timestamp": "2026-09-28 10:27"
     },
     {
         "title": "Sr. Forward Deployed Engineer - FDE (Fullstack)",
@@ -213,7 +213,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-28 03:17"
+        "timestamp": "2026-09-28 10:27"
     },
     {
         "title": "Solutions Architect - CPG and Manufacturing",
@@ -225,7 +225,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-28 03:17"
+        "timestamp": "2026-09-28 10:27"
     },
     {
         "title": "Manager, Field Engineering - Polish speaker",
@@ -237,7 +237,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-28 03:17"
+        "timestamp": "2026-09-28 10:27"
     },
     {
         "title": "Enterprise Architect Director",
@@ -249,7 +249,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-28 03:17"
+        "timestamp": "2026-09-28 10:27"
     },
     {
         "title": "Product Engineer",
@@ -261,7 +261,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-28 03:17"
+        "timestamp": "2026-09-28 10:27"
     },
     {
         "title": "Founding Engineer (Tech Lead)",
@@ -273,7 +273,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-28 03:17"
+        "timestamp": "2026-09-28 10:27"
     },
     {
         "title": "AI Engineer",
@@ -285,6 +285,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-28 03:17"
+        "timestamp": "2026-09-28 10:27"
     }
 ]
