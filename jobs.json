@@ -1,15 +1,15 @@
 [
     {
-        "title": "Senior Platform Engineer (f/m/x)",
-        "company": "Workist Gmbh",
-        "url": "https://www.arbeitnow.com/jobs/companies/workist-gmbh/senior-platform-engineer-berlin-370933",
-        "loc": "Berlin",
+        "title": "Backend Engineer - (Kotlin, Spring, AWS) - Better Places (d/f/m)",
+        "company": "Bettermile",
+        "url": "https://www.arbeitnow.com/jobs/companies/bettermile/backend-engineer-kotlin-spring-aws-better-places-berlin-475926",
+        "loc": "Better Place, Oranienstra\u00dfe 183, Berlin",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-09-27 22:45"
+        "tejas_score": 58,
+        "timestamp": "2026-09-28 03:17"
     },
     {
         "title": "Security Analytics Engineer",
@@ -21,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-27 22:45"
+        "timestamp": "2026-09-28 03:17"
     },
     {
         "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
@@ -33,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-09-27 22:45"
+        "timestamp": "2026-09-28 03:17"
     },
     {
         "title": "Senior Backend Engineer: Machine Learning Infrastructure",
@@ -45,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-27 22:45"
+        "timestamp": "2026-09-28 03:17"
     },
     {
         "title": "Senior Analytics Engineer",
@@ -57,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-27 22:45"
+        "timestamp": "2026-09-28 03:17"
     },
     {
         "title": "Staff Machine Learning Engineer - Applied ML & Research",
@@ -69,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 69,
-        "timestamp": "2026-09-27 22:45"
+        "timestamp": "2026-09-28 03:17"
     },
     {
         "title": "Senior Engineering Manager - Machine Learning",
@@ -81,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-27 22:45"
+        "timestamp": "2026-09-28 03:17"
     },
     {
         "title": "Senior Data Engineer",
@@ -93,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-27 22:45"
+        "timestamp": "2026-09-28 03:17"
     },
     {
         "title": "Software Engineer (Integrations)",
@@ -105,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-27 22:45"
+        "timestamp": "2026-09-28 03:17"
     },
     {
         "title": "AI Engineer",
@@ -117,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-27 22:45"
+        "timestamp": "2026-09-28 03:17"
     },
     {
         "title": "Senior Analytics Engineer",
@@ -129,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-27 22:45"
+        "timestamp": "2026-09-28 03:17"
     },
     {
         "title": "Analytics Engineer",
@@ -141,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-27 22:45"
+        "timestamp": "2026-09-28 03:17"
     },
     {
         "title": "Founding Analytics Engineer",
@@ -153,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-09-27 22:45"
+        "timestamp": "2026-09-28 03:17"
     },
     {
         "title": "Senior Software Engineer (Python/TypeScript)",
@@ -165,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 59,
-        "timestamp": "2026-09-27 22:45"
+        "timestamp": "2026-09-28 03:17"
     },
     {
         "title": "Data Engineer, Places",
@@ -177,7 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-27 22:45"
+        "timestamp": "2026-09-28 03:17"
     },
     {
         "title": "Senior Data Engineer",
@@ -189,30 +189,102 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-27 22:45"
+        "timestamp": "2026-09-28 03:17"
     },
     {
-        "title": "Scientific Data Architect - Basel, Switzerland",
-        "company": "Tetrascience",
-        "url": "https://www.arbeitnow.ch/jobs/companies/tetrascience/scientific-data-architect-basel-switzerland-340246",
-        "loc": "Basel, Switzerland",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-27 22:45"
-    },
-    {
-        "title": "Applied ML Engineer",
-        "company": "Jobgether",
-        "url": "https://www.arbeitnow.ch/jobs/companies/jobgether/applied-ml-engineer-switzerland-194961",
-        "loc": "Switzerland",
+        "title": "Staff Security Engineer, Incident Response",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.ch/jobs/companies/databricks/staff-security-engineer-incident-response-168072",
+        "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-27 22:45"
+        "timestamp": "2026-09-28 03:17"
+    },
+    {
+        "title": "Sr. Forward Deployed Engineer - FDE (Fullstack)",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.ch/jobs/companies/databricks/sr-forward-deployed-engineer-fde-fullstack-zurich-124736",
+        "loc": "Z\u00fcrich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-09-28 03:17"
+    },
+    {
+        "title": "Solutions Architect - CPG and Manufacturing",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.ch/jobs/companies/databricks/solutions-architect-cpg-and-manufacturing-zurich-79219",
+        "loc": "Z\u00fcrich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-09-28 03:17"
+    },
+    {
+        "title": "Manager, Field Engineering - Polish speaker",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.ch/jobs/companies/databricks/manager-field-engineering-polish-speaker-zurich-419286",
+        "loc": "Z\u00fcrich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-09-28 03:17"
+    },
+    {
+        "title": "Enterprise Architect Director",
+        "company": "celonis",
+        "url": "https://www.arbeitnow.ch/jobs/companies/celonis/enterprise-architect-director-zurich-430006",
+        "loc": "Z\u00fcrich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-09-28 03:17"
+    },
+    {
+        "title": "Product Engineer",
+        "company": "Porters",
+        "url": "https://www.arbeitnow.ch/jobs/companies/porters/product-engineer-zurich-45205",
+        "loc": "Z\u00fcrich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-09-28 03:17"
+    },
+    {
+        "title": "Founding Engineer (Tech Lead)",
+        "company": "Porters",
+        "url": "https://www.arbeitnow.ch/jobs/companies/porters/founding-engineer-tech-lead-zurich-367263",
+        "loc": "Z\u00fcrich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-09-28 03:17"
+    },
+    {
+        "title": "AI Engineer",
+        "company": "Crypto Finance",
+        "url": "https://www.arbeitnow.ch/jobs/companies/crypto-finance/ai-engineer-zurich-3216",
+        "loc": "Z\u00fcrich, Switzerland",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-09-28 03:17"
     }
 ]
