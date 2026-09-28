@@ -1,27 +1,87 @@
 [
     {
-        "title": "Partner Solutions Architect - MSP",
-        "company": "wizinc",
-        "url": "https://www.arbeitnow.com/jobs/companies/wizinc/partner-solutions-architect-msp-115100",
-        "loc": "Remote",
+        "title": "Senior DevOps Engineer (all genders) | Data Platform",
+        "company": "Real Digital",
+        "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-devops-engineer-all-genders-data-platform-139336",
+        "loc": "Remote oder K\u00f6ln / Darmstadt / D\u00fcsseldorf / Berlin",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-09-28 10:27"
+        "tejas_score": 84,
+        "timestamp": "2026-09-28 19:09"
     },
     {
-        "title": "Senior DevOps Engineer (AWS + CDK)",
-        "company": "JTL-Software-GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/jtl-software-gmbh/senior-devops-engineer-aws-cdk-berlin-253709",
+        "title": "Junior Data Engineer",
+        "company": "Reeeliance",
+        "url": "https://www.arbeitnow.com/jobs/companies/reeeliance/junior-data-engineer-hamburg-27322",
+        "loc": "Hamburg",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-09-28 19:09"
+    },
+    {
+        "title": "Senior Data Engineer (Databricks) (m/w/d)",
+        "company": "Collaboration Betters The World GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/collaboration-betters-the-world-gmbh/senior-data-engineer-databricks-berlin-96455",
         "loc": "Berlin",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 50,
-        "timestamp": "2026-09-28 10:27"
+        "tejas_score": 100,
+        "timestamp": "2026-09-28 19:09"
+    },
+    {
+        "title": "Senior Data Engineer (Databricks) (m/w/d)",
+        "company": "Collaboration Betters The World GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/collaboration-betters-the-world-gmbh/senior-data-engineer-databricks-stuttgart-286878",
+        "loc": "Stuttgart",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 100,
+        "timestamp": "2026-09-28 19:09"
+    },
+    {
+        "title": "Staff Cloud Architect",
+        "company": "Ripple",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/ripple/staff-cloud-architect-sydney-australia-228354",
+        "loc": "Sydney, Australia",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-09-28 19:09"
+    },
+    {
+        "title": "Senior Data Analyst - Marketing",
+        "company": "9Fin",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/9fin/senior-data-analyst-marketing-london-12176",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-09-28 19:09"
+    },
+    {
+        "title": "Senior Data Engineer - Real time analytics",
+        "company": "Aircall",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/aircall/senior-data-engineer-real-time-analytics-london-office-67437",
+        "loc": "London Office",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-09-28 19:09"
     },
     {
         "title": "Security Analytics Engineer",
@@ -33,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-28 10:27"
+        "timestamp": "2026-09-28 19:09"
     },
     {
         "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
@@ -45,55 +105,43 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-09-28 10:27"
+        "timestamp": "2026-09-28 19:09"
     },
     {
-        "title": "Senior Backend Engineer: Machine Learning Infrastructure",
-        "company": "Constructor",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-senior-backend-engineer-machine-learning-infrastructure-467357",
-        "loc": "Remote - EMEA",
+        "title": "Data Engineer",
+        "company": "Alan",
+        "url": "https://www.arbeitnow.fr/jobs/companies/alan/data-engineer-paris-france-424097",
+        "loc": "Paris, France",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-09-28 10:27"
+        "tejas_score": 76,
+        "timestamp": "2026-09-28 19:09"
     },
     {
-        "title": "Senior Analytics Engineer",
-        "company": "Materialbank",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/materialbank/senior-analytics-engineer-london-245078",
-        "loc": "London",
+        "title": "Data Product Manager - Finance FP&A (f/m/d)",
+        "company": "Decathlontechnology",
+        "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/data-product-manager-finance-fpa-lille-jardin-des-plantes-nord-paris-paris-188997",
+        "loc": "Lille - Jardin des Plantes, Nord; Paris, Paris",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-28 10:27"
+        "tejas_score": 99,
+        "timestamp": "2026-09-28 19:09"
     },
     {
-        "title": "Staff Machine Learning Engineer - Applied ML & Research",
-        "company": "Super",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/super/staff-machine-learning-engineer-applied-ml-research-307226",
-        "loc": "Remote",
+        "title": "AI engineer (AI & GenAI) - People Domain",
+        "company": "Decathlontechnology",
+        "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/ai-engineer-ai-genai-people-domain-paris-paris-12733",
+        "loc": "Paris, Paris",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 69,
-        "timestamp": "2026-09-28 10:27"
-    },
-    {
-        "title": "Senior Engineering Manager - Machine Learning",
-        "company": "Super",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/super/senior-engineering-manager-machine-learning-297787",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-09-28 10:27"
+        "tejas_score": 83,
+        "timestamp": "2026-09-28 19:09"
     },
     {
         "title": "Software Engineer (Integrations)",
@@ -105,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-28 10:27"
+        "timestamp": "2026-09-28 19:09"
     },
     {
         "title": "AI Engineer",
@@ -117,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-28 10:27"
+        "timestamp": "2026-09-28 19:09"
     },
     {
         "title": "Senior Analytics Engineer",
@@ -129,7 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-28 10:27"
+        "timestamp": "2026-09-28 19:09"
     },
     {
         "title": "Analytics Engineer",
@@ -141,7 +189,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-09-28 10:27"
+        "timestamp": "2026-09-28 19:09"
     },
     {
         "title": "Founding Analytics Engineer",
@@ -153,7 +201,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-09-28 10:27"
+        "timestamp": "2026-09-28 19:09"
     },
     {
         "title": "Senior Software Engineer (Python/TypeScript)",
@@ -165,31 +213,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 59,
-        "timestamp": "2026-09-28 10:27"
+        "timestamp": "2026-09-28 19:09"
     },
     {
-        "title": "Data Engineer, Places",
-        "company": "Amo",
-        "url": "https://www.arbeitnow.fr/jobs/companies/amo/data-engineer-places-paris-142762",
-        "loc": "Paris",
+        "title": "Senior AI Engineer / Technical Consultant",
+        "company": "Artefact",
+        "url": "https://www.arbeitnow.ch/jobs/companies/artefact/senior-ai-engineer-technical-consultant-lausanne-vaud-475347",
+        "loc": "Lausanne, Vaud",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-09-28 10:27"
+        "tejas_score": 53,
+        "timestamp": "2026-09-28 19:09"
     },
     {
-        "title": "Senior Data Engineer",
-        "company": "Amo",
-        "url": "https://www.arbeitnow.fr/jobs/companies/amo/senior-data-engineer-paris-371160",
-        "loc": "Paris",
+        "title": "Senior AI Engineer / Technical Consultant",
+        "company": "Artefactlinkedin",
+        "url": "https://www.arbeitnow.ch/jobs/companies/artefactlinkedin/senior-ai-engineer-technical-consultant-lausanne-vaud-322378",
+        "loc": "Lausanne, Vaud",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-09-28 10:27"
+        "tejas_score": 53,
+        "timestamp": "2026-09-28 19:09"
     },
     {
         "title": "Staff Security Engineer, Incident Response",
@@ -201,7 +249,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-28 10:27"
+        "timestamp": "2026-09-28 19:09"
     },
     {
         "title": "Sr. Forward Deployed Engineer - FDE (Fullstack)",
@@ -213,7 +261,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-28 10:27"
+        "timestamp": "2026-09-28 19:09"
     },
     {
         "title": "Solutions Architect - CPG and Manufacturing",
@@ -225,7 +273,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-28 10:27"
+        "timestamp": "2026-09-28 19:09"
     },
     {
         "title": "Manager, Field Engineering - Polish speaker",
@@ -237,7 +285,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-28 10:27"
+        "timestamp": "2026-09-28 19:09"
     },
     {
         "title": "Enterprise Architect Director",
@@ -249,7 +297,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-28 10:27"
+        "timestamp": "2026-09-28 19:09"
     },
     {
         "title": "Product Engineer",
@@ -261,7 +309,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-28 10:27"
+        "timestamp": "2026-09-28 19:09"
     },
     {
         "title": "Founding Engineer (Tech Lead)",
@@ -273,18 +321,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-28 10:27"
-    },
-    {
-        "title": "AI Engineer",
-        "company": "Crypto Finance",
-        "url": "https://www.arbeitnow.ch/jobs/companies/crypto-finance/ai-engineer-zurich-3216",
-        "loc": "Z\u00fcrich, Switzerland",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-09-28 10:27"
+        "timestamp": "2026-09-28 19:09"
     }
 ]
