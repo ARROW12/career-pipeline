@@ -1,39 +1,111 @@
 [
     {
-        "title": "Join Tech & Data",
-        "company": "getspecialfasteners.com",
-        "url": "https://www.arbeitnow.com/jobs/companies/getspecialfastenerscom/join-tech-data-bielefeld-9128",
-        "loc": "Bielefeld",
+        "title": "ML Data Engineer (m/f/d) - Sensor Data & Pipelines",
+        "company": "autonomous-teaming",
+        "url": "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/ml-data-engineer-sensor-data-pipelines-munich-deu-324411",
+        "loc": "Munich (DEU)",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-09-29 10:21"
+        "tejas_score": 45,
+        "timestamp": "2026-09-29 17:31"
     },
     {
-        "title": "DevOps Engineer",
-        "company": "Pharomanagement",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/pharomanagement/devops-engineer-london-187488",
-        "loc": "London",
+        "title": "AI Systems Engineer (f/m/d)",
+        "company": "Sonarsource",
+        "url": "https://www.arbeitnow.com/jobs/companies/sonarsource/ai-systems-engineer-bochum-155682",
+        "loc": "Bochum",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-09-29 17:31"
+    },
+    {
+        "title": "Staff Data Scientist (all genders)",
+        "company": "Holidu",
+        "url": "https://www.arbeitnow.com/jobs/companies/holidu/staff-data-scientist-all-genders-munich-141005",
+        "loc": "Munich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 69,
+        "timestamp": "2026-09-29 17:31"
+    },
+    {
+        "title": "Senior Data Scientist - Rankings & Recommendations (all genders)",
+        "company": "Holidu",
+        "url": "https://www.arbeitnow.com/jobs/companies/holidu/senior-data-scientist-rankings-recommendations-all-genders-munich-370617",
+        "loc": "Munich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 84,
+        "timestamp": "2026-09-29 17:31"
+    },
+    {
+        "title": "Data Scientist \u2013 Mid-level/Senior",
+        "company": "Holidu",
+        "url": "https://www.arbeitnow.com/jobs/companies/holidu/data-scientist-mid-level-senior-munich-188039",
+        "loc": "Munich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 84,
+        "timestamp": "2026-09-29 17:31"
+    },
+    {
+        "title": "Lead Data Engineer",
+        "company": "Xdesign",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/xdesign/lead-data-engineer-edinburgh-414772",
+        "loc": "Edinburgh",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 69,
+        "timestamp": "2026-09-29 17:31"
+    },
+    {
+        "title": "Golang Backend Engineer, Financial Product Fraud",
+        "company": "Deliveroo ",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/golang-backend-engineer-financial-product-fraud-london-441888",
+        "loc": "London, England, United Kingdom",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-29 10:21"
+        "timestamp": "2026-09-29 17:31"
     },
     {
-        "title": "Senior Sales Engineer, Enterprise",
-        "company": "Fivetran",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/fivetran/remote-senior-sales-engineer-enterprise-144827",
-        "loc": "Remote, EMEA",
+        "title": "Senior Backend Engineer",
+        "company": "Plentific",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/plentific/senior-backend-engineer-london-80845",
+        "loc": "London Office",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 75,
-        "timestamp": "2026-09-29 10:21"
+        "tejas_score": 45,
+        "timestamp": "2026-09-29 17:31"
+    },
+    {
+        "title": "Full Stack Engineer (Front-end Focus)",
+        "company": "Zoe",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/zoe/full-stack-engineer-front-end-focus-uk-64580",
+        "loc": "UK",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-09-29 17:31"
     },
     {
         "title": "Analytics Engineer",
@@ -45,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-29 10:21"
+        "timestamp": "2026-09-29 17:31"
     },
     {
         "title": "Data Engineer",
@@ -57,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-09-29 10:21"
+        "timestamp": "2026-09-29 17:31"
     },
     {
         "title": "Data Product Manager - Finance FP&A (f/m/d)",
@@ -69,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 99,
-        "timestamp": "2026-09-29 10:21"
+        "timestamp": "2026-09-29 17:31"
     },
     {
         "title": "AI engineer (AI & GenAI) - People Domain",
@@ -81,19 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 83,
-        "timestamp": "2026-09-29 10:21"
-    },
-    {
-        "title": "Software Engineer (Integrations)",
-        "company": "Ddome",
-        "url": "https://www.arbeitnow.fr/jobs/companies/ddome/software-engineer-integrations-185679",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-29 10:21"
+        "timestamp": "2026-09-29 17:31"
     },
     {
         "title": "Senior AI Engineer / Technical Consultant",
@@ -105,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-29 10:21"
+        "timestamp": "2026-09-29 17:31"
     },
     {
         "title": "Senior AI Engineer / Technical Consultant",
@@ -117,7 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-29 10:21"
+        "timestamp": "2026-09-29 17:31"
     },
     {
         "title": "Staff Security Engineer, Incident Response",
@@ -129,7 +189,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-29 10:21"
+        "timestamp": "2026-09-29 17:31"
     },
     {
         "title": "Sr. Forward Deployed Engineer - FDE (Fullstack)",
@@ -141,7 +201,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-29 10:21"
+        "timestamp": "2026-09-29 17:31"
     },
     {
         "title": "Solutions Architect - CPG and Manufacturing",
@@ -153,7 +213,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-29 10:21"
+        "timestamp": "2026-09-29 17:31"
     },
     {
         "title": "Manager, Field Engineering - Polish speaker",
@@ -165,18 +225,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-29 10:21"
-    },
-    {
-        "title": "Enterprise Architect Director",
-        "company": "celonis",
-        "url": "https://www.arbeitnow.ch/jobs/companies/celonis/enterprise-architect-director-zurich-430006",
-        "loc": "Z\u00fcrich",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-29 10:21"
+        "timestamp": "2026-09-29 17:31"
     }
 ]
