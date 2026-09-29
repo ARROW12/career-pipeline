@@ -1,63 +1,39 @@
 [
     {
-        "title": "ML Data Engineer (m/f/d) - Sensor Data & Pipelines",
-        "company": "autonomous-teaming",
-        "url": "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/ml-data-engineer-sensor-data-pipelines-munich-deu-324411",
-        "loc": "Munich (DEU)",
+        "title": "Senior Business Intelligence Lead (all genders)",
+        "company": "Reev",
+        "url": "https://www.arbeitnow.com/jobs/companies/reev/senior-business-intelligence-lead-all-genders-munchen-132770",
+        "loc": "M\u00fcnchen",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-29 17:31"
+        "tejas_score": 68,
+        "timestamp": "2026-09-29 23:23"
     },
     {
-        "title": "AI Systems Engineer (f/m/d)",
-        "company": "Sonarsource",
-        "url": "https://www.arbeitnow.com/jobs/companies/sonarsource/ai-systems-engineer-bochum-155682",
-        "loc": "Bochum",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-29 17:31"
-    },
-    {
-        "title": "Staff Data Scientist (all genders)",
-        "company": "Holidu",
-        "url": "https://www.arbeitnow.com/jobs/companies/holidu/staff-data-scientist-all-genders-munich-141005",
-        "loc": "Munich",
+        "title": "Data Engineer",
+        "company": "zetaglobal",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/zetaglobal/data-engineer-london-61023",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 69,
-        "timestamp": "2026-09-29 17:31"
+        "timestamp": "2026-09-29 23:23"
     },
     {
-        "title": "Senior Data Scientist - Rankings & Recommendations (all genders)",
-        "company": "Holidu",
-        "url": "https://www.arbeitnow.com/jobs/companies/holidu/senior-data-scientist-rankings-recommendations-all-genders-munich-370617",
-        "loc": "Munich",
+        "title": "Head of Data Engineering",
+        "company": "PHMG Careers",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/phmg-careers/head-of-data-engineering-manchester-131679",
+        "loc": "Manchester, England, United Kingdom",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-09-29 17:31"
-    },
-    {
-        "title": "Data Scientist \u2013 Mid-level/Senior",
-        "company": "Holidu",
-        "url": "https://www.arbeitnow.com/jobs/companies/holidu/data-scientist-mid-level-senior-munich-188039",
-        "loc": "Munich",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 84,
-        "timestamp": "2026-09-29 17:31"
+        "timestamp": "2026-09-29 23:23"
     },
     {
         "title": "Lead Data Engineer",
@@ -69,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 69,
-        "timestamp": "2026-09-29 17:31"
+        "timestamp": "2026-09-29 23:23"
     },
     {
         "title": "Golang Backend Engineer, Financial Product Fraud",
@@ -81,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-29 17:31"
+        "timestamp": "2026-09-29 23:23"
     },
     {
         "title": "Senior Backend Engineer",
@@ -93,19 +69,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-29 17:31"
+        "timestamp": "2026-09-29 23:23"
     },
     {
-        "title": "Full Stack Engineer (Front-end Focus)",
-        "company": "Zoe",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/zoe/full-stack-engineer-front-end-focus-uk-64580",
-        "loc": "UK",
+        "title": "Data Engineer AWS - Recrutement international (Montr\u00e9al)",
+        "company": "agileDSS",
+        "url": "https://www.arbeitnow.fr/jobs/companies/agiledss/data-engineer-aws-recrutement-international-montreal-france-204641",
+        "loc": "France, \u00cele-de-France, France",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-09-29 17:31"
+        "tejas_score": 100,
+        "timestamp": "2026-09-29 23:23"
+    },
+    {
+        "title": "Data Engineer Databricks (Azure) - Recrutement international (Montr\u00e9al)",
+        "company": "agileDSS",
+        "url": "https://www.arbeitnow.fr/jobs/companies/agiledss/data-engineer-databricks-azure-recrutement-international-montreal-france-284911",
+        "loc": "France, \u00cele-de-France, France",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 82,
+        "timestamp": "2026-09-29 23:23"
     },
     {
         "title": "Analytics Engineer",
@@ -117,43 +105,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-29 17:31"
+        "timestamp": "2026-09-29 23:23"
     },
     {
-        "title": "Data Engineer",
-        "company": "Alan",
-        "url": "https://www.arbeitnow.fr/jobs/companies/alan/data-engineer-paris-france-424097",
-        "loc": "Paris, France",
+        "title": "AI Systems Engineer",
+        "company": "Sonarsource",
+        "url": "https://www.arbeitnow.ch/jobs/companies/sonarsource/ai-systems-engineer-geneva-476203",
+        "loc": "Geneva",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-09-29 17:31"
-    },
-    {
-        "title": "Data Product Manager - Finance FP&A (f/m/d)",
-        "company": "Decathlontechnology",
-        "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/data-product-manager-finance-fpa-lille-jardin-des-plantes-nord-paris-paris-188997",
-        "loc": "Lille - Jardin des Plantes, Nord; Paris, Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 99,
-        "timestamp": "2026-09-29 17:31"
-    },
-    {
-        "title": "AI engineer (AI & GenAI) - People Domain",
-        "company": "Decathlontechnology",
-        "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/ai-engineer-ai-genai-people-domain-paris-paris-12733",
-        "loc": "Paris, Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 83,
-        "timestamp": "2026-09-29 17:31"
+        "tejas_score": 45,
+        "timestamp": "2026-09-29 23:23"
     },
     {
         "title": "Senior AI Engineer / Technical Consultant",
@@ -165,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-29 17:31"
+        "timestamp": "2026-09-29 23:23"
     },
     {
         "title": "Senior AI Engineer / Technical Consultant",
@@ -177,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-29 17:31"
+        "timestamp": "2026-09-29 23:23"
     },
     {
         "title": "Staff Security Engineer, Incident Response",
@@ -189,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-29 17:31"
+        "timestamp": "2026-09-29 23:23"
     },
     {
         "title": "Sr. Forward Deployed Engineer - FDE (Fullstack)",
@@ -201,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-09-29 17:31"
+        "timestamp": "2026-09-29 23:23"
     },
     {
         "title": "Solutions Architect - CPG and Manufacturing",
@@ -213,18 +177,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-29 17:31"
-    },
-    {
-        "title": "Manager, Field Engineering - Polish speaker",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.ch/jobs/companies/databricks/manager-field-engineering-polish-speaker-zurich-419286",
-        "loc": "Z\u00fcrich",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-29 17:31"
+        "timestamp": "2026-09-29 23:23"
     }
 ]
