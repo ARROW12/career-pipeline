@@ -1,5 +1,41 @@
 [
     {
+        "title": "Senior Software Engineer (AI Platform)",
+        "company": "smartlyio",
+        "url": "https://www.arbeitnow.com/jobs/companies/smartlyio/senior-software-engineer-ai-platform-berlin-berlin-351549",
+        "loc": "Berlin, Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-09-30 23:23"
+    },
+    {
+        "title": "Principal Enterprise Architect",
+        "company": "celonis",
+        "url": "https://www.arbeitnow.com/jobs/companies/celonis/principal-enterprise-architect-munich-289878",
+        "loc": "Munich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-09-30 23:23"
+    },
+    {
+        "title": "Senior Software Engineer - Platform & Infrastructure (f/m/d)",
+        "company": "Holoplot",
+        "url": "https://www.arbeitnow.com/jobs/companies/holoplot/senior-software-engineer-platform-infrastructure-berlin-56536",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-09-30 23:23"
+    },
+    {
         "title": "Senior Data Scientist (f/m/d)",
         "company": "Awin",
         "url": "https://www.arbeitnow.com/jobs/companies/awin/senior-data-scientist-berlin-berlin-hannover-lower-saxony-munchen-bavaria-476088",
@@ -9,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 54,
-        "timestamp": "2026-09-30 17:29"
+        "timestamp": "2026-09-30 23:23"
     },
     {
         "title": "Application Security Engineer (f/m/d)",
@@ -21,79 +57,115 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-30 17:29"
+        "timestamp": "2026-09-30 23:23"
     },
     {
-        "title": "Software Engineer",
-        "company": "sonymusicentertainment",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/sonymusicentertainment/software-engineer-london-331553",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-30 17:29"
-    },
-    {
-        "title": "Senior Backend Engineer",
-        "company": "9Fin",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/9fin/senior-backend-engineer-london-248386",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-30 17:29"
-    },
-    {
-        "title": "Sr. Manager, Data Science",
-        "company": "Hims And Hers",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/hims-and-hers/remote-sr-manager-data-science-295537",
-        "loc": "UK Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-30 17:29"
-    },
-    {
-        "title": "Lead Site Reliability Engineer",
-        "company": "Zego",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/zego/lead-site-reliability-engineer-london-390774",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-30 17:29"
-    },
-    {
-        "title": "Partner Solutions Architect - MSP",
-        "company": "wizinc",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/wizinc/partner-solutions-architect-msp-451933",
+        "title": "Freelance- Lead Developer- Technical Lead",
+        "company": "Jack Morton Worldwide",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/jack-morton-worldwide/freelance-lead-developer-technical-lead-181763",
         "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-30 17:29"
+        "timestamp": "2026-09-30 23:23"
     },
     {
-        "title": "Software Engineer I",
-        "company": "tripadvisor",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/tripadvisor/software-engineer-i-oxford-203689",
-        "loc": "Oxford",
+        "title": "Freelance Data Engineer (Security)",
+        "company": "Jack Morton Worldwide",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/jack-morton-worldwide/freelance-data-engineer-security-321132",
+        "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-30 17:29"
+        "tejas_score": 53,
+        "timestamp": "2026-09-30 23:23"
+    },
+    {
+        "title": "Software Engineer II - SMS International",
+        "company": "Klaviyo",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/klaviyo/software-engineer-ii-sms-international-london-294516",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-09-30 23:23"
+    },
+    {
+        "title": "Senior Data Scientist",
+        "company": "Ripple",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/ripple/senior-data-scientist-london-465493",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-09-30 23:23"
+    },
+    {
+        "title": "Senior Data Engineer, Mi-Platform",
+        "company": "Point72",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/point72/senior-data-engineer-mi-platform-420475",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-09-30 23:23"
+    },
+    {
+        "title": "Data Platform Engineer I",
+        "company": "Kraken",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/data-platform-engineer-i-london-203571",
+        "loc": "London, UK",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 84,
+        "timestamp": "2026-09-30 23:23"
+    },
+    {
+        "title": "Senior Software Engineer - Data",
+        "company": "Elliptic",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/elliptic/senior-software-engineer-data-london-united-kingdom-244722",
+        "loc": "London, United Kingdom",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 77,
+        "timestamp": "2026-09-30 23:23"
+    },
+    {
+        "title": "Lead DevOps Engineer",
+        "company": "Elliptic",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/elliptic/lead-devops-engineer-london-united-kingdom-465095",
+        "loc": "London, United Kingdom",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 84,
+        "timestamp": "2026-09-30 23:23"
+    },
+    {
+        "title": "DevOps Engineer",
+        "company": "Quantexa",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/quantexa/devops-engineer-london-107727",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-09-30 23:23"
     },
     {
         "title": "Finance Data Engineer",
@@ -105,7 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 100,
-        "timestamp": "2026-09-30 17:29"
+        "timestamp": "2026-09-30 23:23"
     },
     {
         "title": "AI Systems Engineer",
@@ -117,7 +189,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-30 17:29"
+        "timestamp": "2026-09-30 23:23"
     },
     {
         "title": "Senior AI Engineer / Technical Consultant",
@@ -129,7 +201,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-30 17:29"
+        "timestamp": "2026-09-30 23:23"
     },
     {
         "title": "Senior AI Engineer / Technical Consultant",
@@ -141,6 +213,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-30 17:29"
+        "timestamp": "2026-09-30 23:23"
     }
 ]
