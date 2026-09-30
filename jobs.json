@@ -1,15 +1,63 @@
 [
     {
-        "title": "Senior Business Intelligence Lead (all genders)",
-        "company": "Reev",
-        "url": "https://www.arbeitnow.com/jobs/companies/reev/senior-business-intelligence-lead-all-genders-munchen-132770",
-        "loc": "M\u00fcnchen",
+        "title": "Werkstudent - SAP Business Intelligence BI (m/w/d)",
+        "company": "cbs Corporate Business Solutions GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/werkstudent-sap-business-intelligence-bi-dortmund-58393",
+        "loc": "Dortmund, Nordrhein-Westfalen, Deutschland",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-09-29 23:23"
+        "tejas_score": 69,
+        "timestamp": "2026-09-30 03:42"
+    },
+    {
+        "title": "DATA ENGINEER*IN (m/w/d)",
+        "company": "Ramp106 Gmbh",
+        "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/data-engineerin-hamburg-457628",
+        "loc": "Hamburg",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-09-30 03:42"
+    },
+    {
+        "title": "ANALYTICS ENGINEER*IN (m/w/d)",
+        "company": "Ramp106 Gmbh",
+        "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/analytics-engineerin-hamburg-188368",
+        "loc": "Hamburg",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-09-30 03:42"
+    },
+    {
+        "title": "Associate Director, Data Science and Solutions, UK",
+        "company": "wppmedia",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/associate-director-data-science-and-solutions-uk-london-271360",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-09-30 03:42"
+    },
+    {
+        "title": "Safety Engineer - Free Tier Abuse",
+        "company": "Elevenlabs",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/safety-engineer-free-tier-abuse-united-kingdom-492014",
+        "loc": "United Kingdom",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-09-30 03:42"
     },
     {
         "title": "Data Engineer",
@@ -21,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 69,
-        "timestamp": "2026-09-29 23:23"
+        "timestamp": "2026-09-30 03:42"
     },
     {
         "title": "Head of Data Engineering",
@@ -33,43 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-09-29 23:23"
-    },
-    {
-        "title": "Lead Data Engineer",
-        "company": "Xdesign",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/xdesign/lead-data-engineer-edinburgh-414772",
-        "loc": "Edinburgh",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 69,
-        "timestamp": "2026-09-29 23:23"
-    },
-    {
-        "title": "Golang Backend Engineer, Financial Product Fraud",
-        "company": "Deliveroo ",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/golang-backend-engineer-financial-product-fraud-london-441888",
-        "loc": "London, England, United Kingdom",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-29 23:23"
-    },
-    {
-        "title": "Senior Backend Engineer",
-        "company": "Plentific",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/plentific/senior-backend-engineer-london-80845",
-        "loc": "London Office",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-29 23:23"
+        "timestamp": "2026-09-30 03:42"
     },
     {
         "title": "Data Engineer AWS - Recrutement international (Montr\u00e9al)",
@@ -81,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 100,
-        "timestamp": "2026-09-29 23:23"
+        "timestamp": "2026-09-30 03:42"
     },
     {
         "title": "Data Engineer Databricks (Azure) - Recrutement international (Montr\u00e9al)",
@@ -93,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 82,
-        "timestamp": "2026-09-29 23:23"
+        "timestamp": "2026-09-30 03:42"
     },
     {
         "title": "Analytics Engineer",
@@ -105,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-29 23:23"
+        "timestamp": "2026-09-30 03:42"
     },
     {
         "title": "AI Systems Engineer",
@@ -117,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-29 23:23"
+        "timestamp": "2026-09-30 03:42"
     },
     {
         "title": "Senior AI Engineer / Technical Consultant",
@@ -129,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-29 23:23"
+        "timestamp": "2026-09-30 03:42"
     },
     {
         "title": "Senior AI Engineer / Technical Consultant",
@@ -141,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-29 23:23"
+        "timestamp": "2026-09-30 03:42"
     },
     {
         "title": "Staff Security Engineer, Incident Response",
@@ -153,30 +165,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-29 23:23"
-    },
-    {
-        "title": "Sr. Forward Deployed Engineer - FDE (Fullstack)",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.ch/jobs/companies/databricks/sr-forward-deployed-engineer-fde-fullstack-zurich-124736",
-        "loc": "Z\u00fcrich",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-09-29 23:23"
-    },
-    {
-        "title": "Solutions Architect - CPG and Manufacturing",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.ch/jobs/companies/databricks/solutions-architect-cpg-and-manufacturing-zurich-79219",
-        "loc": "Z\u00fcrich",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-29 23:23"
+        "timestamp": "2026-09-30 03:42"
     }
 ]
