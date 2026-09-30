@@ -1,135 +1,111 @@
 [
     {
-        "title": "Data Platform Engineer (f/m/d)",
-        "company": "Ruhrdot Gmbh",
-        "url": "https://www.arbeitnow.com/jobs/companies/ruhrdot-gmbh/data-platform-engineer-headoffice-onsite-hybrid-essen-199884",
-        "loc": "Headoffice Onsite/Hybrid Essen",
+        "title": "Senior Data Scientist (f/m/d)",
+        "company": "Awin",
+        "url": "https://www.arbeitnow.com/jobs/companies/awin/senior-data-scientist-berlin-berlin-hannover-lower-saxony-munchen-bavaria-476088",
+        "loc": "Berlin, Berlin; Hannover, Lower Saxony; M\u00fcnchen, Bavaria",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-09-30 10:14"
+        "tejas_score": 54,
+        "timestamp": "2026-09-30 17:29"
     },
     {
-        "title": "(Senior) Consultant Data & AI (f/m/d)",
-        "company": "Ruhrdot Gmbh",
-        "url": "https://www.arbeitnow.com/jobs/companies/ruhrdot-gmbh/senior-consultant-data-ai-headoffice-onsite-hybrid-essen-267344",
-        "loc": "Headoffice Onsite/Hybrid Essen",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 84,
-        "timestamp": "2026-09-30 10:14"
-    },
-    {
-        "title": "Forward Deployed Engineer - AI",
-        "company": "Avepoint",
-        "url": "https://www.arbeitnow.com/jobs/companies/avepoint/forward-deployed-engineer-ai-munich-135948",
-        "loc": "Munich",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-09-30 10:14"
-    },
-    {
-        "title": "Sr. Solutions Architect",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/sr-solutions-architect-london-292548",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 83,
-        "timestamp": "2026-09-30 10:14"
-    },
-    {
-        "title": "Specialist Solutions Architect (SSA) (Cloud Infrastructure)",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/specialist-solutions-architect-ssa-cloud-infrastructure-london-232129",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 91,
-        "timestamp": "2026-09-30 10:14"
-    },
-    {
-        "title": "Senior Cloud Platform DevOps Engineer",
-        "company": "Framestore",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/framestore/senior-cloud-platform-devops-engineer-london-432314",
-        "loc": "London, Greater London, United Kingdom",
+        "title": "Application Security Engineer (f/m/d)",
+        "company": "Awin",
+        "url": "https://www.arbeitnow.com/jobs/companies/awin/application-security-engineer-berlin-berlin-436324",
+        "loc": "Berlin, Berlin",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-09-30 10:14"
+        "timestamp": "2026-09-30 17:29"
     },
     {
-        "title": "Associate Director, Data Science and Solutions, UK",
-        "company": "wppmedia",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/associate-director-data-science-and-solutions-uk-london-271360",
+        "title": "Software Engineer",
+        "company": "sonymusicentertainment",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/sonymusicentertainment/software-engineer-london-331553",
         "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-30 10:14"
+        "timestamp": "2026-09-30 17:29"
     },
     {
-        "title": "Senior Data Analyst - Acquisition \ud83c\uddeb\ud83c\uddf7",
-        "company": "Pennylane SAS",
-        "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/senior-data-analyst-acquisition-paris-52093",
-        "loc": "Paris",
+        "title": "Senior Backend Engineer",
+        "company": "9Fin",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/9fin/senior-backend-engineer-london-248386",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-30 10:14"
+        "tejas_score": 45,
+        "timestamp": "2026-09-30 17:29"
     },
     {
-        "title": "Data Reliability Engineer",
-        "company": "Resilience Care",
-        "url": "https://www.arbeitnow.fr/jobs/companies/resilience-care/remote-data-reliability-engineer-481695",
-        "loc": "France - Remote",
+        "title": "Sr. Manager, Data Science",
+        "company": "Hims And Hers",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/hims-and-hers/remote-sr-manager-data-science-295537",
+        "loc": "UK Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-09-30 17:29"
+    },
+    {
+        "title": "Lead Site Reliability Engineer",
+        "company": "Zego",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/zego/lead-site-reliability-engineer-london-390774",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-09-30 17:29"
+    },
+    {
+        "title": "Partner Solutions Architect - MSP",
+        "company": "wizinc",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/wizinc/partner-solutions-architect-msp-451933",
+        "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-09-30 10:14"
+        "timestamp": "2026-09-30 17:29"
     },
     {
-        "title": "Data Engineer AWS - Recrutement international (Montr\u00e9al)",
-        "company": "agileDSS",
-        "url": "https://www.arbeitnow.fr/jobs/companies/agiledss/data-engineer-aws-recrutement-international-montreal-france-204641",
-        "loc": "France, \u00cele-de-France, France",
+        "title": "Software Engineer I",
+        "company": "tripadvisor",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/tripadvisor/software-engineer-i-oxford-203689",
+        "loc": "Oxford",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-09-30 17:29"
+    },
+    {
+        "title": "Finance Data Engineer",
+        "company": "Voodoo",
+        "url": "https://www.arbeitnow.fr/jobs/companies/voodoo/finance-data-engineer-paris-498896",
+        "loc": "Paris",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 100,
-        "timestamp": "2026-09-30 10:14"
-    },
-    {
-        "title": "Data Engineer Databricks (Azure) - Recrutement international (Montr\u00e9al)",
-        "company": "agileDSS",
-        "url": "https://www.arbeitnow.fr/jobs/companies/agiledss/data-engineer-databricks-azure-recrutement-international-montreal-france-284911",
-        "loc": "France, \u00cele-de-France, France",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 82,
-        "timestamp": "2026-09-30 10:14"
+        "timestamp": "2026-09-30 17:29"
     },
     {
         "title": "AI Systems Engineer",
@@ -141,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-30 10:14"
+        "timestamp": "2026-09-30 17:29"
     },
     {
         "title": "Senior AI Engineer / Technical Consultant",
@@ -153,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-30 10:14"
+        "timestamp": "2026-09-30 17:29"
     },
     {
         "title": "Senior AI Engineer / Technical Consultant",
@@ -165,6 +141,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-30 10:14"
+        "timestamp": "2026-09-30 17:29"
     }
 ]
