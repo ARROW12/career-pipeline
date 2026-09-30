@@ -1,39 +1,75 @@
 [
     {
-        "title": "Werkstudent - SAP Business Intelligence BI (m/w/d)",
-        "company": "cbs Corporate Business Solutions GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/werkstudent-sap-business-intelligence-bi-dortmund-58393",
-        "loc": "Dortmund, Nordrhein-Westfalen, Deutschland",
+        "title": "Data Platform Engineer (f/m/d)",
+        "company": "Ruhrdot Gmbh",
+        "url": "https://www.arbeitnow.com/jobs/companies/ruhrdot-gmbh/data-platform-engineer-headoffice-onsite-hybrid-essen-199884",
+        "loc": "Headoffice Onsite/Hybrid Essen",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 69,
-        "timestamp": "2026-09-30 03:42"
+        "tejas_score": 68,
+        "timestamp": "2026-09-30 10:14"
     },
     {
-        "title": "DATA ENGINEER*IN (m/w/d)",
-        "company": "Ramp106 Gmbh",
-        "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/data-engineerin-hamburg-457628",
-        "loc": "Hamburg",
+        "title": "(Senior) Consultant Data & AI (f/m/d)",
+        "company": "Ruhrdot Gmbh",
+        "url": "https://www.arbeitnow.com/jobs/companies/ruhrdot-gmbh/senior-consultant-data-ai-headoffice-onsite-hybrid-essen-267344",
+        "loc": "Headoffice Onsite/Hybrid Essen",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-09-30 03:42"
+        "tejas_score": 84,
+        "timestamp": "2026-09-30 10:14"
     },
     {
-        "title": "ANALYTICS ENGINEER*IN (m/w/d)",
-        "company": "Ramp106 Gmbh",
-        "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/analytics-engineerin-hamburg-188368",
-        "loc": "Hamburg",
+        "title": "Forward Deployed Engineer - AI",
+        "company": "Avepoint",
+        "url": "https://www.arbeitnow.com/jobs/companies/avepoint/forward-deployed-engineer-ai-munich-135948",
+        "loc": "Munich",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-30 03:42"
+        "tejas_score": 68,
+        "timestamp": "2026-09-30 10:14"
+    },
+    {
+        "title": "Sr. Solutions Architect",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/sr-solutions-architect-london-292548",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 83,
+        "timestamp": "2026-09-30 10:14"
+    },
+    {
+        "title": "Specialist Solutions Architect (SSA) (Cloud Infrastructure)",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/specialist-solutions-architect-ssa-cloud-infrastructure-london-232129",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 91,
+        "timestamp": "2026-09-30 10:14"
+    },
+    {
+        "title": "Senior Cloud Platform DevOps Engineer",
+        "company": "Framestore",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/framestore/senior-cloud-platform-devops-engineer-london-432314",
+        "loc": "London, Greater London, United Kingdom",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-09-30 10:14"
     },
     {
         "title": "Associate Director, Data Science and Solutions, UK",
@@ -45,43 +81,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-30 03:42"
+        "timestamp": "2026-09-30 10:14"
     },
     {
-        "title": "Safety Engineer - Free Tier Abuse",
-        "company": "Elevenlabs",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/safety-engineer-free-tier-abuse-united-kingdom-492014",
-        "loc": "United Kingdom",
+        "title": "Senior Data Analyst - Acquisition \ud83c\uddeb\ud83c\uddf7",
+        "company": "Pennylane SAS",
+        "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/senior-data-analyst-acquisition-paris-52093",
+        "loc": "Paris",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-09-30 03:42"
+        "tejas_score": 53,
+        "timestamp": "2026-09-30 10:14"
     },
     {
-        "title": "Data Engineer",
-        "company": "zetaglobal",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/zetaglobal/data-engineer-london-61023",
-        "loc": "London",
+        "title": "Data Reliability Engineer",
+        "company": "Resilience Care",
+        "url": "https://www.arbeitnow.fr/jobs/companies/resilience-care/remote-data-reliability-engineer-481695",
+        "loc": "France - Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 69,
-        "timestamp": "2026-09-30 03:42"
-    },
-    {
-        "title": "Head of Data Engineering",
-        "company": "PHMG Careers",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/phmg-careers/head-of-data-engineering-manchester-131679",
-        "loc": "Manchester, England, United Kingdom",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 84,
-        "timestamp": "2026-09-30 03:42"
+        "tejas_score": 61,
+        "timestamp": "2026-09-30 10:14"
     },
     {
         "title": "Data Engineer AWS - Recrutement international (Montr\u00e9al)",
@@ -93,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 100,
-        "timestamp": "2026-09-30 03:42"
+        "timestamp": "2026-09-30 10:14"
     },
     {
         "title": "Data Engineer Databricks (Azure) - Recrutement international (Montr\u00e9al)",
@@ -105,19 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 82,
-        "timestamp": "2026-09-30 03:42"
-    },
-    {
-        "title": "Analytics Engineer",
-        "company": "Ledger",
-        "url": "https://www.arbeitnow.fr/jobs/companies/ledger/analytics-engineer-paris-4050",
-        "loc": "Paris, France",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-30 03:42"
+        "timestamp": "2026-09-30 10:14"
     },
     {
         "title": "AI Systems Engineer",
@@ -129,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-09-30 03:42"
+        "timestamp": "2026-09-30 10:14"
     },
     {
         "title": "Senior AI Engineer / Technical Consultant",
@@ -141,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-30 03:42"
+        "timestamp": "2026-09-30 10:14"
     },
     {
         "title": "Senior AI Engineer / Technical Consultant",
@@ -153,18 +165,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-09-30 03:42"
-    },
-    {
-        "title": "Staff Security Engineer, Incident Response",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.ch/jobs/companies/databricks/staff-security-engineer-incident-response-168072",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-09-30 03:42"
+        "timestamp": "2026-09-30 10:14"
     }
 ]
