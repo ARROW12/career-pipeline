@@ -1,5 +1,41 @@
 [
     {
+        "title": "Senior Software Engineer (Rust) (m/f/d)",
+        "company": "Berlitz",
+        "url": "https://www.arbeitnow.com/jobs/companies/berlitz/remote-senior-software-engineer-rust-388605",
+        "loc": "Germany Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-10-01 23:38"
+    },
+    {
+        "title": "Senior AI-Native Data Engineer (f/m/x)",
+        "company": "exmox",
+        "url": "https://www.arbeitnow.com/jobs/companies/exmox/senior-ai-native-data-engineer-hamburg-447947",
+        "loc": "Hamburg",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-10-01 23:38"
+    },
+    {
+        "title": "Senior AI Data Expert (f/m/x)",
+        "company": "exmox",
+        "url": "https://www.arbeitnow.com/jobs/companies/exmox/senior-ai-data-expert-hamburg-475939",
+        "loc": "Hamburg",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-10-01 23:38"
+    },
+    {
         "title": "AWS Cloud Data Engineer (m/w/d)",
         "company": "Unigy GmbH",
         "url": "https://www.arbeitnow.com/jobs/companies/unigy-gmbh/aws-cloud-data-engineer-essen-199969",
@@ -9,31 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 66,
-        "timestamp": "2026-10-01 17:54"
-    },
-    {
-        "title": "Werkstudent Data Operations & Reporting \u2013 Power BI, Excel, SQL (m/w/d)",
-        "company": "Hela Gew\u00fcrzwerk Hermann Laue GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/hela-gewurzwerk-hermann-laue-gmbh/werkstudent-data-operations-reporting-power-bi-excel-sql-ahrensburg-300815",
-        "loc": "Ahrensburg, Schleswig-Holstein, Deutschland",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 65,
-        "timestamp": "2026-10-01 17:54"
-    },
-    {
-        "title": "Senior Machine Learning Engineer - Platform Team",
-        "company": "SumUp",
-        "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-machine-learning-engineer-platform-team-berlin-76991",
-        "loc": "Berlin, Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 54,
-        "timestamp": "2026-10-01 17:54"
+        "timestamp": "2026-10-01 23:38"
     },
     {
         "title": "Analytics Engineer",
@@ -45,55 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-10-01 17:54"
-    },
-    {
-        "title": "Golang Backend Engineer, Financial Product Fraud",
-        "company": "Deliveroo",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/golang-backend-engineer-financial-product-fraud-london-193711",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-01 17:54"
-    },
-    {
-        "title": "Senior Manager, AI/ML Engineer",
-        "company": "Baringa",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/baringa/senior-manager-ai-ml-engineer-london-199604",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-10-01 17:54"
-    },
-    {
-        "title": "Manager, Senior Platform Software Engineer",
-        "company": "Baringa",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/baringa/manager-senior-platform-software-engineer-london-203055",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-10-01 17:54"
-    },
-    {
-        "title": "Lead Data Products Engineer",
-        "company": "Baringa",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/baringa/remote-lead-data-products-engineer-330491",
-        "loc": "London; Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 60,
-        "timestamp": "2026-10-01 17:54"
+        "timestamp": "2026-10-01 23:38"
     },
     {
         "title": "Staff Software Engineer",
@@ -105,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-01 17:54"
+        "timestamp": "2026-10-01 23:38"
     },
     {
         "title": "Senior Data Engineer - Real time analytics",
@@ -117,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-10-01 17:54"
+        "timestamp": "2026-10-01 23:38"
     },
     {
         "title": "Senior Data Engineer - Real time analytics",
@@ -129,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-10-01 17:54"
+        "timestamp": "2026-10-01 23:38"
     },
     {
         "title": "Stage Data Analyst F/H",
@@ -141,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-01 17:54"
+        "timestamp": "2026-10-01 23:38"
     },
     {
         "title": "Mid Software Engineer (Python/Django) - (F/H/X) - CDI",
@@ -153,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 66,
-        "timestamp": "2026-10-01 17:54"
+        "timestamp": "2026-10-01 23:38"
     },
     {
         "title": "Engineering Manager - AI platform",
@@ -165,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-01 17:54"
+        "timestamp": "2026-10-01 23:38"
     },
     {
         "title": "AI Systems Engineer",
@@ -177,6 +141,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-01 17:54"
+        "timestamp": "2026-10-01 23:38"
     }
 ]
