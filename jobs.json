@@ -1,5 +1,41 @@
 [
     {
+        "title": "Senior Machine Learning Engineer - Platform Team",
+        "company": "sumup",
+        "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-machine-learning-engineer-platform-team-berlin-274559",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 54,
+        "timestamp": "2026-10-03 09:36"
+    },
+    {
+        "title": "Staff Data Engineer",
+        "company": "Jupus",
+        "url": "https://www.arbeitnow.com/jobs/companies/jupus/staff-data-engineer-germany-391447",
+        "loc": "Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-10-03 09:36"
+    },
+    {
+        "title": "Junior Data Engineer",
+        "company": "Reeeliance",
+        "url": "https://www.arbeitnow.com/jobs/companies/reeeliance/junior-data-engineer-hamburg-35472",
+        "loc": "Hamburg",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-03 09:36"
+    },
+    {
         "title": "Software Engineering Intern (2027 Start) - Berlin",
         "company": "databricks",
         "url": "https://www.arbeitnow.com/jobs/companies/databricks/software-engineering-intern-2027-start-berlin-57480",
@@ -9,19 +45,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-03 03:31"
+        "timestamp": "2026-10-03 09:36"
     },
     {
-        "title": "Senior DevOps Engineer (AWS + CDK)",
-        "company": "JTL-Software-GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/jtl-software-gmbh/senior-devops-engineer-aws-cdk-berlin-338465",
-        "loc": "Berlin",
+        "title": "Machine Learning Engineer",
+        "company": "Optimove",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/optimove/machine-learning-engineer-dundee-439310",
+        "loc": "Dundee",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 50,
-        "timestamp": "2026-10-03 03:31"
+        "tejas_score": 61,
+        "timestamp": "2026-10-03 09:36"
+    },
+    {
+        "title": "Staff Data Engineer",
+        "company": "MoonPay",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/moonpay/staff-data-engineer-london-hybrid-446234",
+        "loc": "London - Hybrid",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-10-03 09:36"
     },
     {
         "title": "Technical Site Reliability Engineer",
@@ -33,31 +81,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-03 03:31"
+        "timestamp": "2026-10-03 09:36"
     },
     {
-        "title": "Software Engineer",
-        "company": "spire",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/spire/software-engineer-glasgow-393268",
-        "loc": "Glasgow",
+        "title": "Senior Full Stack Engineer | AI & Security",
+        "company": "Escape",
+        "url": "https://www.arbeitnow.fr/jobs/companies/escape/senior-full-stack-engineer-ai-security-paris-308967",
+        "loc": "Paris Office",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-10-03 03:31"
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Spire",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/spire/software-engineer-glasgow-20047",
-        "loc": "Glasgow, Scotland, United Kingdom",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-10-03 03:31"
+        "tejas_score": 53,
+        "timestamp": "2026-10-03 09:36"
     },
     {
         "title": "Senior Data Analyst Backend E-commerce (f/m/d)",
@@ -69,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-10-03 03:31"
+        "timestamp": "2026-10-03 09:36"
     },
     {
         "title": "Senior AI Platform Engineer - Data Factory (f/m/d)",
@@ -81,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 54,
-        "timestamp": "2026-10-03 03:31"
+        "timestamp": "2026-10-03 09:36"
     },
     {
         "title": "AI engineer (AI & GenAI) - People Domain (f/m/d)",
@@ -93,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 83,
-        "timestamp": "2026-10-03 03:31"
+        "timestamp": "2026-10-03 09:36"
     },
     {
         "title": "Senior Software Engineer - Data Search (remote, Europe)",
@@ -105,19 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 77,
-        "timestamp": "2026-10-03 03:31"
-    },
-    {
-        "title": "AI System Engineer (F/H)",
-        "company": "ILLUIN Technology",
-        "url": "https://www.arbeitnow.fr/jobs/companies/illuin-technology/ai-system-engineer-f-h-paris-29772",
-        "loc": "Paris La D\u00e9fense",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-10-03 03:31"
+        "timestamp": "2026-10-03 09:36"
     },
     {
         "title": "AI First Data Engineer",
@@ -129,6 +153,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-03 03:31"
+        "timestamp": "2026-10-03 09:36"
     }
 ]
