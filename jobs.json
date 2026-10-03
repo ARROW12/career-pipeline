@@ -1,5 +1,41 @@
 [
     {
+        "title": "Senior Data Engineer (m/w/d)",
+        "company": "ANGEHEUERT GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/senior-data-engineer-berlin-151131",
+        "loc": "Berlin, Berlin, Deutschland",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-03 18:57"
+    },
+    {
+        "title": "Data Platform Engineer (m/w/d)",
+        "company": "ANGEHEUERT GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/data-platform-engineer-berlin-294315",
+        "loc": "Berlin, Berlin, Deutschland",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-03 18:57"
+    },
+    {
+        "title": "Senior Software Engineer - Data Search (remote, Europe)",
+        "company": "Modash",
+        "url": "https://www.arbeitnow.com/jobs/companies/modash/senior-software-engineer-data-search-remote-europe-berlin-241433",
+        "loc": "Berlin, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 77,
+        "timestamp": "2026-10-03 18:57"
+    },
+    {
         "title": "Machine Learning Engineer",
         "company": "Optimove",
         "url": "https://www.arbeitnow.co.uk/jobs/companies/optimove/machine-learning-engineer-dundee-439310",
@@ -9,31 +45,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-03 15:37"
+        "timestamp": "2026-10-03 18:57"
     },
     {
-        "title": "Staff Data Engineer",
-        "company": "MoonPay",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/moonpay/staff-data-engineer-london-hybrid-446234",
-        "loc": "London - Hybrid",
+        "title": "Lead Software Engineer - Paris",
+        "company": "Artefactjobs",
+        "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/lead-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-358876",
+        "loc": "9th arrondissement of Paris, 75009, Paris",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-10-03 15:37"
-    },
-    {
-        "title": "Technical Site Reliability Engineer",
-        "company": "Andurilindustries",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/technical-site-reliability-engineer-london-128076",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-10-03 15:37"
+        "tejas_score": 61,
+        "timestamp": "2026-10-03 18:57"
     },
     {
         "title": "Senior Data Scientist ( Economist) - Supply",
@@ -45,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-03 15:37"
+        "timestamp": "2026-10-03 18:57"
     },
     {
         "title": "Senior Full Stack Engineer | AI & Security",
@@ -57,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-03 15:37"
+        "timestamp": "2026-10-03 18:57"
     },
     {
         "title": "Senior Data Analyst Backend E-commerce (f/m/d)",
@@ -69,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-10-03 15:37"
+        "timestamp": "2026-10-03 18:57"
     },
     {
         "title": "Senior AI Platform Engineer - Data Factory (f/m/d)",
@@ -81,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 54,
-        "timestamp": "2026-10-03 15:37"
+        "timestamp": "2026-10-03 18:57"
     },
     {
         "title": "AI engineer (AI & GenAI) - People Domain (f/m/d)",
@@ -93,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 83,
-        "timestamp": "2026-10-03 15:37"
+        "timestamp": "2026-10-03 18:57"
     },
     {
         "title": "Senior Software Engineer - Data Search (remote, Europe)",
@@ -105,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 77,
-        "timestamp": "2026-10-03 15:37"
+        "timestamp": "2026-10-03 18:57"
     },
     {
         "title": "AI First Data Engineer",
@@ -117,6 +141,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-03 15:37"
+        "timestamp": "2026-10-03 18:57"
     }
 ]
