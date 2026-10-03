@@ -1,5 +1,17 @@
 [
     {
+        "title": "Software Engineering Intern (2027 Start) - Berlin",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.com/jobs/companies/databricks/software-engineering-intern-2027-start-berlin-57480",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-10-03 03:31"
+    },
+    {
         "title": "Senior DevOps Engineer (AWS + CDK)",
         "company": "JTL-Software-GmbH",
         "url": "https://www.arbeitnow.com/jobs/companies/jtl-software-gmbh/senior-devops-engineer-aws-cdk-berlin-338465",
@@ -9,31 +21,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-10-02 23:31"
+        "timestamp": "2026-10-03 03:31"
     },
     {
-        "title": "Backend Engineer - Agentic AI (m/w/d)",
-        "company": "Getpress Gmbh",
-        "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-backend-engineer-agentic-ai-berlin-371659",
-        "loc": "Berlin",
+        "title": "Technical Site Reliability Engineer",
+        "company": "Andurilindustries",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/technical-site-reliability-engineer-london-128076",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-02 23:31"
-    },
-    {
-        "title": "AI Product Engineer (m/w/d)",
-        "company": "Getpress Gmbh",
-        "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-ai-product-engineer-berlin-20956",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-02 23:31"
+        "tejas_score": 46,
+        "timestamp": "2026-10-03 03:31"
     },
     {
         "title": "Software Engineer",
@@ -45,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-10-02 23:31"
+        "timestamp": "2026-10-03 03:31"
     },
     {
         "title": "Software Engineer",
@@ -57,31 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-10-02 23:31"
-    },
-    {
-        "title": "Senior Data Engineer",
-        "company": "Kpler",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/senior-data-engineer-united-kingdom-129561",
-        "loc": "United Kingdom",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-10-02 23:31"
-    },
-    {
-        "title": "Sr. Manager, Security Engineering",
-        "company": "wizinc",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/wizinc/sr-manager-security-engineering-424413",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-10-02 23:31"
+        "timestamp": "2026-10-03 03:31"
     },
     {
         "title": "Senior Data Analyst Backend E-commerce (f/m/d)",
@@ -93,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-10-02 23:31"
+        "timestamp": "2026-10-03 03:31"
     },
     {
         "title": "Senior AI Platform Engineer - Data Factory (f/m/d)",
@@ -105,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 54,
-        "timestamp": "2026-10-02 23:31"
+        "timestamp": "2026-10-03 03:31"
     },
     {
         "title": "AI engineer (AI & GenAI) - People Domain (f/m/d)",
@@ -117,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 83,
-        "timestamp": "2026-10-02 23:31"
+        "timestamp": "2026-10-03 03:31"
     },
     {
         "title": "Senior Software Engineer - Data Search (remote, Europe)",
@@ -129,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 77,
-        "timestamp": "2026-10-02 23:31"
+        "timestamp": "2026-10-03 03:31"
     },
     {
         "title": "AI System Engineer (F/H)",
@@ -141,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-02 23:31"
+        "timestamp": "2026-10-03 03:31"
     },
     {
         "title": "AI First Data Engineer",
@@ -153,6 +129,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-02 23:31"
+        "timestamp": "2026-10-03 03:31"
     }
 ]
