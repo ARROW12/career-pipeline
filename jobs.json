@@ -1,5 +1,41 @@
 [
     {
+        "title": "Senior Software Engineer \u2013 IT Risk & Pricing (m/f/d)",
+        "company": "Auxmoney Gmbh",
+        "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-software-engineer-it-risk-pricing-494487",
+        "loc": "Remote / D\u00fcsseldorf",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-10-04 18:58"
+    },
+    {
+        "title": "Data Platform Engineer (f/m/d)",
+        "company": "Ruhrdot Gmbh",
+        "url": "https://www.arbeitnow.com/jobs/companies/ruhrdot-gmbh/data-platform-engineer-headoffice-onsite-hybrid-essen-488015",
+        "loc": "Headoffice Onsite/Hybrid Essen",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-10-04 18:58"
+    },
+    {
+        "title": "(Senior) Consultant Data & AI (f/m/d)",
+        "company": "Ruhrdot Gmbh",
+        "url": "https://www.arbeitnow.com/jobs/companies/ruhrdot-gmbh/senior-consultant-data-ai-headoffice-onsite-hybrid-essen-307385",
+        "loc": "Headoffice Onsite/Hybrid Essen",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 84,
+        "timestamp": "2026-10-04 18:58"
+    },
+    {
         "title": "Senior ML Engineer | Kimchi (LLM Inference Optimization)",
         "company": "Kimchi",
         "url": "https://www.arbeitnow.com/jobs/companies/kimchi/senior-ml-engineer-kimchi-llm-inference-optimization-195944",
@@ -9,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 73,
-        "timestamp": "2026-10-04 13:37"
+        "timestamp": "2026-10-04 18:58"
     },
     {
         "title": "Senior Systems Engineer Linux (m/w/d)",
@@ -21,79 +57,43 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-04 13:37"
+        "timestamp": "2026-10-04 18:58"
     },
     {
-        "title": "DATA ENGINEER*IN (m/w/d)",
-        "company": "Ramp106 Gmbh",
-        "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/data-engineerin-hamburg-26838",
-        "loc": "Hamburg",
+        "title": "Senior ML Engineer | Kimchi (LLM Inference Optimization)",
+        "company": "Kimchi",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/kimchi/senior-ml-engineer-kimchi-llm-inference-optimization-20848",
+        "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-10-04 13:37"
+        "tejas_score": 73,
+        "timestamp": "2026-10-04 18:58"
     },
     {
-        "title": "ANALYTICS ENGINEER*IN (m/w/d)",
-        "company": "Ramp106 Gmbh",
-        "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/analytics-engineerin-hamburg-321554",
-        "loc": "Hamburg",
+        "title": "Senior Consultant (Data Engineer)",
+        "company": "Coeo",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/coeo/senior-consultant-data-engineer-reading-472423",
+        "loc": "Reading",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-04 13:37"
+        "tejas_score": 77,
+        "timestamp": "2026-10-04 18:58"
     },
     {
-        "title": "VP, Senior Backend Developer - Blockchain Infrastructure",
-        "company": "Galaxydigitalservices",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/galaxydigitalservices/vp-senior-backend-developer-blockchain-infrastructure-london-372605",
-        "loc": "London",
+        "title": "Senior ML Engineer | Kimchi (LLM Inference Optimization)",
+        "company": "Kimchi",
+        "url": "https://www.arbeitnow.fr/jobs/companies/kimchi/senior-ml-engineer-kimchi-llm-inference-optimization-160265",
+        "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-04 13:37"
-    },
-    {
-        "title": "Principal Software Engineer (Hybrid)",
-        "company": "8Thlightrebuild",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/8thlightrebuild/principal-software-engineer-hybrid-london-269993",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-04 13:37"
-    },
-    {
-        "title": "Lead Software Engineer (Hybrid)",
-        "company": "8Thlightrebuild",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/8thlightrebuild/lead-software-engineer-hybrid-london-451791",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-04 13:37"
-    },
-    {
-        "title": "Senior Consultant/Manager, AI/ML Engineer",
-        "company": "Baringa",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/baringa/senior-consultant-manager-ai-ml-engineer-london-158112",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-10-04 13:37"
+        "tejas_score": 73,
+        "timestamp": "2026-10-04 18:58"
     },
     {
         "title": "Lead Software Engineer - Paris",
@@ -105,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-04 13:37"
+        "timestamp": "2026-10-04 18:58"
     },
     {
         "title": "Lead Software Engineer - Paris",
@@ -117,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-04 13:37"
+        "timestamp": "2026-10-04 18:58"
     },
     {
         "title": "Senior Software Engineer - Paris",
@@ -129,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-04 13:37"
+        "timestamp": "2026-10-04 18:58"
     },
     {
         "title": "Manager - Data ScientistH/F",
@@ -141,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-04 13:37"
+        "timestamp": "2026-10-04 18:58"
     },
     {
         "title": "Lead Software Engineer - Paris",
@@ -153,30 +153,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-04 13:37"
-    },
-    {
-        "title": "Senior Data Scientist ( Economist) - Supply",
-        "company": "Backmarket",
-        "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/senior-data-scientist-economist-supply-paris-34186",
-        "loc": "Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-04 13:37"
-    },
-    {
-        "title": "Senior Full Stack Engineer | AI & Security",
-        "company": "Escape",
-        "url": "https://www.arbeitnow.fr/jobs/companies/escape/senior-full-stack-engineer-ai-security-paris-308967",
-        "loc": "Paris Office",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-04 13:37"
+        "timestamp": "2026-10-04 18:58"
     }
 ]
