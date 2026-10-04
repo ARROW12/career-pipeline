@@ -9,7 +9,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-04 18:58"
+        "timestamp": "2026-10-04 22:40"
     },
     {
         "title": "Data Platform Engineer (f/m/d)",
@@ -21,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-10-04 18:58"
+        "timestamp": "2026-10-04 22:40"
     },
     {
         "title": "(Senior) Consultant Data & AI (f/m/d)",
@@ -33,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-10-04 18:58"
+        "timestamp": "2026-10-04 22:40"
     },
     {
         "title": "Senior ML Engineer | Kimchi (LLM Inference Optimization)",
@@ -45,19 +45,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 73,
-        "timestamp": "2026-10-04 18:58"
+        "timestamp": "2026-10-04 22:40"
     },
     {
-        "title": "Senior Systems Engineer Linux (m/w/d)",
-        "company": "JACOB Elektronik GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/jacob-elektronik-gmbh/senior-systems-engineer-linux-karlsruhe-434369",
-        "loc": "Karlsruhe",
+        "title": "Software Engineering Intern (2027 Start) - London",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/software-engineering-intern-2027-start-london-297332",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-04 18:58"
+        "tejas_score": 45,
+        "timestamp": "2026-10-04 22:40"
     },
     {
         "title": "Senior ML Engineer | Kimchi (LLM Inference Optimization)",
@@ -69,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 73,
-        "timestamp": "2026-10-04 18:58"
+        "timestamp": "2026-10-04 22:40"
     },
     {
         "title": "Senior Consultant (Data Engineer)",
@@ -81,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 77,
-        "timestamp": "2026-10-04 18:58"
+        "timestamp": "2026-10-04 22:40"
     },
     {
         "title": "Senior ML Engineer | Kimchi (LLM Inference Optimization)",
@@ -93,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 73,
-        "timestamp": "2026-10-04 18:58"
+        "timestamp": "2026-10-04 22:40"
     },
     {
         "title": "Lead Software Engineer - Paris",
@@ -105,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-04 18:58"
+        "timestamp": "2026-10-04 22:40"
     },
     {
         "title": "Lead Software Engineer - Paris",
@@ -117,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-04 18:58"
+        "timestamp": "2026-10-04 22:40"
     },
     {
         "title": "Senior Software Engineer - Paris",
@@ -129,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-04 18:58"
+        "timestamp": "2026-10-04 22:40"
     },
     {
         "title": "Manager - Data ScientistH/F",
@@ -141,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-04 18:58"
+        "timestamp": "2026-10-04 22:40"
     },
     {
         "title": "Lead Software Engineer - Paris",
@@ -153,6 +153,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-04 18:58"
+        "timestamp": "2026-10-04 22:40"
     }
 ]
