@@ -9,7 +9,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-03 22:37"
+        "timestamp": "2026-10-04 04:00"
     },
     {
         "title": "Senior Software Engineer (m/w/d) \u2013 Backend & Data Infrastructure",
@@ -21,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-03 22:37"
+        "timestamp": "2026-10-04 04:00"
     },
     {
         "title": "ML Data Engineer (m/f/d) - Sensor Data & Pipelines",
@@ -33,19 +33,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-03 22:37"
+        "timestamp": "2026-10-04 04:00"
     },
     {
-        "title": "Data Engineer Working Student (m/w/d)",
-        "company": "Trusteq Gmbh",
-        "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-engineer-working-student-koln-328889",
-        "loc": "K\u00f6ln",
+        "title": "Principal Software Engineer (Hybrid)",
+        "company": "8Thlightrebuild",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/8thlightrebuild/principal-software-engineer-hybrid-london-269993",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-03 22:37"
+        "tejas_score": 53,
+        "timestamp": "2026-10-04 04:00"
+    },
+    {
+        "title": "Lead Software Engineer (Hybrid)",
+        "company": "8Thlightrebuild",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/8thlightrebuild/lead-software-engineer-hybrid-london-451791",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-04 04:00"
     },
     {
         "title": "Senior Consultant/Manager, AI/ML Engineer",
@@ -57,7 +69,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-10-03 22:37"
+        "timestamp": "2026-10-04 04:00"
+    },
+    {
+        "title": "Senior Software Engineer - Paris",
+        "company": "Hcompany",
+        "url": "https://www.arbeitnow.fr/jobs/companies/hcompany/senior-software-engineer-paris-346059",
+        "loc": "Hybrid Paris",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-04 04:00"
+    },
+    {
+        "title": "Manager - Data ScientistH/F",
+        "company": "capco",
+        "url": "https://www.arbeitnow.fr/jobs/companies/capco/manager-data-scientisth-f-90927",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-10-04 04:00"
     },
     {
         "title": "Lead Software Engineer - Paris",
@@ -69,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-03 22:37"
+        "timestamp": "2026-10-04 04:00"
     },
     {
         "title": "Senior Data Scientist ( Economist) - Supply",
@@ -81,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-03 22:37"
+        "timestamp": "2026-10-04 04:00"
     },
     {
         "title": "Senior Full Stack Engineer | AI & Security",
@@ -93,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-03 22:37"
+        "timestamp": "2026-10-04 04:00"
     },
     {
         "title": "Senior Data Analyst Backend E-commerce (f/m/d)",
@@ -105,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-10-03 22:37"
+        "timestamp": "2026-10-04 04:00"
     },
     {
         "title": "Senior AI Platform Engineer - Data Factory (f/m/d)",
@@ -117,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 54,
-        "timestamp": "2026-10-03 22:37"
+        "timestamp": "2026-10-04 04:00"
     },
     {
         "title": "AI engineer (AI & GenAI) - People Domain (f/m/d)",
@@ -129,19 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 83,
-        "timestamp": "2026-10-03 22:37"
-    },
-    {
-        "title": "Senior Software Engineer - Data Search (remote, Europe)",
-        "company": "Modash",
-        "url": "https://www.arbeitnow.fr/jobs/companies/modash/senior-software-engineer-data-search-remote-europe-paris-389109",
-        "loc": "Paris, France",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 77,
-        "timestamp": "2026-10-03 22:37"
+        "timestamp": "2026-10-04 04:00"
     },
     {
         "title": "AI First Data Engineer",
@@ -153,6 +177,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-03 22:37"
+        "timestamp": "2026-10-04 04:00"
     }
 ]
