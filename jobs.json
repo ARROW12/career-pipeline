@@ -1,135 +1,75 @@
 [
     {
-        "title": "Data Scientist - Product Analytics",
-        "company": "ElevenLabs",
-        "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-data-scientist-product-analytics-431439",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-06 04:33"
-    },
-    {
-        "title": "Manager - Tax Data Analytics Engineer",
-        "company": "Wolt - English",
-        "url": "https://www.arbeitnow.com/jobs/companies/wolt-english/manager-tax-data-analytics-engineer-berlin-257915",
-        "loc": "Berlin, Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-10-06 04:33"
-    },
-    {
-        "title": "Senior Solutions Architect - Data & AI Engineer (f/m/d, 4-Days-Week), German Speaking",
-        "company": "Auvaria",
-        "url": "https://www.arbeitnow.com/jobs/companies/auvaria/senior-solutions-architect-data-ai-engineer-4-days-week-german-speaking-munchen-237552",
-        "loc": "M\u00fcnchen",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-10-06 04:33"
-    },
-    {
-        "title": "Senior Solutions Architect - Data & AI Engineer (f/m/d, 4-Days-Week), German Speaking",
-        "company": "Auvaria",
-        "url": "https://www.arbeitnow.com/jobs/companies/auvaria/senior-solutions-architect-data-ai-engineer-4-days-week-german-speaking-hamburg-132306",
-        "loc": "Hamburg",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-10-06 04:33"
-    },
-    {
-        "title": "Founding Data Scientist",
-        "company": "Almedia",
-        "url": "https://www.arbeitnow.com/jobs/companies/almedia/founding-data-scientist-berlin-415008",
+        "title": "Data Scientist / Data Engineer",
+        "company": "80 Beats Medical GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/80-beats-medical-gmbh/data-scientist-data-engineer-berlin-214593",
         "loc": "Berlin",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-06 04:33"
+        "tejas_score": 69,
+        "timestamp": "2026-10-06 14:41"
     },
     {
-        "title": "Senior Data Analyst - Experimentation & A/B Testing (f/m/d)",
-        "company": "adjoe",
-        "url": "https://www.arbeitnow.com/jobs/companies/adjoe/senior-data-analyst-experimentation-a-b-testing-hamburg-450983",
-        "loc": "Hamburg",
+        "title": "Data Engineer, App SW",
+        "company": "Wayve",
+        "url": "https://www.arbeitnow.com/jobs/companies/wayve/data-engineer-app-sw-leonberg-germany-170914",
+        "loc": "Leonberg, Germany",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-06 04:33"
+        "tejas_score": 54,
+        "timestamp": "2026-10-06 14:41"
     },
     {
-        "title": "AI Solution Architect (m/w/d)",
-        "company": "virtual7 GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-114020",
-        "loc": "Homeoffice",
+        "title": "Data Engineer, Data Quality & Provenance",
+        "company": "Wayve",
+        "url": "https://www.arbeitnow.com/jobs/companies/wayve/data-engineer-data-quality-provenance-leonberg-germany-63504",
+        "loc": "Leonberg, Germany",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-10-06 04:33"
+        "tejas_score": 46,
+        "timestamp": "2026-10-06 14:41"
     },
     {
-        "title": "(Senior) Oracle Data Warehouse / BI-Developer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-oracle-data-warehouse-bi-developer-karlsruhe-261403",
-        "loc": "Karlsruhe, Baden-W\u00fcrttemberg, Deutschland",
+        "title": "Senior Data Scientist / ML Engineer (Forecasting) | NDA",
+        "company": "Gt Hq",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gt-hq/senior-data-scientist-ml-engineer-forecasting-nda-high-wycombe-16448",
+        "loc": "UK - Hybrid",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 84,
+        "timestamp": "2026-10-06 14:41"
+    },
+    {
+        "title": "Analytics Engineer",
+        "company": "Axle Careers",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/axle-careers/analytics-engineer-london-385200",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-06 04:33"
+        "timestamp": "2026-10-06 14:41"
     },
     {
-        "title": "Manager - Tax Data Analytics Engineer",
-        "company": "Wolt - English",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/wolt-english/manager-tax-data-analytics-engineer-london-245667",
-        "loc": "London, England, United Kingdom",
+        "title": "Software Engineer, Data Enrichment Platform",
+        "company": "Wayve",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/wayve/software-engineer-data-enrichment-platform-london-united-kingdom-466604",
+        "loc": "London, United Kingdom",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-06 04:33"
-    },
-    {
-        "title": "Polyglot Engineer (JS/Python/Go)",
-        "company": "YLD.com",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/yldcom/polyglot-engineer-js-python-go-london-134432",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 81,
-        "timestamp": "2026-10-06 04:33"
-    },
-    {
-        "title": "Sales Engineer, EMEA",
-        "company": "Astronomer",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/astronomer/sales-engineer-emea-london-472664",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-10-06 04:33"
+        "timestamp": "2026-10-06 14:41"
     },
     {
         "title": "Staff AI Engineer - Architecture skills",
@@ -141,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-06 04:33"
+        "timestamp": "2026-10-06 14:41"
     },
     {
         "title": "Staff Software Engineer",
@@ -153,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-06 04:33"
+        "timestamp": "2026-10-06 14:41"
     },
     {
         "title": "Senior Data Engineer - Real time analytics",
@@ -165,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-10-06 04:33"
+        "timestamp": "2026-10-06 14:41"
     },
     {
         "title": "Senior Data Engineer - Real time analytics",
@@ -177,18 +117,18 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-10-06 04:33"
+        "timestamp": "2026-10-06 14:41"
     },
     {
-        "title": "Senior ML Engineer | Kimchi (LLM Inference Optimization)",
-        "company": "Kimchi",
-        "url": "https://www.arbeitnow.fr/jobs/companies/kimchi/senior-ml-engineer-kimchi-llm-inference-optimization-160265",
-        "loc": "Remote",
+        "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
+        "company": "CodeForAI",
+        "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-code-trainer-python-web-full-stack-2091149",
+        "loc": "USA, UK, India, Australia, Ireland, New Zealand, Philippines, Pakistan, Singapore, Mexico",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 73,
-        "timestamp": "2026-10-06 04:33"
+        "tejas_score": 50,
+        "timestamp": "2026-10-06 14:41"
     }
 ]
