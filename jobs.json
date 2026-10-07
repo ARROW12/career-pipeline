@@ -1,111 +1,51 @@
 [
     {
-        "title": "Sr. Solutions Engineer",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.com/jobs/companies/databricks/sr-solutions-engineer-munich-499541",
-        "loc": "Munich",
+        "title": "Senior Software Engineer / Software Architect \u2013 AI & Cloud (m/w/d)",
+        "company": "ProcuVia AG",
+        "url": "https://www.arbeitnow.com/jobs/companies/procuvia-ag/senior-software-engineer-software-architect-ai-cloud-dusseldorf-32323",
+        "loc": "D\u00fcsseldorf",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-07 03:59"
+        "timestamp": "2026-10-07 10:57"
     },
     {
-        "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.com/jobs/companies/databricks/senior-solutions-architect-edw-enterprise-data-warehouse-migrations-berlin-munich-125987",
-        "loc": "Berlin; Munich",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 91,
-        "timestamp": "2026-10-07 03:59"
-    },
-    {
-        "title": "Senior Software Engineer - AI Platform",
-        "company": "smartlyio",
-        "url": "https://www.arbeitnow.com/jobs/companies/smartlyio/senior-software-engineer-ai-platform-berlin-berlin-48987",
-        "loc": "Berlin, Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-07 03:59"
-    },
-    {
-        "title": "Manager - Tax Data Analytics Engineer",
-        "company": "wolt",
-        "url": "https://www.arbeitnow.com/jobs/companies/wolt/manager-tax-data-analytics-engineer-berlin-154947",
+        "title": "Senior DevOps Engineer (AWS + CDK)",
+        "company": "JTL-Software-GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/jtl-software-gmbh/senior-devops-engineer-aws-cdk-berlin-406495",
         "loc": "Berlin",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-10-07 03:59"
+        "tejas_score": 50,
+        "timestamp": "2026-10-07 10:57"
     },
     {
-        "title": "Senior Software Engineer - AI Platform",
-        "company": "Smartly",
-        "url": "https://www.arbeitnow.com/jobs/companies/smartly/senior-software-engineer-ai-platform-berlin-181739",
-        "loc": "Berlin, Germany",
+        "title": "AI Product Engineer - ClickStack",
+        "company": "Senior Software Engineer (Typescript / Backend) - AI/ML",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/senior-software-engineer-typescript-backend-aiml/ai-product-engineer-clickstack-united-kingdom-184634",
+        "loc": "United Kingdom",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-10-07 10:57"
+    },
+    {
+        "title": "Senior Data Scientist",
+        "company": "Zilch",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/zilch/senior-data-scientist-london-40791",
+        "loc": "Zilch UK",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-07 03:59"
-    },
-    {
-        "title": "Senior Solution / Data Architect (Azure Databricks)",
-        "company": "Callista Group AG",
-        "url": "https://www.arbeitnow.com/jobs/companies/callista-group-ag/senior-solution-data-architect-azure-databricks-frankfurt-349824",
-        "loc": "Frankfurt, Hessen, Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 66,
-        "timestamp": "2026-10-07 03:59"
-    },
-    {
-        "title": "Senior Power BI Developer / BI Engineer (Azure Databricks)",
-        "company": "Callista Group AG",
-        "url": "https://www.arbeitnow.com/jobs/companies/callista-group-ag/senior-power-bi-developer-bi-engineer-azure-databricks-frankfurt-337584",
-        "loc": "Frankfurt, Hessen, Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 58,
-        "timestamp": "2026-10-07 03:59"
-    },
-    {
-        "title": "Senior Data Engineer (Azure Databricks)",
-        "company": "Callista Group AG",
-        "url": "https://www.arbeitnow.com/jobs/companies/callista-group-ag/senior-data-engineer-azure-databricks-frankfurt-401851",
-        "loc": "Frankfurt, Hessen, Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 82,
-        "timestamp": "2026-10-07 03:59"
-    },
-    {
-        "title": "Senior Test & Data Quality Engineer (Azure Databricks)",
-        "company": "Callista Group AG",
-        "url": "https://www.arbeitnow.com/jobs/companies/callista-group-ag/senior-test-data-quality-engineer-azure-databricks-frankfurt-239611",
-        "loc": "Frankfurt, Hessen, Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 66,
-        "timestamp": "2026-10-07 03:59"
+        "timestamp": "2026-10-07 10:57"
     },
     {
         "title": "Senior Software Engineer (Node.js, TypeScript)",
@@ -117,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-07 03:59"
+        "timestamp": "2026-10-07 10:57"
     },
     {
         "title": "Data Engineer - GCP",
@@ -129,31 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-07 03:59"
-    },
-    {
-        "title": "Manager - Tax Data Analytics Engineer",
-        "company": "wolt",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/wolt/manager-tax-data-analytics-engineer-london-321690",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-10-07 03:59"
-    },
-    {
-        "title": "Senior Data Engineer - Real time analytics",
-        "company": "Aircall",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/aircall/senior-data-engineer-real-time-analytics-london-office-25569",
-        "loc": "London Office",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-10-07 03:59"
+        "timestamp": "2026-10-07 10:57"
     },
     {
         "title": "Analytics Engineer (Contract)",
@@ -165,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-07 03:59"
+        "timestamp": "2026-10-07 10:57"
     },
     {
         "title": "Data Scientist - Intern",
@@ -177,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 92,
-        "timestamp": "2026-10-07 03:59"
+        "timestamp": "2026-10-07 10:57"
     },
     {
         "title": "Data Scientist - Product Analytics",
@@ -189,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-07 03:59"
+        "timestamp": "2026-10-07 10:57"
     },
     {
         "title": "AI First Data Engineer",
@@ -201,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-07 03:59"
+        "timestamp": "2026-10-07 10:57"
     },
     {
         "title": "Senior Full Stack Engineer",
@@ -213,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-07 03:59"
+        "timestamp": "2026-10-07 10:57"
     },
     {
         "title": "Forward Deployed Engineer",
@@ -225,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-07 03:59"
+        "timestamp": "2026-10-07 10:57"
     },
     {
         "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
@@ -237,6 +153,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-10-07 03:59"
+        "timestamp": "2026-10-07 10:57"
     }
 ]
