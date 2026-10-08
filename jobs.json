@@ -9,7 +9,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-07 23:59"
+        "timestamp": "2026-10-08 05:40"
     },
     {
         "title": "Senior Product Engineer (Full Stack)",
@@ -21,67 +21,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-07 23:59"
+        "timestamp": "2026-10-08 05:40"
     },
     {
-        "title": "Senior Data Scientist (m/f/d)",
-        "company": "Sport Alliance GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/sport-alliance-gmbh/remote-senior-data-scientist-52368",
-        "loc": "Remote (Germany)",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-10-07 23:59"
-    },
-    {
-        "title": "Pre-Sales Senior Engineer",
-        "company": "Kaluza",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/pre-sales-senior-engineer-london-132565",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-10-07 23:59"
-    },
-    {
-        "title": "Full Stack Software Engineer",
-        "company": "Octopus Energy Group",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/full-stack-software-engineer-london-gb-431160",
-        "loc": "London (GB)",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-07 23:59"
-    },
-    {
-        "title": "Senior Backend Engineer (Data serving)",
-        "company": "Pleo",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/senior-backend-engineer-data-serving-united-kingdom-156964",
+        "title": "Analytics Engineer",
+        "company": "Elevenlabs",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/analytics-engineer-united-kingdom-394479",
         "loc": "United Kingdom",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-10-07 23:59"
-    },
-    {
-        "title": "Senior Backend Engineer (Data serving)",
-        "company": "Pleo",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/senior-backend-engineer-data-serving-london-265493",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-10-07 23:59"
+        "tejas_score": 53,
+        "timestamp": "2026-10-08 05:40"
     },
     {
         "title": "Senior Platform Engineer",
@@ -93,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-07 23:59"
+        "timestamp": "2026-10-08 05:40"
     },
     {
         "title": "Data Scientist - Product Analytics",
@@ -105,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-07 23:59"
+        "timestamp": "2026-10-08 05:40"
     },
     {
         "title": "AI First Data Engineer",
@@ -117,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-07 23:59"
+        "timestamp": "2026-10-08 05:40"
     },
     {
         "title": "Senior Full Stack Engineer",
@@ -129,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-07 23:59"
+        "timestamp": "2026-10-08 05:40"
     },
     {
         "title": "Forward Deployed Engineer",
@@ -141,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-07 23:59"
+        "timestamp": "2026-10-08 05:40"
     },
     {
         "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
@@ -153,6 +105,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-10-07 23:59"
+        "timestamp": "2026-10-08 05:40"
     }
 ]
