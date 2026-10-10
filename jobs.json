@@ -9,7 +9,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-10 04:02"
+        "timestamp": "2026-10-10 14:10"
     },
     {
         "title": "(Senior) Oracle Data Warehouse / BI-Developer (m/w/d)",
@@ -21,103 +21,115 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-10 04:02"
+        "timestamp": "2026-10-10 14:10"
     },
     {
-        "title": "Senior Solutions Architect - Data & AI Engineer (f/m/d, 4-Days-Week), German Speaking",
-        "company": "Auvaria",
-        "url": "https://www.arbeitnow.com/jobs/companies/auvaria/senior-solutions-architect-data-ai-engineer-4-days-week-german-speaking-munchen-142757",
-        "loc": "M\u00fcnchen",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-10-10 04:02"
-    },
-    {
-        "title": "Senior Solutions Architect - Data & AI Engineer (f/m/d, 4-Days-Week), German Speaking",
-        "company": "Auvaria",
-        "url": "https://www.arbeitnow.com/jobs/companies/auvaria/senior-solutions-architect-data-ai-engineer-4-days-week-german-speaking-hamburg-339280",
-        "loc": "Hamburg",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-10-10 04:02"
-    },
-    {
-        "title": "Senior Data Scientist",
-        "company": "Duck Duck Go",
-        "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-data-scientist-180788",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-10-10 04:02"
-    },
-    {
-        "title": "Forward Deployed Engineer (m/w/d)",
-        "company": "Nerdware",
-        "url": "https://www.arbeitnow.com/jobs/companies/nerdware/forward-deployed-engineer-nurnberg-317360",
-        "loc": "N\u00fcrnberg",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-10-10 04:02"
-    },
-    {
-        "title": "AI Engineer (Agentic)",
-        "company": "Coreweaveu",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/ai-engineer-agentic-london-473164",
+        "title": "Sr. Software Engineer - Customer Facing Applied AI",
+        "company": "Addepar1",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/sr-software-engineer-customer-facing-applied-ai-london-293510",
         "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-10 04:02"
+        "timestamp": "2026-10-10 14:10"
     },
     {
-        "title": "Full Stack Engineer: Retail Media",
-        "company": "Constructor",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-full-stack-engineer-retail-media-240947",
-        "loc": "Remote - EMEA",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-10-10 04:02"
-    },
-    {
-        "title": "Lead Software Engineer",
-        "company": "sonymusicentertainment",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/sonymusicentertainment/lead-software-engineer-london-121656",
+        "title": "Software Engineer - Customer Facing Applied AI",
+        "company": "Addepar1",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/software-engineer-customer-facing-applied-ai-london-4796",
         "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-10 04:02"
+        "tejas_score": 53,
+        "timestamp": "2026-10-10 14:10"
     },
     {
-        "title": "Software Engineer-II  Backend",
-        "company": "Socure",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/socure/software-engineer-ii-backend-london-51219",
-        "loc": "Hybrid - London",
+        "title": "Senior Backend Engineer",
+        "company": "Wheely",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/senior-backend-engineer-london-347627",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-10 04:02"
+        "tejas_score": 53,
+        "timestamp": "2026-10-10 14:10"
+    },
+    {
+        "title": "Backend Engineer (Mid/Senior), Marketplace",
+        "company": "Wheely",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/backend-engineer-mid-senior-marketplace-london-471405",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-10 14:10"
+    },
+    {
+        "title": "Backend Engineer (Mid/Senior), Maps",
+        "company": "Wheely",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/backend-engineer-mid-senior-maps-london-457636",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-10 14:10"
+    },
+    {
+        "title": "Backend Engineer",
+        "company": "Wheely",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/backend-engineer-london-183481",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-10 14:10"
+    },
+    {
+        "title": "Solutions Architect f/m/d",
+        "company": "apaleo",
+        "url": "https://www.arbeitnow.fr/jobs/companies/apaleo/solutions-architect-paris-186580",
+        "loc": "Paris",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-10-10 14:10"
+    },
+    {
+        "title": "Senior Data Platform Engineer",
+        "company": "Swile",
+        "url": "https://www.arbeitnow.fr/jobs/companies/swile/senior-data-platform-engineer-montpellier-france-182669",
+        "loc": "Montpellier, France",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 91,
+        "timestamp": "2026-10-10 14:10"
+    },
+    {
+        "title": "Senior Data Platform Engineer",
+        "company": "Swile",
+        "url": "https://www.arbeitnow.fr/jobs/companies/swile/senior-data-platform-engineer-paris-france-151903",
+        "loc": "Paris, France",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 91,
+        "timestamp": "2026-10-10 14:10"
     },
     {
         "title": "Staff Software Engineer",
@@ -129,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-10 04:02"
+        "timestamp": "2026-10-10 14:10"
     },
     {
         "title": "Senior Data Engineer - Real time analytics",
@@ -141,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-10-10 04:02"
+        "timestamp": "2026-10-10 14:10"
     },
     {
         "title": "Senior Data Engineer - Real time analytics",
@@ -153,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-10-10 04:02"
+        "timestamp": "2026-10-10 14:10"
     },
     {
         "title": "Scientist II Machine Learning Engineer (LLM & GenAI Specialist)",
@@ -165,7 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-10-10 04:02"
+        "timestamp": "2026-10-10 14:10"
     },
     {
         "title": "Full Stack Developer - Data Factory (f/m/d)",
@@ -177,19 +189,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-10-10 04:02"
-    },
-    {
-        "title": "Senior Software Engineer, Understanding",
-        "company": "Algolia",
-        "url": "https://www.arbeitnow.fr/jobs/companies/algolia/senior-software-engineer-understanding-paris-429300",
-        "loc": "Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-10 04:02"
+        "timestamp": "2026-10-10 14:10"
     },
     {
         "title": "Senior Data Scientist",
@@ -201,7 +201,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-10 04:02"
+        "timestamp": "2026-10-10 14:10"
     },
     {
         "title": "Sr. Delivery Solutions Architect",
@@ -213,7 +213,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 60,
-        "timestamp": "2026-10-10 04:02"
+        "timestamp": "2026-10-10 14:10"
     },
     {
         "title": "Delivery Solutions Architect",
@@ -225,7 +225,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 75,
-        "timestamp": "2026-10-10 04:02"
+        "timestamp": "2026-10-10 14:10"
     },
     {
         "title": "Cloud Platform Engineer",
@@ -237,7 +237,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-10 04:02"
+        "timestamp": "2026-10-10 14:10"
     },
     {
         "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
@@ -249,6 +249,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-10-10 04:02"
+        "timestamp": "2026-10-10 14:10"
     }
 ]
