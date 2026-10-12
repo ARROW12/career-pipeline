@@ -1,5 +1,17 @@
 [
     {
+        "title": "DevOps Engineer (m/w/d)",
+        "company": "ICT Digital Solutions",
+        "url": "https://www.arbeitnow.com/jobs/companies/ict-digital-solutions/devops-engineer-munich-369656",
+        "loc": "Munich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-10-12 04:02"
+    },
+    {
         "title": "Junior Data Engineer",
         "company": "Reeeliance",
         "url": "https://www.arbeitnow.com/jobs/companies/reeeliance/junior-data-engineer-hamburg-186381",
@@ -9,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-11 23:24"
+        "timestamp": "2026-10-12 04:02"
     },
     {
         "title": "Senior Solutions Engineer (Presales, Technical, Data and AI)",
@@ -21,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 99,
-        "timestamp": "2026-10-11 23:24"
+        "timestamp": "2026-10-12 04:02"
     },
     {
         "title": "Data Engineer",
@@ -33,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-10-11 23:24"
+        "timestamp": "2026-10-12 04:02"
     },
     {
         "title": "Analytics Engineer",
@@ -45,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 54,
-        "timestamp": "2026-10-11 23:24"
+        "timestamp": "2026-10-12 04:02"
     },
     {
         "title": "Senior Data Scientist",
@@ -57,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-11 23:24"
+        "timestamp": "2026-10-12 04:02"
     },
     {
         "title": "Solutions Architect Greenfield Enterprise France",
@@ -69,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 75,
-        "timestamp": "2026-10-11 23:24"
+        "timestamp": "2026-10-12 04:02"
     },
     {
         "title": "Solutions Architect f/m/d",
@@ -81,31 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-11 23:24"
-    },
-    {
-        "title": "Senior Data Platform Engineer",
-        "company": "Swile",
-        "url": "https://www.arbeitnow.fr/jobs/companies/swile/senior-data-platform-engineer-montpellier-france-182669",
-        "loc": "Montpellier, France",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 91,
-        "timestamp": "2026-10-11 23:24"
-    },
-    {
-        "title": "Senior Data Platform Engineer",
-        "company": "Swile",
-        "url": "https://www.arbeitnow.fr/jobs/companies/swile/senior-data-platform-engineer-paris-france-151903",
-        "loc": "Paris, France",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 91,
-        "timestamp": "2026-10-11 23:24"
+        "timestamp": "2026-10-12 04:02"
     },
     {
         "title": "AI First Data Engineer",
@@ -117,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-11 23:24"
+        "timestamp": "2026-10-12 04:02"
     },
     {
         "title": "Senior Full Stack Engineer",
@@ -129,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-11 23:24"
+        "timestamp": "2026-10-12 04:02"
     },
     {
         "title": "Senior Data Scientist",
@@ -141,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-11 23:24"
+        "timestamp": "2026-10-12 04:02"
     },
     {
         "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
@@ -153,6 +141,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-10-11 23:24"
+        "timestamp": "2026-10-12 04:02"
     }
 ]
