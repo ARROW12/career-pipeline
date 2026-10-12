@@ -1,27 +1,75 @@
 [
     {
-        "title": "DevOps Engineer (m/w/d)",
-        "company": "ICT Digital Solutions",
-        "url": "https://www.arbeitnow.com/jobs/companies/ict-digital-solutions/devops-engineer-munich-369656",
-        "loc": "Munich",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-10-12 04:02"
-    },
-    {
-        "title": "Junior Data Engineer",
-        "company": "Reeeliance",
-        "url": "https://www.arbeitnow.com/jobs/companies/reeeliance/junior-data-engineer-hamburg-186381",
-        "loc": "Hamburg",
+        "title": "Senior Software Engineer (m/w/d) \u2013 Backend & Data Infrastructure",
+        "company": "autonomous-teaming",
+        "url": "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/senior-software-engineer-backend-data-infrastructure-munich-deu-291808",
+        "loc": "Munich (DEU)",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-12 04:02"
+        "timestamp": "2026-10-12 17:17"
+    },
+    {
+        "title": "ML Data Engineer (m/f/d) - Sensor Data & Pipelines",
+        "company": "autonomous-teaming",
+        "url": "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/ml-data-engineer-sensor-data-pipelines-munich-deu-110732",
+        "loc": "Munich (DEU)",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-10-12 17:17"
+    },
+    {
+        "title": "Python Engineer \u2013 Web Crawling & Data Extraction (m/f/d)",
+        "company": "Certivity",
+        "url": "https://www.arbeitnow.com/jobs/companies/certivity/python-engineer-web-crawling-data-extraction-munchen-hq-492504",
+        "loc": "M\u00fcnchen - HQ",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 66,
+        "timestamp": "2026-10-12 17:17"
+    },
+    {
+        "title": "Senior Data Engineer | Betty CA",
+        "company": "Bettyjobboard",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/bettyjobboard/senior-data-engineer-betty-ca-london-438162",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-10-12 17:17"
+    },
+    {
+        "title": "Lead Data Analyst",
+        "company": "Gopuff",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gopuff/lead-data-analyst-london-england-248556",
+        "loc": "London, England",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-10-12 17:17"
+    },
+    {
+        "title": "Senior Consulting Engineer",
+        "company": "mongodb",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/mongodb/senior-consulting-engineer-181770",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-10-12 17:17"
     },
     {
         "title": "Senior Solutions Engineer (Presales, Technical, Data and AI)",
@@ -33,19 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 99,
-        "timestamp": "2026-10-12 04:02"
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Map",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/map/data-engineer-london-355127",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-10-12 04:02"
+        "timestamp": "2026-10-12 17:17"
     },
     {
         "title": "Analytics Engineer",
@@ -57,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 54,
-        "timestamp": "2026-10-12 04:02"
+        "timestamp": "2026-10-12 17:17"
     },
     {
         "title": "Senior Data Scientist",
@@ -69,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-12 04:02"
+        "timestamp": "2026-10-12 17:17"
     },
     {
         "title": "Solutions Architect Greenfield Enterprise France",
@@ -81,19 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 75,
-        "timestamp": "2026-10-12 04:02"
-    },
-    {
-        "title": "Solutions Architect f/m/d",
-        "company": "apaleo",
-        "url": "https://www.arbeitnow.fr/jobs/companies/apaleo/solutions-architect-paris-186580",
-        "loc": "Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-10-12 04:02"
+        "timestamp": "2026-10-12 17:17"
     },
     {
         "title": "AI First Data Engineer",
@@ -105,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-12 04:02"
+        "timestamp": "2026-10-12 17:17"
     },
     {
         "title": "Senior Full Stack Engineer",
@@ -117,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-12 04:02"
+        "timestamp": "2026-10-12 17:17"
     },
     {
         "title": "Senior Data Scientist",
@@ -129,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-12 04:02"
+        "timestamp": "2026-10-12 17:17"
     },
     {
         "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
@@ -141,6 +165,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-10-12 04:02"
+        "timestamp": "2026-10-12 17:17"
     }
 ]
