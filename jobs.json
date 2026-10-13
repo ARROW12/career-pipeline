@@ -1,39 +1,63 @@
 [
     {
-        "title": "Senior Software Engineer (m/w/d) \u2013 Backend & Data Infrastructure",
-        "company": "autonomous-teaming",
-        "url": "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/senior-software-engineer-backend-data-infrastructure-munich-deu-291808",
-        "loc": "Munich (DEU)",
+        "title": "Forward Deployed Engineer (all genders) - Remote Germany or Hungary",
+        "company": "Linro",
+        "url": "https://www.arbeitnow.com/jobs/companies/linro/forward-deployed-engineer-all-genders-remote-germany-or-hungary-361239",
+        "loc": "Germany",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-12 17:17"
+        "timestamp": "2026-10-13 01:46"
     },
     {
-        "title": "ML Data Engineer (m/f/d) - Sensor Data & Pipelines",
-        "company": "autonomous-teaming",
-        "url": "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/ml-data-engineer-sensor-data-pipelines-munich-deu-110732",
-        "loc": "Munich (DEU)",
+        "title": "SRE / Platform Engineer (all genders) - Remote Germany",
+        "company": "Linro",
+        "url": "https://www.arbeitnow.com/jobs/companies/linro/sre-platform-engineer-all-genders-remote-germany-325756",
+        "loc": "Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-13 01:46"
+    },
+    {
+        "title": "DATA ENGINEER*IN (m/w/d)",
+        "company": "Ramp106 Gmbh",
+        "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/data-engineerin-hamburg-406234",
+        "loc": "Hamburg",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-10-13 01:46"
+    },
+    {
+        "title": "ANALYTICS ENGINEER*IN (m/w/d)",
+        "company": "Ramp106 Gmbh",
+        "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/analytics-engineerin-hamburg-5761",
+        "loc": "Hamburg",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-12 17:17"
+        "timestamp": "2026-10-13 01:46"
     },
     {
-        "title": "Python Engineer \u2013 Web Crawling & Data Extraction (m/f/d)",
-        "company": "Certivity",
-        "url": "https://www.arbeitnow.com/jobs/companies/certivity/python-engineer-web-crawling-data-extraction-munchen-hq-492504",
-        "loc": "M\u00fcnchen - HQ",
+        "title": "Head of Commercial Analytics",
+        "company": "Octopus Energy Group",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/head-of-commercial-analytics-london-gb-24470",
+        "loc": "London (GB)",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 66,
-        "timestamp": "2026-10-12 17:17"
+        "tejas_score": 99,
+        "timestamp": "2026-10-13 01:46"
     },
     {
         "title": "Senior Data Engineer | Betty CA",
@@ -45,43 +69,43 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-12 17:17"
+        "timestamp": "2026-10-13 01:46"
     },
     {
-        "title": "Lead Data Analyst",
-        "company": "Gopuff",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/gopuff/lead-data-analyst-london-england-248556",
-        "loc": "London, England",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-12 17:17"
-    },
-    {
-        "title": "Senior Consulting Engineer",
-        "company": "mongodb",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/mongodb/senior-consulting-engineer-181770",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-12 17:17"
-    },
-    {
-        "title": "Senior Solutions Engineer (Presales, Technical, Data and AI)",
+        "title": "Sr. Forward Deployed Engineer",
         "company": "databricks",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-solutions-engineer-presales-technical-data-and-ai-london-179805",
-        "loc": "London",
+        "url": "https://www.arbeitnow.fr/jobs/companies/databricks/sr-forward-deployed-engineer-paris-18150",
+        "loc": "Paris",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 99,
-        "timestamp": "2026-10-12 17:17"
+        "tejas_score": 68,
+        "timestamp": "2026-10-13 01:46"
+    },
+    {
+        "title": "Senior Data Engineer (x/f/m)",
+        "company": "Doctolib",
+        "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/senior-data-engineer-paris-paris-87219",
+        "loc": "Paris, Paris",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-13 01:46"
+    },
+    {
+        "title": "Staff Machine Learning Engineer for AI Engines",
+        "company": "Qonto",
+        "url": "https://www.arbeitnow.fr/jobs/companies/qonto/staff-machine-learning-engineer-for-ai-engines-paris-286199",
+        "loc": "Paris",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-13 01:46"
     },
     {
         "title": "Analytics Engineer",
@@ -93,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 54,
-        "timestamp": "2026-10-12 17:17"
+        "timestamp": "2026-10-13 01:46"
     },
     {
         "title": "Senior Data Scientist",
@@ -105,19 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-12 17:17"
-    },
-    {
-        "title": "Solutions Architect Greenfield Enterprise France",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.fr/jobs/companies/databricks/solutions-architect-greenfield-enterprise-france-paris-368148",
-        "loc": "Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 75,
-        "timestamp": "2026-10-12 17:17"
+        "timestamp": "2026-10-13 01:46"
     },
     {
         "title": "AI First Data Engineer",
@@ -129,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-12 17:17"
+        "timestamp": "2026-10-13 01:46"
     },
     {
         "title": "Senior Full Stack Engineer",
@@ -141,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-12 17:17"
+        "timestamp": "2026-10-13 01:46"
     },
     {
         "title": "Senior Data Scientist",
@@ -153,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-12 17:17"
+        "timestamp": "2026-10-13 01:46"
     },
     {
         "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
@@ -165,6 +177,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-10-12 17:17"
+        "timestamp": "2026-10-13 01:46"
     }
 ]
