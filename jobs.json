@@ -1,147 +1,87 @@
 [
     {
-        "title": "DevOps Engineer (m/w/d)",
-        "company": "ICT Digital Solutions",
-        "url": "https://www.arbeitnow.com/jobs/companies/ict-digital-solutions/devops-engineer-munich-365971",
-        "loc": "Munich",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-10-13 11:21"
-    },
-    {
-        "title": "Senior Sales Engineer",
-        "company": "Artemis",
-        "url": "https://www.arbeitnow.com/jobs/companies/artemis/remote-senior-sales-engineer-450949",
+        "title": "Senior Software Engineer",
+        "company": "Nopan",
+        "url": "https://www.arbeitnow.com/jobs/companies/nopan/remote-senior-software-engineer-423367",
         "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-13 11:21"
+        "tejas_score": 46,
+        "timestamp": "2026-10-13 18:47"
     },
     {
-        "title": "Computer Vision & AI Engineer - Interceptor C\u2011UAS (m/f/d)",
-        "company": "Quantum-Systems GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/computer-vision-ai-engineer-interceptor-cuas-wessling-20456",
-        "loc": "Wessling, Bayern, Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-13 11:21"
-    },
-    {
-        "title": "(Senior) GenAI Engineer (f/m/d)",
-        "company": "Trusted Shops SE (DE)",
-        "url": "https://www.arbeitnow.com/jobs/companies/trusted-shops-se-de/remote-senior-genai-engineer-berlin-101879",
-        "loc": "Remote job",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 60,
-        "timestamp": "2026-10-13 11:21"
-    },
-    {
-        "title": "Senior Data Analyst (f/m/x)",
-        "company": "exmox GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/exmox-gmbh/senior-data-analyst-hamburg-120579",
-        "loc": "Hamburg",
+        "title": "Senior Data Scientist",
+        "company": "Spring Health",
+        "url": "https://www.arbeitnow.com/jobs/companies/spring-health/remote-senior-data-scientist-304274",
+        "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-13 11:21"
+        "timestamp": "2026-10-13 18:47"
     },
     {
-        "title": "Sr. Forward Deployed Engineer",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.fr/jobs/companies/databricks/sr-forward-deployed-engineer-paris-18150",
-        "loc": "Paris",
+        "title": "AI Platform Engineer (m/w/d)",
+        "company": "ANGEHEUERT GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-ai-platform-engineer-koln-155430",
+        "loc": "Homeoffice",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-10-13 11:21"
+        "tejas_score": 84,
+        "timestamp": "2026-10-13 18:47"
     },
     {
-        "title": "Senior Data Engineer (x/f/m)",
-        "company": "Doctolib",
-        "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/senior-data-engineer-paris-paris-87219",
-        "loc": "Paris, Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-13 11:21"
-    },
-    {
-        "title": "Staff Machine Learning Engineer for AI Engines",
-        "company": "Qonto",
-        "url": "https://www.arbeitnow.fr/jobs/companies/qonto/staff-machine-learning-engineer-for-ai-engines-paris-286199",
-        "loc": "Paris",
+        "title": "Senior Software Engineer - Platform & Infrastructure (f/m/d)",
+        "company": "Holoplot",
+        "url": "https://www.arbeitnow.com/jobs/companies/holoplot/senior-software-engineer-platform-infrastructure-berlin-454192",
+        "loc": "Berlin",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-13 11:21"
+        "timestamp": "2026-10-13 18:47"
     },
     {
-        "title": "AI First Data Engineer",
-        "company": "isolutions",
-        "url": "https://www.arbeitnow.ch/jobs/companies/isolutions/ai-first-data-engineer-zurich-176144",
-        "loc": "Z\u00fcrich",
+        "title": "Senior Application Security Engineer",
+        "company": "Wave",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/wave/senior-application-security-engineer-london-124244",
+        "loc": "London, England, United Kingdom",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-13 11:21"
+        "tejas_score": 46,
+        "timestamp": "2026-10-13 18:47"
     },
     {
-        "title": "Senior Full Stack Engineer",
-        "company": "Saeki",
-        "url": "https://www.arbeitnow.ch/jobs/companies/saeki/senior-full-stack-engineer-zurich-422586",
-        "loc": "Zurich",
+        "title": "Golang Backend Engineer, Financial Product Fraud",
+        "company": "Deliveroo ",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/golang-backend-engineer-financial-product-fraud-london-229491",
+        "loc": "London, England, United Kingdom",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-13 11:21"
+        "tejas_score": 53,
+        "timestamp": "2026-10-13 18:47"
     },
     {
-        "title": "Software Engineer (Python) \u2014 Programmable Networking",
-        "company": "Telnyx",
-        "url": "https://www.arbeitnow.nl/jobs/companies/telnyx/software-engineer-python-programmable-networking-amsterdam-138589",
+        "title": "Software Engineer | Mid-Office | Python",
+        "company": "Blocktech",
+        "url": "https://www.arbeitnow.nl/jobs/companies/blocktech/software-engineer-mid-office-python-amsterdam-368556",
         "loc": "Amsterdam",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 65,
-        "timestamp": "2026-10-13 11:21"
-    },
-    {
-        "title": "Principal Infrastructure Engineer",
-        "company": "Sezzle",
-        "url": "https://www.arbeitnow.nl/jobs/companies/sezzle/remote-principal-infrastructure-engineer-393692",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-10-13 11:21"
+        "tejas_score": 50,
+        "timestamp": "2026-10-13 18:47"
     },
     {
         "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
@@ -153,6 +93,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-10-13 11:21"
+        "timestamp": "2026-10-13 18:47"
     }
 ]
