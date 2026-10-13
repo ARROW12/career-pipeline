@@ -1,75 +1,63 @@
 [
     {
-        "title": "Forward Deployed Engineer (all genders) - Remote Germany or Hungary",
-        "company": "Linro",
-        "url": "https://www.arbeitnow.com/jobs/companies/linro/forward-deployed-engineer-all-genders-remote-germany-or-hungary-361239",
-        "loc": "Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-13 01:46"
-    },
-    {
-        "title": "SRE / Platform Engineer (all genders) - Remote Germany",
-        "company": "Linro",
-        "url": "https://www.arbeitnow.com/jobs/companies/linro/sre-platform-engineer-all-genders-remote-germany-325756",
-        "loc": "Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-13 01:46"
-    },
-    {
-        "title": "DATA ENGINEER*IN (m/w/d)",
-        "company": "Ramp106 Gmbh",
-        "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/data-engineerin-hamburg-406234",
-        "loc": "Hamburg",
+        "title": "DevOps Engineer (m/w/d)",
+        "company": "ICT Digital Solutions",
+        "url": "https://www.arbeitnow.com/jobs/companies/ict-digital-solutions/devops-engineer-munich-365971",
+        "loc": "Munich",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-13 01:46"
+        "timestamp": "2026-10-13 11:21"
     },
     {
-        "title": "ANALYTICS ENGINEER*IN (m/w/d)",
-        "company": "Ramp106 Gmbh",
-        "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/analytics-engineerin-hamburg-5761",
-        "loc": "Hamburg",
+        "title": "Senior Sales Engineer",
+        "company": "Artemis",
+        "url": "https://www.arbeitnow.com/jobs/companies/artemis/remote-senior-sales-engineer-450949",
+        "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-13 01:46"
+        "timestamp": "2026-10-13 11:21"
     },
     {
-        "title": "Head of Commercial Analytics",
-        "company": "Octopus Energy Group",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/head-of-commercial-analytics-london-gb-24470",
-        "loc": "London (GB)",
+        "title": "Computer Vision & AI Engineer - Interceptor C\u2011UAS (m/f/d)",
+        "company": "Quantum-Systems GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/computer-vision-ai-engineer-interceptor-cuas-wessling-20456",
+        "loc": "Wessling, Bayern, Germany",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 99,
-        "timestamp": "2026-10-13 01:46"
+        "tejas_score": 45,
+        "timestamp": "2026-10-13 11:21"
     },
     {
-        "title": "Senior Data Engineer | Betty CA",
-        "company": "Bettyjobboard",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/bettyjobboard/senior-data-engineer-betty-ca-london-438162",
-        "loc": "London",
+        "title": "(Senior) GenAI Engineer (f/m/d)",
+        "company": "Trusted Shops SE (DE)",
+        "url": "https://www.arbeitnow.com/jobs/companies/trusted-shops-se-de/remote-senior-genai-engineer-berlin-101879",
+        "loc": "Remote job",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-10-13 01:46"
+        "tejas_score": 60,
+        "timestamp": "2026-10-13 11:21"
+    },
+    {
+        "title": "Senior Data Analyst (f/m/x)",
+        "company": "exmox GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/exmox-gmbh/senior-data-analyst-hamburg-120579",
+        "loc": "Hamburg",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-13 11:21"
     },
     {
         "title": "Sr. Forward Deployed Engineer",
@@ -81,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-10-13 01:46"
+        "timestamp": "2026-10-13 11:21"
     },
     {
         "title": "Senior Data Engineer (x/f/m)",
@@ -93,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-13 01:46"
+        "timestamp": "2026-10-13 11:21"
     },
     {
         "title": "Staff Machine Learning Engineer for AI Engines",
@@ -105,31 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-13 01:46"
-    },
-    {
-        "title": "Analytics Engineer",
-        "company": "Alma31",
-        "url": "https://www.arbeitnow.fr/jobs/companies/alma31/analytics-engineer-paris-paris-368764",
-        "loc": "Paris, Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 54,
-        "timestamp": "2026-10-13 01:46"
-    },
-    {
-        "title": "Senior Data Scientist",
-        "company": "Duck Duck Go",
-        "url": "https://www.arbeitnow.fr/jobs/companies/duck-duck-go/remote-senior-data-scientist-9830",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-10-13 01:46"
+        "timestamp": "2026-10-13 11:21"
     },
     {
         "title": "AI First Data Engineer",
@@ -141,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-13 01:46"
+        "timestamp": "2026-10-13 11:21"
     },
     {
         "title": "Senior Full Stack Engineer",
@@ -153,19 +117,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-13 01:46"
+        "timestamp": "2026-10-13 11:21"
     },
     {
-        "title": "Senior Data Scientist",
-        "company": "Duck Duck Go",
-        "url": "https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-data-scientist-340621",
+        "title": "Software Engineer (Python) \u2014 Programmable Networking",
+        "company": "Telnyx",
+        "url": "https://www.arbeitnow.nl/jobs/companies/telnyx/software-engineer-python-programmable-networking-amsterdam-138589",
+        "loc": "Amsterdam",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 65,
+        "timestamp": "2026-10-13 11:21"
+    },
+    {
+        "title": "Principal Infrastructure Engineer",
+        "company": "Sezzle",
+        "url": "https://www.arbeitnow.nl/jobs/companies/sezzle/remote-principal-infrastructure-engineer-393692",
         "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-13 01:46"
+        "timestamp": "2026-10-13 11:21"
     },
     {
         "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
@@ -177,6 +153,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-10-13 01:46"
+        "timestamp": "2026-10-13 11:21"
     }
 ]
