@@ -9,7 +9,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-13 18:47"
+        "timestamp": "2026-10-13 23:33"
     },
     {
         "title": "Senior Data Scientist",
@@ -21,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-13 18:47"
+        "timestamp": "2026-10-13 23:33"
     },
     {
         "title": "AI Platform Engineer (m/w/d)",
@@ -33,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-10-13 18:47"
+        "timestamp": "2026-10-13 23:33"
     },
     {
         "title": "Senior Software Engineer - Platform & Infrastructure (f/m/d)",
@@ -45,7 +45,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-13 18:47"
+        "timestamp": "2026-10-13 23:33"
+    },
+    {
+        "title": "Lead Data Engineer",
+        "company": "LiveScore Group ",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/livescore-group/lead-data-engineer-london-84834",
+        "loc": "London, England, United Kingdom",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-10-13 23:33"
     },
     {
         "title": "Senior Application Security Engineer",
@@ -57,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-13 18:47"
+        "timestamp": "2026-10-13 23:33"
     },
     {
         "title": "Golang Backend Engineer, Financial Product Fraud",
@@ -69,7 +81,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-13 18:47"
+        "timestamp": "2026-10-13 23:33"
+    },
+    {
+        "title": "Senior Site Reliability Engineer",
+        "company": "planetlabs",
+        "url": "https://www.arbeitnow.nl/jobs/companies/planetlabs/senior-site-reliability-engineer-haarlem-119963",
+        "loc": "Haarlem",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-10-13 23:33"
     },
     {
         "title": "Software Engineer | Mid-Office | Python",
@@ -81,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-10-13 18:47"
+        "timestamp": "2026-10-13 23:33"
     },
     {
         "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
@@ -93,6 +117,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-10-13 18:47"
+        "timestamp": "2026-10-13 23:33"
     }
 ]
