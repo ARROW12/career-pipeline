@@ -1,75 +1,135 @@
 [
     {
-        "title": "Senior Scientific Data Engineer",
-        "company": "Tetrascience",
-        "url": "https://www.arbeitnow.com/jobs/companies/tetrascience/remote-senior-scientific-data-engineer-germany-163831",
-        "loc": "Germany",
+        "title": "Head of Software Engineering (d/f/m)",
+        "company": "orderbird GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/orderbird-gmbh/head-of-software-engineering-berlin-377275",
+        "loc": "Berlin",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 60,
-        "timestamp": "2026-10-15 16:11"
+        "tejas_score": 45,
+        "timestamp": "2026-10-15 22:51"
     },
     {
-        "title": "Senior Backend Engineer, Platform",
-        "company": "Apaleo",
-        "url": "https://www.arbeitnow.com/jobs/companies/apaleo/senior-backend-engineer-platform-munchen-210756",
-        "loc": "M\u00fcnchen, Bavaria, Germany",
+        "title": "Product Engineer (m/f/d)",
+        "company": "Buying Labs",
+        "url": "https://www.arbeitnow.com/jobs/companies/buying-labs/product-engineer-hamburg-380417",
+        "loc": "Hamburg",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 54,
-        "timestamp": "2026-10-15 16:11"
+        "tejas_score": 68,
+        "timestamp": "2026-10-15 22:51"
     },
     {
-        "title": "Tableau Architect (m/f/x)",
-        "company": "Salesfive GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/salesfive-gmbh/tableau-architect-munich-255500",
+        "title": "Principal DevOps Engineer (m/w/d)",
+        "company": "Alexander Thamm GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/principal-devops-engineer-munich-243310",
         "loc": "Munich",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-15 16:11"
+        "tejas_score": 46,
+        "timestamp": "2026-10-15 22:51"
     },
     {
-        "title": "Staff Solutions Architect",
-        "company": "Twelve Labs",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/twelve-labs/staff-solutions-architect-london-462534",
+        "title": "Principal Data Engineer (m/w/d)",
+        "company": "Alexander Thamm GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/principal-data-engineer-munich-63041",
+        "loc": "Munich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-10-15 22:51"
+    },
+    {
+        "title": "Data Engineer \u2013 Schwerpunkt Programmierung & Datenpipelines*",
+        "company": "Haeger Consulting GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/haeger-consulting-gmbh/data-engineer-schwerpunkt-programmierung-datenpipelines-bonn-310147",
+        "loc": "Bonn",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 84,
+        "timestamp": "2026-10-15 22:51"
+    },
+    {
+        "title": "Senior Backend Engineer",
+        "company": "Midnite",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/midnite/senior-backend-engineer-united-kingdom-205638",
         "loc": "United Kingdom",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-15 16:11"
+        "timestamp": "2026-10-15 22:51"
     },
     {
-        "title": "Director of Analytics",
-        "company": "Focalsystems",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/focalsystems/remote-director-of-analytics-160173",
-        "loc": "Remote",
+        "title": "Staff Software Engineer - Customer Facing Applied AI",
+        "company": "Addepar1",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/staff-software-engineer-customer-facing-applied-ai-london-272833",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-15 16:11"
+        "tejas_score": 53,
+        "timestamp": "2026-10-15 22:51"
     },
     {
-        "title": "Data Center Energy Analyst",
-        "company": "Coreweaveu",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/data-center-energy-analyst-docklands-360049",
-        "loc": "Docklands",
+        "title": "Staff Software Engineer - Customer Facing Applied AI",
+        "company": "Addepar1",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/staff-software-engineer-customer-facing-applied-ai-edinburgh-65793",
+        "loc": "Edinburgh",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-15 16:11"
+        "tejas_score": 53,
+        "timestamp": "2026-10-15 22:51"
+    },
+    {
+        "title": "Sr. Software Engineer - Customer Facing Applied AI",
+        "company": "Addepar1",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/sr-software-engineer-customer-facing-applied-ai-edinburgh-285314",
+        "loc": "Edinburgh",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-15 22:51"
+    },
+    {
+        "title": "Software Engineer - Customer Facing Applied AI",
+        "company": "Addepar1",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/software-engineer-customer-facing-applied-ai-edinburgh-225829",
+        "loc": "Edinburgh",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-15 22:51"
+    },
+    {
+        "title": "Deployed Architect, Professional Services (London)",
+        "company": "LangChain",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/langchain/deployed-architect-professional-services-london-57551",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-10-15 22:51"
     },
     {
         "title": "Senior Solutions Architect (OEM)",
@@ -81,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-15 16:11"
+        "timestamp": "2026-10-15 22:51"
     },
     {
         "title": "Staff Site Reliability Engineer",
@@ -93,31 +153,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-10-15 16:11"
+        "timestamp": "2026-10-15 22:51"
     },
     {
-        "title": "Senior AI Engineer (f/m/d)",
-        "company": "Junior Data Scientist - Downstream Demand Forecast - Value Chain ...",
-        "url": "https://www.arbeitnow.fr/jobs/companies/junior-data-scientist-downstream-demand-forecast-value-chain/senior-ai-engineer-paris-paris-199338",
-        "loc": "Paris, Paris",
+        "title": "Analytics Engineer, Revenue, Purchase & Order",
+        "company": "Vinteden",
+        "url": "https://www.arbeitnow.nl/jobs/companies/vinteden/analytics-engineer-revenue-purchase-order-amsterdam-499404",
+        "loc": "Amsterdam",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 100,
-        "timestamp": "2026-10-15 16:11"
-    },
-    {
-        "title": "Lead AI engineer - Freelance",
-        "company": "Mirakl - Labs",
-        "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/lead-ai-engineer-freelance-paris-485024",
-        "loc": "Paris, France",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-10-15 16:11"
+        "tejas_score": 46,
+        "timestamp": "2026-10-15 22:51"
     },
     {
         "title": "Team Lead, Data Engineering",
@@ -129,7 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-10-15 16:11"
+        "timestamp": "2026-10-15 22:51"
     },
     {
         "title": "Data & ML Infrastructure Engineer",
@@ -141,7 +189,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-15 16:11"
+        "timestamp": "2026-10-15 22:51"
     },
     {
         "title": "Senior Machine Learning Engineer",
@@ -153,18 +201,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 77,
-        "timestamp": "2026-10-15 16:11"
-    },
-    {
-        "title": "Senior Data Engineer",
-        "company": "Conflux",
-        "url": "https://www.arbeitnow.nl/jobs/companies/conflux/senior-data-engineer-utrecht-24250",
-        "loc": "Utrecht, Utrecht, Nederland",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 84,
-        "timestamp": "2026-10-15 16:11"
+        "timestamp": "2026-10-15 22:51"
     }
 ]
