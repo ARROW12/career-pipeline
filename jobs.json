@@ -1,39 +1,87 @@
 [
     {
-        "title": "Database Engineer I",
-        "company": "Axs",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/axs/database-engineer-i-london-42123",
-        "loc": "London",
+        "title": "Senior Scientific Data Engineer",
+        "company": "Tetrascience",
+        "url": "https://www.arbeitnow.com/jobs/companies/tetrascience/remote-senior-scientific-data-engineer-germany-163831",
+        "loc": "Germany",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-10-15 08:46"
+        "tejas_score": 60,
+        "timestamp": "2026-10-15 16:11"
     },
     {
-        "title": "Senior AI Engineer, Location AI",
-        "company": "Mapbox",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/mapbox/senior-ai-engineer-location-ai-mapbox-uk-66299",
-        "loc": "Mapbox UK",
+        "title": "Senior Backend Engineer, Platform",
+        "company": "Apaleo",
+        "url": "https://www.arbeitnow.com/jobs/companies/apaleo/senior-backend-engineer-platform-munchen-210756",
+        "loc": "M\u00fcnchen, Bavaria, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 54,
+        "timestamp": "2026-10-15 16:11"
+    },
+    {
+        "title": "Tableau Architect (m/f/x)",
+        "company": "Salesfive GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/salesfive-gmbh/tableau-architect-munich-255500",
+        "loc": "Munich",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-15 08:46"
+        "timestamp": "2026-10-15 16:11"
     },
     {
-        "title": "Associate, Finance Analytics",
-        "company": "Checkout.com",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/associate-finance-analytics-london-474975",
-        "loc": "London",
+        "title": "Staff Solutions Architect",
+        "company": "Twelve Labs",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/twelve-labs/staff-solutions-architect-london-462534",
+        "loc": "United Kingdom",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-15 16:11"
+    },
+    {
+        "title": "Director of Analytics",
+        "company": "Focalsystems",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/focalsystems/remote-director-of-analytics-160173",
+        "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-15 08:46"
+        "timestamp": "2026-10-15 16:11"
+    },
+    {
+        "title": "Data Center Energy Analyst",
+        "company": "Coreweaveu",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/data-center-energy-analyst-docklands-360049",
+        "loc": "Docklands",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-10-15 16:11"
+    },
+    {
+        "title": "Senior Solutions Architect (OEM)",
+        "company": "Aiven36",
+        "url": "https://www.arbeitnow.fr/jobs/companies/aiven36/senior-solutions-architect-oem-paris-paris-420192",
+        "loc": "Paris, Paris",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-10-15 16:11"
     },
     {
         "title": "Staff Site Reliability Engineer",
@@ -45,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-10-15 08:46"
+        "timestamp": "2026-10-15 16:11"
     },
     {
         "title": "Senior AI Engineer (f/m/d)",
@@ -57,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 100,
-        "timestamp": "2026-10-15 08:46"
+        "timestamp": "2026-10-15 16:11"
     },
     {
         "title": "Lead AI engineer - Freelance",
@@ -69,7 +117,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-10-15 08:46"
+        "timestamp": "2026-10-15 16:11"
+    },
+    {
+        "title": "Team Lead, Data Engineering",
+        "company": "Datasnipper",
+        "url": "https://www.arbeitnow.nl/jobs/companies/datasnipper/team-lead-data-engineering-amsterdam-286359",
+        "loc": "Amsterdam",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 91,
+        "timestamp": "2026-10-15 16:11"
     },
     {
         "title": "Data & ML Infrastructure Engineer",
@@ -81,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-15 08:46"
+        "timestamp": "2026-10-15 16:11"
     },
     {
         "title": "Senior Machine Learning Engineer",
@@ -93,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 77,
-        "timestamp": "2026-10-15 08:46"
+        "timestamp": "2026-10-15 16:11"
     },
     {
         "title": "Senior Data Engineer",
@@ -105,30 +165,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-10-15 08:46"
-    },
-    {
-        "title": "Senior OpenShift Engineer",
-        "company": "Conflux",
-        "url": "https://www.arbeitnow.nl/jobs/companies/conflux/senior-openshift-engineer-utrecht-45429",
-        "loc": "Utrecht, Utrecht, Nederland",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-15 08:46"
-    },
-    {
-        "title": "Data Engineer",
-        "company": "adesso Netherlands",
-        "url": "https://www.arbeitnow.nl/jobs/companies/adesso-netherlands/data-engineer-utrecht-175174",
-        "loc": "Utrecht, Utrecht, Netherlands",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 77,
-        "timestamp": "2026-10-15 08:46"
+        "timestamp": "2026-10-15 16:11"
     }
 ]
