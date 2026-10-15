@@ -1,77 +1,5 @@
 [
     {
-        "title": "PhD Position: World Models for Software Architecture Synthesis (Constructor Fabric)",
-        "company": "Constructor Labs",
-        "url": "https://www.arbeitnow.com/jobs/companies/constructor-labs/phd-position-world-models-for-software-architecture-synthesis-constructor-fabric-bremen-16987",
-        "loc": "Bremen",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-10-15 02:55"
-    },
-    {
-        "title": "Forward Deployed Engineer",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.com/jobs/companies/databricks/forward-deployed-engineer-berlin-munich-11772",
-        "loc": "Berlin; Munich",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-10-15 02:55"
-    },
-    {
-        "title": "Senior Full Stack Engineer (m/w/d)",
-        "company": "Placed Technologies GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/placed-technologies-gmbh/senior-full-stack-engineer-berlin-180965",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-10-15 02:55"
-    },
-    {
-        "title": "DevOps Engineer with AI/ML Evaluation Focus",
-        "company": "Agilerobotsse",
-        "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/devops-engineer-with-ai-ml-evaluation-focus-munich-bavaria-31148",
-        "loc": "Munich, Bavaria",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-10-15 02:55"
-    },
-    {
-        "title": "Consulting Architect - Security (EMEA / Public Sector eligible )",
-        "company": "Referralsuseonly",
-        "url": "https://www.arbeitnow.com/jobs/companies/referralsuseonly/consulting-architect-security-emea-public-sector-eligible-284821",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-10-15 02:55"
-    },
-    {
-        "title": "Senior Site Reliability Engineer",
-        "company": "planetlabs",
-        "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/senior-site-reliability-engineer-berlin-461432",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-10-15 02:55"
-    },
-    {
         "title": "Database Engineer I",
         "company": "Axs",
         "url": "https://www.arbeitnow.co.uk/jobs/companies/axs/database-engineer-i-london-42123",
@@ -81,7 +9,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-15 02:55"
+        "timestamp": "2026-10-15 08:46"
     },
     {
         "title": "Senior AI Engineer, Location AI",
@@ -93,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-15 02:55"
+        "timestamp": "2026-10-15 08:46"
     },
     {
         "title": "Associate, Finance Analytics",
@@ -105,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-15 02:55"
+        "timestamp": "2026-10-15 08:46"
     },
     {
         "title": "Staff Site Reliability Engineer",
@@ -117,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-10-15 02:55"
+        "timestamp": "2026-10-15 08:46"
     },
     {
         "title": "Senior AI Engineer (f/m/d)",
@@ -129,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 100,
-        "timestamp": "2026-10-15 02:55"
+        "timestamp": "2026-10-15 08:46"
     },
     {
         "title": "Lead AI engineer - Freelance",
@@ -141,19 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-10-15 02:55"
-    },
-    {
-        "title": "Staff DataOps Engineer (x/f/m)",
-        "company": "Doctolib",
-        "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/staff-dataops-engineer-paris-paris-4079",
-        "loc": "Paris, Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-10-15 02:55"
+        "timestamp": "2026-10-15 08:46"
     },
     {
         "title": "Data & ML Infrastructure Engineer",
@@ -165,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-15 02:55"
+        "timestamp": "2026-10-15 08:46"
     },
     {
         "title": "Senior Machine Learning Engineer",
@@ -177,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 77,
-        "timestamp": "2026-10-15 02:55"
+        "timestamp": "2026-10-15 08:46"
     },
     {
         "title": "Senior Data Engineer",
@@ -189,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-10-15 02:55"
+        "timestamp": "2026-10-15 08:46"
     },
     {
         "title": "Senior OpenShift Engineer",
@@ -201,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-15 02:55"
+        "timestamp": "2026-10-15 08:46"
     },
     {
         "title": "Data Engineer",
@@ -213,6 +129,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 77,
-        "timestamp": "2026-10-15 02:55"
+        "timestamp": "2026-10-15 08:46"
     }
 ]
