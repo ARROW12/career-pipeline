@@ -1,5 +1,17 @@
 [
     {
+        "title": "Principal Machine Learning Engineer - Applied AI & LLMs (x/f/m)",
+        "company": "Doctolib",
+        "url": "https://www.arbeitnow.com/jobs/companies/doctolib/principal-machine-learning-engineer-applied-ai-llms-berlin-berlin-429414",
+        "loc": "Berlin, Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 50,
+        "timestamp": "2026-10-16 08:41"
+    },
+    {
         "title": "Head of Software Engineering (d/f/m)",
         "company": "orderbird GmbH",
         "url": "https://www.arbeitnow.com/jobs/companies/orderbird-gmbh/head-of-software-engineering-berlin-377275",
@@ -9,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-16 02:53"
+        "timestamp": "2026-10-16 08:41"
     },
     {
         "title": "Product Engineer (m/f/d)",
@@ -21,103 +33,55 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-10-16 02:53"
+        "timestamp": "2026-10-16 08:41"
     },
     {
-        "title": "Principal DevOps Engineer (m/w/d)",
-        "company": "Alexander Thamm GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/principal-devops-engineer-munich-243310",
-        "loc": "Munich",
+        "title": "Senior Analytics Engineer",
+        "company": "SoSafe",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/sosafe/remote-senior-analytics-engineer-83455",
+        "loc": "United Kingdom Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-16 02:53"
+        "timestamp": "2026-10-16 08:41"
     },
     {
-        "title": "Principal Data Engineer (m/w/d)",
-        "company": "Alexander Thamm GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/principal-data-engineer-munich-63041",
-        "loc": "Munich",
+        "title": "MLOps Engineer",
+        "company": "Checkatrade",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/checkatrade/mlops-engineer-moorgate-217314",
+        "loc": "Moorgate London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-10-16 02:53"
+        "tejas_score": 61,
+        "timestamp": "2026-10-16 08:41"
     },
     {
-        "title": "Senior Software Engineer - AI Foundations",
-        "company": "Kraken",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/senior-software-engineer-ai-foundations-london-231857",
-        "loc": "London, UK",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-16 02:53"
-    },
-    {
-        "title": "Senior Backend Engineer",
-        "company": "Midnite",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/midnite/senior-backend-engineer-united-kingdom-205638",
-        "loc": "United Kingdom",
+        "title": "Stage - Data Scientist - H/F/X - Janvier 2027",
+        "company": "Veepee",
+        "url": "https://www.arbeitnow.fr/jobs/companies/veepee/stage-data-scientist-janvier-2027-saint-denis-383013",
+        "loc": "Saint-Denis",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-16 02:53"
+        "timestamp": "2026-10-16 08:41"
     },
     {
-        "title": "Staff Software Engineer - Customer Facing Applied AI",
-        "company": "Addepar1",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/staff-software-engineer-customer-facing-applied-ai-london-272833",
-        "loc": "London",
+        "title": "Junior Data & Automation Engineer",
+        "company": "Pigment",
+        "url": "https://www.arbeitnow.fr/jobs/companies/pigment/junior-data-automation-engineer-paris-238273",
+        "loc": "Paris",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-16 02:53"
-    },
-    {
-        "title": "Staff Software Engineer - Customer Facing Applied AI",
-        "company": "Addepar1",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/staff-software-engineer-customer-facing-applied-ai-edinburgh-65793",
-        "loc": "Edinburgh",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-16 02:53"
-    },
-    {
-        "title": "Sr. Software Engineer - Customer Facing Applied AI",
-        "company": "Addepar1",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/sr-software-engineer-customer-facing-applied-ai-edinburgh-285314",
-        "loc": "Edinburgh",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-16 02:53"
-    },
-    {
-        "title": "Software Engineer - Customer Facing Applied AI",
-        "company": "Addepar1",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/software-engineer-customer-facing-applied-ai-edinburgh-225829",
-        "loc": "Edinburgh",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-16 02:53"
+        "tejas_score": 84,
+        "timestamp": "2026-10-16 08:41"
     },
     {
         "title": "Data Engineer H/F",
@@ -129,19 +93,55 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 83,
-        "timestamp": "2026-10-16 02:53"
+        "timestamp": "2026-10-16 08:41"
     },
     {
-        "title": "Senior Solutions Architect (OEM)",
-        "company": "Aiven36",
-        "url": "https://www.arbeitnow.fr/jobs/companies/aiven36/senior-solutions-architect-oem-paris-paris-420192",
-        "loc": "Paris, Paris",
+        "title": "Senior Data Engineer",
+        "company": "Wypoon",
+        "url": "https://www.arbeitnow.nl/jobs/companies/wypoon/senior-data-engineer-amsterdam-62897",
+        "loc": "Amsterdam",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-10-16 02:53"
+        "tejas_score": 68,
+        "timestamp": "2026-10-16 08:41"
+    },
+    {
+        "title": "Python Software Engineer",
+        "company": "Wypoon",
+        "url": "https://www.arbeitnow.nl/jobs/companies/wypoon/python-software-engineer-amsterdam-250298",
+        "loc": "Amsterdam",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 58,
+        "timestamp": "2026-10-16 08:41"
+    },
+    {
+        "title": "Machine Learning Engineer \u2013 Cloud | MLOps | GenAI (Relocation provided)",
+        "company": "Wypoon",
+        "url": "https://www.arbeitnow.nl/jobs/companies/wypoon/machine-learning-engineer-cloud-mlops-genai-relocation-provided-amsterdam-163883",
+        "loc": "Amsterdam",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-10-16 08:41"
+    },
+    {
+        "title": "AI Platform Engineer \u2013 Azure & AI Infrastructure (Relocation Provided)",
+        "company": "Wypoon",
+        "url": "https://www.arbeitnow.nl/jobs/companies/wypoon/ai-platform-engineer-azure-ai-infrastructure-relocation-provided-amsterdam-114436",
+        "loc": "Amsterdam",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-16 08:41"
     },
     {
         "title": "Analytics Engineer, Revenue, Purchase & Order",
@@ -153,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-16 02:53"
+        "timestamp": "2026-10-16 08:41"
     },
     {
         "title": "Team Lead, Data Engineering",
@@ -165,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-10-16 02:53"
+        "timestamp": "2026-10-16 08:41"
     },
     {
         "title": "Data & ML Infrastructure Engineer",
@@ -177,18 +177,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-16 02:53"
-    },
-    {
-        "title": "Senior Machine Learning Engineer",
-        "company": "Conflux",
-        "url": "https://www.arbeitnow.nl/jobs/companies/conflux/senior-machine-learning-engineer-utrecht-256595",
-        "loc": "Utrecht, Utrecht, Nederland",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 77,
-        "timestamp": "2026-10-16 02:53"
+        "timestamp": "2026-10-16 08:41"
     }
 ]
