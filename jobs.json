@@ -1,63 +1,111 @@
 [
     {
-        "title": "Principal Machine Learning Engineer - Applied AI & LLMs (x/f/m)",
-        "company": "Doctolib",
-        "url": "https://www.arbeitnow.com/jobs/companies/doctolib/principal-machine-learning-engineer-applied-ai-llms-berlin-berlin-429414",
-        "loc": "Berlin, Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 50,
-        "timestamp": "2026-10-16 08:41"
-    },
-    {
-        "title": "Head of Software Engineering (d/f/m)",
-        "company": "orderbird GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/orderbird-gmbh/head-of-software-engineering-berlin-377275",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-16 08:41"
-    },
-    {
-        "title": "Product Engineer (m/f/d)",
-        "company": "Buying Labs",
-        "url": "https://www.arbeitnow.com/jobs/companies/buying-labs/product-engineer-hamburg-380417",
-        "loc": "Hamburg",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-10-16 08:41"
-    },
-    {
-        "title": "Senior Analytics Engineer",
-        "company": "SoSafe",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/sosafe/remote-senior-analytics-engineer-83455",
-        "loc": "United Kingdom Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-10-16 08:41"
-    },
-    {
-        "title": "MLOps Engineer",
-        "company": "Checkatrade",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/checkatrade/mlops-engineer-moorgate-217314",
-        "loc": "Moorgate London",
+        "title": "Staff Software Engineer, Containers",
+        "company": "chainguard",
+        "url": "https://www.arbeitnow.com/jobs/companies/chainguard/staff-software-engineer-containers-89600",
+        "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-16 08:41"
+        "timestamp": "2026-10-16 15:58"
+    },
+    {
+        "title": "Senior Software Engineer, Containers",
+        "company": "chainguard",
+        "url": "https://www.arbeitnow.com/jobs/companies/chainguard/senior-software-engineer-containers-125605",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-10-16 15:58"
+    },
+    {
+        "title": "Staff Software Engineer, Containers",
+        "company": "chainguard",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/chainguard/staff-software-engineer-containers-214495",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-10-16 15:58"
+    },
+    {
+        "title": "Senior Software Engineer, Containers",
+        "company": "chainguard",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/chainguard/senior-software-engineer-containers-402727",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-10-16 15:58"
+    },
+    {
+        "title": "Senior Product Data Analyst - Consumer Growth",
+        "company": "SumUp",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/sumup/senior-product-data-analyst-consumer-growth-london-159694",
+        "loc": "London, England, United Kingdom",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-10-16 15:58"
+    },
+    {
+        "title": "Analytics Engineer",
+        "company": "Legal Counsel - 12 month FTC at Rightmove Greenhouse",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/legal-counsel-12-month-ftc-at-rightmove-greenhouse/analytics-engineer-london-168766",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-16 15:58"
+    },
+    {
+        "title": "Analytics Engineer",
+        "company": "prolific",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-analytics-engineer-179618",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-10-16 15:58"
+    },
+    {
+        "title": "AI Engineer",
+        "company": "commercetools",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/commercetools/ai-engineer-london-266875",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-16 15:58"
+    },
+    {
+        "title": "Senior Applied ML Engineer | Kimchi (Model Router)",
+        "company": "Kimchi",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/kimchi/senior-applied-ml-engineer-kimchi-model-router-165679",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-10-16 15:58"
     },
     {
         "title": "Stage - Data Scientist - H/F/X - Janvier 2027",
@@ -69,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-16 08:41"
+        "timestamp": "2026-10-16 15:58"
     },
     {
         "title": "Junior Data & Automation Engineer",
@@ -81,19 +129,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-10-16 08:41"
+        "timestamp": "2026-10-16 15:58"
     },
     {
-        "title": "Data Engineer H/F",
-        "company": "capco",
-        "url": "https://www.arbeitnow.fr/jobs/companies/capco/data-engineer-h-f-393580",
+        "title": "Senior Scientific Data Engineer",
+        "company": "Tetrascience",
+        "url": "https://www.arbeitnow.ch/jobs/companies/tetrascience/remote-senior-scientific-data-engineer-switzerland-5487",
+        "loc": "Switzerland",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 60,
+        "timestamp": "2026-10-16 15:58"
+    },
+    {
+        "title": "Senior Applied ML Engineer | Kimchi (Model Router)",
+        "company": "Kimchi",
+        "url": "https://www.arbeitnow.nl/jobs/companies/kimchi/senior-applied-ml-engineer-kimchi-model-router-336004",
         "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 83,
-        "timestamp": "2026-10-16 08:41"
+        "tejas_score": 46,
+        "timestamp": "2026-10-16 15:58"
     },
     {
         "title": "Senior Data Engineer",
@@ -105,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-10-16 08:41"
+        "timestamp": "2026-10-16 15:58"
     },
     {
         "title": "Python Software Engineer",
@@ -117,7 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 58,
-        "timestamp": "2026-10-16 08:41"
+        "timestamp": "2026-10-16 15:58"
     },
     {
         "title": "Machine Learning Engineer \u2013 Cloud | MLOps | GenAI (Relocation provided)",
@@ -129,7 +189,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-16 08:41"
+        "timestamp": "2026-10-16 15:58"
     },
     {
         "title": "AI Platform Engineer \u2013 Azure & AI Infrastructure (Relocation Provided)",
@@ -141,7 +201,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-16 08:41"
+        "timestamp": "2026-10-16 15:58"
     },
     {
         "title": "Analytics Engineer, Revenue, Purchase & Order",
@@ -153,7 +213,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-16 08:41"
+        "timestamp": "2026-10-16 15:58"
     },
     {
         "title": "Team Lead, Data Engineering",
@@ -165,18 +225,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-10-16 08:41"
-    },
-    {
-        "title": "Data & ML Infrastructure Engineer",
-        "company": "Optics11",
-        "url": "https://www.arbeitnow.nl/jobs/companies/optics11/data-ml-infrastructure-engineer-amsterdam-379597",
-        "loc": "Amsterdam, Noord-Holland, Netherlands",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-16 08:41"
+        "timestamp": "2026-10-16 15:58"
     }
 ]
