@@ -1,5 +1,17 @@
 [
     {
+        "title": "Data Engineer - Data Platform & Ontology (m/f/d)",
+        "company": "Statista",
+        "url": "https://www.arbeitnow.com/jobs/companies/statista/data-engineer-data-platform-ontology-hamburg-or-berlin-119444",
+        "loc": "Hamburg or Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-10-17 02:44"
+    },
+    {
         "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
         "company": "databricks",
         "url": "https://www.arbeitnow.com/jobs/companies/databricks/lead-solutions-architect-generative-ai-emea-emerging-dnb-171985",
@@ -9,115 +21,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-10-16 22:26"
+        "timestamp": "2026-10-17 02:44"
     },
     {
-        "title": "Head of Engineering, Commerce",
-        "company": "Wpp",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/wpp/head-of-engineering-commerce-108013",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 77,
-        "timestamp": "2026-10-16 22:26"
-    },
-    {
-        "title": "Senior Application Security Engineer",
-        "company": "Globalizationpartners",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/globalizationpartners/senior-application-security-engineer-129619",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-10-16 22:26"
-    },
-    {
-        "title": "AI Engineer I",
-        "company": "Globalizationpartners",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/globalizationpartners/ai-engineer-i-153881",
-        "loc": "Remote",
+        "title": "Senior AI Engineer - Freelance",
+        "company": "Mirakl - Labs",
+        "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/senior-ai-engineer-freelance-paris-493011",
+        "loc": "Paris, France",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-10-16 22:26"
+        "timestamp": "2026-10-17 02:44"
     },
     {
-        "title": "Data Analytics Engineering Lead",
-        "company": "Hipagesgroup",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/hipagesgroup/data-analytics-engineering-lead-sydney-australia-16290",
-        "loc": "Sydney, Australia",
+        "title": "Senior AI Engineer - Freelance",
+        "company": "Mirakl - Labs",
+        "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/senior-ai-engineer-freelance-bordeaux-75943",
+        "loc": "Bordeaux, France",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-10-16 22:26"
-    },
-    {
-        "title": "Staff Data Scientist",
-        "company": "hellofresh",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/hellofresh/staff-data-scientist-sydney-australia-340283",
-        "loc": "Sydney, Australia",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-10-16 22:26"
-    },
-    {
-        "title": "Senior Specialist Solutions Architect (AI/ML)",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-specialist-solutions-architect-ai-ml-london-354907",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-10-16 22:26"
-    },
-    {
-        "title": "Senior Engagement Manager, Forward Deployed Engineering",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-engagement-manager-forward-deployed-engineering-london-446717",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-16 22:26"
-    },
-    {
-        "title": "Data Instructor  (Internal)",
-        "company": "Multiverse",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/multiverse/data-instructor-internal-london-249356",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-16 22:26"
-    },
-    {
-        "title": "Data Technical Trainer",
-        "company": "Multiverse",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/multiverse/data-technical-trainer-london-81642",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-16 22:26"
+        "tejas_score": 68,
+        "timestamp": "2026-10-17 02:44"
     },
     {
         "title": "Sr. Solutions Architect France",
@@ -129,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-16 22:26"
+        "timestamp": "2026-10-17 02:44"
     },
     {
         "title": "Solutions Architect Greenfield Enterprise France",
@@ -141,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 75,
-        "timestamp": "2026-10-16 22:26"
+        "timestamp": "2026-10-17 02:44"
     },
     {
         "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
@@ -153,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-10-16 22:26"
+        "timestamp": "2026-10-17 02:44"
     },
     {
         "title": "Research Engineer - Search and Services",
@@ -165,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-16 22:26"
+        "timestamp": "2026-10-17 02:44"
     },
     {
         "title": "Solutions Architect",
@@ -177,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 75,
-        "timestamp": "2026-10-16 22:26"
+        "timestamp": "2026-10-17 02:44"
     },
     {
         "title": "Senior Scientific Data Engineer",
@@ -189,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 60,
-        "timestamp": "2026-10-16 22:26"
+        "timestamp": "2026-10-17 02:44"
     },
     {
         "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
@@ -201,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-10-16 22:26"
+        "timestamp": "2026-10-17 02:44"
     },
     {
         "title": "Senior Applied ML Engineer | Kimchi (Model Router)",
@@ -213,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-16 22:26"
+        "timestamp": "2026-10-17 02:44"
     },
     {
         "title": "Senior Data Engineer",
@@ -225,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-10-16 22:26"
+        "timestamp": "2026-10-17 02:44"
     },
     {
         "title": "Python Software Engineer",
@@ -237,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 58,
-        "timestamp": "2026-10-16 22:26"
+        "timestamp": "2026-10-17 02:44"
     },
     {
         "title": "Machine Learning Engineer \u2013 Cloud | MLOps | GenAI (Relocation provided)",
@@ -249,7 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-16 22:26"
+        "timestamp": "2026-10-17 02:44"
     },
     {
         "title": "AI Platform Engineer \u2013 Azure & AI Infrastructure (Relocation Provided)",
@@ -261,7 +189,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-16 22:26"
+        "timestamp": "2026-10-17 02:44"
     },
     {
         "title": "Analytics Engineer, Revenue, Purchase & Order",
@@ -273,18 +201,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-16 22:26"
-    },
-    {
-        "title": "Team Lead, Data Engineering",
-        "company": "Datasnipper",
-        "url": "https://www.arbeitnow.nl/jobs/companies/datasnipper/team-lead-data-engineering-amsterdam-286359",
-        "loc": "Amsterdam",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 91,
-        "timestamp": "2026-10-16 22:26"
+        "timestamp": "2026-10-17 02:44"
     }
 ]
