@@ -1,5 +1,53 @@
 [
     {
+        "title": "Sr. Solutions Architect - FSI",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.com/jobs/companies/databricks/sr-solutions-architect-fsi-munich-363180",
+        "loc": "Munich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 91,
+        "timestamp": "2026-10-18 18:25"
+    },
+    {
+        "title": "(Senior) Data Engineer - Tracking Infrastructure (m/f/d)",
+        "company": "Statista",
+        "url": "https://www.arbeitnow.com/jobs/companies/statista/senior-data-engineer-tracking-infrastructure-hamburg-or-berlin-24021",
+        "loc": "Hamburg or Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-10-18 18:25"
+    },
+    {
+        "title": "AI Engineer - Analytics & End-User Insights",
+        "company": "Intersnack IT KG",
+        "url": "https://www.arbeitnow.com/jobs/companies/intersnack-it-kg/ai-engineer-analytics-end-user-insights-dusseldorf-433069",
+        "loc": "D\u00fcsseldorf, Nordrhein-Westfalen, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 83,
+        "timestamp": "2026-10-18 18:25"
+    },
+    {
+        "title": "Data Engineer - AI Pipelines & DataOps",
+        "company": "Intersnack IT KG",
+        "url": "https://www.arbeitnow.com/jobs/companies/intersnack-it-kg/data-engineer-ai-pipelines-dataops-dusseldorf-8107",
+        "loc": "D\u00fcsseldorf, Nordrhein-Westfalen, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 100,
+        "timestamp": "2026-10-18 18:25"
+    },
+    {
         "title": "FinOps Data Analyst & Consultant (m/w/d)",
         "company": "Cortex Reply",
         "url": "https://www.arbeitnow.com/jobs/companies/cortex-reply/finops-data-analyst-consultant-munich-189989",
@@ -9,7 +57,43 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-18 15:16"
+        "timestamp": "2026-10-18 18:25"
+    },
+    {
+        "title": "Senior Security Engineer",
+        "company": "Wavemm1",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/wavemm1/senior-security-engineer-239708",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-10-18 18:25"
+    },
+    {
+        "title": "Sr. Solutions Engineer",
+        "company": "Logicmonitor",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/logicmonitor/sr-solutions-engineer-london-328551",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-10-18 18:25"
+    },
+    {
+        "title": "Sr. Forward Deployed Engineer",
+        "company": "Logicmonitor",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/logicmonitor/sr-forward-deployed-engineer-london-348520",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 69,
+        "timestamp": "2026-10-18 18:25"
     },
     {
         "title": "Forward Deployed Engineer",
@@ -21,115 +105,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-18 15:16"
+        "timestamp": "2026-10-18 18:25"
     },
     {
-        "title": "Senior AI Engineer",
-        "company": "BALLY\u2019S INTRALOT SA",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/ballys-intralot-sa/senior-ai-engineer-manchester-101898",
-        "loc": "Manchester, Manchester, United Kingdom",
+        "title": "Backend Software Engineer (Core AI)",
+        "company": "Goodweek",
+        "url": "https://www.arbeitnow.fr/jobs/companies/goodweek/backend-software-engineer-core-ai-strasbourg-22666",
+        "loc": "Strasbourg",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-18 15:16"
+        "timestamp": "2026-10-18 18:25"
     },
     {
-        "title": "Analytics Engineer \u2013 BI Platform",
-        "company": "Deliveroo",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/analytics-engineer-bi-platform-london-395190",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-10-18 15:16"
-    },
-    {
-        "title": "Senior IA Inference Engineer (x/f/m)",
-        "company": "Doctolib",
-        "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/senior-ia-inference-engineer-paris-paris-99480",
-        "loc": "Paris, Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-10-18 15:16"
-    },
-    {
-        "title": "Senior Agents Platform Engineer (x/f/m)",
-        "company": "Doctolib",
-        "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/senior-agents-platform-engineer-paris-paris-164639",
-        "loc": "Paris, Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-10-18 15:16"
-    },
-    {
-        "title": "Senior AI Engineer - Freelance",
-        "company": "mirakllabs",
-        "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/senior-ai-engineer-freelance-bordeaux-335734",
-        "loc": "Bordeaux",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-10-18 15:16"
-    },
-    {
-        "title": "Senior AI Engineer - Freelance",
-        "company": "mirakllabs",
-        "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/senior-ai-engineer-freelance-paris-375309",
+        "title": "Senior Software Engineer (Laravel | Next.js | PostgreSQL)",
+        "company": "PETROFF AVOCATS",
+        "url": "https://www.arbeitnow.fr/jobs/companies/petroff-avocats/senior-software-engineer-laravel-nextjs-postgresql-paris-345458",
         "loc": "Paris",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-10-18 15:16"
-    },
-    {
-        "title": "AI engineer (AI & GenAI) - People Domain (f/m/d)",
-        "company": "Decathlontechnology",
-        "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/ai-engineer-ai-genai-people-domain-paris-paris-306403",
-        "loc": "Paris, Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 83,
-        "timestamp": "2026-10-18 15:16"
-    },
-    {
-        "title": "Solutions Architect",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.ch/jobs/companies/databricks/solutions-architect-zurich-303054",
-        "loc": "Z\u00fcrich",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 75,
-        "timestamp": "2026-10-18 15:16"
-    },
-    {
-        "title": "Senior Scientific Data Engineer",
-        "company": "Tetrascience",
-        "url": "https://www.arbeitnow.ch/jobs/companies/tetrascience/remote-senior-scientific-data-engineer-switzerland-5487",
-        "loc": "Switzerland",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 60,
-        "timestamp": "2026-10-18 15:16"
+        "tejas_score": 50,
+        "timestamp": "2026-10-18 18:25"
     },
     {
         "title": "Platform Engineer",
@@ -141,6 +141,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-18 15:16"
+        "timestamp": "2026-10-18 18:25"
     }
 ]
