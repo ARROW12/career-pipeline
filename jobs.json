@@ -9,7 +9,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-10-18 18:25"
+        "timestamp": "2026-10-18 22:10"
     },
     {
         "title": "(Senior) Data Engineer - Tracking Infrastructure (m/f/d)",
@@ -21,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-10-18 18:25"
+        "timestamp": "2026-10-18 22:10"
     },
     {
         "title": "AI Engineer - Analytics & End-User Insights",
@@ -33,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 83,
-        "timestamp": "2026-10-18 18:25"
+        "timestamp": "2026-10-18 22:10"
     },
     {
         "title": "Data Engineer - AI Pipelines & DataOps",
@@ -45,19 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 100,
-        "timestamp": "2026-10-18 18:25"
-    },
-    {
-        "title": "FinOps Data Analyst & Consultant (m/w/d)",
-        "company": "Cortex Reply",
-        "url": "https://www.arbeitnow.com/jobs/companies/cortex-reply/finops-data-analyst-consultant-munich-189989",
-        "loc": "Munich, Berlin, Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-18 18:25"
+        "timestamp": "2026-10-18 22:10"
     },
     {
         "title": "Senior Security Engineer",
@@ -69,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-18 18:25"
+        "timestamp": "2026-10-18 22:10"
     },
     {
         "title": "Sr. Solutions Engineer",
@@ -81,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-18 18:25"
+        "timestamp": "2026-10-18 22:10"
     },
     {
         "title": "Sr. Forward Deployed Engineer",
@@ -93,43 +81,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 69,
-        "timestamp": "2026-10-18 18:25"
+        "timestamp": "2026-10-18 22:10"
     },
     {
-        "title": "Forward Deployed Engineer",
-        "company": "Hsogroupbv",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/hsogroupbv/forward-deployed-engineer-399947",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-18 18:25"
-    },
-    {
-        "title": "Backend Software Engineer (Core AI)",
-        "company": "Goodweek",
-        "url": "https://www.arbeitnow.fr/jobs/companies/goodweek/backend-software-engineer-core-ai-strasbourg-22666",
-        "loc": "Strasbourg",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-18 18:25"
-    },
-    {
-        "title": "Senior Software Engineer (Laravel | Next.js | PostgreSQL)",
-        "company": "PETROFF AVOCATS",
-        "url": "https://www.arbeitnow.fr/jobs/companies/petroff-avocats/senior-software-engineer-laravel-nextjs-postgresql-paris-345458",
-        "loc": "Paris",
+        "title": "Senior Python Backend Engineer \u2013 OpenShift / API Integration / GenAI",
+        "company": "PROSTAFF Schweiz GmbH",
+        "url": "https://www.arbeitnow.ch/jobs/companies/prostaff-schweiz-gmbh/senior-python-backend-engineer-openshift-api-integration-genai-zurich-481967",
+        "loc": "Z\u00fcrich",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-10-18 18:25"
+        "timestamp": "2026-10-18 22:10"
     },
     {
         "title": "Platform Engineer",
@@ -141,6 +105,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-18 18:25"
+        "timestamp": "2026-10-18 22:10"
     }
 ]
