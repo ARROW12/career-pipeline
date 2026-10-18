@@ -1,51 +1,51 @@
 [
     {
-        "title": "Director, Data Science",
-        "company": "Duck Duck Go",
-        "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-director-data-science-440507",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-10-18 02:46"
-    },
-    {
-        "title": "Staff Engineer (m|w|d) - CRM Tech",
-        "company": "idealo internet GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/staff-engineer-mwd-crm-tech-berlin-476713",
-        "loc": "Berlin, Berlin, Deutschland",
+        "title": "Senior Backend Engineer (all genders)",
+        "company": "Enopai",
+        "url": "https://www.arbeitnow.com/jobs/companies/enopai/senior-backend-engineer-all-genders-munchen-332036",
+        "loc": "M\u00fcnchen",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-18 02:46"
+        "timestamp": "2026-10-18 08:29"
     },
     {
-        "title": "Director of Go-to-Market Engineering",
-        "company": "Perk",
-        "url": "https://www.arbeitnow.com/jobs/companies/perk/director-of-go-to-market-engineering-berlin-429692",
-        "loc": "Berlin",
+        "title": "(Senior) DevOps Engineer (m/w/d)",
+        "company": "HyPlus Technology GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/remote-senior-devops-engineer-ratingen-155414",
+        "loc": "Remote job",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-18 02:46"
+        "tejas_score": 46,
+        "timestamp": "2026-10-18 08:29"
     },
     {
-        "title": "Full-Stack Software Engineer, Child Safety Tools & Systems (London)",
-        "company": "Openai",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/openai/full-stack-software-engineer-child-safety-tools-systems-london-483234",
-        "loc": "London, UK",
+        "title": "Analytics Engineer \u2013 BI Platform",
+        "company": "Deliveroo",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/analytics-engineer-bi-platform-london-395190",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-18 02:46"
+        "tejas_score": 76,
+        "timestamp": "2026-10-18 08:29"
+    },
+    {
+        "title": "SQL Developer \u2013 AI Prompting & Context Engineering",
+        "company": "Bromcom Computers Plc",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/bromcom-computers-plc/remote-sql-developer-ai-prompting-context-engineering-bromley-374742",
+        "loc": "Remote job",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 73,
+        "timestamp": "2026-10-18 08:29"
     },
     {
         "title": "Senior IA Inference Engineer (x/f/m)",
@@ -57,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-18 02:46"
+        "timestamp": "2026-10-18 08:29"
     },
     {
         "title": "Senior Agents Platform Engineer (x/f/m)",
@@ -69,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-18 02:46"
+        "timestamp": "2026-10-18 08:29"
     },
     {
         "title": "Senior AI Engineer - Freelance",
@@ -81,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-10-18 02:46"
+        "timestamp": "2026-10-18 08:29"
     },
     {
         "title": "Senior AI Engineer - Freelance",
@@ -93,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-10-18 02:46"
+        "timestamp": "2026-10-18 08:29"
     },
     {
         "title": "AI engineer (AI & GenAI) - People Domain (f/m/d)",
@@ -105,31 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 83,
-        "timestamp": "2026-10-18 02:46"
-    },
-    {
-        "title": "Senior AI Engineer - Freelance",
-        "company": "Mirakl - Labs",
-        "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/senior-ai-engineer-freelance-paris-493011",
-        "loc": "Paris, France",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-10-18 02:46"
-    },
-    {
-        "title": "Senior AI Engineer - Freelance",
-        "company": "Mirakl - Labs",
-        "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/senior-ai-engineer-freelance-bordeaux-75943",
-        "loc": "Bordeaux, France",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-10-18 02:46"
+        "timestamp": "2026-10-18 08:29"
     },
     {
         "title": "Solutions Architect",
@@ -141,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 75,
-        "timestamp": "2026-10-18 02:46"
+        "timestamp": "2026-10-18 08:29"
     },
     {
         "title": "Senior Scientific Data Engineer",
@@ -153,7 +129,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 60,
-        "timestamp": "2026-10-18 02:46"
+        "timestamp": "2026-10-18 08:29"
+    },
+    {
+        "title": "Platform Engineer",
+        "company": "Job offers ID-ware",
+        "url": "https://www.arbeitnow.nl/jobs/companies/job-offers-id-ware/platform-engineer-den-haag-20425",
+        "loc": "Den Haag",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-18 08:29"
     },
     {
         "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
@@ -165,18 +153,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-10-18 02:46"
-    },
-    {
-        "title": "Senior Applied ML Engineer | Kimchi (Model Router)",
-        "company": "Kimchi",
-        "url": "https://www.arbeitnow.nl/jobs/companies/kimchi/senior-applied-ml-engineer-kimchi-model-router-336004",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-10-18 02:46"
+        "timestamp": "2026-10-18 08:29"
     }
 ]
