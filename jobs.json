@@ -1,51 +1,27 @@
 [
     {
-        "title": "Sr. Solutions Architect - FSI",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.com/jobs/companies/databricks/sr-solutions-architect-fsi-munich-363180",
-        "loc": "Munich",
+        "title": "ML-Engineer (m/w/d) \u2013 Machine Learning f\u00fcr Recyclinganlagen",
+        "company": "Eggersmann - Gruppe",
+        "url": "https://www.arbeitnow.com/jobs/companies/eggersmann-gruppe/ml-engineer-machine-learning-fur-recyclinganlagen-aachen-174533",
+        "loc": "Aachen",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 91,
-        "timestamp": "2026-10-19 02:59"
+        "tejas_score": 45,
+        "timestamp": "2026-10-19 09:32"
     },
     {
-        "title": "(Senior) Data Engineer - Tracking Infrastructure (m/f/d)",
-        "company": "Statista",
-        "url": "https://www.arbeitnow.com/jobs/companies/statista/senior-data-engineer-tracking-infrastructure-hamburg-or-berlin-24021",
-        "loc": "Hamburg or Berlin",
+        "title": "Data Scientist (m/w/d) \u2013 Anomalieerkennung f\u00fcr Recyclinganlagen",
+        "company": "Eggersmann - Gruppe",
+        "url": "https://www.arbeitnow.com/jobs/companies/eggersmann-gruppe/data-scientist-anomalieerkennung-fur-recyclinganlagen-aachen-119911",
+        "loc": "Aachen",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-10-19 02:59"
-    },
-    {
-        "title": "AI Engineer - Analytics & End-User Insights",
-        "company": "Intersnack IT KG",
-        "url": "https://www.arbeitnow.com/jobs/companies/intersnack-it-kg/ai-engineer-analytics-end-user-insights-dusseldorf-433069",
-        "loc": "D\u00fcsseldorf, Nordrhein-Westfalen, Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 83,
-        "timestamp": "2026-10-19 02:59"
-    },
-    {
-        "title": "Data Engineer - AI Pipelines & DataOps",
-        "company": "Intersnack IT KG",
-        "url": "https://www.arbeitnow.com/jobs/companies/intersnack-it-kg/data-engineer-ai-pipelines-dataops-dusseldorf-8107",
-        "loc": "D\u00fcsseldorf, Nordrhein-Westfalen, Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 100,
-        "timestamp": "2026-10-19 02:59"
+        "tejas_score": 45,
+        "timestamp": "2026-10-19 09:32"
     },
     {
         "title": "Senior Manager, Data Science & Marketing Effectiveness (MMM)",
@@ -57,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-19 02:59"
+        "timestamp": "2026-10-19 09:32"
     },
     {
         "title": "Senior Data Scientist and Marketing Effectiveness (MMM)",
@@ -69,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-19 02:59"
+        "timestamp": "2026-10-19 09:32"
     },
     {
         "title": "Manager, Data science & Marketing Effectiveness (MMM)",
@@ -81,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-19 02:59"
+        "timestamp": "2026-10-19 09:32"
     },
     {
         "title": "2027 Internship (6 Months) - Data Science & Marketing Effectiveness, London",
@@ -93,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-19 02:59"
+        "timestamp": "2026-10-19 09:32"
     },
     {
         "title": "Senior Data Engineer - Real time analytics",
@@ -105,43 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-10-19 02:59"
-    },
-    {
-        "title": "Senior Security Engineer",
-        "company": "Wavemm1",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/wavemm1/senior-security-engineer-239708",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-10-19 02:59"
-    },
-    {
-        "title": "Sr. Solutions Engineer",
-        "company": "Logicmonitor",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/logicmonitor/sr-solutions-engineer-london-328551",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-19 02:59"
-    },
-    {
-        "title": "Sr. Forward Deployed Engineer",
-        "company": "Logicmonitor",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/logicmonitor/sr-forward-deployed-engineer-london-348520",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 69,
-        "timestamp": "2026-10-19 02:59"
+        "timestamp": "2026-10-19 09:32"
     },
     {
         "title": "Senior Data Engineer",
@@ -153,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-10-19 02:59"
+        "timestamp": "2026-10-19 09:32"
     },
     {
         "title": "Staff Software Engineer",
@@ -165,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-19 02:59"
+        "timestamp": "2026-10-19 09:32"
     },
     {
         "title": "Senior Data Engineer - Real time analytics",
@@ -177,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-10-19 02:59"
+        "timestamp": "2026-10-19 09:32"
     },
     {
         "title": "Senior Data Engineer - Real time analytics",
@@ -189,7 +129,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-10-19 02:59"
+        "timestamp": "2026-10-19 09:32"
+    },
+    {
+        "title": "Senior Database Engineer (Oracle/PostgreSQL), 80\u2013100 %",
+        "company": "two.jobs",
+        "url": "https://www.arbeitnow.ch/jobs/companies/twojobs/senior-database-engineer-oracle-postgresql-80-100-lucerne-93053",
+        "loc": "Lucerne",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 58,
+        "timestamp": "2026-10-19 09:32"
     },
     {
         "title": "Senior Python Backend Engineer \u2013 OpenShift / API Integration / GenAI",
@@ -201,6 +153,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-10-19 02:59"
+        "timestamp": "2026-10-19 09:32"
     }
 ]
