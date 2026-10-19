@@ -9,7 +9,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-10-18 22:10"
+        "timestamp": "2026-10-19 02:59"
     },
     {
         "title": "(Senior) Data Engineer - Tracking Infrastructure (m/f/d)",
@@ -21,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-10-18 22:10"
+        "timestamp": "2026-10-19 02:59"
     },
     {
         "title": "AI Engineer - Analytics & End-User Insights",
@@ -33,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 83,
-        "timestamp": "2026-10-18 22:10"
+        "timestamp": "2026-10-19 02:59"
     },
     {
         "title": "Data Engineer - AI Pipelines & DataOps",
@@ -45,7 +45,67 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 100,
-        "timestamp": "2026-10-18 22:10"
+        "timestamp": "2026-10-19 02:59"
+    },
+    {
+        "title": "Senior Manager, Data Science & Marketing Effectiveness (MMM)",
+        "company": "Ekimetrics",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/ekimetrics/senior-manager-data-science-marketing-effectiveness-mmm-london-348715",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-10-19 02:59"
+    },
+    {
+        "title": "Senior Data Scientist and Marketing Effectiveness (MMM)",
+        "company": "Ekimetrics",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/ekimetrics/senior-data-scientist-and-marketing-effectiveness-mmm-london-135825",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-10-19 02:59"
+    },
+    {
+        "title": "Manager, Data science & Marketing Effectiveness (MMM)",
+        "company": "Ekimetrics",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/ekimetrics/manager-data-science-marketing-effectiveness-mmm-london-252637",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-10-19 02:59"
+    },
+    {
+        "title": "2027 Internship (6 Months) - Data Science & Marketing Effectiveness, London",
+        "company": "Ekimetrics",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/ekimetrics/2027-internship-6-months-data-science-marketing-effectiveness-london-376777",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-10-19 02:59"
+    },
+    {
+        "title": "Senior Data Engineer - Real time analytics",
+        "company": "Aircall",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/aircall/senior-data-engineer-real-time-analytics-london-office-162913",
+        "loc": "London Office",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-10-19 02:59"
     },
     {
         "title": "Senior Security Engineer",
@@ -57,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-18 22:10"
+        "timestamp": "2026-10-19 02:59"
     },
     {
         "title": "Sr. Solutions Engineer",
@@ -69,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-18 22:10"
+        "timestamp": "2026-10-19 02:59"
     },
     {
         "title": "Sr. Forward Deployed Engineer",
@@ -81,7 +141,55 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 69,
-        "timestamp": "2026-10-18 22:10"
+        "timestamp": "2026-10-19 02:59"
+    },
+    {
+        "title": "Senior Data Engineer",
+        "company": "Agicap",
+        "url": "https://www.arbeitnow.fr/jobs/companies/agicap/senior-data-engineer-lyon-16891",
+        "loc": "Lyon \ud83c\uddeb\ud83c\uddf7",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-10-19 02:59"
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Aircall",
+        "url": "https://www.arbeitnow.fr/jobs/companies/aircall/staff-software-engineer-paris-office-109305",
+        "loc": "Paris Office",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-10-19 02:59"
+    },
+    {
+        "title": "Senior Data Engineer - Real time analytics",
+        "company": "Aircall",
+        "url": "https://www.arbeitnow.fr/jobs/companies/aircall/remote-senior-data-engineer-real-time-analytics-101618",
+        "loc": "France Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-10-19 02:59"
+    },
+    {
+        "title": "Senior Data Engineer - Real time analytics",
+        "company": "Aircall",
+        "url": "https://www.arbeitnow.fr/jobs/companies/aircall/senior-data-engineer-real-time-analytics-paris-office-42594",
+        "loc": "Paris Office",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-10-19 02:59"
     },
     {
         "title": "Senior Python Backend Engineer \u2013 OpenShift / API Integration / GenAI",
@@ -93,18 +201,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-10-18 22:10"
-    },
-    {
-        "title": "Platform Engineer",
-        "company": "Job offers ID-ware",
-        "url": "https://www.arbeitnow.nl/jobs/companies/job-offers-id-ware/platform-engineer-den-haag-20425",
-        "loc": "Den Haag",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-18 22:10"
+        "timestamp": "2026-10-19 02:59"
     }
 ]
