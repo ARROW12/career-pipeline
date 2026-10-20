@@ -1,111 +1,15 @@
 [
     {
-        "title": "Duales Studium Wirtschaftsinformatik - Data Engineering (m/w/d)",
-        "company": "SkelTech  GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/skeltech-gmbh/duales-studium-wirtschaftsinformatik-data-engineering-frechen-244774",
-        "loc": "Frechen",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 60,
-        "timestamp": "2026-10-20 03:08"
-    },
-    {
-        "title": "Senior - Data Engineering (m/w/d) Azure und Databricks",
-        "company": "SkelTech  GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/skeltech-gmbh/senior-data-engineering-azure-und-databricks-frechen-172745",
-        "loc": "Frechen",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 89,
-        "timestamp": "2026-10-20 03:08"
-    },
-    {
-        "title": "Senior - Data Plattform Engineering (m/w/d) Azure und Databricks",
-        "company": "SkelTech  GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/skeltech-gmbh/senior-data-plattform-engineering-azure-und-databricks-frechen-53008",
-        "loc": "Frechen",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 100,
-        "timestamp": "2026-10-20 03:08"
-    },
-    {
-        "title": "Senior - Java Fullstack Developer (m/w/d) Azure und Databricks",
-        "company": "SkelTech  GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/skeltech-gmbh/senior-java-fullstack-developer-azure-und-databricks-frechen-170633",
-        "loc": "Frechen",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 73,
-        "timestamp": "2026-10-20 03:08"
-    },
-    {
-        "title": "Working Student / Werkstudent \u2014 Applied AI - Software Engineering",
-        "company": "aifano GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/aifano-gmbh/working-student-werkstudent-applied-ai-software-engineering-herford-51530",
-        "loc": "Herford",
+        "title": "Data Engineer",
+        "company": "ocadogroup",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/ocadogroup/data-engineer-hatfield-359118",
+        "loc": "Hatfield",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-20 03:08"
-    },
-    {
-        "title": "Forward Deployed Engineer",
-        "company": "aifano GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/aifano-gmbh/forward-deployed-engineer-herford-397985",
-        "loc": "Herford",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-10-20 03:08"
-    },
-    {
-        "title": "Senior Java Fullstack Developer (m/w/d)",
-        "company": "Natalie Felsinger Consulting",
-        "url": "https://www.arbeitnow.com/jobs/companies/natalie-felsinger-consulting/senior-java-fullstack-developer-frechen-256898",
-        "loc": "Frechen",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-20 03:08"
-    },
-    {
-        "title": "Senior Data Plattform Engineering (m/w/d) Azure und Databricks",
-        "company": "Natalie Felsinger Consulting",
-        "url": "https://www.arbeitnow.com/jobs/companies/natalie-felsinger-consulting/senior-data-plattform-engineering-azure-und-databricks-frechen-211076",
-        "loc": "Frechen",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 88,
-        "timestamp": "2026-10-20 03:08"
-    },
-    {
-        "title": "Staff Software Engineer, Data Enrichment Platform",
-        "company": "Wayve",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/wayve/staff-software-engineer-data-enrichment-platform-london-united-kingdom-26859",
-        "loc": "London, United Kingdom",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-10-20 03:08"
+        "timestamp": "2026-10-20 09:04"
     },
     {
         "title": "Senior Analytics Engineer - EMEA",
@@ -117,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-20 03:08"
+        "timestamp": "2026-10-20 09:04"
     },
     {
         "title": "Full-stack Developer",
@@ -129,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-20 03:08"
+        "timestamp": "2026-10-20 09:04"
     },
     {
         "title": "Senior Database Engineer (Oracle/PostgreSQL), 80\u2013100 %",
@@ -141,6 +45,18 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 58,
-        "timestamp": "2026-10-20 03:08"
+        "timestamp": "2026-10-20 09:04"
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Univ\u00e9",
+        "url": "https://www.arbeitnow.nl/jobs/companies/unive/data-engineer-zwolle-82977",
+        "loc": "Zwolle, Overijssel, Nederland",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-10-20 09:04"
     }
 ]
