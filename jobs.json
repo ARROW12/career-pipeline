@@ -1,5 +1,29 @@
 [
     {
+        "title": "Senior Analytics Engineer - EMEA",
+        "company": "Seeq",
+        "url": "https://www.arbeitnow.com/jobs/companies/seeq/remote-senior-analytics-engineer-emea-germany-207467",
+        "loc": "Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-10-20 22:53"
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Melotech",
+        "url": "https://www.arbeitnow.com/jobs/companies/melotech/data-scientist-berlin-362359",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-20 22:53"
+    },
+    {
         "title": "Software Engineer, Applied AI",
         "company": "Circuithub",
         "url": "https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-applied-ai-430890",
@@ -9,55 +33,115 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-10-20 16:15"
+        "timestamp": "2026-10-20 22:53"
     },
     {
-        "title": "Staff Engineer",
-        "company": "Andercore",
-        "url": "https://www.arbeitnow.com/jobs/companies/andercore/staff-engineer-berlin-165964",
-        "loc": "Berlin",
+        "title": "Lead Data Engineer",
+        "company": "sonyinteractiveentertainmentglobal",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/lead-data-engineer-london-222915",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-20 16:15"
+        "timestamp": "2026-10-20 22:53"
     },
     {
-        "title": "Senior Product Specialist Partner Solutions Architect",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-product-specialist-partner-solutions-architect-london-186208",
+        "title": "Data Scientist - Forecasting",
+        "company": "sonyinteractiveentertainmentglobal",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/data-scientist-forecasting-london-179156",
         "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-10-20 16:15"
+        "tejas_score": 46,
+        "timestamp": "2026-10-20 22:53"
     },
     {
-        "title": "Senior Site Reliability Engineer (SRE)",
-        "company": "Sparta Commodities",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/sparta-commodities/senior-site-reliability-engineer-sre-london-413938",
-        "loc": "London",
+        "title": "Reporting & Data Analyst (6-Month FTC)",
+        "company": "Form3",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/form3/reporting-data-analyst-6-month-ftc-163406",
+        "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 54,
-        "timestamp": "2026-10-20 16:15"
+        "tejas_score": 53,
+        "timestamp": "2026-10-20 22:53"
     },
     {
-        "title": "Senior Analytics Engineer - EMEA",
-        "company": "Seeq",
-        "url": "https://www.arbeitnow.fr/jobs/companies/seeq/remote-senior-analytics-engineer-emea-france-234875",
-        "loc": "France",
+        "title": "Senior Software Engineer (Python/Django) - (F/H/X) - CDI",
+        "company": "Kraken",
+        "url": "https://www.arbeitnow.fr/jobs/companies/kraken/senior-software-engineer-python-django-cdi-paris-476080",
+        "loc": "Paris, France",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 58,
+        "timestamp": "2026-10-20 22:53"
+    },
+    {
+        "title": "Data Steward (CoE Data & AI Governance)",
+        "company": "Decathlontechnology",
+        "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/data-steward-coe-data-ai-governance-paris-paris-248366",
+        "loc": "Paris, Paris",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 83,
+        "timestamp": "2026-10-20 22:53"
+    },
+    {
+        "title": "Data analyst Intern - Inventory Management - Value Chain (f/m/d)",
+        "company": "Decathlontechnology",
+        "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/data-analyst-intern-inventory-management-value-chain-lille-upline-nord-157668",
+        "loc": "Lille, Upline, Nord",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 83,
+        "timestamp": "2026-10-20 22:53"
+    },
+    {
+        "title": "AI Engineer - Digital Unit Sports (f/m/d)",
+        "company": "Decathlontechnology",
+        "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/ai-engineer-digital-unit-sports-lille-btwin-village-nord-9632",
+        "loc": "Lille - Btwin Village, Nord",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 100,
+        "timestamp": "2026-10-20 22:53"
+    },
+    {
+        "title": "Junior Business Data Analyst",
+        "company": "Pix4D",
+        "url": "https://www.arbeitnow.ch/jobs/companies/pix4d/junior-business-data-analyst-lausanne-187365",
+        "loc": "Lausanne, Switzerland",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-20 16:15"
+        "timestamp": "2026-10-20 22:53"
+    },
+    {
+        "title": "Full Stack Engineer",
+        "company": "Mytomorrows",
+        "url": "https://www.arbeitnow.nl/jobs/companies/mytomorrows/full-stack-engineer-amsterdam-329815",
+        "loc": "Amsterdam HQ",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-10-20 22:53"
     },
     {
         "title": "Lead Solutions Architect \u2013 MedTech (Strategic Account)",
@@ -69,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-10-20 16:15"
+        "timestamp": "2026-10-20 22:53"
     },
     {
         "title": "Data Engineer",
@@ -81,6 +165,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-20 16:15"
+        "timestamp": "2026-10-20 22:53"
     }
 ]
