@@ -9,55 +9,79 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-21 16:30"
+        "timestamp": "2026-10-21 22:59"
     },
     {
-        "title": "Global Solutions Architect - Cloud",
-        "company": "Rubrik",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/rubrik/global-solutions-architect-cloud-london-413125",
-        "loc": "London",
+        "title": "Senior Data Engineer",
+        "company": "LiveScore Group ",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/livescore-group/senior-data-engineer-london-423630",
+        "loc": "London, England, United Kingdom",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-21 16:30"
+        "timestamp": "2026-10-21 22:59"
     },
     {
-        "title": "Staff Software Engineer - Physical AI",
-        "company": "Coreweave",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweave/staff-software-engineer-physical-ai-london-185571",
+        "title": "Staff Data Analyst, Marketing",
+        "company": "Quince",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/quince/staff-data-analyst-marketing-london-266332",
         "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 69,
-        "timestamp": "2026-10-21 16:30"
+        "tejas_score": 45,
+        "timestamp": "2026-10-21 22:59"
     },
     {
-        "title": "Senior Software Engineer - Physical AI",
-        "company": "Coreweave",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweave/senior-software-engineer-physical-ai-london-460899",
+        "title": "Principal Software Engineer",
+        "company": "UiPath",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/uipath/principal-software-engineer-london-37015",
         "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 69,
-        "timestamp": "2026-10-21 16:30"
+        "tejas_score": 53,
+        "timestamp": "2026-10-21 22:59"
     },
     {
-        "title": "Software Engineer - Map & Route",
-        "company": "Wayve",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/wayve/software-engineer-map-route-london-united-kingdom-127957",
-        "loc": "London, United Kingdom",
+        "title": "Product & Tech | Senior Forward Deployed Engineer - AI & Data",
+        "company": "Singulier",
+        "url": "https://www.arbeitnow.fr/jobs/companies/singulier/product-tech-senior-forward-deployed-engineer-ai-data-paris-302475",
+        "loc": "Paris, France",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 69,
-        "timestamp": "2026-10-21 16:30"
+        "tejas_score": 53,
+        "timestamp": "2026-10-21 22:59"
+    },
+    {
+        "title": "Senior AI Engineer - Freelance",
+        "company": "mirakllabs",
+        "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/senior-ai-engineer-freelance-paris-110658",
+        "loc": "Paris",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-10-21 22:59"
+    },
+    {
+        "title": "Senior AI Engineer - Freelance",
+        "company": "mirakllabs",
+        "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/senior-ai-engineer-freelance-bordeaux-325712",
+        "loc": "Bordeaux",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-10-21 22:59"
     },
     {
         "title": "Junior Business Data Analyst",
@@ -69,7 +93,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-21 16:30"
+        "timestamp": "2026-10-21 22:59"
+    },
+    {
+        "title": "Senior Software Engineer (Data Platform, C++)",
+        "company": "Nebius",
+        "url": "https://www.arbeitnow.nl/jobs/companies/nebius/senior-software-engineer-data-platform-c-amsterdam-173297",
+        "loc": "Amsterdam",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 54,
+        "timestamp": "2026-10-21 22:59"
+    },
+    {
+        "title": "Product Data Analyst",
+        "company": "Nebius",
+        "url": "https://www.arbeitnow.nl/jobs/companies/nebius/product-data-analyst-amsterdam-428402",
+        "loc": "Amsterdam",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-21 22:59"
     },
     {
         "title": "Senior Data Engineering Consultant",
@@ -81,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-10-21 16:30"
+        "timestamp": "2026-10-21 22:59"
     },
     {
         "title": "Full Stack Engineer",
@@ -93,18 +141,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-21 16:30"
-    },
-    {
-        "title": "Lead Solutions Architect \u2013 MedTech (Strategic Account)",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.nl/jobs/companies/databricks/lead-solutions-architect-medtech-strategic-account-amsterdam-206298",
-        "loc": "Amsterdam",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-10-21 16:30"
+        "timestamp": "2026-10-21 22:59"
     }
 ]
