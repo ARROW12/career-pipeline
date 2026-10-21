@@ -9,7 +9,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-20 22:53"
+        "timestamp": "2026-10-21 03:03"
     },
     {
         "title": "Data Scientist",
@@ -21,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-20 22:53"
+        "timestamp": "2026-10-21 03:03"
     },
     {
         "title": "Software Engineer, Applied AI",
@@ -33,43 +33,55 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-10-20 22:53"
+        "timestamp": "2026-10-21 03:03"
     },
     {
-        "title": "Lead Data Engineer",
-        "company": "sonyinteractiveentertainmentglobal",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/lead-data-engineer-london-222915",
+        "title": "Senior Data Insights Consultant - EMEA",
+        "company": "Map",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/map/senior-data-insights-consultant-emea-london-196123",
         "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-10-20 22:53"
+        "tejas_score": 60,
+        "timestamp": "2026-10-21 03:03"
     },
     {
-        "title": "Data Scientist - Forecasting",
-        "company": "sonyinteractiveentertainmentglobal",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/data-scientist-forecasting-london-179156",
+        "title": "Senior Data Engineer",
+        "company": "Wpp",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/wpp/senior-data-engineer-london-london-494449",
+        "loc": "London, London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-10-21 03:03"
+    },
+    {
+        "title": "Senior Data Scientist - Product",
+        "company": "Legora",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/legora/senior-data-scientist-product-london-425604",
         "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-10-20 22:53"
+        "tejas_score": 45,
+        "timestamp": "2026-10-21 03:03"
     },
     {
-        "title": "Reporting & Data Analyst (6-Month FTC)",
-        "company": "Form3",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/form3/reporting-data-analyst-6-month-ftc-163406",
-        "loc": "Remote",
+        "title": "Senior Analytics Engineer",
+        "company": "Vestiairecollective",
+        "url": "https://www.arbeitnow.fr/jobs/companies/vestiairecollective/senior-analytics-engineer-paris-422361",
+        "loc": "Paris",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-20 22:53"
+        "timestamp": "2026-10-21 03:03"
     },
     {
         "title": "Senior Software Engineer (Python/Django) - (F/H/X) - CDI",
@@ -81,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 58,
-        "timestamp": "2026-10-20 22:53"
+        "timestamp": "2026-10-21 03:03"
     },
     {
         "title": "Data Steward (CoE Data & AI Governance)",
@@ -93,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 83,
-        "timestamp": "2026-10-20 22:53"
+        "timestamp": "2026-10-21 03:03"
     },
     {
         "title": "Data analyst Intern - Inventory Management - Value Chain (f/m/d)",
@@ -105,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 83,
-        "timestamp": "2026-10-20 22:53"
+        "timestamp": "2026-10-21 03:03"
     },
     {
         "title": "AI Engineer - Digital Unit Sports (f/m/d)",
@@ -117,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 100,
-        "timestamp": "2026-10-20 22:53"
+        "timestamp": "2026-10-21 03:03"
     },
     {
         "title": "Junior Business Data Analyst",
@@ -129,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-20 22:53"
+        "timestamp": "2026-10-21 03:03"
     },
     {
         "title": "Full Stack Engineer",
@@ -141,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-20 22:53"
+        "timestamp": "2026-10-21 03:03"
     },
     {
         "title": "Lead Solutions Architect \u2013 MedTech (Strategic Account)",
@@ -153,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-10-20 22:53"
+        "timestamp": "2026-10-21 03:03"
     },
     {
         "title": "Data Engineer",
@@ -165,6 +177,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-20 22:53"
+        "timestamp": "2026-10-21 03:03"
     }
 ]
