@@ -1,15 +1,15 @@
 [
     {
-        "title": "Forward Deployed Engineer",
-        "company": "Mlabs",
-        "url": "https://www.arbeitnow.com/jobs/companies/mlabs/forward-deployed-engineer-baruth-109291",
-        "loc": "Baruth, Germany",
+        "title": "Senior Software Engineer (Full-Stack)",
+        "company": "Ripple",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/ripple/senior-software-engineer-full-stack-london-443550",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-21 22:59"
+        "tejas_score": 45,
+        "timestamp": "2026-10-22 03:02"
     },
     {
         "title": "Senior Data Engineer",
@@ -21,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-21 22:59"
+        "timestamp": "2026-10-22 03:02"
     },
     {
         "title": "Staff Data Analyst, Marketing",
@@ -33,19 +33,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-21 22:59"
+        "timestamp": "2026-10-22 03:02"
     },
     {
-        "title": "Principal Software Engineer",
-        "company": "UiPath",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/uipath/principal-software-engineer-london-37015",
-        "loc": "London",
+        "title": "Senior AI Engineer - Freelance",
+        "company": "Mirakl - Labs",
+        "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/senior-ai-engineer-freelance-bordeaux-296181",
+        "loc": "Bordeaux, France",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-21 22:59"
+        "tejas_score": 68,
+        "timestamp": "2026-10-22 03:02"
+    },
+    {
+        "title": "Senior AI Engineer - Freelance",
+        "company": "Mirakl - Labs",
+        "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/senior-ai-engineer-freelance-paris-82276",
+        "loc": "Paris, France",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-10-22 03:02"
     },
     {
         "title": "Product & Tech | Senior Forward Deployed Engineer - AI & Data",
@@ -57,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-21 22:59"
+        "timestamp": "2026-10-22 03:02"
     },
     {
         "title": "Senior AI Engineer - Freelance",
@@ -69,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-10-21 22:59"
+        "timestamp": "2026-10-22 03:02"
     },
     {
         "title": "Senior AI Engineer - Freelance",
@@ -81,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-10-21 22:59"
+        "timestamp": "2026-10-22 03:02"
     },
     {
         "title": "Junior Business Data Analyst",
@@ -93,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-21 22:59"
+        "timestamp": "2026-10-22 03:02"
     },
     {
         "title": "Senior Software Engineer (Data Platform, C++)",
@@ -105,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 54,
-        "timestamp": "2026-10-21 22:59"
+        "timestamp": "2026-10-22 03:02"
     },
     {
         "title": "Product Data Analyst",
@@ -117,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-21 22:59"
+        "timestamp": "2026-10-22 03:02"
     },
     {
         "title": "Senior Data Engineering Consultant",
@@ -129,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-10-21 22:59"
+        "timestamp": "2026-10-22 03:02"
     },
     {
         "title": "Full Stack Engineer",
@@ -141,6 +153,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-21 22:59"
+        "timestamp": "2026-10-22 03:02"
     }
 ]
