@@ -1,5 +1,17 @@
 [
     {
+        "title": "Senior AI Platform Engineer- LLM & Agents (m/w/d)",
+        "company": "Neurawork GmbH & Co. KG",
+        "url": "https://www.arbeitnow.com/jobs/companies/neurawork-gmbh-co-kg/senior-ai-platform-engineer-llm-agents-berlin-491116",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 65,
+        "timestamp": "2026-10-23 09:01"
+    },
+    {
         "title": "AI Solution Architect (m/w/d)",
         "company": "virtual7 GmbH",
         "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-255821",
@@ -9,43 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-23 03:07"
-    },
-    {
-        "title": "(Senior) Oracle Data Warehouse / BI-Developer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-oracle-data-warehouse-bi-developer-karlsruhe-172375",
-        "loc": "Karlsruhe, Baden-W\u00fcrttemberg, Deutschland",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-23 03:07"
-    },
-    {
-        "title": "Director of Go-to-Market Engineering",
-        "company": "Perk",
-        "url": "https://www.arbeitnow.com/jobs/companies/perk/director-of-go-to-market-engineering-berlin-419348",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-23 03:07"
-    },
-    {
-        "title": "Freelance Senior AI Platform Expert - Azure Databricks",
-        "company": "Visium",
-        "url": "https://www.arbeitnow.com/jobs/companies/visium/freelance-senior-ai-platform-expert-azure-databricks-munich-280493",
-        "loc": "Munich, Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 97,
-        "timestamp": "2026-10-23 03:07"
+        "timestamp": "2026-10-23 09:01"
     },
     {
         "title": "AI Engineer (AI & GenAI) - Finance Domain",
@@ -57,91 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 83,
-        "timestamp": "2026-10-23 03:07"
-    },
-    {
-        "title": "Senior Software Engineer - AI Foundations (F/H/X) - CDI",
-        "company": "Kraken",
-        "url": "https://www.arbeitnow.fr/jobs/companies/kraken/senior-software-engineer-ai-foundations-cdi-paris-261991",
-        "loc": "Paris, France",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-23 03:07"
-    },
-    {
-        "title": "Data Analyst H/F - Paris",
-        "company": "AVISIA",
-        "url": "https://www.arbeitnow.fr/jobs/companies/avisia/data-analyst-h-f-paris-207445",
-        "loc": "Paris, \u00cele-de-France, France",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-23 03:07"
-    },
-    {
-        "title": "Data Engineer H/F - Paris",
-        "company": "AVISIA",
-        "url": "https://www.arbeitnow.fr/jobs/companies/avisia/data-engineer-h-f-paris-250437",
-        "loc": "Paris, \u00cele-de-France, France",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 99,
-        "timestamp": "2026-10-23 03:07"
-    },
-    {
-        "title": "Data Scientist Confirm\u00e9(e) H/F  - Lyon",
-        "company": "AVISIA",
-        "url": "https://www.arbeitnow.fr/jobs/companies/avisia/data-scientist-confirmee-h-f-lyon-162700",
-        "loc": "Lyon, Auvergne-Rh\u00f4ne-Alpes, France",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-23 03:07"
-    },
-    {
-        "title": "Data Scientist H/F - Nantes",
-        "company": "AVISIA",
-        "url": "https://www.arbeitnow.fr/jobs/companies/avisia/data-scientist-h-f-nantes-217294",
-        "loc": "Nantes, Pays de la Loire, France",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-23 03:07"
-    },
-    {
-        "title": "Data Scientist H/F - Paris",
-        "company": "AVISIA",
-        "url": "https://www.arbeitnow.fr/jobs/companies/avisia/data-scientist-h-f-paris-293734",
-        "loc": "Paris, \u00cele-de-France, France",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-23 03:07"
-    },
-    {
-        "title": "Data Analyst confirm\u00e9(e) H/F - Lille",
-        "company": "AVISIA",
-        "url": "https://www.arbeitnow.fr/jobs/companies/avisia/data-analyst-confirmee-h-f-lille-34846",
-        "loc": "Lille, Hauts-de-France, France",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-23 03:07"
+        "timestamp": "2026-10-23 09:01"
     },
     {
         "title": "Senior Consultant / Manager Data Foundation",
@@ -153,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-10-23 03:07"
+        "timestamp": "2026-10-23 09:01"
     },
     {
         "title": "Senior Data Engineer",
@@ -165,18 +57,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 69,
-        "timestamp": "2026-10-23 03:07"
-    },
-    {
-        "title": "Microsoft Data & Analytics Engineer",
-        "company": "GradeMatch",
-        "url": "https://www.arbeitnow.nl/jobs/companies/gradematch/microsoft-data-analytics-engineer-venlo-269433",
-        "loc": "Venlo, Limburg, Nederland",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-23 03:07"
+        "timestamp": "2026-10-23 09:01"
     }
 ]
