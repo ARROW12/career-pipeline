@@ -1,5 +1,77 @@
 [
     {
+        "title": "Staff Engineer",
+        "company": "Andercore",
+        "url": "https://www.arbeitnow.com/jobs/companies/andercore/staff-engineer-berlin-461575",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-10-23 22:51"
+    },
+    {
+        "title": "DevOps/ML Engineer (m/f/d)",
+        "company": "Machine Learning Reply",
+        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/devops-ml-engineer-munich-245161",
+        "loc": "Munich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-10-23 22:51"
+    },
+    {
+        "title": "AI Application Engineer \u2013 AI Products (LLM & RAG) (m/f/d)",
+        "company": "Machine Learning Reply",
+        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/ai-application-engineer-ai-products-llm-rag-berlin-377089",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 50,
+        "timestamp": "2026-10-23 22:51"
+    },
+    {
+        "title": "Junior AI Application Engineer \u2013 AI Products (LLM & RAG) (m/f/d)",
+        "company": "Machine Learning Reply",
+        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/junior-ai-application-engineer-ai-products-llm-rag-munich-5253",
+        "loc": "Munich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 50,
+        "timestamp": "2026-10-23 22:51"
+    },
+    {
+        "title": "Staff Site Reliability Engineer (x/f/m)",
+        "company": "Doctolib",
+        "url": "https://www.arbeitnow.com/jobs/companies/doctolib/staff-site-reliability-engineer-berlin-berlin-83760",
+        "loc": "Berlin, Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-10-23 22:51"
+    },
+    {
+        "title": "Senior Site Reliability Engineer (x/f/m)",
+        "company": "Doctolib",
+        "url": "https://www.arbeitnow.com/jobs/companies/doctolib/senior-site-reliability-engineer-berlin-berlin-358880",
+        "loc": "Berlin, Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-10-23 22:51"
+    },
+    {
         "title": "Senior DevOps Engineer- Night Shift(10:00 PM - 6:00 AM)",
         "company": "nice",
         "url": "https://www.arbeitnow.co.uk/jobs/companies/nice/senior-devops-engineer-night-shift1000-pm-600-am-210443",
@@ -9,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-23 16:20"
+        "timestamp": "2026-10-23 22:51"
     },
     {
         "title": "Engineering & Delivery Manager (H/F)",
@@ -21,7 +93,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-23 16:20"
+        "timestamp": "2026-10-23 22:51"
+    },
+    {
+        "title": "Backend Engineer",
+        "company": "Blockvora",
+        "url": "https://www.arbeitnow.ch/jobs/companies/blockvora/backend-engineer-zug-145470",
+        "loc": "Zug",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-10-23 22:51"
     },
     {
         "title": "Lead Software Engineer",
@@ -33,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-23 16:20"
+        "timestamp": "2026-10-23 22:51"
     },
     {
         "title": "Senior Data Engineer",
@@ -45,6 +129,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 69,
-        "timestamp": "2026-10-23 16:20"
+        "timestamp": "2026-10-23 22:51"
     }
 ]
