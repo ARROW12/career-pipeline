@@ -1,51 +1,39 @@
 [
     {
-        "title": "Senior AI Platform Engineer- LLM & Agents (m/w/d)",
-        "company": "Neurawork GmbH & Co. KG",
-        "url": "https://www.arbeitnow.com/jobs/companies/neurawork-gmbh-co-kg/senior-ai-platform-engineer-llm-agents-berlin-491116",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 65,
-        "timestamp": "2026-10-23 09:01"
-    },
-    {
-        "title": "AI Solution Architect (m/w/d)",
-        "company": "virtual7 GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-255821",
-        "loc": "Homeoffice",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-10-23 09:01"
-    },
-    {
-        "title": "AI Engineer (AI & GenAI) - Finance Domain",
-        "company": "Decathlontechnology",
-        "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/ai-engineer-ai-genai-finance-domain-lille-jardin-des-plantes-nord-paris-paris-349537",
-        "loc": "Lille - Jardin des Plantes, Nord; Paris, Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 83,
-        "timestamp": "2026-10-23 09:01"
-    },
-    {
-        "title": "Senior Consultant / Manager Data Foundation",
-        "company": "Xebiadach",
-        "url": "https://www.arbeitnow.ch/jobs/companies/xebiadach/senior-consultant-manager-data-foundation-50114",
+        "title": "Senior DevOps Engineer- Night Shift(10:00 PM - 6:00 AM)",
+        "company": "nice",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/nice/senior-devops-engineer-night-shift1000-pm-600-am-210443",
         "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 91,
-        "timestamp": "2026-10-23 09:01"
+        "tejas_score": 61,
+        "timestamp": "2026-10-23 16:20"
+    },
+    {
+        "title": "Engineering & Delivery Manager (H/F)",
+        "company": "PYSAE",
+        "url": "https://www.arbeitnow.fr/jobs/companies/pysae/engineering-delivery-manager-h-f-rennes-187954",
+        "loc": "Rennes, Bretagne, France",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-23 16:20"
+    },
+    {
+        "title": "Lead Software Engineer",
+        "company": "Zurich Soft Robotics GmbH",
+        "url": "https://www.arbeitnow.ch/jobs/companies/zurich-soft-robotics-gmbh/lead-software-engineer-zurich-369297",
+        "loc": "Z\u00fcrich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-10-23 16:20"
     },
     {
         "title": "Senior Data Engineer",
@@ -57,6 +45,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 69,
-        "timestamp": "2026-10-23 09:01"
+        "timestamp": "2026-10-23 16:20"
     }
 ]
