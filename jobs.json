@@ -1,5 +1,17 @@
 [
     {
+        "title": "Senior Full-Stack Engineer - Team Agent",
+        "company": "Taktile",
+        "url": "https://www.arbeitnow.com/jobs/companies/taktile/senior-full-stack-engineer-team-agent-berlin-462322",
+        "loc": "Berlin Office",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-10-24 03:02"
+    },
+    {
         "title": "Staff Engineer",
         "company": "Andercore",
         "url": "https://www.arbeitnow.com/jobs/companies/andercore/staff-engineer-berlin-461575",
@@ -9,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-23 22:51"
+        "timestamp": "2026-10-24 03:02"
     },
     {
         "title": "DevOps/ML Engineer (m/f/d)",
@@ -21,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-10-23 22:51"
+        "timestamp": "2026-10-24 03:02"
     },
     {
         "title": "AI Application Engineer \u2013 AI Products (LLM & RAG) (m/f/d)",
@@ -33,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-10-23 22:51"
+        "timestamp": "2026-10-24 03:02"
     },
     {
         "title": "Junior AI Application Engineer \u2013 AI Products (LLM & RAG) (m/f/d)",
@@ -45,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-10-23 22:51"
+        "timestamp": "2026-10-24 03:02"
     },
     {
         "title": "Staff Site Reliability Engineer (x/f/m)",
@@ -57,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-23 22:51"
+        "timestamp": "2026-10-24 03:02"
     },
     {
         "title": "Senior Site Reliability Engineer (x/f/m)",
@@ -69,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-23 22:51"
+        "timestamp": "2026-10-24 03:02"
     },
     {
         "title": "Senior DevOps Engineer- Night Shift(10:00 PM - 6:00 AM)",
@@ -81,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-23 22:51"
+        "timestamp": "2026-10-24 03:02"
     },
     {
         "title": "Engineering & Delivery Manager (H/F)",
@@ -93,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-23 22:51"
+        "timestamp": "2026-10-24 03:02"
     },
     {
         "title": "Backend Engineer",
@@ -105,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-23 22:51"
+        "timestamp": "2026-10-24 03:02"
     },
     {
         "title": "Lead Software Engineer",
@@ -117,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-23 22:51"
+        "timestamp": "2026-10-24 03:02"
     },
     {
         "title": "Senior Data Engineer",
@@ -129,6 +141,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 69,
-        "timestamp": "2026-10-23 22:51"
+        "timestamp": "2026-10-24 03:02"
     }
 ]
