@@ -1,5 +1,41 @@
 [
     {
+        "title": "Senior Software Engineer, Privacy",
+        "company": "mozilla",
+        "url": "https://www.arbeitnow.com/jobs/companies/mozilla/senior-software-engineer-privacy-23607",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-10-24 08:34"
+    },
+    {
+        "title": "Analytics Engineer (m/f/d)",
+        "company": "appinio",
+        "url": "https://www.arbeitnow.com/jobs/companies/appinio/analytics-engineer-hamburg-hamburg-166268",
+        "loc": "Hamburg, Hamburg",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-24 08:34"
+    },
+    {
+        "title": "Machine Learning Engineer (m/f/x)",
+        "company": "caronsale",
+        "url": "https://www.arbeitnow.com/jobs/companies/caronsale/machine-learning-engineer-berlin-325189",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-10-24 08:34"
+    },
+    {
         "title": "Senior Full-Stack Engineer - Team Agent",
         "company": "Taktile",
         "url": "https://www.arbeitnow.com/jobs/companies/taktile/senior-full-stack-engineer-team-agent-berlin-462322",
@@ -9,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-10-24 03:02"
+        "timestamp": "2026-10-24 08:34"
     },
     {
         "title": "Staff Engineer",
@@ -21,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-24 03:02"
+        "timestamp": "2026-10-24 08:34"
     },
     {
         "title": "DevOps/ML Engineer (m/f/d)",
@@ -33,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-10-24 03:02"
+        "timestamp": "2026-10-24 08:34"
     },
     {
         "title": "AI Application Engineer \u2013 AI Products (LLM & RAG) (m/f/d)",
@@ -45,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-10-24 03:02"
+        "timestamp": "2026-10-24 08:34"
     },
     {
         "title": "Junior AI Application Engineer \u2013 AI Products (LLM & RAG) (m/f/d)",
@@ -57,43 +93,115 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-10-24 03:02"
+        "timestamp": "2026-10-24 08:34"
     },
     {
-        "title": "Staff Site Reliability Engineer (x/f/m)",
-        "company": "Doctolib",
-        "url": "https://www.arbeitnow.com/jobs/companies/doctolib/staff-site-reliability-engineer-berlin-berlin-83760",
-        "loc": "Berlin, Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-10-24 03:02"
-    },
-    {
-        "title": "Senior Site Reliability Engineer (x/f/m)",
-        "company": "Doctolib",
-        "url": "https://www.arbeitnow.com/jobs/companies/doctolib/senior-site-reliability-engineer-berlin-berlin-358880",
-        "loc": "Berlin, Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-10-24 03:02"
-    },
-    {
-        "title": "Senior DevOps Engineer- Night Shift(10:00 PM - 6:00 AM)",
-        "company": "nice",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/nice/senior-devops-engineer-night-shift1000-pm-600-am-210443",
+        "title": "Senior Software Engineer, Privacy",
+        "company": "mozilla",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/mozilla/senior-software-engineer-privacy-425197",
         "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-10-24 08:34"
+    },
+    {
+        "title": "Senior Backend Engineer, Cloud Platform",
+        "company": "Clickup",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/clickup/senior-backend-engineer-cloud-platform-united-kingdom-455505",
+        "loc": "United Kingdom",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-24 08:34"
+    },
+    {
+        "title": "Analytics Engineer",
+        "company": "Taptapsend",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/taptapsend/analytics-engineer-london-401519",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-10-24 08:34"
+    },
+    {
+        "title": "Senior Python Engineer (Full Stack)",
+        "company": "Lendable",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/senior-python-engineer-full-stack-london-374298",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 81,
+        "timestamp": "2026-10-24 08:34"
+    },
+    {
+        "title": "Senior Full Stack Engineer",
+        "company": "Lendable",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/senior-full-stack-engineer-london-354665",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-24 03:02"
+        "timestamp": "2026-10-24 08:34"
+    },
+    {
+        "title": "Data Platform Engineer",
+        "company": "Lendable",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/data-platform-engineer-london-75252",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-10-24 08:34"
+    },
+    {
+        "title": "Analytics Engineer (m/f/d)",
+        "company": "appinio",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/appinio/analytics-engineer-london-169024",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-24 08:34"
+    },
+    {
+        "title": "Senior Software Engineer, Privacy",
+        "company": "mozilla",
+        "url": "https://www.arbeitnow.fr/jobs/companies/mozilla/senior-software-engineer-privacy-299929",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-10-24 08:34"
+    },
+    {
+        "title": "GTM Engineer - Growth",
+        "company": "Gorgias",
+        "url": "https://www.arbeitnow.fr/jobs/companies/gorgias/gtm-engineer-growth-paris-22627",
+        "loc": "Paris",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 83,
+        "timestamp": "2026-10-24 08:34"
     },
     {
         "title": "Engineering & Delivery Manager (H/F)",
@@ -105,7 +213,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-24 03:02"
+        "timestamp": "2026-10-24 08:34"
     },
     {
         "title": "Backend Engineer",
@@ -117,7 +225,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-24 03:02"
+        "timestamp": "2026-10-24 08:34"
     },
     {
         "title": "Lead Software Engineer",
@@ -129,18 +237,42 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-24 03:02"
+        "timestamp": "2026-10-24 08:34"
     },
     {
-        "title": "Senior Data Engineer",
-        "company": "SHIFTBASE B.V.",
-        "url": "https://www.arbeitnow.nl/jobs/companies/shiftbase-bv/senior-data-engineer-zoetermeer-196651",
-        "loc": "Zoetermeer, Zuid-Holland, Netherlands",
+        "title": "Senior Software Engineer, Privacy",
+        "company": "mozilla",
+        "url": "https://www.arbeitnow.nl/jobs/companies/mozilla/senior-software-engineer-privacy-245877",
+        "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 69,
-        "timestamp": "2026-10-24 03:02"
+        "tejas_score": 45,
+        "timestamp": "2026-10-24 08:34"
+    },
+    {
+        "title": "Senior Cloud Engineer (Kubernetes)",
+        "company": "Careerstrengo",
+        "url": "https://www.arbeitnow.nl/jobs/companies/careerstrengo/senior-cloud-engineer-kubernetes-utrecht-94166",
+        "loc": "Utrecht",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-10-24 08:34"
+    },
+    {
+        "title": "Software Engineer (Java) - Logistics",
+        "company": "Teampicnic",
+        "url": "https://www.arbeitnow.nl/jobs/companies/teampicnic/software-engineer-java-logistics-amsterdam-48094",
+        "loc": "Amsterdam",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-24 08:34"
     }
 ]
