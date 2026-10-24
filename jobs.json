@@ -9,7 +9,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-24 18:32"
+        "timestamp": "2026-10-24 22:12"
     },
     {
         "title": "Forward Deployed Engineer (all genders)",
@@ -21,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-24 18:32"
+        "timestamp": "2026-10-24 22:12"
     },
     {
         "title": "Senior DevOps Engineer (f/m/d)",
@@ -33,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-24 18:32"
+        "timestamp": "2026-10-24 22:12"
     },
     {
         "title": "Senior Software Engineer, Privacy",
@@ -45,19 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-24 18:32"
-    },
-    {
-        "title": "Analytics Engineer (m/f/d)",
-        "company": "appinio",
-        "url": "https://www.arbeitnow.com/jobs/companies/appinio/analytics-engineer-hamburg-hamburg-166268",
-        "loc": "Hamburg, Hamburg",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-24 18:32"
+        "timestamp": "2026-10-24 22:12"
     },
     {
         "title": "Senior Data Engineer",
@@ -69,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-10-24 18:32"
+        "timestamp": "2026-10-24 22:12"
     },
     {
         "title": "Senior BI & Visualisation Developer",
@@ -81,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-24 18:32"
+        "timestamp": "2026-10-24 22:12"
     },
     {
         "title": "Principal Software Engineer (Hybrid)",
@@ -93,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-24 18:32"
+        "timestamp": "2026-10-24 22:12"
     },
     {
         "title": "Lead Software Engineer (Hybrid)",
@@ -105,55 +93,43 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-24 18:32"
+        "timestamp": "2026-10-24 22:12"
     },
     {
-        "title": "Associate Data Scientist",
-        "company": "Legal Counsel - 12 month FTC at Rightmove Greenhouse",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/legal-counsel-12-month-ftc-at-rightmove-greenhouse/associate-data-scientist-london-88840",
-        "loc": "London",
+        "title": "Senior Full-Stack Product Engineer",
+        "company": "The Flex",
+        "url": "https://www.arbeitnow.fr/jobs/companies/the-flex/senior-full-stack-product-engineer-paris-157871",
+        "loc": "Paris",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-10-24 18:32"
+        "tejas_score": 53,
+        "timestamp": "2026-10-24 22:12"
     },
     {
-        "title": "Solutions Architect (Media, Entertainment and Agencies)",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/solutions-architect-media-entertainment-and-agencies-london-409667",
-        "loc": "London",
+        "title": "Product Engineer",
+        "company": "The Flex",
+        "url": "https://www.arbeitnow.fr/jobs/companies/the-flex/product-engineer-paris-152402",
+        "loc": "Paris",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 75,
-        "timestamp": "2026-10-24 18:32"
+        "tejas_score": 53,
+        "timestamp": "2026-10-24 22:12"
     },
     {
-        "title": "Solutions Architect (Digital Native Business)",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/solutions-architect-digital-native-business-london-220996",
-        "loc": "London",
+        "title": "Senior Software Engineer",
+        "company": "The Flex",
+        "url": "https://www.arbeitnow.fr/jobs/companies/the-flex/senior-software-engineer-paris-16114",
+        "loc": "Paris",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 75,
-        "timestamp": "2026-10-24 18:32"
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Veezu",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/veezu/data-engineer-cardiff-121842",
-        "loc": "Cardiff HQ",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 54,
-        "timestamp": "2026-10-24 18:32"
+        "tejas_score": 53,
+        "timestamp": "2026-10-24 22:12"
     },
     {
         "title": "Sr. Specialist Solutions Architect - Platform Security and Cloud Infrastructure",
@@ -165,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 99,
-        "timestamp": "2026-10-24 18:32"
+        "timestamp": "2026-10-24 22:12"
     },
     {
         "title": "Senior Software Engineer, Privacy",
@@ -177,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-24 18:32"
+        "timestamp": "2026-10-24 22:12"
     },
     {
         "title": "GTM Engineer - Growth",
@@ -189,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 83,
-        "timestamp": "2026-10-24 18:32"
+        "timestamp": "2026-10-24 22:12"
     },
     {
         "title": "Backend Engineer",
@@ -201,7 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-24 18:32"
+        "timestamp": "2026-10-24 22:12"
     },
     {
         "title": "Lead Software Engineer",
@@ -213,7 +189,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-24 18:32"
+        "timestamp": "2026-10-24 22:12"
     },
     {
         "title": "Senior BI/Data Engineer",
@@ -225,7 +201,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-24 18:32"
+        "timestamp": "2026-10-24 22:12"
     },
     {
         "title": "Senior Software Engineer, Privacy",
@@ -237,7 +213,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-24 18:32"
+        "timestamp": "2026-10-24 22:12"
     },
     {
         "title": "Senior Cloud Engineer (Kubernetes)",
@@ -249,7 +225,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-24 18:32"
+        "timestamp": "2026-10-24 22:12"
     },
     {
         "title": "Software Engineer (Java) - Logistics",
@@ -261,6 +237,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-24 18:32"
+        "timestamp": "2026-10-24 22:12"
     }
 ]
