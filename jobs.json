@@ -1,5 +1,65 @@
 [
     {
+        "title": "Junior AI Application Engineer \u2013 AI Products (LLM & RAG) (m/f/d)",
+        "company": "Machine Learning Reply",
+        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/junior-ai-application-engineer-ai-products-llm-rag-munich-166653",
+        "loc": "Munich, Bayern, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 50,
+        "timestamp": "2026-10-25 15:27"
+    },
+    {
+        "title": "AI Application Engineer \u2013 AI Products (LLM & RAG) (m/f/d)",
+        "company": "Machine Learning Reply",
+        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/ai-application-engineer-ai-products-llm-rag-berlin-32333",
+        "loc": "Berlin, Berlin, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 50,
+        "timestamp": "2026-10-25 15:27"
+    },
+    {
+        "title": "DevOps/ML Engineer (m/f/d)",
+        "company": "Machine Learning Reply",
+        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/devops-ml-engineer-munich-333786",
+        "loc": "Munich, Bayern, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-10-25 15:27"
+    },
+    {
+        "title": "Data Engineer - Stuttgart",
+        "company": "Agile Defense",
+        "url": "https://www.arbeitnow.com/jobs/companies/agile-defense/data-engineer-stuttgart-stuttgart-germany-490483",
+        "loc": "Stuttgart, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 84,
+        "timestamp": "2026-10-25 15:27"
+    },
+    {
+        "title": "Software Engineer (Java) - (m/f/d)",
+        "company": "Unzer",
+        "url": "https://www.arbeitnow.com/jobs/companies/unzer/software-engineer-java-berlin-377662",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-10-25 15:27"
+    },
+    {
         "title": "Staff Backend Engineer - Platform  (f/m/d)",
         "company": "Apaleo",
         "url": "https://www.arbeitnow.com/jobs/companies/apaleo/staff-backend-engineer-platform-munchen-123859",
@@ -9,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-25 08:54"
+        "timestamp": "2026-10-25 15:27"
     },
     {
         "title": "Data Engineer (m/w/d)",
@@ -21,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 99,
-        "timestamp": "2026-10-25 08:54"
+        "timestamp": "2026-10-25 15:27"
     },
     {
         "title": "Senior Data Engineer (m/w/d)",
@@ -33,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 99,
-        "timestamp": "2026-10-25 08:54"
+        "timestamp": "2026-10-25 15:27"
     },
     {
         "title": "Data Analyst (m/w/d)",
@@ -45,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 83,
-        "timestamp": "2026-10-25 08:54"
+        "timestamp": "2026-10-25 15:27"
     },
     {
         "title": "Senior Data Scientist (m/w/d)",
@@ -57,19 +117,67 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-10-25 08:54"
+        "timestamp": "2026-10-25 15:27"
     },
     {
-        "title": "Consulting Architect - Security (EMEA / Public Sector eligible )",
-        "company": "Elastic",
-        "url": "https://www.arbeitnow.com/jobs/companies/elastic/consulting-architect-security-emea-public-sector-eligible-446692",
-        "loc": "Remote",
+        "title": "Senior ML Engineer",
+        "company": "Anaplan",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/senior-ml-engineer-manchester-228922",
+        "loc": "Manchester",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-25 15:27"
+    },
+    {
+        "title": "Senior Data Engineer - Real time analytics",
+        "company": "Aircall",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/aircall/senior-data-engineer-real-time-analytics-london-office-110633",
+        "loc": "London Office",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-10-25 15:27"
+    },
+    {
+        "title": "Senior Partner Deployed Engineer",
+        "company": "Coder",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/coder/senior-partner-deployed-engineer-united-kingdom-286644",
+        "loc": "United Kingdom",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-25 08:54"
+        "timestamp": "2026-10-25 15:27"
+    },
+    {
+        "title": "Staff Data Analyst - Commercial",
+        "company": "Octopus Energy Group",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/staff-data-analyst-commercial-london-gb-133054",
+        "loc": "London (GB)",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 99,
+        "timestamp": "2026-10-25 15:27"
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Octopus Energy Group",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/data-engineer-london-gb-257739",
+        "loc": "London (GB)",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-10-25 15:27"
     },
     {
         "title": "Sr. Software Engineer - AI/ML - AI Platform",
@@ -81,7 +189,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-10-25 08:54"
+        "timestamp": "2026-10-25 15:27"
     },
     {
         "title": "Site Reliability Engineer",
@@ -93,186 +201,66 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-25 08:54"
+        "timestamp": "2026-10-25 15:27"
     },
     {
-        "title": "Software Engineer II",
-        "company": "tripadvisor",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/tripadvisor/software-engineer-ii-oxford-53842",
-        "loc": "Oxford",
+        "title": "Staff Software Engineer",
+        "company": "Aircall",
+        "url": "https://www.arbeitnow.fr/jobs/companies/aircall/staff-software-engineer-paris-office-65823",
+        "loc": "Paris Office",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-25 08:54"
+        "timestamp": "2026-10-25 15:27"
     },
     {
-        "title": "Fullstack Engineer",
-        "company": "Kpler",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/fullstack-engineer-united-kingdom-158685",
-        "loc": "United Kingdom",
+        "title": "Senior Data Engineer - Real time analytics",
+        "company": "Aircall",
+        "url": "https://www.arbeitnow.fr/jobs/companies/aircall/remote-senior-data-engineer-real-time-analytics-5303",
+        "loc": "France Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-25 08:54"
+        "tejas_score": 76,
+        "timestamp": "2026-10-25 15:27"
     },
     {
-        "title": "Backend Engineer",
-        "company": "Kpler",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/backend-engineer-united-kingdom-429067",
-        "loc": "United Kingdom",
+        "title": "Senior Data Engineer - Real time analytics",
+        "company": "Aircall",
+        "url": "https://www.arbeitnow.fr/jobs/companies/aircall/senior-data-engineer-real-time-analytics-paris-office-150542",
+        "loc": "Paris Office",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-25 08:54"
+        "tejas_score": 76,
+        "timestamp": "2026-10-25 15:27"
     },
     {
-        "title": "Data Scientist, Company Planning & Execution",
-        "company": "Spotify",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/data-scientist-company-planning-execution-london-129395",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-25 08:54"
-    },
-    {
-        "title": "Senior Manager, Data Engineering",
-        "company": "Keyloop",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/keyloop/senior-manager-data-engineering-uk-reading-265759",
-        "loc": "UK (Reading)",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-10-25 08:54"
-    },
-    {
-        "title": "Senior Full-Stack Product Engineer",
-        "company": "The Flex",
-        "url": "https://www.arbeitnow.fr/jobs/companies/the-flex/senior-full-stack-product-engineer-paris-157871",
-        "loc": "Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-25 08:54"
-    },
-    {
-        "title": "Product Engineer",
-        "company": "The Flex",
-        "url": "https://www.arbeitnow.fr/jobs/companies/the-flex/product-engineer-paris-152402",
-        "loc": "Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-25 08:54"
-    },
-    {
-        "title": "Senior Software Engineer",
-        "company": "The Flex",
-        "url": "https://www.arbeitnow.fr/jobs/companies/the-flex/senior-software-engineer-paris-16114",
-        "loc": "Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-25 08:54"
-    },
-    {
-        "title": "Sr. Specialist Solutions Architect - Platform Security and Cloud Infrastructure",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.fr/jobs/companies/databricks/sr-specialist-solutions-architect-platform-security-and-cloud-infrastructure-232808",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 99,
-        "timestamp": "2026-10-25 08:54"
-    },
-    {
-        "title": "Senior Software Engineer, Privacy",
-        "company": "mozilla",
-        "url": "https://www.arbeitnow.fr/jobs/companies/mozilla/senior-software-engineer-privacy-299929",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-25 08:54"
-    },
-    {
-        "title": "GTM Engineer - Growth",
-        "company": "Gorgias",
-        "url": "https://www.arbeitnow.fr/jobs/companies/gorgias/gtm-engineer-growth-paris-22627",
-        "loc": "Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 83,
-        "timestamp": "2026-10-25 08:54"
-    },
-    {
-        "title": "Senior BI/Data Engineer",
-        "company": "Testendouble",
-        "url": "https://www.arbeitnow.nl/jobs/companies/testendouble/senior-bi-data-engineer-amsterdam-125714",
-        "loc": "Amsterdam",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-25 08:54"
-    },
-    {
-        "title": "Senior Software Engineer, Privacy",
-        "company": "mozilla",
-        "url": "https://www.arbeitnow.nl/jobs/companies/mozilla/senior-software-engineer-privacy-245877",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-25 08:54"
-    },
-    {
-        "title": "Senior Cloud Engineer (Kubernetes)",
-        "company": "Careerstrengo",
-        "url": "https://www.arbeitnow.nl/jobs/companies/careerstrengo/senior-cloud-engineer-kubernetes-utrecht-94166",
-        "loc": "Utrecht",
+        "title": "Staff Security Engineer (CDI)",
+        "company": "Matera",
+        "url": "https://www.arbeitnow.fr/jobs/companies/matera/staff-security-engineer-cdi-paris-69905",
+        "loc": "Paris, \u00cele-de-France, France",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-25 08:54"
+        "timestamp": "2026-10-25 15:27"
     },
     {
-        "title": "Software Engineer (Java) - Logistics",
-        "company": "Teampicnic",
-        "url": "https://www.arbeitnow.nl/jobs/companies/teampicnic/software-engineer-java-logistics-amsterdam-48094",
-        "loc": "Amsterdam",
+        "title": "AI Tooling Engineer",
+        "company": "Jobgether",
+        "url": "https://www.arbeitnow.ch/jobs/companies/jobgether/ai-tooling-engineer-switzerland-335267",
+        "loc": "Switzerland",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-25 08:54"
+        "tejas_score": 83,
+        "timestamp": "2026-10-25 15:27"
     }
 ]
