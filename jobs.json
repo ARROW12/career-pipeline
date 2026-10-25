@@ -1,5 +1,65 @@
 [
     {
+        "title": "Staff Backend Engineer - Platform  (f/m/d)",
+        "company": "Apaleo",
+        "url": "https://www.arbeitnow.com/jobs/companies/apaleo/staff-backend-engineer-platform-munchen-123859",
+        "loc": "M\u00fcnchen, Bavaria, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-10-25 08:54"
+    },
+    {
+        "title": "Data Engineer (m/w/d)",
+        "company": "HyPlus Technology GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/data-engineer-ratingen-336049",
+        "loc": "Ratingen, Nordrhein-Westfalen, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 99,
+        "timestamp": "2026-10-25 08:54"
+    },
+    {
+        "title": "Senior Data Engineer (m/w/d)",
+        "company": "HyPlus Technology GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/senior-data-engineer-ratingen-28626",
+        "loc": "Ratingen, Nordrhein-Westfalen, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 99,
+        "timestamp": "2026-10-25 08:54"
+    },
+    {
+        "title": "Data Analyst (m/w/d)",
+        "company": "HyPlus Technology GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/data-analyst-ratingen-360142",
+        "loc": "Ratingen, Nordrhein-Westfalen, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 83,
+        "timestamp": "2026-10-25 08:54"
+    },
+    {
+        "title": "Senior Data Scientist (m/w/d)",
+        "company": "HyPlus Technology GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/senior-data-scientist-ratingen-105879",
+        "loc": "Ratingen, Nordrhein-Westfalen, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-10-25 08:54"
+    },
+    {
         "title": "Consulting Architect - Security (EMEA / Public Sector eligible )",
         "company": "Elastic",
         "url": "https://www.arbeitnow.com/jobs/companies/elastic/consulting-architect-security-emea-public-sector-eligible-446692",
@@ -9,79 +69,91 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-25 02:56"
+        "timestamp": "2026-10-25 08:54"
     },
     {
-        "title": "Forward Deployed Engineer (all genders)",
-        "company": "Thorit",
-        "url": "https://www.arbeitnow.com/jobs/companies/thorit/forward-deployed-engineer-all-genders-boblingen-99884",
-        "loc": "B\u00f6blingen Headquater",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-25 02:56"
-    },
-    {
-        "title": "Senior DevOps Engineer (f/m/d)",
-        "company": "isaraerospace",
-        "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/senior-devops-engineer-parsdorf-bavaria-138371",
-        "loc": "Parsdorf, Bavaria",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-25 02:56"
-    },
-    {
-        "title": "Senior Data Engineer",
-        "company": "sonyinteractiveentertainmentglobal",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/senior-data-engineer-london-444043",
+        "title": "Sr. Software Engineer - AI/ML - AI Platform",
+        "company": "Addepar1",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/sr-software-engineer-ai-ml-ai-platform-london-257080",
         "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 91,
-        "timestamp": "2026-10-25 02:56"
+        "tejas_score": 68,
+        "timestamp": "2026-10-25 08:54"
     },
     {
-        "title": "Senior BI & Visualisation Developer",
-        "company": "sonyinteractiveentertainmentglobal",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/senior-bi-visualisation-developer-london-427834",
+        "title": "Site Reliability Engineer",
+        "company": "Delinea",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/delinea/site-reliability-engineer-bracknell-319240",
+        "loc": "Home Office (United Kingdom)",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-25 08:54"
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "tripadvisor",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/tripadvisor/software-engineer-ii-oxford-53842",
+        "loc": "Oxford",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-10-25 08:54"
+    },
+    {
+        "title": "Fullstack Engineer",
+        "company": "Kpler",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/fullstack-engineer-united-kingdom-158685",
+        "loc": "United Kingdom",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-10-25 08:54"
+    },
+    {
+        "title": "Backend Engineer",
+        "company": "Kpler",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/backend-engineer-united-kingdom-429067",
+        "loc": "United Kingdom",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-25 08:54"
+    },
+    {
+        "title": "Data Scientist, Company Planning & Execution",
+        "company": "Spotify",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/data-scientist-company-planning-execution-london-129395",
         "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-25 02:56"
+        "timestamp": "2026-10-25 08:54"
     },
     {
-        "title": "Principal Software Engineer (Hybrid)",
-        "company": "8Thlightrebuild",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/8thlightrebuild/principal-software-engineer-hybrid-london-41987",
-        "loc": "London",
+        "title": "Senior Manager, Data Engineering",
+        "company": "Keyloop",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/keyloop/senior-manager-data-engineering-uk-reading-265759",
+        "loc": "UK (Reading)",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-25 02:56"
-    },
-    {
-        "title": "Lead Software Engineer (Hybrid)",
-        "company": "8Thlightrebuild",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/8thlightrebuild/lead-software-engineer-hybrid-london-303831",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-25 02:56"
+        "tejas_score": 68,
+        "timestamp": "2026-10-25 08:54"
     },
     {
         "title": "Senior Full-Stack Product Engineer",
@@ -93,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-25 02:56"
+        "timestamp": "2026-10-25 08:54"
     },
     {
         "title": "Product Engineer",
@@ -105,7 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-25 02:56"
+        "timestamp": "2026-10-25 08:54"
     },
     {
         "title": "Senior Software Engineer",
@@ -117,7 +189,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-25 02:56"
+        "timestamp": "2026-10-25 08:54"
     },
     {
         "title": "Sr. Specialist Solutions Architect - Platform Security and Cloud Infrastructure",
@@ -129,7 +201,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 99,
-        "timestamp": "2026-10-25 02:56"
+        "timestamp": "2026-10-25 08:54"
     },
     {
         "title": "Senior Software Engineer, Privacy",
@@ -141,7 +213,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-25 02:56"
+        "timestamp": "2026-10-25 08:54"
     },
     {
         "title": "GTM Engineer - Growth",
@@ -153,31 +225,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 83,
-        "timestamp": "2026-10-25 02:56"
-    },
-    {
-        "title": "Backend Engineer",
-        "company": "Blockvora",
-        "url": "https://www.arbeitnow.ch/jobs/companies/blockvora/backend-engineer-zug-145470",
-        "loc": "Zug",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-25 02:56"
-    },
-    {
-        "title": "Lead Software Engineer",
-        "company": "Zurich Soft Robotics GmbH",
-        "url": "https://www.arbeitnow.ch/jobs/companies/zurich-soft-robotics-gmbh/lead-software-engineer-zurich-369297",
-        "loc": "Z\u00fcrich",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-25 02:56"
+        "timestamp": "2026-10-25 08:54"
     },
     {
         "title": "Senior BI/Data Engineer",
@@ -189,7 +237,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-25 02:56"
+        "timestamp": "2026-10-25 08:54"
     },
     {
         "title": "Senior Software Engineer, Privacy",
@@ -201,7 +249,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-25 02:56"
+        "timestamp": "2026-10-25 08:54"
     },
     {
         "title": "Senior Cloud Engineer (Kubernetes)",
@@ -213,7 +261,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-25 02:56"
+        "timestamp": "2026-10-25 08:54"
     },
     {
         "title": "Software Engineer (Java) - Logistics",
@@ -225,6 +273,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-25 02:56"
+        "timestamp": "2026-10-25 08:54"
     }
 ]
