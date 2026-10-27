@@ -1,51 +1,99 @@
 [
     {
-        "title": "Senior Cloud / DevOps Engineer \u2013 AWS, Kubernetes/OpenShift (m/w/d)",
-        "company": "Rockstardevelopers GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/senior-cloud-devops-engineer-aws-kubernetes-openshift-stuttgart-311937",
-        "loc": "Stuttgart",
+        "title": "Senior Solutions Architect",
+        "company": "celonis",
+        "url": "https://www.arbeitnow.com/jobs/companies/celonis/senior-solutions-architect-munich-300856",
+        "loc": "Munich",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 66,
-        "timestamp": "2026-10-27 17:20"
+        "tejas_score": 98,
+        "timestamp": "2026-10-27 23:25"
     },
     {
-        "title": "AI Solution Architect (m/w/d)",
-        "company": "virtual7 GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-132164",
-        "loc": "Homeoffice",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-10-27 17:20"
-    },
-    {
-        "title": "Senior DevOps Engineer",
-        "company": "0G",
-        "url": "https://www.arbeitnow.com/jobs/companies/0g/remote-senior-devops-engineer-314207",
+        "title": "Engineering Manager - Data Platform (m/f/d)",
+        "company": "autoscout24",
+        "url": "https://www.arbeitnow.com/jobs/companies/autoscout24/engineering-manager-data-platform-109835",
         "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-27 17:20"
+        "tejas_score": 68,
+        "timestamp": "2026-10-27 23:25"
     },
     {
-        "title": "Senior Application Security Engineer",
-        "company": "Red Gate",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/red-gate/senior-application-security-engineer-cambridge-340401",
-        "loc": "Cambridge",
+        "title": "Working Student AI Software Engineer, LangChain (all genders)",
+        "company": "Thorit",
+        "url": "https://www.arbeitnow.com/jobs/companies/thorit/working-student-ai-software-engineer-langchain-all-genders-boblingen-394512",
+        "loc": "B\u00f6blingen Headquater",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-27 17:20"
+        "timestamp": "2026-10-27 23:25"
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Kayak",
+        "url": "https://www.arbeitnow.com/jobs/companies/kayak/data-engineer-berlin-58843",
+        "loc": "Berlin Office",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-27 23:25"
+    },
+    {
+        "title": "Senior Cloud / DevOps Engineer \u2013 AWS, Kubernetes/OpenShift (m/w/d)",
+        "company": "Rockstardevelopers GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/senior-cloud-devops-engineer-aws-kubernetes-openshift-stuttgart-311937",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 66,
+        "timestamp": "2026-10-27 23:25"
+    },
+    {
+        "title": "Golang Backend Engineer, Financial Product Fraud",
+        "company": "Deliveroo",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/golang-backend-engineer-financial-product-fraud-london-118545",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-27 23:25"
+    },
+    {
+        "title": "Senior Manager, AI Architect",
+        "company": "Baringa",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/baringa/senior-manager-ai-architect-london-122501",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-27 23:25"
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "Linkup",
+        "url": "https://www.arbeitnow.fr/jobs/companies/linkup/machine-learning-engineer-paris-39300",
+        "loc": "Paris",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 54,
+        "timestamp": "2026-10-27 23:25"
     },
     {
         "title": "Trainee Marketing, Analytics & AI",
@@ -57,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-27 17:20"
+        "timestamp": "2026-10-27 23:25"
     },
     {
         "title": "AI Tooling Engineer",
@@ -69,7 +117,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 83,
-        "timestamp": "2026-10-27 17:20"
+        "timestamp": "2026-10-27 23:25"
+    },
+    {
+        "title": "Senior DevOps Engineer",
+        "company": "Polarsteps",
+        "url": "https://www.arbeitnow.nl/jobs/companies/polarsteps/senior-devops-engineer-amsterdam-366352",
+        "loc": "Amsterdam",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-10-27 23:25"
     },
     {
         "title": "AI platform engineer",
@@ -81,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-27 17:20"
+        "timestamp": "2026-10-27 23:25"
     },
     {
         "title": "AI Engineer",
@@ -93,6 +153,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-10-27 17:20"
+        "timestamp": "2026-10-27 23:25"
     }
 ]
