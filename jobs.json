@@ -9,7 +9,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-26 23:31"
+        "timestamp": "2026-10-27 03:28"
+    },
+    {
+        "title": "Production Support Engineer II - UK",
+        "company": "Marqeta Inc",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/marqeta-inc/production-support-engineer-ii-uk-london-60427",
+        "loc": "London Office",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-10-27 03:28"
+    },
+    {
+        "title": "Golang Backend Engineer, Financial Product Fraud",
+        "company": "Deliveroo ",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/golang-backend-engineer-financial-product-fraud-london-14945",
+        "loc": "London, England, United Kingdom",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-27 03:28"
     },
     {
         "title": "Software Engineer II, Security",
@@ -21,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-26 23:31"
+        "timestamp": "2026-10-27 03:28"
     },
     {
         "title": "Software Engineer, Enterprise",
@@ -33,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-26 23:31"
+        "timestamp": "2026-10-27 03:28"
     },
     {
         "title": "Senior Data Scientist",
@@ -45,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-26 23:31"
+        "timestamp": "2026-10-27 03:28"
     },
     {
         "title": "Senior Engineering Manager",
@@ -57,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-26 23:31"
+        "timestamp": "2026-10-27 03:28"
     },
     {
         "title": "Reporting & Data Analyst (6-Month FTC)",
@@ -69,31 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-26 23:31"
-    },
-    {
-        "title": "Staff Data Scientist, Pricing",
-        "company": "Airalo",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/airalo/staff-data-scientist-pricing-united-kingdom-83215",
-        "loc": "United Kingdom",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 60,
-        "timestamp": "2026-10-26 23:31"
-    },
-    {
-        "title": "Senior Analytics Engineer, Finance",
-        "company": "Airalo",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/airalo/senior-analytics-engineer-finance-united-kingdom-59024",
-        "loc": "United Kingdom",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-26 23:31"
+        "timestamp": "2026-10-27 03:28"
     },
     {
         "title": "Senior Backend Engineer",
@@ -105,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-26 23:31"
+        "timestamp": "2026-10-27 03:28"
     },
     {
         "title": "Trainee Marketing, Analytics & AI",
@@ -117,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-26 23:31"
+        "timestamp": "2026-10-27 03:28"
     },
     {
         "title": "AI Tooling Engineer",
@@ -129,6 +129,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 83,
-        "timestamp": "2026-10-26 23:31"
+        "timestamp": "2026-10-27 03:28"
     }
 ]
