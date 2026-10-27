@@ -1,99 +1,51 @@
 [
     {
-        "title": "Senior GTM Systems AI and Automation Engineer",
-        "company": "Camunda",
-        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-gtm-systems-ai-and-automation-engineer-436740",
+        "title": "Senior Cloud / DevOps Engineer \u2013 AWS, Kubernetes/OpenShift (m/w/d)",
+        "company": "Rockstardevelopers GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/senior-cloud-devops-engineer-aws-kubernetes-openshift-stuttgart-311937",
+        "loc": "Stuttgart",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 66,
+        "timestamp": "2026-10-27 17:20"
+    },
+    {
+        "title": "AI Solution Architect (m/w/d)",
+        "company": "virtual7 GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-132164",
+        "loc": "Homeoffice",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-10-27 17:20"
+    },
+    {
+        "title": "Senior DevOps Engineer",
+        "company": "0G",
+        "url": "https://www.arbeitnow.com/jobs/companies/0g/remote-senior-devops-engineer-314207",
         "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-27 09:32"
+        "timestamp": "2026-10-27 17:20"
     },
     {
-        "title": "Production Support Engineer II - UK",
-        "company": "Marqeta Inc",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/marqeta-inc/production-support-engineer-ii-uk-london-60427",
-        "loc": "London Office",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-27 09:32"
-    },
-    {
-        "title": "Golang Backend Engineer, Financial Product Fraud",
-        "company": "Deliveroo ",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/golang-backend-engineer-financial-product-fraud-london-14945",
-        "loc": "London, England, United Kingdom",
+        "title": "Senior Application Security Engineer",
+        "company": "Red Gate",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/red-gate/senior-application-security-engineer-cambridge-340401",
+        "loc": "Cambridge",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-27 09:32"
-    },
-    {
-        "title": "Software Engineer II, Security",
-        "company": "Everquote",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/everquote/software-engineer-ii-security-belfast-northern-ireland-244283",
-        "loc": "Belfast, Northern Ireland",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-27 09:32"
-    },
-    {
-        "title": "Software Engineer, Enterprise",
-        "company": "scaleai",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/scaleai/software-engineer-enterprise-london-314594",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-27 09:32"
-    },
-    {
-        "title": "Senior Data Scientist",
-        "company": "Carwow",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/carwow/senior-data-scientist-london-456746",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-27 09:32"
-    },
-    {
-        "title": "Customs AI Integration & Automation Engineer (France)",
-        "company": "Customs Support Group",
-        "url": "https://www.arbeitnow.fr/jobs/companies/customs-support-group/remote-customs-ai-integration-automation-engineer-france-lyon-474730",
-        "loc": "Remote job",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-10-27 09:32"
-    },
-    {
-        "title": "Senior Backend Engineer",
-        "company": "Payflows",
-        "url": "https://www.arbeitnow.fr/jobs/companies/payflows/remote-senior-backend-engineer-paris-287438",
-        "loc": "Remote job",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-27 09:32"
+        "timestamp": "2026-10-27 17:20"
     },
     {
         "title": "Trainee Marketing, Analytics & AI",
@@ -105,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-27 09:32"
+        "timestamp": "2026-10-27 17:20"
     },
     {
         "title": "AI Tooling Engineer",
@@ -117,7 +69,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 83,
-        "timestamp": "2026-10-27 09:32"
+        "timestamp": "2026-10-27 17:20"
+    },
+    {
+        "title": "AI platform engineer",
+        "company": "Itility B.V.",
+        "url": "https://www.arbeitnow.nl/jobs/companies/itility-bv/ai-platform-engineer-eindhoven-61852",
+        "loc": "Eindhoven, Noord-Brabant, Netherlands",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-10-27 17:20"
     },
     {
         "title": "AI Engineer",
@@ -129,6 +93,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-10-27 09:32"
+        "timestamp": "2026-10-27 17:20"
     }
 ]
