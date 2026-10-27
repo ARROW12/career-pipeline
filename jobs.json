@@ -9,7 +9,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-27 03:28"
+        "timestamp": "2026-10-27 09:32"
     },
     {
         "title": "Production Support Engineer II - UK",
@@ -21,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-27 03:28"
+        "timestamp": "2026-10-27 09:32"
     },
     {
         "title": "Golang Backend Engineer, Financial Product Fraud",
@@ -33,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-27 03:28"
+        "timestamp": "2026-10-27 09:32"
     },
     {
         "title": "Software Engineer II, Security",
@@ -45,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-27 03:28"
+        "timestamp": "2026-10-27 09:32"
     },
     {
         "title": "Software Engineer, Enterprise",
@@ -57,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-27 03:28"
+        "timestamp": "2026-10-27 09:32"
     },
     {
         "title": "Senior Data Scientist",
@@ -69,31 +69,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-27 03:28"
+        "timestamp": "2026-10-27 09:32"
     },
     {
-        "title": "Senior Engineering Manager",
-        "company": "Checkout.com",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-engineering-manager-london-41819",
-        "loc": "London",
+        "title": "Customs AI Integration & Automation Engineer (France)",
+        "company": "Customs Support Group",
+        "url": "https://www.arbeitnow.fr/jobs/companies/customs-support-group/remote-customs-ai-integration-automation-engineer-france-lyon-474730",
+        "loc": "Remote job",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-27 03:28"
-    },
-    {
-        "title": "Reporting & Data Analyst (6-Month FTC)",
-        "company": "Form3",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/form3/reporting-data-analyst-6-month-ftc-202690",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-27 03:28"
+        "tejas_score": 68,
+        "timestamp": "2026-10-27 09:32"
     },
     {
         "title": "Senior Backend Engineer",
@@ -105,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-27 03:28"
+        "timestamp": "2026-10-27 09:32"
     },
     {
         "title": "Trainee Marketing, Analytics & AI",
@@ -117,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-27 03:28"
+        "timestamp": "2026-10-27 09:32"
     },
     {
         "title": "AI Tooling Engineer",
@@ -129,6 +117,18 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 83,
-        "timestamp": "2026-10-27 03:28"
+        "timestamp": "2026-10-27 09:32"
+    },
+    {
+        "title": "AI Engineer",
+        "company": "12Build",
+        "url": "https://www.arbeitnow.nl/jobs/companies/12build/ai-engineer-nijverdal-61682",
+        "loc": "Nijverdal, Overijssel, Nederland",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 84,
+        "timestamp": "2026-10-27 09:32"
     }
 ]
