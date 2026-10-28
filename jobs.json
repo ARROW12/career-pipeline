@@ -1,5 +1,29 @@
 [
     {
+        "title": "AI / Machine Learning Engineer II",
+        "company": "SumUp",
+        "url": "https://www.arbeitnow.com/jobs/companies/sumup/ai-machine-learning-engineer-ii-berlin-137128",
+        "loc": "Berlin, Berlin, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-10-28 23:50"
+    },
+    {
+        "title": "Senior Backend Engineer - Developer Experience & Productivity",
+        "company": "Taktile",
+        "url": "https://www.arbeitnow.com/jobs/companies/taktile/senior-backend-engineer-developer-experience-productivity-berlin-354121",
+        "loc": "Berlin Office",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-10-28 23:50"
+    },
+    {
         "title": "Applied AI Engineer",
         "company": "engelhart",
         "url": "https://www.arbeitnow.com/jobs/companies/engelhart/applied-ai-engineer-berlin-160955",
@@ -9,19 +33,43 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-10-28 17:49"
+        "timestamp": "2026-10-28 23:50"
     },
     {
-        "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration | Remote 100%",
-        "company": "hurra.com",
-        "url": "https://www.arbeitnow.com/jobs/companies/hurracom/freelance-full-stack-developer-django-ai-products-python-llm-integration-remote-100-stuttgart-200558",
-        "loc": "Stuttgart",
+        "title": "Senior Software Engineer",
+        "company": "Everquote",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/everquote/senior-software-engineer-belfast-northern-ireland-334445",
+        "loc": "Belfast, Northern Ireland",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 55,
-        "timestamp": "2026-10-28 17:49"
+        "tejas_score": 45,
+        "timestamp": "2026-10-28 23:50"
+    },
+    {
+        "title": "Senior Software Engineer (AI/Data)",
+        "company": "Codat",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/codat/remote-senior-software-engineer-ai-data-92284",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 100,
+        "timestamp": "2026-10-28 23:50"
+    },
+    {
+        "title": "Senior Software Engineer (AI/Data)",
+        "company": "Codat",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/codat/senior-software-engineer-ai-data-london-284241",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 100,
+        "timestamp": "2026-10-28 23:50"
     },
     {
         "title": "Principal Infrastructure Engineer",
@@ -33,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-28 17:49"
+        "timestamp": "2026-10-28 23:50"
     },
     {
         "title": "Software Engineer III - Data - FMX",
@@ -45,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-28 17:49"
+        "timestamp": "2026-10-28 23:50"
     },
     {
         "title": "Senior Data Engineer",
@@ -57,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-28 17:49"
+        "timestamp": "2026-10-28 23:50"
     },
     {
         "title": "Stage Software Engineer - Paris - H/F/X",
@@ -69,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-10-28 17:49"
+        "timestamp": "2026-10-28 23:50"
     },
     {
         "title": "Stage Software Engineer - Paris - H/F/X",
@@ -81,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-10-28 17:49"
+        "timestamp": "2026-10-28 23:50"
     },
     {
         "title": "Senior Software Engineer - Fullstack",
@@ -93,18 +141,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 98,
-        "timestamp": "2026-10-28 17:49"
-    },
-    {
-        "title": "Senior DevOps Engineer",
-        "company": "Polarsteps",
-        "url": "https://www.arbeitnow.nl/jobs/companies/polarsteps/senior-devops-engineer-amsterdam-366352",
-        "loc": "Amsterdam",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-10-28 17:49"
+        "timestamp": "2026-10-28 23:50"
     }
 ]
