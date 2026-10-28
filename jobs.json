@@ -1,5 +1,17 @@
 [
     {
+        "title": "DevOps Engineer (f/m/d)",
+        "company": "isaraerospace",
+        "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/devops-engineer-parsdorf-bavaria-295837",
+        "loc": "Parsdorf, Bavaria",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-28 10:16"
+    },
+    {
         "title": "Senior Solutions Architect",
         "company": "celonis",
         "url": "https://www.arbeitnow.com/jobs/companies/celonis/senior-solutions-architect-munich-300856",
@@ -9,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 98,
-        "timestamp": "2026-10-28 03:43"
+        "timestamp": "2026-10-28 10:16"
     },
     {
         "title": "Engineering Manager - Data Platform (m/f/d)",
@@ -21,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-10-28 03:43"
+        "timestamp": "2026-10-28 10:16"
     },
     {
         "title": "Working Student AI Software Engineer, LangChain (all genders)",
@@ -33,43 +45,55 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-28 03:43"
+        "timestamp": "2026-10-28 10:16"
     },
     {
-        "title": "Data Engineer",
-        "company": "Kayak",
-        "url": "https://www.arbeitnow.com/jobs/companies/kayak/data-engineer-berlin-58843",
-        "loc": "Berlin Office",
+        "title": "Senior Data Engineer",
+        "company": "OLR Holdings Ltd trading as DFYNE",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/olr-holdings-ltd-trading-as-dfyne/senior-data-engineer-uddingston-297287",
+        "loc": "Uddingston",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-28 03:43"
+        "timestamp": "2026-10-28 10:16"
     },
     {
-        "title": "Senior Cloud / DevOps Engineer \u2013 AWS, Kubernetes/OpenShift (m/w/d)",
-        "company": "Rockstardevelopers GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/senior-cloud-devops-engineer-aws-kubernetes-openshift-stuttgart-311937",
-        "loc": "Berlin",
+        "title": "Senior Forward Deployed Engineer (Technical Data Architect)",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-forward-deployed-engineer-technical-data-architect-london-464919",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 66,
-        "timestamp": "2026-10-28 03:43"
+        "tejas_score": 68,
+        "timestamp": "2026-10-28 10:16"
     },
     {
-        "title": "Staff Backend Developer - Threat Intelligence",
-        "company": "zscaler",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/zscaler/staff-backend-developer-threat-intelligence-403073",
-        "loc": "Remote",
+        "title": "Senior EMEA AI Solutions Architect",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-emea-ai-solutions-architect-london-321494",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-28 03:43"
+        "tejas_score": 91,
+        "timestamp": "2026-10-28 10:16"
+    },
+    {
+        "title": "Forward Deployed Engineering Manager",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/forward-deployed-engineering-manager-london-50361",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-10-28 10:16"
     },
     {
         "title": "Lead AI Engineer - ML/LLM Ops & Agentic AI",
@@ -81,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 88,
-        "timestamp": "2026-10-28 03:43"
+        "timestamp": "2026-10-28 10:16"
     },
     {
         "title": "Machine Learning Engineer",
@@ -93,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 54,
-        "timestamp": "2026-10-28 03:43"
+        "timestamp": "2026-10-28 10:16"
     },
     {
         "title": "Trainee Marketing, Analytics & AI",
@@ -105,19 +129,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-28 03:43"
+        "timestamp": "2026-10-28 10:16"
     },
     {
-        "title": "AI Tooling Engineer",
-        "company": "Jobgether",
-        "url": "https://www.arbeitnow.ch/jobs/companies/jobgether/ai-tooling-engineer-switzerland-335267",
-        "loc": "Switzerland",
+        "title": "Senior Software Engineer - Fullstack",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.nl/jobs/companies/databricks/senior-software-engineer-fullstack-amsterdam-449365",
+        "loc": "Amsterdam",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 83,
-        "timestamp": "2026-10-28 03:43"
+        "tejas_score": 98,
+        "timestamp": "2026-10-28 10:16"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -129,18 +153,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-10-28 03:43"
-    },
-    {
-        "title": "AI platform engineer",
-        "company": "Itility B.V.",
-        "url": "https://www.arbeitnow.nl/jobs/companies/itility-bv/ai-platform-engineer-eindhoven-61852",
-        "loc": "Eindhoven, Noord-Brabant, Netherlands",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-10-28 03:43"
+        "timestamp": "2026-10-28 10:16"
     }
 ]
