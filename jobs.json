@@ -9,7 +9,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 98,
-        "timestamp": "2026-10-27 23:25"
+        "timestamp": "2026-10-28 03:43"
     },
     {
         "title": "Engineering Manager - Data Platform (m/f/d)",
@@ -21,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-10-27 23:25"
+        "timestamp": "2026-10-28 03:43"
     },
     {
         "title": "Working Student AI Software Engineer, LangChain (all genders)",
@@ -33,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-27 23:25"
+        "timestamp": "2026-10-28 03:43"
     },
     {
         "title": "Data Engineer",
@@ -45,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-27 23:25"
+        "timestamp": "2026-10-28 03:43"
     },
     {
         "title": "Senior Cloud / DevOps Engineer \u2013 AWS, Kubernetes/OpenShift (m/w/d)",
@@ -57,31 +57,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 66,
-        "timestamp": "2026-10-27 23:25"
+        "timestamp": "2026-10-28 03:43"
     },
     {
-        "title": "Golang Backend Engineer, Financial Product Fraud",
-        "company": "Deliveroo",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/golang-backend-engineer-financial-product-fraud-london-118545",
-        "loc": "London",
+        "title": "Staff Backend Developer - Threat Intelligence",
+        "company": "zscaler",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/zscaler/staff-backend-developer-threat-intelligence-403073",
+        "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-27 23:25"
+        "timestamp": "2026-10-28 03:43"
     },
     {
-        "title": "Senior Manager, AI Architect",
-        "company": "Baringa",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/baringa/senior-manager-ai-architect-london-122501",
-        "loc": "London",
+        "title": "Lead AI Engineer - ML/LLM Ops & Agentic AI",
+        "company": "shifttechnology",
+        "url": "https://www.arbeitnow.fr/jobs/companies/shifttechnology/lead-ai-engineer-ml-llm-ops-agentic-ai-479819",
+        "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-27 23:25"
+        "tejas_score": 88,
+        "timestamp": "2026-10-28 03:43"
     },
     {
         "title": "Machine Learning Engineer",
@@ -93,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 54,
-        "timestamp": "2026-10-27 23:25"
+        "timestamp": "2026-10-28 03:43"
     },
     {
         "title": "Trainee Marketing, Analytics & AI",
@@ -105,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-27 23:25"
+        "timestamp": "2026-10-28 03:43"
     },
     {
         "title": "AI Tooling Engineer",
@@ -117,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 83,
-        "timestamp": "2026-10-27 23:25"
+        "timestamp": "2026-10-28 03:43"
     },
     {
         "title": "Senior DevOps Engineer",
@@ -129,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-10-27 23:25"
+        "timestamp": "2026-10-28 03:43"
     },
     {
         "title": "AI platform engineer",
@@ -141,18 +141,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-27 23:25"
-    },
-    {
-        "title": "AI Engineer",
-        "company": "12Build",
-        "url": "https://www.arbeitnow.nl/jobs/companies/12build/ai-engineer-nijverdal-61682",
-        "loc": "Nijverdal, Overijssel, Nederland",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 84,
-        "timestamp": "2026-10-27 23:25"
+        "timestamp": "2026-10-28 03:43"
     }
 ]
