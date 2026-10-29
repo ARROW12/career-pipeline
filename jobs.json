@@ -9,7 +9,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-28 23:50"
+        "timestamp": "2026-10-29 04:05"
     },
     {
         "title": "Senior Backend Engineer - Developer Experience & Productivity",
@@ -21,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-28 23:50"
+        "timestamp": "2026-10-29 04:05"
     },
     {
         "title": "Applied AI Engineer",
@@ -33,7 +33,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-10-28 23:50"
+        "timestamp": "2026-10-29 04:05"
+    },
+    {
+        "title": "Principal Forward Deployed Engineer (EMEA)",
+        "company": "Docker",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/docker/principal-forward-deployed-engineer-emea-england-259175",
+        "loc": "England",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-10-29 04:05"
     },
     {
         "title": "Senior Software Engineer",
@@ -45,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-28 23:50"
+        "timestamp": "2026-10-29 04:05"
     },
     {
         "title": "Senior Software Engineer (AI/Data)",
@@ -57,43 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 100,
-        "timestamp": "2026-10-28 23:50"
-    },
-    {
-        "title": "Senior Software Engineer (AI/Data)",
-        "company": "Codat",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/codat/senior-software-engineer-ai-data-london-284241",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 100,
-        "timestamp": "2026-10-28 23:50"
-    },
-    {
-        "title": "Principal Infrastructure Engineer",
-        "company": "Flohealth",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/flohealth/principal-infrastructure-engineer-london-311475",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-28 23:50"
-    },
-    {
-        "title": "Software Engineer III - Data - FMX",
-        "company": "Fanaticsfbg",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/software-engineer-iii-data-fmx-london-214246",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-28 23:50"
+        "timestamp": "2026-10-29 04:05"
     },
     {
         "title": "Senior Data Engineer",
@@ -105,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-28 23:50"
+        "timestamp": "2026-10-29 04:05"
     },
     {
         "title": "Stage Software Engineer - Paris - H/F/X",
@@ -117,19 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-10-28 23:50"
-    },
-    {
-        "title": "Stage Software Engineer - Paris - H/F/X",
-        "company": "Artefactlinkedin",
-        "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/stage-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-368230",
-        "loc": "9th arrondissement of Paris, 75009, Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-10-28 23:50"
+        "timestamp": "2026-10-29 04:05"
     },
     {
         "title": "Senior Software Engineer - Fullstack",
@@ -141,6 +105,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 98,
-        "timestamp": "2026-10-28 23:50"
+        "timestamp": "2026-10-29 04:05"
     }
 ]
