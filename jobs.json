@@ -1,39 +1,27 @@
 [
     {
-        "title": "Senior Data Engineer - Azure Cloud (m/w/d)",
-        "company": "KRALLMANN AG",
-        "url": "https://www.arbeitnow.com/jobs/companies/krallmann-ag/senior-data-engineer-azure-cloud-berlin-276748",
+        "title": "AI / Machine Learning Engineer II",
+        "company": "sumup",
+        "url": "https://www.arbeitnow.com/jobs/companies/sumup/ai-machine-learning-engineer-ii-berlin-124557",
         "loc": "Berlin",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-29 14:53"
-    },
-    {
-        "title": "Senior Software Engineer - AI/ML",
-        "company": "mitratech",
-        "url": "https://www.arbeitnow.com/jobs/companies/mitratech/senior-software-engineer-ai-ml-195477",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-29 14:53"
+        "timestamp": "2026-10-29 20:48"
     },
     {
-        "title": "Staff Analytics Engineer",
-        "company": "Pleo",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/staff-analytics-engineer-united-kingdom-196102",
-        "loc": "United Kingdom",
+        "title": "Senior Backend Engineer, Platform (f/m/d)",
+        "company": "Apaleo",
+        "url": "https://www.arbeitnow.com/jobs/companies/apaleo/senior-backend-engineer-platform-munchen-295503",
+        "loc": "M\u00fcnchen, Bavaria, Germany",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-10-29 14:53"
+        "tejas_score": 54,
+        "timestamp": "2026-10-29 20:48"
     },
     {
         "title": "Senior Data Engineer",
@@ -45,7 +33,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-10-29 14:53"
+        "timestamp": "2026-10-29 20:48"
+    },
+    {
+        "title": "Software Engineer",
+        "company": "NIRLAB AG (part of 908 Devices Inc.)",
+        "url": "https://www.arbeitnow.ch/jobs/companies/nirlab-ag-part-of-908-devices-inc/software-engineer-lausanne-229275",
+        "loc": "Lausanne",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-10-29 20:48"
     },
     {
         "title": "Backend Engineer \u2013 Real-Time Video",
@@ -57,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-29 14:53"
+        "timestamp": "2026-10-29 20:48"
     },
     {
         "title": "Senior ML Engineer",
@@ -69,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-29 14:53"
+        "timestamp": "2026-10-29 20:48"
     },
     {
         "title": "Test Analyst | Data Driven Applications | SQL & Python | Almere, Netherlands",
@@ -81,6 +81,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 70,
-        "timestamp": "2026-10-29 14:53"
+        "timestamp": "2026-10-29 20:48"
     }
 ]
