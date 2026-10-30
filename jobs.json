@@ -1,5 +1,29 @@
 [
     {
+        "title": "Solutions Architect - Digital Natives and Startups",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.com/jobs/companies/databricks/solutions-architect-digital-natives-and-startups-berlin-munich-191510",
+        "loc": "Berlin; Munich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-10-30 04:06"
+    },
+    {
+        "title": "Senior Data Engineer - Azure Cloud (m/w/d)",
+        "company": "KRALLMANN AG",
+        "url": "https://www.arbeitnow.com/jobs/companies/krallmann-ag/senior-data-engineer-azure-cloud-berlin-395669",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-30 04:06"
+    },
+    {
         "title": "AI / Machine Learning Engineer II",
         "company": "sumup",
         "url": "https://www.arbeitnow.com/jobs/companies/sumup/ai-machine-learning-engineer-ii-berlin-124557",
@@ -9,31 +33,43 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-29 20:48"
+        "timestamp": "2026-10-30 04:06"
     },
     {
-        "title": "Senior Backend Engineer, Platform (f/m/d)",
-        "company": "Apaleo",
-        "url": "https://www.arbeitnow.com/jobs/companies/apaleo/senior-backend-engineer-platform-munchen-295503",
-        "loc": "M\u00fcnchen, Bavaria, Germany",
+        "title": "Forward Deployed Engineer",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/forward-deployed-engineer-london-52805",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 54,
-        "timestamp": "2026-10-29 20:48"
+        "tejas_score": 60,
+        "timestamp": "2026-10-30 04:06"
     },
     {
-        "title": "Senior Data Engineer",
-        "company": "Orakl Oncology",
-        "url": "https://www.arbeitnow.fr/jobs/companies/orakl-oncology/senior-data-engineer-villejuif-140285",
-        "loc": "Villejuif",
+        "title": "SQL Developer \u2013 AI Prompting & Context Engineering",
+        "company": "Bromcom Computers Plc",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/bromcom-computers-plc/remote-sql-developer-ai-prompting-context-engineering-bromley-268635",
+        "loc": "Remote job",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-10-29 20:48"
+        "tejas_score": 73,
+        "timestamp": "2026-10-30 04:06"
+    },
+    {
+        "title": "People Tech & Analytics Engineer",
+        "company": "Mistral.ai",
+        "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/people-tech-analytics-engineer-paris-7349",
+        "loc": "Paris",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-10-30 04:06"
     },
     {
         "title": "Software Engineer",
@@ -45,7 +81,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-29 20:48"
+        "timestamp": "2026-10-30 04:06"
+    },
+    {
+        "title": "Forward Deployed Engineer",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.nl/jobs/companies/databricks/forward-deployed-engineer-amsterdam-144415",
+        "loc": "Amsterdam",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-10-30 04:06"
     },
     {
         "title": "Backend Engineer \u2013 Real-Time Video",
@@ -57,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-29 20:48"
+        "timestamp": "2026-10-30 04:06"
     },
     {
         "title": "Senior ML Engineer",
@@ -69,18 +117,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-29 20:48"
-    },
-    {
-        "title": "Test Analyst | Data Driven Applications | SQL & Python | Almere, Netherlands",
-        "company": "Ilias Solutions",
-        "url": "https://www.arbeitnow.nl/jobs/companies/ilias-solutions/test-analyst-data-driven-applications-sql-python-almere-netherlands-272968",
-        "loc": "Almere",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 70,
-        "timestamp": "2026-10-29 20:48"
+        "timestamp": "2026-10-30 04:06"
     }
 ]
