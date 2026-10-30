@@ -1,51 +1,123 @@
 [
     {
-        "title": "Data Ingenieur (m/w/d)",
-        "company": "ANGEHEUERT GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/data-ingenieur-frankfurt-am-main-333096",
-        "loc": "Frankfurt am Main",
+        "title": "Senior Hardware Engineer - Drone Port (m/f/d)",
+        "company": "Quantum-Systems GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-hardware-engineer-drone-port-gilching-445307",
+        "loc": "Gilching, Bayern, Germany",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-30 14:46"
+        "tejas_score": 68,
+        "timestamp": "2026-10-30 20:19"
     },
     {
-        "title": "Data Engineer (m/f/d)",
-        "company": "ANGEHEUERT GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/data-engineer-frankfurt-am-main-160516",
-        "loc": "Frankfurt am Main",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-30 14:46"
-    },
-    {
-        "title": "Senior SAP Analytics & AI Consultant (m/w/d)",
-        "company": "promantis GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/promantis-gmbh/senior-sap-analytics-ai-consultant-berlin-374956",
+        "title": "Working Student Data Engineer \u2013 Python, SQL & Cloud Platforms",
+        "company": "AgentixLake GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-data-engineer-python-sql-cloud-platforms-berlin-407856",
         "loc": "Berlin",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-30 14:46"
+        "tejas_score": 100,
+        "timestamp": "2026-10-30 20:19"
     },
     {
-        "title": "Data Engineer- UK",
-        "company": "Coreview",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/coreview/data-engineer-uk-78386",
+        "title": "Working Student AI Engineer \u2013 LLMs, RAG & AI Agents",
+        "company": "AgentixLake GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-ai-engineer-llms-rag-ai-agents-berlin-364158",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 50,
+        "timestamp": "2026-10-30 20:19"
+    },
+    {
+        "title": "Working Student AI Solutions Architect \u2013 Generative AI & Data Platforms",
+        "company": "AgentixLake GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-ai-solutions-architect-generative-ai-data-platforms-berlin-283450",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-10-30 20:19"
+    },
+    {
+        "title": "Data Engineer (m/f/d)",
+        "company": "ANGEHEUERT GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-data-engineer-frankfurt-am-main-159193",
+        "loc": "Homeoffice",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-10-30 20:19"
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Abound",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/abound/junior-software-engineer-london-448712",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-10-30 20:19"
+    },
+    {
+        "title": "Technical Lead, Data Platform Engineer",
+        "company": "Fundingcircle",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/technical-lead-data-platform-engineer-london-418474",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 77,
+        "timestamp": "2026-10-30 20:19"
+    },
+    {
+        "title": "Lead Analytics Engineer",
+        "company": "Fundingcircle",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/lead-analytics-engineer-london-479706",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 99,
+        "timestamp": "2026-10-30 20:19"
+    },
+    {
+        "title": "Software Engineer II, Backend (Payments)",
+        "company": "Affirm",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/affirm/software-engineer-ii-backend-payments-147245",
         "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 83,
-        "timestamp": "2026-10-30 14:46"
+        "tejas_score": 45,
+        "timestamp": "2026-10-30 20:19"
+    },
+    {
+        "title": "Senior Software Engineer, Backend (International)",
+        "company": "Affirm",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/affirm/senior-software-engineer-backend-international-329747",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-10-30 20:19"
     },
     {
         "title": "Lead AI engineer",
@@ -57,19 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-10-30 14:46"
-    },
-    {
-        "title": "People Tech & Analytics Engineer",
-        "company": "Mistral.ai",
-        "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/people-tech-analytics-engineer-paris-7349",
-        "loc": "Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-30 14:46"
+        "timestamp": "2026-10-30 20:19"
     },
     {
         "title": "Medior / Senior Data Analyst",
@@ -81,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-30 14:46"
+        "timestamp": "2026-10-30 20:19"
     },
     {
         "title": "Forward Deployed Engineer",
@@ -93,6 +153,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-10-30 14:46"
+        "timestamp": "2026-10-30 20:19"
     }
 ]
