@@ -1,5 +1,29 @@
 [
     {
+        "title": "Senior AI Engineer, Location AI",
+        "company": "Mapbox",
+        "url": "https://www.arbeitnow.com/jobs/companies/mapbox/senior-ai-engineer-location-ai-mapbox-germany-130867",
+        "loc": "Mapbox Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-31 16:43"
+    },
+    {
+        "title": "Senior Data Scientist \u2014 Data Cloud Acceleration",
+        "company": "zetaglobal",
+        "url": "https://www.arbeitnow.com/jobs/companies/zetaglobal/senior-data-scientist-data-cloud-acceleration-berlin-70404",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 91,
+        "timestamp": "2026-10-31 16:43"
+    },
+    {
         "title": "(Senior) Oracle Data Warehouse / BI-Developer (m/w/d)",
         "company": "virtual7 GmbH",
         "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-oracle-data-warehouse-bi-developer-karlsruhe-460962",
@@ -9,43 +33,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-31 10:08"
+        "timestamp": "2026-10-31 16:43"
     },
     {
-        "title": "AI-First Data Engineer (m/f/d)",
-        "company": "Sport Alliance GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/sport-alliance-gmbh/remote-ai-first-data-engineer-117386",
-        "loc": "Remote (Germany)",
+        "title": "Senior Automation Engineer",
+        "company": "roboyo",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/roboyo/senior-automation-engineer-151543",
+        "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 100,
-        "timestamp": "2026-10-31 10:08"
+        "tejas_score": 45,
+        "timestamp": "2026-10-31 16:43"
     },
     {
-        "title": "Backend Developer (Java/Spring Boot, AWS) \u2013 Internal (m/f/d) | Munich | Hybrid",
-        "company": "Netlight",
-        "url": "https://www.arbeitnow.com/jobs/companies/netlight/backend-developer-java-spring-boot-aws-internal-munich-hybrid-91330",
-        "loc": "Munich",
+        "title": "Senior DevOps Engineer",
+        "company": "Ripple",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/ripple/senior-devops-engineer-london-306722",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 58,
-        "timestamp": "2026-10-31 10:08"
-    },
-    {
-        "title": "Senior Hardware Engineer - Drone Port (m/f/d)",
-        "company": "Quantum-Systems GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-hardware-engineer-drone-port-gilching-445307",
-        "loc": "Gilching, Bayern, Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-10-31 10:08"
+        "tejas_score": 46,
+        "timestamp": "2026-10-31 16:43"
     },
     {
         "title": "Senior Software Engineer, Data Operations - PDEGO",
@@ -57,43 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-31 10:08"
-    },
-    {
-        "title": "Lead Data Engineer",
-        "company": "Akersystems",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/akersystems/remote-lead-data-engineer-315863",
-        "loc": "Remote/Home Based",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 84,
-        "timestamp": "2026-10-31 10:08"
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Anaplan",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/data-scientist-manchester-199393",
-        "loc": "Manchester",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 83,
-        "timestamp": "2026-10-31 10:08"
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Lyrebird Health",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/lyrebird-health/software-engineer-united-kingdom-93389",
-        "loc": "United Kingdom",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-31 10:08"
+        "timestamp": "2026-10-31 16:43"
     },
     {
         "title": "Lead AI engineer",
@@ -105,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-10-31 10:08"
+        "timestamp": "2026-10-31 16:43"
     },
     {
         "title": "Internship - Software Engineer (Back, Fullstack)",
@@ -117,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-31 10:08"
+        "timestamp": "2026-10-31 16:43"
     },
     {
         "title": "Machine Learning Engineer \u2013 Practice IA MARGO",
@@ -129,43 +105,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-31 10:08"
+        "timestamp": "2026-10-31 16:43"
     },
     {
-        "title": "Data Scientist \u2013 Practice IA chez MARGO | Projets Marketing & Optimisation",
-        "company": "MARGO",
-        "url": "https://www.arbeitnow.fr/jobs/companies/margo/data-scientist-practice-ia-chez-margo-projets-marketing-optimisation-paris-251653",
-        "loc": "Paris",
+        "title": "AI Engineer",
+        "company": "Tebi",
+        "url": "https://www.arbeitnow.nl/jobs/companies/tebi/ai-engineer-amsterdam-472304",
+        "loc": "Amsterdam",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-10-31 10:08"
-    },
-    {
-        "title": "Data Engineer - Practice Cloud Transformation chez MARGO",
-        "company": "MARGO",
-        "url": "https://www.arbeitnow.fr/jobs/companies/margo/data-engineer-practice-cloud-transformation-chez-margo-paris-496375",
-        "loc": "Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-10-31 10:08"
-    },
-    {
-        "title": "Senior AI Engineer (AI Enablement)",
-        "company": "Kpler",
-        "url": "https://www.arbeitnow.fr/jobs/companies/kpler/senior-ai-engineer-ai-enablement-paris-240119",
-        "loc": "Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-10-31 10:08"
+        "timestamp": "2026-10-31 16:43"
     },
     {
         "title": "Senior Fullstack Engineer - Java, React (x/f/m)",
@@ -177,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-10-31 10:08"
+        "timestamp": "2026-10-31 16:43"
     },
     {
         "title": "Medior / Senior Data Analyst",
@@ -189,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-31 10:08"
+        "timestamp": "2026-10-31 16:43"
     },
     {
         "title": "Forward Deployed Engineer",
@@ -201,6 +153,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-10-31 10:08"
+        "timestamp": "2026-10-31 16:43"
     }
 ]
