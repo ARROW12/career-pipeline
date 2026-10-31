@@ -9,7 +9,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-10-30 20:19"
+        "timestamp": "2026-10-31 03:49"
     },
     {
         "title": "Working Student Data Engineer \u2013 Python, SQL & Cloud Platforms",
@@ -21,115 +21,55 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 100,
-        "timestamp": "2026-10-30 20:19"
+        "timestamp": "2026-10-31 03:49"
     },
     {
-        "title": "Working Student AI Engineer \u2013 LLMs, RAG & AI Agents",
-        "company": "AgentixLake GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-ai-engineer-llms-rag-ai-agents-berlin-364158",
-        "loc": "Berlin",
+        "title": "Engineering Lead",
+        "company": "Wpp",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/wpp/engineering-lead-london-51288",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 50,
-        "timestamp": "2026-10-30 20:19"
+        "tejas_score": 45,
+        "timestamp": "2026-10-31 03:49"
     },
     {
-        "title": "Working Student AI Solutions Architect \u2013 Generative AI & Data Platforms",
-        "company": "AgentixLake GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-ai-solutions-architect-generative-ai-data-platforms-berlin-283450",
-        "loc": "Berlin",
+        "title": "AI Security Engineer",
+        "company": "Menlosecurity",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/menlosecurity/ai-security-engineer-bracknell-300427",
+        "loc": "EMEA - U.K.",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-10-31 03:49"
+    },
+    {
+        "title": "AI Systems Engineer",
+        "company": "Menlosecurity",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/menlosecurity/ai-systems-engineer-bracknell-316826",
+        "loc": "EMEA - U.K.",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-10-31 03:49"
+    },
+    {
+        "title": "Senior Engineer II, Chromium",
+        "company": "Menlosecurity",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/menlosecurity/senior-engineer-ii-chromium-emea-distributed-uk-32034",
+        "loc": "EMEA - Distributed (UK)",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-10-30 20:19"
-    },
-    {
-        "title": "Data Engineer (m/f/d)",
-        "company": "ANGEHEUERT GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-data-engineer-frankfurt-am-main-159193",
-        "loc": "Homeoffice",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-30 20:19"
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Abound",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/abound/junior-software-engineer-london-448712",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-30 20:19"
-    },
-    {
-        "title": "Technical Lead, Data Platform Engineer",
-        "company": "Fundingcircle",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/technical-lead-data-platform-engineer-london-418474",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 77,
-        "timestamp": "2026-10-30 20:19"
-    },
-    {
-        "title": "Lead Analytics Engineer",
-        "company": "Fundingcircle",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/lead-analytics-engineer-london-479706",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 99,
-        "timestamp": "2026-10-30 20:19"
-    },
-    {
-        "title": "Software Engineer II, Backend (Payments)",
-        "company": "Affirm",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/affirm/software-engineer-ii-backend-payments-147245",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-30 20:19"
-    },
-    {
-        "title": "Senior Software Engineer, Backend (International)",
-        "company": "Affirm",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/affirm/senior-software-engineer-backend-international-329747",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-10-30 20:19"
-    },
-    {
-        "title": "Lead AI engineer",
-        "company": "Mirakl - Labs",
-        "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/lead-ai-engineer-paris-240883",
-        "loc": "Paris, France",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-10-30 20:19"
+        "timestamp": "2026-10-31 03:49"
     },
     {
         "title": "Medior / Senior Data Analyst",
@@ -141,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-10-30 20:19"
+        "timestamp": "2026-10-31 03:49"
     },
     {
         "title": "Forward Deployed Engineer",
@@ -153,6 +93,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-10-30 20:19"
+        "timestamp": "2026-10-31 03:49"
     }
 ]
