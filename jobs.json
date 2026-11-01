@@ -1,5 +1,17 @@
 [
     {
+        "title": "DevOps Engineer (m/w/d)",
+        "company": "Skaylink",
+        "url": "https://www.arbeitnow.com/jobs/companies/skaylink/devops-engineer-leipzig-sachsen-189687",
+        "loc": "Leipzig, Sachsen",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-11-01 11:10"
+    },
+    {
         "title": "Management Berater:in - AI & Data (m/w/d)",
         "company": "alixpartners",
         "url": "https://www.arbeitnow.com/jobs/companies/alixpartners/management-beraterin-ai-data-292918",
@@ -9,7 +21,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-11-01 03:59"
+        "timestamp": "2026-11-01 11:10"
     },
     {
         "title": "AI Solution Architect (m/w/d)",
@@ -21,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-01 03:59"
+        "timestamp": "2026-11-01 11:10"
     },
     {
         "title": "Lead Solutions Architect",
@@ -33,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 60,
-        "timestamp": "2026-11-01 03:59"
+        "timestamp": "2026-11-01 11:10"
     },
     {
         "title": "Delivery Solutions Architect",
@@ -45,79 +57,115 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 75,
-        "timestamp": "2026-11-01 03:59"
+        "timestamp": "2026-11-01 11:10"
     },
     {
-        "title": "Senior Data Engineer - Azure Cloud (m/w/d)",
-        "company": "KRALLMANN AG",
-        "url": "https://www.arbeitnow.com/jobs/companies/krallmann-ag/senior-data-engineer-azure-cloud-berlin-397969",
-        "loc": "Berlin",
+        "title": "Senior Data Engineer - Real time analytics",
+        "company": "Aircall",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/aircall/senior-data-engineer-real-time-analytics-london-office-255449",
+        "loc": "London Office",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-01 03:59"
+        "tejas_score": 76,
+        "timestamp": "2026-11-01 11:10"
     },
     {
-        "title": "Senior AI Engineer, Location AI",
-        "company": "Mapbox",
-        "url": "https://www.arbeitnow.com/jobs/companies/mapbox/senior-ai-engineer-location-ai-mapbox-germany-130867",
-        "loc": "Mapbox Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-01 03:59"
-    },
-    {
-        "title": "Senior Data Scientist \u2014 Data Cloud Acceleration",
-        "company": "zetaglobal",
-        "url": "https://www.arbeitnow.com/jobs/companies/zetaglobal/senior-data-scientist-data-cloud-acceleration-berlin-70404",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 91,
-        "timestamp": "2026-11-01 03:59"
-    },
-    {
-        "title": "Reporting & Data Analyst (6-Month FTC)",
-        "company": "Form3",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/form3/reporting-data-analyst-6-month-ftc-459672",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-01 03:59"
-    },
-    {
-        "title": "Lead AI engineer",
-        "company": "mirakllabs",
-        "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/lead-ai-engineer-paris-425434",
+        "title": "Forward Deployed Engineer \u2013 Agentic AI",
+        "company": "SFEIR",
+        "url": "https://www.arbeitnow.fr/jobs/companies/sfeir/forward-deployed-engineer-agentic-ai-paris-193607",
         "loc": "Paris",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-11-01 03:59"
+        "tejas_score": 75,
+        "timestamp": "2026-11-01 11:10"
     },
     {
-        "title": "Internship - Software Engineer (Back, Fullstack)",
-        "company": "Pigment",
-        "url": "https://www.arbeitnow.fr/jobs/companies/pigment/internship-software-engineer-back-fullstack-paris-403086",
-        "loc": "Paris",
+        "title": "AI Software Engineer (F/H/NB)",
+        "company": "SFEIR",
+        "url": "https://www.arbeitnow.fr/jobs/companies/sfeir/ai-software-engineer-b-bordeaux-333067",
+        "loc": "Bordeaux",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-11-01 03:59"
+        "tejas_score": 53,
+        "timestamp": "2026-11-01 11:10"
+    },
+    {
+        "title": "AI Software Engineer (F/H/NB)",
+        "company": "SFEIR",
+        "url": "https://www.arbeitnow.fr/jobs/companies/sfeir/ai-software-engineer-b-toulouse-407066",
+        "loc": "Toulouse",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-11-01 11:10"
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Aircall",
+        "url": "https://www.arbeitnow.fr/jobs/companies/aircall/staff-software-engineer-paris-office-482973",
+        "loc": "Paris Office",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-11-01 11:10"
+    },
+    {
+        "title": "Senior Data Engineer - Real time analytics",
+        "company": "Aircall",
+        "url": "https://www.arbeitnow.fr/jobs/companies/aircall/remote-senior-data-engineer-real-time-analytics-489321",
+        "loc": "France Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-11-01 11:10"
+    },
+    {
+        "title": "Senior Data Engineer - Real time analytics",
+        "company": "Aircall",
+        "url": "https://www.arbeitnow.fr/jobs/companies/aircall/senior-data-engineer-real-time-analytics-paris-office-262047",
+        "loc": "Paris Office",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-11-01 11:10"
+    },
+    {
+        "title": "Lead Data Analyst - Recouvrement & cr\u00e9dit H/F",
+        "company": "Octopus Energy Group",
+        "url": "https://www.arbeitnow.fr/jobs/companies/octopus-energy-group/lead-data-analyst-recouvrement-credit-h-f-paris-fr-166199",
+        "loc": "Paris (FR)",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-11-01 11:10"
+    },
+    {
+        "title": "Data Engineering & Analytics Manager",
+        "company": "Insify",
+        "url": "https://www.arbeitnow.nl/jobs/companies/insify/data-engineering-analytics-manager-amsterdam-273630",
+        "loc": "Amsterdam",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 75,
+        "timestamp": "2026-11-01 11:10"
     },
     {
         "title": "AI Engineer",
@@ -129,7 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-11-01 03:59"
+        "timestamp": "2026-11-01 11:10"
     },
     {
         "title": "Senior Fullstack Engineer - Java, React (x/f/m)",
@@ -141,7 +189,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-11-01 03:59"
+        "timestamp": "2026-11-01 11:10"
     },
     {
         "title": "Medior / Senior Data Analyst",
@@ -153,18 +201,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-01 03:59"
-    },
-    {
-        "title": "Forward Deployed Engineer",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.nl/jobs/companies/databricks/forward-deployed-engineer-amsterdam-144415",
-        "loc": "Amsterdam",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-11-01 03:59"
+        "timestamp": "2026-11-01 11:10"
     }
 ]
