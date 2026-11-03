@@ -1,99 +1,75 @@
 [
     {
-        "title": "Staff AI Engineer \u2014 Agent Platform (all genders)",
-        "company": "wingmaite GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/wingmaite-gmbh/staff-ai-engineer-agent-platform-all-genders-berlin-487980",
+        "title": "AI Platform Engineer (m/w/d) | AI Hub f\u00fcr 10+ Unternehmen",
+        "company": "CHAPTERS Group AG",
+        "url": "https://www.arbeitnow.com/jobs/companies/chapters-group-ag/ai-platform-engineer-ai-hub-fur-10-unternehmen-berlin-43586",
         "loc": "Berlin",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-11-03 11:33"
+        "tejas_score": 46,
+        "timestamp": "2026-11-03 18:57"
     },
     {
-        "title": "Senior Functional Safety Engineer",
-        "company": "Rivianvw.tech",
-        "url": "https://www.arbeitnow.com/jobs/companies/rivianvwtech/senior-functional-safety-engineer-berlin-231360",
-        "loc": "Berlin",
+        "title": "Analytics Engineer",
+        "company": "Signal Ai",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/signal-ai/analytics-engineer-44-featherstone-st-4th-floor-128729",
+        "loc": "London Office",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 69,
+        "timestamp": "2026-11-03 18:57"
+    },
+    {
+        "title": "AI Engineer, UK",
+        "company": "Distyl",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/distyl/ai-engineer-uk-london-uk-214670",
+        "loc": "London, UK",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-11-03 18:57"
+    },
+    {
+        "title": "D\u00e9veloppeur BI & Data F/H/X - CDI 39h",
+        "company": "VOLCOM",
+        "url": "https://www.arbeitnow.fr/jobs/companies/volcom/developpeur-bi-data-cdi-39h-anglet-63054",
+        "loc": "Anglet",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-03 11:33"
+        "timestamp": "2026-11-03 18:57"
     },
     {
-        "title": "Machine Learning Engineer (All genders)",
-        "company": "Skdse",
-        "url": "https://www.arbeitnow.com/jobs/companies/skdse/machine-learning-engineer-all-genders-munich-bavaria-32400",
-        "loc": "Munich, Bavaria",
+        "title": "Senior Machine Learning Engineer - Embedded AI",
+        "company": "Pennylane SAS",
+        "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/senior-machine-learning-engineer-embedded-ai-paris-66428",
+        "loc": "All France (remote)",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-11-03 11:33"
+        "tejas_score": 62,
+        "timestamp": "2026-11-03 18:57"
     },
     {
-        "title": "Software Engineer - New Grad (2027 Start) - Berlin",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.com/jobs/companies/databricks/software-engineer-new-grad-2027-start-berlin-199066",
-        "loc": "Berlin",
+        "title": "Machine Learning / Computer Graphics Engineer (remote part/full time) - Junior/Mid/Senior",
+        "company": "Imnoo AG",
+        "url": "https://www.arbeitnow.ch/jobs/companies/imnoo-ag/machine-learning-computer-graphics-engineer-remote-part-full-time-junior-mid-senior-zurich-312397",
+        "loc": "Remote job",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-03 11:33"
-    },
-    {
-        "title": "Senior Data Engineer II (Data Platform)",
-        "company": "Legal Counsel - 12 month FTC at Rightmove Greenhouse",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/legal-counsel-12-month-ftc-at-rightmove-greenhouse/senior-data-engineer-ii-data-platform-london-314514",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-11-03 11:33"
-    },
-    {
-        "title": "Senior Data Engineer I (Data Platform)",
-        "company": "Legal Counsel - 12 month FTC at Rightmove Greenhouse",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/legal-counsel-12-month-ftc-at-rightmove-greenhouse/senior-data-engineer-i-data-platform-london-250850",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-03 11:33"
-    },
-    {
-        "title": "Data Associate - Internship (6 months, flexible start)",
-        "company": "Alan",
-        "url": "https://www.arbeitnow.fr/jobs/companies/alan/data-associate-internship-6-months-flexible-start-paris-france-429042",
-        "loc": "Paris, France",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-03 11:33"
-    },
-    {
-        "title": "Lead Software Engineer (F/H)",
-        "company": "ILLUIN Technology",
-        "url": "https://www.arbeitnow.fr/jobs/companies/illuin-technology/lead-software-engineer-f-h-puteaux-405942",
-        "loc": "Paris La D\u00e9fense",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-03 11:33"
+        "timestamp": "2026-11-03 18:57"
     },
     {
         "title": "Software Engineer - New Grad (2027 Start) - Amsterdam",
@@ -105,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-03 11:33"
+        "timestamp": "2026-11-03 18:57"
     },
     {
         "title": "Business Intelligence Data Architect",
@@ -117,42 +93,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 60,
-        "timestamp": "2026-11-03 11:33"
-    },
-    {
-        "title": "Data Engineering & Analytics Manager",
-        "company": "Insify",
-        "url": "https://www.arbeitnow.nl/jobs/companies/insify/data-engineering-analytics-manager-amsterdam-273630",
-        "loc": "Amsterdam",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 75,
-        "timestamp": "2026-11-03 11:33"
-    },
-    {
-        "title": "AI Engineer",
-        "company": "Tebi",
-        "url": "https://www.arbeitnow.nl/jobs/companies/tebi/ai-engineer-amsterdam-472304",
-        "loc": "Amsterdam",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-11-03 11:33"
-    },
-    {
-        "title": "Senior Fullstack Engineer - Java, React (x/f/m)",
-        "company": "Doctolib",
-        "url": "https://www.arbeitnow.nl/jobs/companies/doctolib/senior-fullstack-engineer-java-react-amsterdam-35344",
-        "loc": "Amsterdam",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-03 11:33"
+        "timestamp": "2026-11-03 18:57"
     }
 ]
