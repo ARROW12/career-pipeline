@@ -1,27 +1,63 @@
 [
     {
-        "title": "Senior Data & AI Consultant (m/w/d)",
-        "company": "PALTRON GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/paltron-gmbh/senior-data-ai-consultant-cologne-40538",
-        "loc": "Cologne",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 60,
-        "timestamp": "2026-11-02 17:43"
-    },
-    {
-        "title": "Senior Data & AI Engineer (m/w/d)",
-        "company": "PALTRON GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/paltron-gmbh/senior-data-ai-engineer-cologne-341912",
-        "loc": "Cologne",
+        "title": "Machine Learning Engineer (All genders)",
+        "company": "Skdse",
+        "url": "https://www.arbeitnow.com/jobs/companies/skdse/machine-learning-engineer-all-genders-munich-bavaria-32400",
+        "loc": "Munich, Bavaria",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-11-02 17:43"
+        "timestamp": "2026-11-03 01:57"
+    },
+    {
+        "title": "Software Engineer - New Grad (2027 Start) - Berlin",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.com/jobs/companies/databricks/software-engineer-new-grad-2027-start-berlin-199066",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-11-03 01:57"
+    },
+    {
+        "title": "Senior Data Engineer (m/f/d)",
+        "company": "Recare Deutschland GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-senior-data-engineer-berlin-467823",
+        "loc": "Remote job",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-11-03 01:57"
+    },
+    {
+        "title": "Software Engineer - New Grad (2027 Start) - London",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/software-engineer-new-grad-2027-start-london-288068",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-11-03 01:57"
+    },
+    {
+        "title": "Solutions Architect - Post Sales",
+        "company": "hyperexponential",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/hyperexponential/solutions-architect-post-sales-london-401020",
+        "loc": "London (hybrid)",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-11-03 01:57"
     },
     {
         "title": "\ud83d\udcf1 Fullstack Developer (Paris or remote)",
@@ -33,19 +69,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-11-02 17:43"
+        "timestamp": "2026-11-03 01:57"
     },
     {
-        "title": "Analytics Engineer - Finance",
-        "company": "mewssystems",
-        "url": "https://www.arbeitnow.fr/jobs/companies/mewssystems/analytics-engineer-finance-280853",
-        "loc": "Remote",
+        "title": "Software Engineer - New Grad (2027 Start) - Amsterdam",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.nl/jobs/companies/databricks/software-engineer-new-grad-2027-start-amsterdam-401527",
+        "loc": "Amsterdam",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 60,
-        "timestamp": "2026-11-02 17:43"
+        "tejas_score": 45,
+        "timestamp": "2026-11-03 01:57"
     },
     {
         "title": "Business Intelligence Data Architect",
@@ -57,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 60,
-        "timestamp": "2026-11-02 17:43"
+        "timestamp": "2026-11-03 01:57"
     },
     {
         "title": "Data Engineering & Analytics Manager",
@@ -69,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 75,
-        "timestamp": "2026-11-02 17:43"
+        "timestamp": "2026-11-03 01:57"
     },
     {
         "title": "AI Engineer",
@@ -81,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-11-02 17:43"
+        "timestamp": "2026-11-03 01:57"
     },
     {
         "title": "Senior Fullstack Engineer - Java, React (x/f/m)",
@@ -93,18 +129,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-11-02 17:43"
-    },
-    {
-        "title": "Medior / Senior Data Analyst",
-        "company": "Follo",
-        "url": "https://www.arbeitnow.nl/jobs/companies/follo/medior-senior-data-analyst-dongen-227965",
-        "loc": "Dongen, Noord-Brabant, Nederland",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-02 17:43"
+        "timestamp": "2026-11-03 01:57"
     }
 ]
