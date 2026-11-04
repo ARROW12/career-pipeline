@@ -1,123 +1,63 @@
 [
     {
-        "title": "Applied AI Engineer",
-        "company": "Resonance",
-        "url": "https://www.arbeitnow.com/jobs/companies/resonance/applied-ai-engineer-berlin-34908",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-04 00:20"
-    },
-    {
-        "title": "AI Platform Engineer (m/w/d) | AI Hub f\u00fcr 10+ Unternehmen",
-        "company": "CHAPTERS Group AG",
-        "url": "https://www.arbeitnow.com/jobs/companies/chapters-group-ag/ai-platform-engineer-ai-hub-fur-10-unternehmen-berlin-43586",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-11-04 00:20"
-    },
-    {
-        "title": "Lead Database Administrator",
-        "company": "Partnerize",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/partnerize/lead-database-administrator-cambridge-248734",
-        "loc": "Cambridge, England, United Kingdom",
+        "title": "Staff Data Analyst, Marketing",
+        "company": "Quince",
+        "url": "https://www.arbeitnow.com/jobs/companies/quince/staff-data-analyst-marketing-188996",
+        "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-04 00:20"
+        "timestamp": "2026-11-04 11:48"
     },
     {
-        "title": "Lead Database Administrator",
-        "company": "Partnerize",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/partnerize/lead-database-administrator-cardiff-86927",
-        "loc": "Cardiff, Wales, United Kingdom",
+        "title": "Senior Solutions Architect",
+        "company": "Fivetran",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/fivetran/remote-senior-solutions-architect-290925",
+        "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-04 00:20"
+        "timestamp": "2026-11-04 11:48"
     },
     {
-        "title": "Lead Database Administrator",
-        "company": "Partnerize",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/partnerize/lead-database-administrator-edinburgh-152101",
-        "loc": "Edinburgh, Scotland, United Kingdom",
+        "title": "Senior Cloud Architect",
+        "company": "Ripple",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/ripple/senior-cloud-architect-sydney-australia-282278",
+        "loc": "Sydney, Australia",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-04 00:20"
+        "tejas_score": 61,
+        "timestamp": "2026-11-04 11:48"
     },
     {
-        "title": "Lead Database Administrator",
-        "company": "Partnerize",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/partnerize/lead-database-administrator-bristol-432512",
-        "loc": "Bristol, England, United Kingdom",
+        "title": "Senior Software Engineer (Managed PostgreSQL)",
+        "company": "Nebius",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-software-engineer-managed-postgresql-390848",
+        "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-04 00:20"
+        "tejas_score": 50,
+        "timestamp": "2026-11-04 11:48"
     },
     {
-        "title": "Lead Database Administrator",
-        "company": "Partnerize",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/partnerize/lead-database-administrator-southampton-48312",
-        "loc": "Southampton, England, United Kingdom",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-04 00:20"
-    },
-    {
-        "title": "Lead Database Administrator",
-        "company": "Partnerize",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/partnerize/lead-database-administrator-newcastle-upon-tyne-431083",
-        "loc": "Newcastle upon Tyne, England, United Kingdom",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-04 00:20"
-    },
-    {
-        "title": "Lead Database Administrator",
-        "company": "Partnerize",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/partnerize/lead-database-administrator-london-206867",
-        "loc": "London, England, United Kingdom",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-04 00:20"
-    },
-    {
-        "title": "Site Reliability Engineer (SRE)",
-        "company": "Clearstreet",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/clearstreet/site-reliability-engineer-sre-london-122708",
+        "title": "Senior Software Engineer (Data Platform, C++)",
+        "company": "Nebius",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-software-engineer-data-platform-c-london-336119",
         "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-04 00:20"
+        "tejas_score": 54,
+        "timestamp": "2026-11-04 11:48"
     },
     {
         "title": "Internship - Data Engineer Core Data Product (f/m/d)- Paris",
@@ -129,30 +69,30 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-11-04 00:20"
+        "timestamp": "2026-11-04 11:48"
     },
     {
-        "title": "D\u00e9veloppeur BI & Data F/H/X - CDI 39h",
-        "company": "VOLCOM",
-        "url": "https://www.arbeitnow.fr/jobs/companies/volcom/developpeur-bi-data-cdi-39h-anglet-63054",
-        "loc": "Anglet",
+        "title": "Senior Staff Software Engineer - SAP Connectors",
+        "company": "Fivetran",
+        "url": "https://www.arbeitnow.nl/jobs/companies/fivetran/remote-senior-staff-software-engineer-sap-connectors-462420",
+        "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-04 00:20"
+        "timestamp": "2026-11-04 11:48"
     },
     {
-        "title": "Senior Python Engineer, Billing & Accounts",
-        "company": "Manychat",
-        "url": "https://www.arbeitnow.nl/jobs/companies/manychat/senior-python-engineer-billing-accounts-amsterdam-netherlands-343988",
-        "loc": "Amsterdam, Netherlands",
+        "title": "Data Analist E-commerce",
+        "company": "My Jewellery",
+        "url": "https://www.arbeitnow.nl/jobs/companies/my-jewellery/data-analist-e-commerce-s-hertogenbosch-288512",
+        "loc": "'s-Hertogenbosch, Noord-Brabant, Nederland",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 50,
-        "timestamp": "2026-11-04 00:20"
+        "tejas_score": 45,
+        "timestamp": "2026-11-04 11:48"
     }
 ]
