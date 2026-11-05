@@ -1,5 +1,41 @@
 [
     {
+        "title": "Senior DevOps Engineer",
+        "company": "Catapult Sports",
+        "url": "https://www.arbeitnow.com/jobs/companies/catapult-sports/senior-devops-engineer-cologne-7109",
+        "loc": "Cologne, North Rhine-Westphalia, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-11-05 00:41"
+    },
+    {
+        "title": "Senior Data & Backend Software Engineer (f/m/d)",
+        "company": "isaraerospace",
+        "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/senior-data-backend-software-engineer-ottobrunn-bavaria-148479",
+        "loc": "Ottobrunn, Bavaria",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-11-05 00:41"
+    },
+    {
+        "title": "AI Forward Deployed Engineer - Germany",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.com/jobs/companies/databricks/ai-forward-deployed-engineer-germany-munich-34063",
+        "loc": "Munich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-11-05 00:41"
+    },
+    {
         "title": "Product Engineer (Client Platform)",
         "company": "Almedia",
         "url": "https://www.arbeitnow.com/jobs/companies/almedia/product-engineer-client-platform-berlin-288114",
@@ -9,91 +45,67 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-11-04 19:15"
+        "timestamp": "2026-11-05 00:41"
     },
     {
-        "title": "(Senior) Software Engineer - Data Core",
-        "company": "celonis",
-        "url": "https://www.arbeitnow.com/jobs/companies/celonis/senior-software-engineer-data-core-munich-371676",
-        "loc": "Munich",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-04 19:15"
-    },
-    {
-        "title": "Senior DevOps Engineer (Perm, UK, London - Onsite)",
-        "company": "nearform",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/nearform/senior-devops-engineer-perm-uk-london-onsite-39601",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-11-04 19:15"
-    },
-    {
-        "title": "Senior DevOps Engineer",
-        "company": "nearform",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/nearform/senior-devops-engineer-456539",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-11-04 19:15"
-    },
-    {
-        "title": "Senior Data Analyst",
-        "company": "Midnite",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/midnite/senior-data-analyst-united-kingdom-382044",
-        "loc": "United Kingdom",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-04 19:15"
-    },
-    {
-        "title": "Senior Data Analyst (12 Month FTC)",
-        "company": "Fundingcircle",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/senior-data-analyst-12-month-ftc-london-438985",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-11-04 19:15"
-    },
-    {
-        "title": "AI Security Engineer",
-        "company": "Olix",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/olix/ai-security-engineer-london-63796",
+        "title": "Software engineer, generative AI (UK)",
+        "company": "Writer",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/writer/software-engineer-generative-ai-uk-london-277719",
         "loc": "London, UK",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-11-04 19:15"
+        "timestamp": "2026-11-05 00:41"
     },
     {
-        "title": "Senior Solutions Architect",
-        "company": "Fivetran",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/fivetran/remote-senior-solutions-architect-290925",
+        "title": "AI Forward Deployed Engineer - France",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.fr/jobs/companies/databricks/ai-forward-deployed-engineer-france-paris-400255",
+        "loc": "Paris",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-11-05 00:41"
+    },
+    {
+        "title": "Senior Software Engineer, Add-Ons",
+        "company": "mozilla",
+        "url": "https://www.arbeitnow.fr/jobs/companies/mozilla/senior-software-engineer-add-ons-148279",
         "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-04 19:15"
+        "timestamp": "2026-11-05 00:41"
+    },
+    {
+        "title": "Senior AI/ML Engineer",
+        "company": "Scalera",
+        "url": "https://www.arbeitnow.ch/jobs/companies/scalera/senior-ai-ml-engineer-zurich-21808",
+        "loc": "Z\u00fcrich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-11-05 00:41"
+    },
+    {
+        "title": "AI Forward Deployed Engineer - Netherlands",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.nl/jobs/companies/databricks/ai-forward-deployed-engineer-netherlands-amsterdam-272991",
+        "loc": "Amsterdam",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-11-05 00:41"
     },
     {
         "title": "Medior AI Engineer",
@@ -105,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-11-04 19:15"
+        "timestamp": "2026-11-05 00:41"
     },
     {
         "title": "Senior AI Engineer",
@@ -117,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-11-04 19:15"
+        "timestamp": "2026-11-05 00:41"
     },
     {
         "title": "Senior Staff Software Engineer - SAP Connectors",
@@ -129,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-04 19:15"
+        "timestamp": "2026-11-05 00:41"
     },
     {
         "title": "Data Analist E-commerce",
@@ -141,6 +153,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-04 19:15"
+        "timestamp": "2026-11-05 00:41"
     }
 ]
