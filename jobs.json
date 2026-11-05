@@ -1,87 +1,135 @@
 [
     {
-        "title": "Senior DevOps Engineer",
-        "company": "Catapult Sports",
-        "url": "https://www.arbeitnow.com/jobs/companies/catapult-sports/senior-devops-engineer-cologne-7109",
-        "loc": "Cologne, North Rhine-Westphalia, Germany",
+        "title": "Data Analyst - Finance",
+        "company": "Emma \u2013 The Sleep Company",
+        "url": "https://www.arbeitnow.com/jobs/companies/emma-the-sleep-company/data-analyst-finance-frankfurt-168424",
+        "loc": "Frankfurt",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-11-05 00:41"
+        "timestamp": "2026-11-05 11:48"
     },
     {
-        "title": "Senior Data & Backend Software Engineer (f/m/d)",
-        "company": "isaraerospace",
-        "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/senior-data-backend-software-engineer-ottobrunn-bavaria-148479",
-        "loc": "Ottobrunn, Bavaria",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-11-05 00:41"
-    },
-    {
-        "title": "AI Forward Deployed Engineer - Germany",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.com/jobs/companies/databricks/ai-forward-deployed-engineer-germany-munich-34063",
-        "loc": "Munich",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-11-05 00:41"
-    },
-    {
-        "title": "Product Engineer (Client Platform)",
-        "company": "Almedia",
-        "url": "https://www.arbeitnow.com/jobs/companies/almedia/product-engineer-client-platform-berlin-288114",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-05 00:41"
-    },
-    {
-        "title": "Software engineer, generative AI (UK)",
-        "company": "Writer",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/writer/software-engineer-generative-ai-uk-london-277719",
-        "loc": "London, UK",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-05 00:41"
-    },
-    {
-        "title": "AI Forward Deployed Engineer - France",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.fr/jobs/companies/databricks/ai-forward-deployed-engineer-france-paris-400255",
-        "loc": "Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-11-05 00:41"
-    },
-    {
-        "title": "Senior Software Engineer, Add-Ons",
-        "company": "mozilla",
-        "url": "https://www.arbeitnow.fr/jobs/companies/mozilla/senior-software-engineer-add-ons-148279",
-        "loc": "Remote",
+        "title": "Senior Data Analyst, Lifecycle",
+        "company": "Finom",
+        "url": "https://www.arbeitnow.com/jobs/companies/finom/senior-data-analyst-lifecycle-germany-124714",
+        "loc": "Germany",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-05 00:41"
+        "timestamp": "2026-11-05 11:48"
+    },
+    {
+        "title": "Lead AI Enablement Engineer",
+        "company": "Everquote",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/everquote/lead-ai-enablement-engineer-belfast-northern-ireland-488975",
+        "loc": "Belfast, Northern Ireland",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-11-05 11:48"
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Axon",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/axon/staff-software-engineer-london-493401",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-11-05 11:48"
+    },
+    {
+        "title": "Data analyst ( BI.SQL, Tableu and Python)",
+        "company": "Kryptos Technologies limited",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/kryptos-technologies-limited/data-analyst-bisql-tableu-and-python-london-314986",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 85,
+        "timestamp": "2026-11-05 11:48"
+    },
+    {
+        "title": "Senior Application Security Engineer",
+        "company": "Globalizationpartners",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/globalizationpartners/senior-application-security-engineer-383105",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-11-05 11:48"
+    },
+    {
+        "title": "Full stack engineer",
+        "company": "Nabla",
+        "url": "https://www.arbeitnow.fr/jobs/companies/nabla/full-stack-engineer-paris-184516",
+        "loc": "Paris office",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-11-05 11:48"
+    },
+    {
+        "title": "Senior Data & AI Architect",
+        "company": "Artefact",
+        "url": "https://www.arbeitnow.ch/jobs/companies/artefact/senior-data-ai-architect-zurich-78447",
+        "loc": "Z\u00fcrich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-11-05 11:48"
+    },
+    {
+        "title": "Manager \u2013 GenAI Strategy & Architecture",
+        "company": "Artefact",
+        "url": "https://www.arbeitnow.ch/jobs/companies/artefact/manager-genai-strategy-architecture-zurich-367255",
+        "loc": "Z\u00fcrich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-11-05 11:48"
+    },
+    {
+        "title": "Senior Data & AI Architect",
+        "company": "Artefactlinkedin",
+        "url": "https://www.arbeitnow.ch/jobs/companies/artefactlinkedin/senior-data-ai-architect-zurich-11996",
+        "loc": "Z\u00fcrich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-11-05 11:48"
+    },
+    {
+        "title": "Manager \u2013 GenAI Strategy & Architecture",
+        "company": "Artefactlinkedin",
+        "url": "https://www.arbeitnow.ch/jobs/companies/artefactlinkedin/manager-genai-strategy-architecture-zurich-495507",
+        "loc": "Z\u00fcrich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-11-05 11:48"
     },
     {
         "title": "Senior AI/ML Engineer",
@@ -93,7 +141,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-11-05 00:41"
+        "timestamp": "2026-11-05 11:48"
+    },
+    {
+        "title": "Senior Data Analyst, Lifecycle",
+        "company": "Finom",
+        "url": "https://www.arbeitnow.nl/jobs/companies/finom/senior-data-analyst-lifecycle-amsterdam-434386",
+        "loc": "Amsterdam",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-11-05 11:48"
     },
     {
         "title": "AI Forward Deployed Engineer - Netherlands",
@@ -105,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-11-05 00:41"
+        "timestamp": "2026-11-05 11:48"
     },
     {
         "title": "Medior AI Engineer",
@@ -117,7 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-11-05 00:41"
+        "timestamp": "2026-11-05 11:48"
     },
     {
         "title": "Senior AI Engineer",
@@ -129,7 +189,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-11-05 00:41"
+        "timestamp": "2026-11-05 11:48"
     },
     {
         "title": "Senior Staff Software Engineer - SAP Connectors",
@@ -141,7 +201,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-05 00:41"
+        "timestamp": "2026-11-05 11:48"
     },
     {
         "title": "Data Analist E-commerce",
@@ -153,6 +213,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-05 00:41"
+        "timestamp": "2026-11-05 11:48"
     }
 ]
