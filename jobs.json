@@ -1,5 +1,41 @@
 [
     {
+        "title": "Data Engineer",
+        "company": "Huzzle",
+        "url": "https://www.arbeitnow.com/jobs/companies/huzzle/remote-data-engineer-germany-76259",
+        "loc": "Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-11-07 14:37"
+    },
+    {
+        "title": "AI Engineer",
+        "company": "Jobgether",
+        "url": "https://www.arbeitnow.com/jobs/companies/jobgether/ai-engineer-germany-426397",
+        "loc": "Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-11-07 14:37"
+    },
+    {
+        "title": "Langfuse - Senior Product Engineer",
+        "company": "Clickhouse",
+        "url": "https://www.arbeitnow.com/jobs/companies/clickhouse/langfuse-senior-product-engineer-germany-349978",
+        "loc": "Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-11-07 14:37"
+    },
+    {
         "title": "Senior Analytics Engineer - Marketing & Growth",
         "company": "Pergolux",
         "url": "https://www.arbeitnow.com/jobs/companies/pergolux/senior-analytics-engineer-marketing-growth-berlin-317526",
@@ -9,55 +45,127 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-07 04:21"
+        "timestamp": "2026-11-07 14:37"
     },
     {
-        "title": "AI Solution Architect (m/w/d)",
-        "company": "virtual7 GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-338337",
-        "loc": "Homeoffice",
+        "title": "Data Engineer",
+        "company": "Solveintelligence",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/solveintelligence/data-engineer-london-498959",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-07 04:21"
+        "timestamp": "2026-11-07 14:37"
     },
     {
-        "title": "Trading Infrastructure Engineer \u2013 Algorithmic Power Trading",
-        "company": "Ostrom",
-        "url": "https://www.arbeitnow.com/jobs/companies/ostrom/trading-infrastructure-engineer-algorithmic-power-trading-berlin-218822",
-        "loc": "Berlin / Remote",
+        "title": "AI Engineer",
+        "company": "Jobgether",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/ai-engineer-uk-88749",
+        "loc": "UK",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-11-07 14:37"
+    },
+    {
+        "title": "Trading Analytics Developer, Quantitative Trading",
+        "company": "Crypto.com",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/cryptocom/trading-analytics-developer-quantitative-trading-london-363314",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 84,
+        "timestamp": "2026-11-07 14:37"
+    },
+    {
+        "title": "Software/Data Engineer",
+        "company": "Prima",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/prima/software-data-engineer-london-55485",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 84,
+        "timestamp": "2026-11-07 14:37"
+    },
+    {
+        "title": "Senior Machine Learning Engineer",
+        "company": "Prima",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/prima/senior-machine-learning-engineer-london-144884",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-07 04:21"
+        "timestamp": "2026-11-07 14:37"
     },
     {
-        "title": "Staff Data Engineer \u2013 Agentic Applications",
-        "company": "Graphcore",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/staff-data-engineer-agentic-applications-bristol-325390",
-        "loc": "Bristol",
+        "title": "Machine Learning Engineer",
+        "company": "Prima",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/prima/machine-learning-engineer-london-459008",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 91,
-        "timestamp": "2026-11-07 04:21"
+        "tejas_score": 61,
+        "timestamp": "2026-11-07 14:37"
     },
     {
-        "title": "Data Engineer (F/H/NB)",
-        "company": "SFEIR",
-        "url": "https://www.arbeitnow.fr/jobs/companies/sfeir/data-engineer-b-bordeaux-253658",
-        "loc": "Bordeaux",
+        "title": "Data Software Engineer",
+        "company": "Prima",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/prima/data-software-engineer-london-247674",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 83,
-        "timestamp": "2026-11-07 04:21"
+        "tejas_score": 76,
+        "timestamp": "2026-11-07 14:37"
+    },
+    {
+        "title": "AI Engineer",
+        "company": "Jobgether",
+        "url": "https://www.arbeitnow.fr/jobs/companies/jobgether/ai-engineer-france-244708",
+        "loc": "France",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-11-07 14:37"
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "Linkup",
+        "url": "https://www.arbeitnow.fr/jobs/companies/linkup/machine-learning-engineer-paris-254280",
+        "loc": "Paris",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 54,
+        "timestamp": "2026-11-07 14:37"
+    },
+    {
+        "title": "AI Engineer",
+        "company": "Jobgether",
+        "url": "https://www.arbeitnow.ch/jobs/companies/jobgether/ai-engineer-switzerland-78556",
+        "loc": "Switzerland",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-11-07 14:37"
     },
     {
         "title": "Sr. Specialist Solutions Architect",
@@ -69,7 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 98,
-        "timestamp": "2026-11-07 04:21"
+        "timestamp": "2026-11-07 14:37"
     },
     {
         "title": "LLM Deployment Engineer",
@@ -81,19 +189,55 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 65,
-        "timestamp": "2026-11-07 04:21"
+        "timestamp": "2026-11-07 14:37"
     },
     {
-        "title": "Senior Solutions Architect",
-        "company": "mongodb",
-        "url": "https://www.arbeitnow.ch/jobs/companies/mongodb/senior-solutions-architect-111714",
-        "loc": "Remote",
+        "title": "AI Engineer",
+        "company": "Jobgether",
+        "url": "https://www.arbeitnow.nl/jobs/companies/jobgether/ai-engineer-netherlands-136871",
+        "loc": "Netherlands",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-07 04:21"
+        "timestamp": "2026-11-07 14:37"
+    },
+    {
+        "title": "Forward Deployed Engineer | Finance",
+        "company": "adesso Netherlands",
+        "url": "https://www.arbeitnow.nl/jobs/companies/adesso-netherlands/forward-deployed-engineer-finance-utrecht-123469",
+        "loc": "Utrecht, Utrecht, Nederland",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-11-07 14:37"
+    },
+    {
+        "title": "Forward Deployed Engineer | Retail & E-commerce",
+        "company": "adesso Netherlands",
+        "url": "https://www.arbeitnow.nl/jobs/companies/adesso-netherlands/forward-deployed-engineer-retail-e-commerce-utrecht-144934",
+        "loc": "Utrecht, Utrecht, Nederland",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-11-07 14:37"
+    },
+    {
+        "title": "Forward Deployed Engineer | Utilities",
+        "company": "adesso Netherlands",
+        "url": "https://www.arbeitnow.nl/jobs/companies/adesso-netherlands/forward-deployed-engineer-utilities-utrecht-369918",
+        "loc": "Utrecht, Utrecht, Nederland",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-11-07 14:37"
     },
     {
         "title": "Software Engineering Intern - AI Platform Excellence",
@@ -105,30 +249,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-11-07 04:21"
-    },
-    {
-        "title": "Agent Security Engineer",
-        "company": "Belmont Lavan Ltd",
-        "url": "https://www.arbeitnow.nl/jobs/companies/belmont-lavan-ltd/agent-security-engineer-amsterdam-282353",
-        "loc": "Amsterdam, Netherlands",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-11-07 04:21"
-    },
-    {
-        "title": "DevOps Engineer",
-        "company": "SkinVision",
-        "url": "https://www.arbeitnow.nl/jobs/companies/skinvision/devops-engineer-amsterdam-449903",
-        "loc": "Amsterdam, Noord-Holland, Netherlands",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-11-07 04:21"
+        "timestamp": "2026-11-07 14:37"
     }
 ]
