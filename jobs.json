@@ -1,5 +1,53 @@
 [
     {
+        "title": "(Senior) Oracle Data Warehouse / BI-Developer (m/w/d)",
+        "company": "virtual7 GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-oracle-data-warehouse-bi-developer-karlsruhe-173565",
+        "loc": "Karlsruhe, Baden-W\u00fcrttemberg, Deutschland",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-11-08 20:06"
+    },
+    {
+        "title": "Data Scientist (all genders)",
+        "company": "Flaconi",
+        "url": "https://www.arbeitnow.com/jobs/companies/flaconi/data-scientist-all-genders-berlin-berlin-309756",
+        "loc": "Berlin, Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 84,
+        "timestamp": "2026-11-08 20:06"
+    },
+    {
+        "title": "Senior Marketing Data Analyst Pricing (all genders)",
+        "company": "hellofresh",
+        "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-marketing-data-analyst-pricing-all-genders-berlin-berlin-253239",
+        "loc": "Berlin, Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-11-08 20:06"
+    },
+    {
+        "title": "Principal Engineer, Growth Mega Alliance (all genders)",
+        "company": "hellofresh",
+        "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/principal-engineer-growth-mega-alliance-all-genders-berlin-berlin-69168",
+        "loc": "Berlin, Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-11-08 20:06"
+    },
+    {
         "title": "Mid/Senior AI LLM Engineer (Full Remote - Germany)",
         "company": "EverAI",
         "url": "https://www.arbeitnow.com/jobs/companies/everai/mid-senior-ai-llm-engineer-full-remote-germany-226087",
@@ -9,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-11-08 14:43"
+        "timestamp": "2026-11-08 20:06"
     },
     {
         "title": "Data Platform Engineer (Mid-Level)",
@@ -21,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-11-08 14:43"
+        "timestamp": "2026-11-08 20:06"
     },
     {
         "title": "Staff Software Engineer, Agentic Platform",
@@ -33,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-11-08 14:43"
+        "timestamp": "2026-11-08 20:06"
     },
     {
         "title": "Senior Staff Software Engineer, Agentic Platform",
@@ -45,31 +93,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-08 14:43"
+        "timestamp": "2026-11-08 20:06"
     },
     {
-        "title": "Senior Forward Deployed Platform Engineer (m/w/d)",
-        "company": "Recare Deutschland GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-senior-forward-deployed-platform-engineer-berlin-228990",
-        "loc": "Remote job",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-11-08 14:43"
-    },
-    {
-        "title": "Software engineer, generative AI (UK)",
-        "company": "Writer",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/writer/software-engineer-generative-ai-uk-london-225087",
-        "loc": "London, UK",
+        "title": "Principal Software Engineer (Hybrid)",
+        "company": "8Thlightrebuild",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/8thlightrebuild/principal-software-engineer-hybrid-london-320621",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-11-08 14:43"
+        "timestamp": "2026-11-08 20:06"
+    },
+    {
+        "title": "Lead Software Engineer (Hybrid)",
+        "company": "8Thlightrebuild",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/8thlightrebuild/lead-software-engineer-hybrid-london-313965",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-11-08 20:06"
     },
     {
         "title": "Mid/Senior AI LLM Engineer (Full Remote - France)",
@@ -81,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-11-08 14:43"
+        "timestamp": "2026-11-08 20:06"
     },
     {
         "title": "AI Engineer",
@@ -93,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-08 14:43"
+        "timestamp": "2026-11-08 20:06"
     },
     {
         "title": "Mid/Senior AI LLM Engineer (Full Remote - Netherlands)",
@@ -105,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-11-08 14:43"
+        "timestamp": "2026-11-08 20:06"
     },
     {
         "title": "AI Engineer",
@@ -117,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-08 14:43"
+        "timestamp": "2026-11-08 20:06"
     },
     {
         "title": "Forward Deployed Engineer | Finance",
@@ -129,7 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-11-08 14:43"
+        "timestamp": "2026-11-08 20:06"
     },
     {
         "title": "Forward Deployed Engineer | Retail & E-commerce",
@@ -141,7 +189,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-11-08 14:43"
+        "timestamp": "2026-11-08 20:06"
     },
     {
         "title": "Forward Deployed Engineer | Utilities",
@@ -153,6 +201,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-11-08 14:43"
+        "timestamp": "2026-11-08 20:06"
     }
 ]
