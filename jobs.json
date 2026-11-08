@@ -9,7 +9,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 60,
-        "timestamp": "2026-11-07 23:22"
+        "timestamp": "2026-11-08 04:04"
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Elevenlabs",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/data-engineer-united-kingdom-386062",
+        "loc": "United Kingdom",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-11-08 04:04"
+    },
+    {
+        "title": "Software Engineer (Data)",
+        "company": "Ben",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/ben/software-engineer-data-london-104073",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 98,
+        "timestamp": "2026-11-08 04:04"
     },
     {
         "title": "Site Reliability Engineer",
@@ -21,19 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-11-07 23:22"
-    },
-    {
-        "title": "Senior Analytics Engineer - Finance",
-        "company": "mewssystems",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/mewssystems/senior-analytics-engineer-finance-48422",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 60,
-        "timestamp": "2026-11-07 23:22"
+        "timestamp": "2026-11-08 04:04"
     },
     {
         "title": "Senior Product Manager - Data Lake (f/m/d)",
@@ -45,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 100,
-        "timestamp": "2026-11-07 23:22"
+        "timestamp": "2026-11-08 04:04"
     },
     {
         "title": "AI Engineer",
@@ -57,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-07 23:22"
+        "timestamp": "2026-11-08 04:04"
     },
     {
         "title": "AI Engineer",
@@ -69,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-07 23:22"
+        "timestamp": "2026-11-08 04:04"
     },
     {
         "title": "Sr. Specialist Solutions Architect",
@@ -81,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 98,
-        "timestamp": "2026-11-07 23:22"
+        "timestamp": "2026-11-08 04:04"
     },
     {
         "title": "LLM Deployment Engineer",
@@ -93,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 65,
-        "timestamp": "2026-11-07 23:22"
+        "timestamp": "2026-11-08 04:04"
     },
     {
         "title": "AI Engineer",
@@ -105,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-07 23:22"
+        "timestamp": "2026-11-08 04:04"
     },
     {
         "title": "Forward Deployed Engineer | Finance",
@@ -117,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-11-07 23:22"
+        "timestamp": "2026-11-08 04:04"
     },
     {
         "title": "Forward Deployed Engineer | Retail & E-commerce",
@@ -129,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-11-07 23:22"
+        "timestamp": "2026-11-08 04:04"
     },
     {
         "title": "Forward Deployed Engineer | Utilities",
@@ -141,6 +153,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-11-07 23:22"
+        "timestamp": "2026-11-08 04:04"
     }
 ]
