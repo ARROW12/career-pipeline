@@ -1,135 +1,63 @@
 [
     {
-        "title": "Senior DevOps Engineer",
-        "company": "Catapult Sports",
-        "url": "https://www.arbeitnow.com/jobs/companies/catapult-sports/senior-devops-engineer-cologne-378538",
-        "loc": "Cologne, North Rhine-Westphalia, Germany",
+        "title": "Senior Software Engineer* Agentic AI",
+        "company": "Accso \u2013 Accelerated Solutions GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/accso-accelerated-solutions-gmbh/senior-software-engineer-agentic-ai-darmstadt-447523",
+        "loc": "Darmstadt",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-11-09 04:20"
+        "timestamp": "2026-11-10 02:30"
     },
     {
-        "title": "(Senior) Oracle Data Warehouse / BI-Developer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-oracle-data-warehouse-bi-developer-karlsruhe-173565",
-        "loc": "Karlsruhe, Baden-W\u00fcrttemberg, Deutschland",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-09 04:20"
-    },
-    {
-        "title": "Data Scientist (all genders)",
-        "company": "Flaconi",
-        "url": "https://www.arbeitnow.com/jobs/companies/flaconi/data-scientist-all-genders-berlin-berlin-309756",
-        "loc": "Berlin, Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 84,
-        "timestamp": "2026-11-09 04:20"
-    },
-    {
-        "title": "Senior Marketing Data Analyst Pricing (all genders)",
-        "company": "hellofresh",
-        "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-marketing-data-analyst-pricing-all-genders-berlin-berlin-253239",
-        "loc": "Berlin, Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-11-09 04:20"
-    },
-    {
-        "title": "Principal Engineer, Growth Mega Alliance (all genders)",
-        "company": "hellofresh",
-        "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/principal-engineer-growth-mega-alliance-all-genders-berlin-berlin-69168",
-        "loc": "Berlin, Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-09 04:20"
-    },
-    {
-        "title": "Mid/Senior AI LLM Engineer (Full Remote - Germany)",
-        "company": "EverAI",
-        "url": "https://www.arbeitnow.com/jobs/companies/everai/mid-senior-ai-llm-engineer-full-remote-germany-226087",
-        "loc": "Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 50,
-        "timestamp": "2026-11-09 04:20"
-    },
-    {
-        "title": "Data Platform Engineer (Mid-Level)",
-        "company": "sumup",
-        "url": "https://www.arbeitnow.com/jobs/companies/sumup/data-platform-engineer-mid-level-berlin-396788",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-11-09 04:20"
-    },
-    {
-        "title": "Principal Software Engineer (Hybrid)",
-        "company": "8Thlightrebuild",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/8thlightrebuild/principal-software-engineer-hybrid-london-320621",
+        "title": "Software Engineer, Backend (BI Platform)",
+        "company": "Deliveroo",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-backend-bi-platform-london-98307",
         "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-09 04:20"
+        "tejas_score": 68,
+        "timestamp": "2026-11-10 02:30"
     },
     {
-        "title": "Lead Software Engineer (Hybrid)",
-        "company": "8Thlightrebuild",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/8thlightrebuild/lead-software-engineer-hybrid-london-313965",
+        "title": "Senior Software Engineer, Proactive Security",
+        "company": "Deliveroo",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-software-engineer-proactive-security-london-292437",
         "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-09 04:20"
+        "tejas_score": 46,
+        "timestamp": "2026-11-10 02:30"
     },
     {
-        "title": "Mid/Senior AI LLM Engineer (Full Remote - France)",
-        "company": "EverAI",
-        "url": "https://www.arbeitnow.fr/jobs/companies/everai/mid-senior-ai-llm-engineer-full-remote-france-463417",
-        "loc": "France",
+        "title": "Data Engineer Confirmed - Core Data Product(f/m/d)",
+        "company": "Decathlontechnology",
+        "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/data-engineer-confirmed-core-data-product-paris-paris-villeneuve-dascq-nord-349841",
+        "loc": "Paris, Paris; Villeneuve-d'Ascq, Nord",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 50,
-        "timestamp": "2026-11-09 04:20"
+        "tejas_score": 99,
+        "timestamp": "2026-11-10 02:30"
     },
     {
-        "title": "AI Engineer",
-        "company": "Jobgether",
-        "url": "https://www.arbeitnow.ch/jobs/companies/jobgether/ai-engineer-switzerland-78556",
-        "loc": "Switzerland",
+        "title": "Senior Data Engineer (Databricks)",
+        "company": "Artefactjobs",
+        "url": "https://www.arbeitnow.ch/jobs/companies/artefactjobs/senior-data-engineer-databricks-lausanne-vaud-130127",
+        "loc": "Lausanne, Vaud",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-09 04:20"
+        "tejas_score": 100,
+        "timestamp": "2026-11-10 02:30"
     },
     {
         "title": "Mid/Senior AI LLM Engineer (Full Remote - Netherlands)",
@@ -141,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-11-09 04:20"
+        "timestamp": "2026-11-10 02:30"
     },
     {
         "title": "AI Engineer",
@@ -153,42 +81,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-09 04:20"
-    },
-    {
-        "title": "Forward Deployed Engineer | Finance",
-        "company": "adesso Netherlands",
-        "url": "https://www.arbeitnow.nl/jobs/companies/adesso-netherlands/forward-deployed-engineer-finance-utrecht-123469",
-        "loc": "Utrecht, Utrecht, Nederland",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-11-09 04:20"
-    },
-    {
-        "title": "Forward Deployed Engineer | Retail & E-commerce",
-        "company": "adesso Netherlands",
-        "url": "https://www.arbeitnow.nl/jobs/companies/adesso-netherlands/forward-deployed-engineer-retail-e-commerce-utrecht-144934",
-        "loc": "Utrecht, Utrecht, Nederland",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-11-09 04:20"
-    },
-    {
-        "title": "Forward Deployed Engineer | Utilities",
-        "company": "adesso Netherlands",
-        "url": "https://www.arbeitnow.nl/jobs/companies/adesso-netherlands/forward-deployed-engineer-utilities-utrecht-369918",
-        "loc": "Utrecht, Utrecht, Nederland",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-11-09 04:20"
+        "timestamp": "2026-11-10 02:30"
     }
 ]
