@@ -1,53 +1,5 @@
 [
     {
-        "title": "Senior Software Engineer* Agentic AI",
-        "company": "Accso \u2013 Accelerated Solutions GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/accso-accelerated-solutions-gmbh/senior-software-engineer-agentic-ai-darmstadt-447523",
-        "loc": "Darmstadt",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-10 02:30"
-    },
-    {
-        "title": "Software Engineer, Backend (BI Platform)",
-        "company": "Deliveroo",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-backend-bi-platform-london-98307",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-11-10 02:30"
-    },
-    {
-        "title": "Senior Software Engineer, Proactive Security",
-        "company": "Deliveroo",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-software-engineer-proactive-security-london-292437",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-11-10 02:30"
-    },
-    {
-        "title": "Data Engineer Confirmed - Core Data Product(f/m/d)",
-        "company": "Decathlontechnology",
-        "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/data-engineer-confirmed-core-data-product-paris-paris-villeneuve-dascq-nord-349841",
-        "loc": "Paris, Paris; Villeneuve-d'Ascq, Nord",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 99,
-        "timestamp": "2026-11-10 02:30"
-    },
-    {
         "title": "Senior Data Engineer (Databricks)",
         "company": "Artefactjobs",
         "url": "https://www.arbeitnow.ch/jobs/companies/artefactjobs/senior-data-engineer-databricks-lausanne-vaud-130127",
@@ -57,7 +9,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 100,
-        "timestamp": "2026-11-10 02:30"
+        "timestamp": "2026-11-10 12:01"
     },
     {
         "title": "Mid/Senior AI LLM Engineer (Full Remote - Netherlands)",
@@ -69,18 +21,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-11-10 02:30"
-    },
-    {
-        "title": "AI Engineer",
-        "company": "Jobgether",
-        "url": "https://www.arbeitnow.nl/jobs/companies/jobgether/ai-engineer-netherlands-136871",
-        "loc": "Netherlands",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-10 02:30"
+        "timestamp": "2026-11-10 12:01"
     }
 ]
