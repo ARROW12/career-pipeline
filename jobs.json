@@ -1,5 +1,41 @@
 [
     {
+        "title": "Senior Platform Engineer",
+        "company": "Mondoo",
+        "url": "https://www.arbeitnow.com/jobs/companies/mondoo/senior-platform-engineer-berlin-397354",
+        "loc": "Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-11-12 05:30"
+    },
+    {
+        "title": "Principal AI Engineer",
+        "company": "zetaglobal",
+        "url": "https://www.arbeitnow.com/jobs/companies/zetaglobal/principal-ai-engineer-berlin-462601",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-11-12 05:30"
+    },
+    {
+        "title": "Senior Engineering Manager",
+        "company": "Vestiairecollective",
+        "url": "https://www.arbeitnow.com/jobs/companies/vestiairecollective/senior-engineering-manager-berlin-230806",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-11-12 05:30"
+    },
+    {
         "title": "AI Solution Architect (m/w/d)",
         "company": "virtual7 GmbH",
         "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-99131",
@@ -9,79 +45,103 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-11 22:26"
+        "timestamp": "2026-11-12 05:30"
     },
     {
-        "title": "Data Engineer (m/f/d)",
-        "company": "ANGEHEUERT GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-data-engineer-frankfurt-am-main-258614",
-        "loc": "Homeoffice",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-11 22:26"
-    },
-    {
-        "title": "Data Ingenieur (m/w/d)",
-        "company": "ANGEHEUERT GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-data-ingenieur-frankfurt-am-main-499160",
-        "loc": "Homeoffice",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-11 22:26"
-    },
-    {
-        "title": "Senior Sales Engineer, Enterprise - German Speaking",
-        "company": "Fivetran",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/fivetran/remote-senior-sales-engineer-enterprise-german-speaking-210619",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 75,
-        "timestamp": "2026-11-11 22:26"
-    },
-    {
-        "title": "Senior Sales Engineer, Commercial",
-        "company": "Fivetran",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/fivetran/senior-sales-engineer-commercial-london-319306",
+        "title": "Senior Data Insights Consultant - EMEA",
+        "company": "Map",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/map/senior-data-insights-consultant-emea-london-495914",
         "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 75,
-        "timestamp": "2026-11-11 22:26"
+        "tejas_score": 60,
+        "timestamp": "2026-11-12 05:30"
     },
     {
-        "title": "Senior Azure Data Engineer (Databricks)",
-        "company": "capco",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/senior-azure-data-engineer-databricks-352340",
-        "loc": "Remote",
+        "title": "Senior Applied Value Engineer",
+        "company": "celonis",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/celonis/senior-applied-value-engineer-london-495633",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 96,
-        "timestamp": "2026-11-11 22:26"
+        "tejas_score": 53,
+        "timestamp": "2026-11-12 05:30"
     },
     {
-        "title": "Senior Azure Data Engineer (Databricks)",
-        "company": "capco",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/senior-azure-data-engineer-databricks-159994",
-        "loc": "Remote",
+        "title": "Staff Software Engineer - Streaming",
+        "company": "Checkout.com",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/staff-software-engineer-streaming-london-111613",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 96,
-        "timestamp": "2026-11-11 22:26"
+        "tejas_score": 53,
+        "timestamp": "2026-11-12 05:30"
+    },
+    {
+        "title": "Forward Deployed Engineer, Government Clients (UK)",
+        "company": "Sayari",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/sayari/forward-deployed-engineer-government-clients-uk-london-171075",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-11-12 05:30"
+    },
+    {
+        "title": "CDI - Senior Platform Engineer - Paris",
+        "company": "Artefactjobs",
+        "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/cdi-senior-platform-engineer-paris-9th-arrondissement-of-paris-75009-paris-19723",
+        "loc": "9th arrondissement of Paris, 75009, Paris",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-11-12 05:30"
+    },
+    {
+        "title": "CDI - Senior Context & Analytics Engineer - Paris",
+        "company": "Artefactjobs",
+        "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/cdi-senior-context-analytics-engineer-paris-9th-arrondissement-of-paris-75009-paris-151057",
+        "loc": "9th arrondissement of Paris, 75009, Paris",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 60,
+        "timestamp": "2026-11-12 05:30"
+    },
+    {
+        "title": "CDI - Manager Platform Engineer - Paris",
+        "company": "Artefactjobs",
+        "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/cdi-manager-platform-engineer-paris-9th-arrondissement-of-paris-75009-paris-41926",
+        "loc": "9th arrondissement of Paris, 75009, Paris",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-11-12 05:30"
+    },
+    {
+        "title": "CDI - Manager Context & Analytics Engineer - Paris",
+        "company": "Artefactjobs",
+        "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/cdi-manager-context-analytics-engineer-paris-9th-arrondissement-of-paris-75009-paris-76381",
+        "loc": "9th arrondissement of Paris, 75009, Paris",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 60,
+        "timestamp": "2026-11-12 05:30"
     },
     {
         "title": "Business intelligence ontwikkelaar",
@@ -93,6 +153,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-11 22:26"
+        "timestamp": "2026-11-12 05:30"
     }
 ]
