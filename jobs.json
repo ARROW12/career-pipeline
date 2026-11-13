@@ -1,63 +1,123 @@
 [
     {
-        "title": "Data Analyst Marketing",
-        "company": "YAZIO",
-        "url": "https://www.arbeitnow.com/jobs/companies/yazio/data-analyst-marketing-berlin-169107",
-        "loc": "Berlin",
+        "title": "Senior Data Engineer",
+        "company": "Kayak",
+        "url": "https://www.arbeitnow.com/jobs/companies/kayak/senior-data-engineer-berlin-467027",
+        "loc": "Berlin Office",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-13 00:51"
+        "tejas_score": 46,
+        "timestamp": "2026-11-13 11:48"
     },
     {
-        "title": "Senior Data Scientist",
-        "company": "Bitvavo",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/bitvavo/senior-data-scientist-headquarters-496939",
-        "loc": "Headquarters",
+        "title": "Senior DevOps Engineer",
+        "company": "Catapult Sports",
+        "url": "https://www.arbeitnow.com/jobs/companies/catapult-sports/senior-devops-engineer-cologne-156351",
+        "loc": "Cologne, North Rhine-Westphalia, Germany",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-11-13 00:51"
+        "tejas_score": 53,
+        "timestamp": "2026-11-13 11:48"
     },
     {
-        "title": "Data Engineer III - FMX",
-        "company": "Fanaticsfbg",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/data-engineer-iii-fmx-london-844",
+        "title": "Principal Infrastructure Engineer",
+        "company": "Sezzle",
+        "url": "https://www.arbeitnow.com/jobs/companies/sezzle/remote-principal-infrastructure-engineer-149998",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-11-13 11:48"
+    },
+    {
+        "title": "Senior Software Engineer, Proactive Security",
+        "company": "Deliveroo ",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-software-engineer-proactive-security-london-208470",
+        "loc": "London, England, United Kingdom",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-11-13 11:48"
+    },
+    {
+        "title": "Senior Software Engineer, Java",
+        "company": "Roku",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-software-engineer-java-manchester-123642",
+        "loc": "Manchester",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 69,
+        "timestamp": "2026-11-13 11:48"
+    },
+    {
+        "title": "Senior Software Engineer, Java",
+        "company": "Roku",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-software-engineer-java-cambridge-29332",
+        "loc": "Cambridge",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 69,
+        "timestamp": "2026-11-13 11:48"
+    },
+    {
+        "title": "EMEA Platform Solution Architect",
+        "company": "Rubrik",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/rubrik/emea-platform-solution-architect-london-244780",
         "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-11-13 00:51"
+        "timestamp": "2026-11-13 11:48"
     },
     {
-        "title": "Platform Engineer",
-        "company": "Akunacapital",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/akunacapital/platform-engineer-london-380724",
-        "loc": "London",
+        "title": "Senior Backend Engineer (Data serving)",
+        "company": "Pleo",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/senior-backend-engineer-data-serving-united-kingdom-364571",
+        "loc": "United Kingdom",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-11-13 11:48"
+    },
+    {
+        "title": "Principal Infrastructure Engineer",
+        "company": "Sezzle",
+        "url": "https://www.arbeitnow.fr/jobs/companies/sezzle/remote-principal-infrastructure-engineer-14603",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-11-13 11:48"
+    },
+    {
+        "title": "Senior Cloud Infrastructure Engineer",
+        "company": "Voodoo",
+        "url": "https://www.arbeitnow.fr/jobs/companies/voodoo/senior-cloud-infrastructure-engineer-paris-321986",
+        "loc": "Paris",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 54,
-        "timestamp": "2026-11-13 00:51"
-    },
-    {
-        "title": "Senior Cloud Platform Engineer (AWS/GCP)",
-        "company": "Ensono",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/ensono/senior-cloud-platform-engineer-aws-gcp-london-483204",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 58,
-        "timestamp": "2026-11-13 00:51"
+        "timestamp": "2026-11-13 11:48"
     },
     {
         "title": "Data Scientist H/F - Paris",
@@ -69,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-13 00:51"
+        "timestamp": "2026-11-13 11:48"
     },
     {
         "title": "Data Engineer (Databricks, Snowflake)",
@@ -81,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 100,
-        "timestamp": "2026-11-13 00:51"
+        "timestamp": "2026-11-13 11:48"
     },
     {
         "title": "Big Data Engineer",
@@ -93,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-13 00:51"
+        "timestamp": "2026-11-13 11:48"
     },
     {
         "title": "Data Platform Manager",
@@ -105,6 +165,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 62,
-        "timestamp": "2026-11-13 00:51"
+        "timestamp": "2026-11-13 11:48"
     }
 ]
