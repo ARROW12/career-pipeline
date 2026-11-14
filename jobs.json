@@ -1,51 +1,99 @@
 [
     {
-        "title": "Senior Python Engineer - ERP (d/f/m)",
-        "company": "SpotmyEnergy GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/spotmyenergy-gmbh/senior-python-engineer-erp-cologne-164320",
-        "loc": "Cologne",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 50,
-        "timestamp": "2026-11-13 19:06"
-    },
-    {
-        "title": "Senior Data Engineer Kubernetes (m/w/d)",
-        "company": "SPECTRUM AG",
-        "url": "https://www.arbeitnow.com/jobs/companies/spectrum-ag/senior-data-engineer-kubernetes-dresden-172508",
-        "loc": "Dresden",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-13 19:06"
-    },
-    {
-        "title": "Senior Software Engineer, Proactive Security",
-        "company": "Wolt - English",
-        "url": "https://www.arbeitnow.com/jobs/companies/wolt-english/senior-software-engineer-proactive-security-berlin-305358",
-        "loc": "Berlin, Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-11-13 19:06"
-    },
-    {
-        "title": "Lead Data Engineer",
-        "company": "Better Collective A/S",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/better-collective-as/lead-data-engineer-london-122763",
-        "loc": "London, England, United Kingdom",
+        "title": "Senior Analytics Engineer (m/f/d)",
+        "company": "autoscout24",
+        "url": "https://www.arbeitnow.com/jobs/companies/autoscout24/senior-analytics-engineer-76668",
+        "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-11-13 19:06"
+        "timestamp": "2026-11-14 00:36"
+    },
+    {
+        "title": "Data analyst - AML",
+        "company": "SumUp",
+        "url": "https://www.arbeitnow.com/jobs/companies/sumup/data-analyst-aml-berlin-207134",
+        "loc": "Berlin, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-11-14 00:36"
+    },
+    {
+        "title": "Senior Sales Engineer, Enterprise",
+        "company": "Fivetran",
+        "url": "https://www.arbeitnow.com/jobs/companies/fivetran/remote-senior-sales-engineer-enterprise-158139",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 75,
+        "timestamp": "2026-11-14 00:36"
+    },
+    {
+        "title": "Senior Data Engineer",
+        "company": "LiveScore Group ",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/livescore-group/senior-data-engineer-london-81411",
+        "loc": "London, England, United Kingdom",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-11-14 00:36"
+    },
+    {
+        "title": "Data Engineer",
+        "company": "prolific",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-data-engineer-289887",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-11-14 00:36"
+    },
+    {
+        "title": "Senior Full-Stack Product Engineer",
+        "company": "The Flex",
+        "url": "https://www.arbeitnow.fr/jobs/companies/the-flex/senior-full-stack-product-engineer-paris-333562",
+        "loc": "Paris",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-11-14 00:36"
+    },
+    {
+        "title": "Product Engineer",
+        "company": "The Flex",
+        "url": "https://www.arbeitnow.fr/jobs/companies/the-flex/product-engineer-paris-42702",
+        "loc": "Paris",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-11-14 00:36"
+    },
+    {
+        "title": "Senior Software Engineer",
+        "company": "The Flex",
+        "url": "https://www.arbeitnow.fr/jobs/companies/the-flex/senior-software-engineer-paris-276441",
+        "loc": "Paris",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-11-14 00:36"
     },
     {
         "title": "Data Engineer",
@@ -57,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 100,
-        "timestamp": "2026-11-13 19:06"
+        "timestamp": "2026-11-14 00:36"
     },
     {
         "title": "Data Engineer",
@@ -69,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 100,
-        "timestamp": "2026-11-13 19:06"
+        "timestamp": "2026-11-14 00:36"
     },
     {
         "title": "Senior Software & Data Engineering (H/F)",
@@ -81,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-13 19:06"
+        "timestamp": "2026-11-14 00:36"
     },
     {
         "title": "Data Engineer (Databricks, Snowflake)",
@@ -93,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 100,
-        "timestamp": "2026-11-13 19:06"
+        "timestamp": "2026-11-14 00:36"
     },
     {
         "title": "Big Data Engineer",
@@ -105,19 +153,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-13 19:06"
+        "timestamp": "2026-11-14 00:36"
     },
     {
-        "title": "Data Platform Manager",
-        "company": "Destinusgroup",
-        "url": "https://www.arbeitnow.nl/jobs/companies/destinusgroup/data-platform-manager-hengelo-61385",
-        "loc": "Hengelo, Netherlands",
+        "title": "Jr. AI Engineer",
+        "company": "433",
+        "url": "https://www.arbeitnow.nl/jobs/companies/433/jr-ai-engineer-amsterdam-262980",
+        "loc": "Amsterdam , Noord-Holland, Netherlands",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 62,
-        "timestamp": "2026-11-13 19:06"
+        "tejas_score": 61,
+        "timestamp": "2026-11-14 00:36"
     },
     {
         "title": "Senior Data Engineer",
@@ -129,6 +177,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-13 19:06"
+        "timestamp": "2026-11-14 00:36"
     }
 ]
