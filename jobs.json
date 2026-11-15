@@ -1,5 +1,29 @@
 [
     {
+        "title": "Data Platform Engineer (m/f/d)",
+        "company": "Flix",
+        "url": "https://www.arbeitnow.com/jobs/companies/flix/data-platform-engineer-berlin-328247",
+        "loc": "Berlin, Berlin, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 84,
+        "timestamp": "2026-11-15 15:15"
+    },
+    {
+        "title": "Analytics Engineer (m/w/d)",
+        "company": "Octopus Energy Group",
+        "url": "https://www.arbeitnow.com/jobs/companies/octopus-energy-group/analytics-engineer-munich-de-286051",
+        "loc": "Munich (DE)",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-11-15 15:15"
+    },
+    {
         "title": "Senior Data Analyst",
         "company": "Cosuno",
         "url": "https://www.arbeitnow.com/jobs/companies/cosuno/senior-data-analyst-berlin-443903",
@@ -9,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-15 04:32"
+        "timestamp": "2026-11-15 15:15"
     },
     {
         "title": "Senior Data Engineer & Consultant (all genders) \u2013 Microsoft Fabric",
@@ -21,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-11-15 04:32"
+        "timestamp": "2026-11-15 15:15"
     },
     {
         "title": "AI Platform Engineer",
@@ -33,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-11-15 04:32"
+        "timestamp": "2026-11-15 15:15"
     },
     {
         "title": "Software Engineer, Data",
@@ -45,79 +69,67 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-11-15 04:32"
+        "timestamp": "2026-11-15 15:15"
     },
     {
-        "title": "Site Reliability Engineer",
-        "company": "sonyinteractiveentertainmentglobal",
-        "url": "https://www.arbeitnow.com/jobs/companies/sonyinteractiveentertainmentglobal/site-reliability-engineer-berlin-246625",
-        "loc": "Berlin",
+        "title": "Senior Data Engineer | Emerging Products",
+        "company": "Ninjaone",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/ninjaone/senior-data-engineer-emerging-products-australia-408411",
+        "loc": "Australia",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 92,
+        "timestamp": "2026-11-15 15:15"
+    },
+    {
+        "title": "AVP, Data, Analytics & AI Engineering",
+        "company": "Anaplan",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/avp-data-analytics-ai-engineering-york-181778",
+        "loc": "York",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-11-15 15:15"
+    },
+    {
+        "title": "AVP, Data, Analytics & AI Engineering",
+        "company": "Anaplan",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/avp-data-analytics-ai-engineering-manchester-294124",
+        "loc": "Manchester",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-11-15 15:15"
+    },
+    {
+        "title": "Advisory Data Architect",
+        "company": "Unity Advisory",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/unity-advisory/advisory-data-architect-london-16290",
+        "loc": "London, Mayfair",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 75,
+        "timestamp": "2026-11-15 15:15"
+    },
+    {
+        "title": "Senior Analytics Engineer/BI Analyst (Collections & Recoveries)",
+        "company": "Zopa",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/zopa/senior-analytics-engineer-bi-analyst-collections-recoveries-london-364898",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-15 04:32"
-    },
-    {
-        "title": "Senior Service Reliability Engineer",
-        "company": "sonyinteractiveentertainmentglobal",
-        "url": "https://www.arbeitnow.com/jobs/companies/sonyinteractiveentertainmentglobal/senior-service-reliability-engineer-berlin-131078",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-15 04:32"
-    },
-    {
-        "title": "DevOps Engineer | Luma",
-        "company": "Dotmatics",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/dotmatics/devops-engineer-luma-7076",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 69,
-        "timestamp": "2026-11-15 04:32"
-    },
-    {
-        "title": "AI Platform Engineer",
-        "company": "Jobgether",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/ai-platform-engineer-uk-151559",
-        "loc": "UK",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-11-15 04:32"
-    },
-    {
-        "title": "Senior Data Engineer",
-        "company": "Kpler",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/senior-data-engineer-united-kingdom-384605",
-        "loc": "United Kingdom",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-11-15 04:32"
-    },
-    {
-        "title": "Senior Backend Engineer - Cruise",
-        "company": "Kpler",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/senior-backend-engineer-cruise-united-kingdom-253482",
-        "loc": "United Kingdom",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-15 04:32"
+        "timestamp": "2026-11-15 15:15"
     },
     {
         "title": "AI Platform Engineer",
@@ -129,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-11-15 04:32"
+        "timestamp": "2026-11-15 15:15"
     },
     {
         "title": "ML Engineer - Power",
@@ -141,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-11-15 04:32"
+        "timestamp": "2026-11-15 15:15"
     },
     {
         "title": "Big Data Engineer",
@@ -153,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 100,
-        "timestamp": "2026-11-15 04:32"
+        "timestamp": "2026-11-15 15:15"
     },
     {
         "title": "AI Platform Engineer",
@@ -165,7 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-11-15 04:32"
+        "timestamp": "2026-11-15 15:15"
     },
     {
         "title": "Data Platform Manager",
@@ -177,7 +189,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 62,
-        "timestamp": "2026-11-15 04:32"
+        "timestamp": "2026-11-15 15:15"
     },
     {
         "title": "Senior Data Architect / Senior Data Engineer \u2013 Azure Databricks",
@@ -189,7 +201,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 100,
-        "timestamp": "2026-11-15 04:32"
+        "timestamp": "2026-11-15 15:15"
     },
     {
         "title": "AI Platform Engineer",
@@ -201,7 +213,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-11-15 04:32"
+        "timestamp": "2026-11-15 15:15"
     },
     {
         "title": "Sr. Engineering Manager - Developer Ecosystem",
@@ -213,7 +225,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-11-15 04:32"
+        "timestamp": "2026-11-15 15:15"
     },
     {
         "title": "Engineering Manager - Developer Ecosystem",
@@ -225,7 +237,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-11-15 04:32"
+        "timestamp": "2026-11-15 15:15"
     },
     {
         "title": "Senior Data & Analytics Engineer",
@@ -237,7 +249,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 92,
-        "timestamp": "2026-11-15 04:32"
+        "timestamp": "2026-11-15 15:15"
     },
     {
         "title": "Data Platform Engineer",
@@ -249,7 +261,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-11-15 04:32"
+        "timestamp": "2026-11-15 15:15"
     },
     {
         "title": "Jr. AI Engineer",
@@ -261,7 +273,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-15 04:32"
+        "timestamp": "2026-11-15 15:15"
     },
     {
         "title": "Senior Data Engineer",
@@ -273,6 +285,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-15 04:32"
+        "timestamp": "2026-11-15 15:15"
     }
 ]
