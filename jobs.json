@@ -1,39 +1,39 @@
 [
     {
-        "title": "Analytics Engineer - Power Trading",
-        "company": "Ostrom",
-        "url": "https://www.arbeitnow.com/jobs/companies/ostrom/analytics-engineer-power-trading-berlin-243378",
-        "loc": "Berlin / Remote",
+        "title": "Talent Pool: Data Engineer (m/f/d)",
+        "company": "Roompricegenie",
+        "url": "https://www.arbeitnow.com/jobs/companies/roompricegenie/remote-talent-pool-data-engineer-452856",
+        "loc": "Remote Germany",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-11-17 02:44"
+        "tejas_score": 91,
+        "timestamp": "2026-11-17 12:42"
     },
     {
-        "title": "LLM Engineer \u2014 Post-Training (Remote - Germany)",
-        "company": "EverAI",
-        "url": "https://www.arbeitnow.com/jobs/companies/everai/llm-engineer-post-training-remote-germany-336396",
-        "loc": "Germany",
+        "title": "Remote Senior Fullstack Engineer (m/f/d)",
+        "company": "Roompricegenie",
+        "url": "https://www.arbeitnow.com/jobs/companies/roompricegenie/remote-senior-fullstack-engineer-341397",
+        "loc": "Remote Germany",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 50,
-        "timestamp": "2026-11-17 02:44"
+        "tejas_score": 53,
+        "timestamp": "2026-11-17 12:42"
     },
     {
-        "title": "Senior Backend Engineer (Python)",
-        "company": "Zattoo",
-        "url": "https://www.arbeitnow.com/jobs/companies/zattoo/senior-backend-engineer-python-berlin-berlin-476285",
-        "loc": "Berlin, Berlin",
+        "title": "Data Engineer",
+        "company": "Fanduel",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/fanduel/data-engineer-edinburgh-404550",
+        "loc": "Edinburgh",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 50,
-        "timestamp": "2026-11-17 02:44"
+        "tejas_score": 91,
+        "timestamp": "2026-11-17 12:42"
     },
     {
         "title": "Senior Site Reliability Engineer (Database Focus)",
@@ -45,55 +45,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-11-17 02:44"
+        "timestamp": "2026-11-17 12:42"
     },
     {
-        "title": "Senior ML Ops Engineer (Experiences)",
-        "company": "tripadvisor",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/tripadvisor/senior-ml-ops-engineer-experiences-10322",
-        "loc": "Remote",
+        "title": "Data Engineer",
+        "company": "mirakllabs",
+        "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/data-engineer-bordeaux-35606",
+        "loc": "Bordeaux",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 62,
-        "timestamp": "2026-11-17 02:44"
-    },
-    {
-        "title": "Security Engineer - Product",
-        "company": "wizinc",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/wizinc/security-engineer-product-london-445399",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-11-17 02:44"
-    },
-    {
-        "title": "Sr. Escalation Engineer",
-        "company": "Illumio",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/illumio/sr-escalation-engineer-reading-berkshire-13602",
-        "loc": "Reading, United Kingdom",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-17 02:44"
-    },
-    {
-        "title": "Junior Software Developer",
-        "company": "TransPerfect",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/junior-software-developer-london-13082",
-        "loc": "London, Greater London, United Kingdom",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-17 02:44"
+        "tejas_score": 100,
+        "timestamp": "2026-11-17 12:42"
     },
     {
         "title": "Security Engineer - Product",
@@ -105,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-11-17 02:44"
+        "timestamp": "2026-11-17 12:42"
     },
     {
         "title": "LLM Engineer \u2014 Post-Training (Remote - France)",
@@ -117,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-11-17 02:44"
+        "timestamp": "2026-11-17 12:42"
     },
     {
         "title": "Senior .NET / SQL Developer \u2013 C#, SSIS &#38; SSRS",
@@ -129,7 +93,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-11-17 02:44"
+        "timestamp": "2026-11-17 12:42"
+    },
+    {
+        "title": "Senior Data Engineer, Training Data Platform",
+        "company": "Prosus",
+        "url": "https://www.arbeitnow.nl/jobs/companies/prosus/senior-data-engineer-training-data-platform-amsterdam-139374",
+        "loc": "Amsterdam",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-11-17 12:42"
     },
     {
         "title": "Security Engineer - Product",
@@ -141,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-11-17 02:44"
+        "timestamp": "2026-11-17 12:42"
     },
     {
         "title": "LLM Engineer \u2014 Post-Training (Remote - Netherlands)",
@@ -153,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-11-17 02:44"
+        "timestamp": "2026-11-17 12:42"
     },
     {
         "title": "AI Platform Engineer",
@@ -165,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-11-17 02:44"
+        "timestamp": "2026-11-17 12:42"
     },
     {
         "title": "Sr. Engineering Manager - Developer Ecosystem",
@@ -177,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-11-17 02:44"
+        "timestamp": "2026-11-17 12:42"
     },
     {
         "title": "Engineering Manager - Developer Ecosystem",
@@ -189,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-11-17 02:44"
+        "timestamp": "2026-11-17 12:42"
     },
     {
         "title": "Senior Data & Analytics Engineer",
@@ -201,19 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 92,
-        "timestamp": "2026-11-17 02:44"
-    },
-    {
-        "title": "Data Platform Engineer",
-        "company": "Clickhouse",
-        "url": "https://www.arbeitnow.nl/jobs/companies/clickhouse/data-platform-engineer-amsterdam-124619",
-        "loc": "The Netherlands",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-11-17 02:44"
+        "timestamp": "2026-11-17 12:42"
     },
     {
         "title": "Senior Data Engineer",
@@ -225,6 +189,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-17 02:44"
+        "timestamp": "2026-11-17 12:42"
     }
 ]
