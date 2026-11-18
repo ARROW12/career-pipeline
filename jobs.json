@@ -1,5 +1,41 @@
 [
     {
+        "title": "Intern AI & Data Transformation",
+        "company": "isaraerospace",
+        "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/intern-ai-data-transformation-parsdorf-bavaria-95195",
+        "loc": "Parsdorf, Bavaria",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-11-18 05:41"
+    },
+    {
+        "title": "Solutions Architect",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.com/jobs/companies/databricks/solutions-architect-munich-66216",
+        "loc": "Munich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 60,
+        "timestamp": "2026-11-18 05:41"
+    },
+    {
+        "title": "Backend Engineer - Team Optimize",
+        "company": "Taktile",
+        "url": "https://www.arbeitnow.com/jobs/companies/taktile/backend-engineer-team-optimize-berlin-429660",
+        "loc": "Berlin Office",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-11-18 05:41"
+    },
+    {
         "title": "Senior Mechanical Engineer - Drone Port (m/f/d)",
         "company": "Quantum-Systems GmbH",
         "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-mechanical-engineer-drone-port-gilching-358088",
@@ -9,67 +45,115 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-11-17 23:17"
+        "timestamp": "2026-11-18 05:41"
     },
     {
-        "title": "Data Science & Solutions Consultant (m/w/d)",
-        "company": "twomynds",
-        "url": "https://www.arbeitnow.com/jobs/companies/twomynds/data-science-solutions-consultant-cologne-255129",
-        "loc": "Cologne",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-11-17 23:17"
-    },
-    {
-        "title": "Senior / Staff ML Engineer (Routing & Optimisation)",
-        "company": "Hived",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/hived/senior-staff-ml-engineer-routing-optimisation-london-487899",
-        "loc": "London HQ",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-17 23:17"
-    },
-    {
-        "title": "Senior Engineer II - EngEx AI Engineer",
-        "company": "Kaluza",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/senior-engineer-ii-engex-ai-engineer-london-192749",
-        "loc": "London, UK",
+        "title": "Reporting & Data Analyst (6-Month FTC)",
+        "company": "Form3",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/form3/reporting-data-analyst-6-month-ftc-143600",
+        "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-11-17 23:17"
+        "timestamp": "2026-11-18 05:41"
     },
     {
-        "title": "Analytics Engineer",
-        "company": "Kaluza",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/analytics-engineer-london-346823",
+        "title": "Solutions Architect - Travel, Transport, Hospitality & Logistics",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/solutions-architect-travel-transport-hospitality-logistics-london-33467",
         "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-17 23:17"
+        "tejas_score": 75,
+        "timestamp": "2026-11-18 05:41"
     },
     {
-        "title": "Senior Engineer I - EngEx AI Engineer",
-        "company": "Kaluza",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/senior-engineer-i-engex-ai-engineer-london-290759",
-        "loc": "London, UK",
+        "title": "Senior Solutions Architect - Retail / CPG x3 new roles",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-solutions-architect-retail-cpg-x3-new-roles-london-189855",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-17 23:17"
+        "tejas_score": 91,
+        "timestamp": "2026-11-18 05:41"
+    },
+    {
+        "title": "Senior Software Engineer",
+        "company": "Quantexa",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/quantexa/senior-software-engineer-london-244970",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-11-18 05:41"
+    },
+    {
+        "title": "AI Platform Engineer",
+        "company": "Harmonic Security Inc",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/harmonic-security-inc/ai-platform-engineer-london-341887",
+        "loc": "London, England - Hybrid",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-11-18 05:41"
+    },
+    {
+        "title": "Senior Data Scientist",
+        "company": "Chainalysis",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/chainalysis/senior-data-scientist-london-125943",
+        "loc": "London Office",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 99,
+        "timestamp": "2026-11-18 05:41"
+    },
+    {
+        "title": "Delivery Solutions Architect",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.fr/jobs/companies/databricks/delivery-solutions-architect-paris-452174",
+        "loc": "Paris",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 60,
+        "timestamp": "2026-11-18 05:41"
+    },
+    {
+        "title": "Head of Data - BeReal",
+        "company": "BeReal",
+        "url": "https://www.arbeitnow.fr/jobs/companies/bereal/head-of-data-bereal-paris-374332",
+        "loc": "Paris",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-11-18 05:41"
+    },
+    {
+        "title": "Senior Data Scientist",
+        "company": "Orakl Oncology",
+        "url": "https://www.arbeitnow.fr/jobs/companies/orakl-oncology/senior-data-scientist-villejuif-184113",
+        "loc": "Villejuif",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-11-18 05:41"
     },
     {
         "title": "Senior Data Scientist - Demand Forecast (f/m/d)",
@@ -81,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-11-17 23:17"
+        "timestamp": "2026-11-18 05:41"
     },
     {
         "title": "Senior Data Scientist - Demand Forecast (f/m/d)",
@@ -93,55 +177,43 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-11-17 23:17"
+        "timestamp": "2026-11-18 05:41"
     },
     {
-        "title": "Senior BI & Analytics Engineer - Circularity",
-        "company": "Decathlontechnology",
-        "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/senior-bi-analytics-engineer-circularity-paris-paris-villeneuve-dascq-nord-157451",
-        "loc": "Paris, Paris; Villeneuve-d'Ascq, Nord",
+        "title": "Staff Security Engineer, Incident Response",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.ch/jobs/companies/databricks/staff-security-engineer-incident-response-430914",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-11-18 05:41"
+    },
+    {
+        "title": "Sr. Forward Deployed Engineer - FDE (Fullstack)",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.ch/jobs/companies/databricks/sr-forward-deployed-engineer-fde-fullstack-zurich-425880",
+        "loc": "Z\u00fcrich",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-11-17 23:17"
+        "timestamp": "2026-11-18 05:41"
     },
     {
-        "title": "Full Stack Analytics - Digital Unit Sports (f/m/d)",
-        "company": "Decathlontechnology",
-        "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/full-stack-analytics-digital-unit-sports-lille-btwin-village-nord-397822",
-        "loc": "Lille - Btwin Village, Nord",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 99,
-        "timestamp": "2026-11-17 23:17"
-    },
-    {
-        "title": "Data Product Manager - Finance FP&A (f/m/d)",
-        "company": "Decathlontechnology",
-        "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/data-product-manager-finance-fpa-lille-jardin-des-plantes-nord-paris-paris-202506",
-        "loc": "Lille - Jardin des Plantes, Nord; Paris, Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 99,
-        "timestamp": "2026-11-17 23:17"
-    },
-    {
-        "title": "Principal Enterprise Architect",
-        "company": "celonis",
-        "url": "https://www.arbeitnow.ch/jobs/companies/celonis/principal-enterprise-architect-zurich-43930",
+        "title": "Solutions Architect - CPG and Manufacturing",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.ch/jobs/companies/databricks/solutions-architect-cpg-and-manufacturing-zurich-251157",
         "loc": "Z\u00fcrich",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-17 23:17"
+        "timestamp": "2026-11-18 05:41"
     },
     {
         "title": "Data Analyst (EN)",
@@ -153,7 +225,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-17 23:17"
+        "timestamp": "2026-11-18 05:41"
     },
     {
         "title": "Data Analist (NL)",
@@ -165,7 +237,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-17 23:17"
+        "timestamp": "2026-11-18 05:41"
     },
     {
         "title": "Senior Data Engineer",
@@ -177,6 +249,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-17 23:17"
+        "timestamp": "2026-11-18 05:41"
     }
 ]
