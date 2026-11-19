@@ -1,27 +1,111 @@
 [
     {
-        "title": "Data Engineer (m/f/d)",
-        "company": "Superchat",
-        "url": "https://www.arbeitnow.com/jobs/companies/superchat/data-engineer-berlin-308621",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 84,
-        "timestamp": "2026-11-18 16:53"
-    },
-    {
-        "title": "Software Engineer II, Backend",
-        "company": "Affirm",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/affirm/software-engineer-ii-backend-77921",
+        "title": "Partner Solutions Architect - MSP",
+        "company": "wizinc",
+        "url": "https://www.arbeitnow.com/jobs/companies/wizinc/partner-solutions-architect-msp-201928",
         "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-11-19 01:38"
+    },
+    {
+        "title": "Working Student AI Engineer \u2013 LLMs, RAG & AI Agents",
+        "company": "AgentixLake GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-ai-engineer-llms-rag-ai-agents-berlin-402834",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 50,
+        "timestamp": "2026-11-19 01:38"
+    },
+    {
+        "title": "Working Student Data Engineer \u2013 Python, SQL & Cloud Platforms",
+        "company": "AgentixLake GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-data-engineer-python-sql-cloud-platforms-berlin-454463",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 100,
+        "timestamp": "2026-11-19 01:38"
+    },
+    {
+        "title": "Working Student AI Solutions Architect \u2013 Generative AI & Data Platforms",
+        "company": "AgentixLake GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-ai-solutions-architect-generative-ai-data-platforms-berlin-292864",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-11-19 01:38"
+    },
+    {
+        "title": "DevOps Engineer",
+        "company": "Pharomanagement",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/pharomanagement/devops-engineer-london-111820",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-11-19 01:38"
+    },
+    {
+        "title": "Associate, Finance Analytics",
+        "company": "Checkout.com",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/associate-finance-analytics-london-42744",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-18 16:53"
+        "timestamp": "2026-11-19 01:38"
+    },
+    {
+        "title": "Senior Backend Engineer",
+        "company": "Plentific",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/plentific/senior-backend-engineer-london-462913",
+        "loc": "London Office",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-11-19 01:38"
+    },
+    {
+        "title": "Analytics Engineer",
+        "company": "Legal Counsel - 12 month FTC at Rightmove Greenhouse",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/legal-counsel-12-month-ftc-at-rightmove-greenhouse/analytics-engineer-london-188869",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-11-19 01:38"
+    },
+    {
+        "title": "Experienced Analytics Engineer - Customer Experience",
+        "company": "Backmarket",
+        "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/experienced-analytics-engineer-customer-experience-bordeaux-448932",
+        "loc": "Bordeaux",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-11-19 01:38"
     },
     {
         "title": "EXPLORE - Ing\u00e9nieur DATA s\u00e9nior / Senior DATA Engineer (H/F) - CDI",
@@ -33,55 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-11-18 16:53"
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Alan",
-        "url": "https://www.arbeitnow.fr/jobs/companies/alan/data-engineer-paris-france-145398",
-        "loc": "Paris, France",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-11-18 16:53"
-    },
-    {
-        "title": "Data Engineer AWS - Recrutement international (Montr\u00e9al)",
-        "company": "agileDSS",
-        "url": "https://www.arbeitnow.fr/jobs/companies/agiledss/data-engineer-aws-recrutement-international-montreal-france-451354",
-        "loc": "France, \u00cele-de-France, France",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 100,
-        "timestamp": "2026-11-18 16:53"
-    },
-    {
-        "title": "Data Engineer Databricks (Azure) - Recrutement international (Montr\u00e9al)",
-        "company": "agileDSS",
-        "url": "https://www.arbeitnow.fr/jobs/companies/agiledss/data-engineer-databricks-azure-recrutement-international-montreal-france-67412",
-        "loc": "France, \u00cele-de-France, France",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 82,
-        "timestamp": "2026-11-18 16:53"
-    },
-    {
-        "title": "Delivery Solutions Architect",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.fr/jobs/companies/databricks/delivery-solutions-architect-paris-452174",
-        "loc": "Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 60,
-        "timestamp": "2026-11-18 16:53"
+        "timestamp": "2026-11-19 01:38"
     },
     {
         "title": "Staff Security Engineer, Incident Response",
@@ -93,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-11-18 16:53"
+        "timestamp": "2026-11-19 01:38"
     },
     {
         "title": "Sr. Forward Deployed Engineer - FDE (Fullstack)",
@@ -105,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-11-18 16:53"
+        "timestamp": "2026-11-19 01:38"
     },
     {
         "title": "Solutions Architect - CPG and Manufacturing",
@@ -117,19 +153,79 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-18 16:53"
+        "timestamp": "2026-11-19 01:38"
     },
     {
-        "title": "Fullstack DevOps Engineer (Trust and Identity)",
-        "company": "Swisscom",
-        "url": "https://www.arbeitnow.nl/jobs/companies/swisscom/fullstack-devops-engineer-trust-and-identity-rotterdam-10345",
-        "loc": "Rotterdam, Zuid-Holland, Netherlands",
+        "title": "Data Engineer",
+        "company": "Studytube",
+        "url": "https://www.arbeitnow.nl/jobs/companies/studytube/data-engineer-amsterdam-351444",
+        "loc": "Amsterdam, Noord-Holland, Nederland",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 54,
-        "timestamp": "2026-11-18 16:53"
+        "tejas_score": 76,
+        "timestamp": "2026-11-19 01:38"
+    },
+    {
+        "title": "Analytics Engineer \u2013 Client Reporting",
+        "company": "Studytube",
+        "url": "https://www.arbeitnow.nl/jobs/companies/studytube/analytics-engineer-client-reporting-amsterdam-263892",
+        "loc": "Amsterdam, Noord-Holland, Nederland",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 90,
+        "timestamp": "2026-11-19 01:38"
+    },
+    {
+        "title": "Data Platform Lead",
+        "company": "Studytube",
+        "url": "https://www.arbeitnow.nl/jobs/companies/studytube/data-platform-lead-amsterdam-483011",
+        "loc": "Amsterdam, Noord-Holland, Nederland",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 91,
+        "timestamp": "2026-11-19 01:38"
+    },
+    {
+        "title": "Senior Fullstack Developer",
+        "company": "DPG Media",
+        "url": "https://www.arbeitnow.nl/jobs/companies/dpg-media/senior-fullstack-developer-hilversum-272619",
+        "loc": "Hilversum, Noord-Holland, Nederland",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 83,
+        "timestamp": "2026-11-19 01:38"
+    },
+    {
+        "title": "Senior Data Engineer",
+        "company": "LINKIT B.V.",
+        "url": "https://www.arbeitnow.nl/jobs/companies/linkit-bv/senior-data-engineer-de-meern-448217",
+        "loc": "De Meern, Utrecht, Nederland",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 99,
+        "timestamp": "2026-11-19 01:38"
+    },
+    {
+        "title": "Data Engineer",
+        "company": "LINKIT B.V.",
+        "url": "https://www.arbeitnow.nl/jobs/companies/linkit-bv/data-engineer-de-meern-35730",
+        "loc": "De Meern, Utrecht, Nederland",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 99,
+        "timestamp": "2026-11-19 01:38"
     },
     {
         "title": "Senior Data Engineer",
@@ -141,6 +237,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-18 16:53"
+        "timestamp": "2026-11-19 01:38"
     }
 ]
