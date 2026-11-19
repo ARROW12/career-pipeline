@@ -1,123 +1,63 @@
 [
     {
-        "title": "Partner Solutions Architect - MSP",
-        "company": "wizinc",
-        "url": "https://www.arbeitnow.com/jobs/companies/wizinc/partner-solutions-architect-msp-201928",
+        "title": "Senior Software Engineer - Go SDK - Language Clients",
+        "company": "Clickhouse",
+        "url": "https://www.arbeitnow.com/jobs/companies/clickhouse/senior-software-engineer-go-sdk-language-clients-berlin-312697",
+        "loc": "Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-11-19 12:25"
+    },
+    {
+        "title": "Software Engineer - Red Team",
+        "company": "Aisi",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/aisi/software-engineer-red-team-london-303809",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-11-19 12:25"
+    },
+    {
+        "title": "Senior Data Engineer",
+        "company": "Distrokid",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/distrokid/senior-data-engineer-28215",
         "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-11-19 01:38"
+        "tejas_score": 99,
+        "timestamp": "2026-11-19 12:25"
     },
     {
-        "title": "Working Student AI Engineer \u2013 LLMs, RAG & AI Agents",
-        "company": "AgentixLake GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-ai-engineer-llms-rag-ai-agents-berlin-402834",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 50,
-        "timestamp": "2026-11-19 01:38"
-    },
-    {
-        "title": "Working Student Data Engineer \u2013 Python, SQL & Cloud Platforms",
-        "company": "AgentixLake GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-data-engineer-python-sql-cloud-platforms-berlin-454463",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 100,
-        "timestamp": "2026-11-19 01:38"
-    },
-    {
-        "title": "Working Student AI Solutions Architect \u2013 Generative AI & Data Platforms",
-        "company": "AgentixLake GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-ai-solutions-architect-generative-ai-data-platforms-berlin-292864",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-11-19 01:38"
-    },
-    {
-        "title": "DevOps Engineer",
-        "company": "Pharomanagement",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/pharomanagement/devops-engineer-london-111820",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-19 01:38"
-    },
-    {
-        "title": "Associate, Finance Analytics",
-        "company": "Checkout.com",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/associate-finance-analytics-london-42744",
+        "title": "Developer Experience Engineer - AI SDLC",
+        "company": "Sparta Commodities",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/sparta-commodities/developer-experience-engineer-ai-sdlc-london-398269",
         "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-19 01:38"
+        "timestamp": "2026-11-19 12:25"
     },
     {
-        "title": "Senior Backend Engineer",
-        "company": "Plentific",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/plentific/senior-backend-engineer-london-462913",
-        "loc": "London Office",
+        "title": "Senior Solutions Architect",
+        "company": "mongodb",
+        "url": "https://www.arbeitnow.ch/jobs/companies/mongodb/senior-solutions-architect-324648",
+        "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-19 01:38"
-    },
-    {
-        "title": "Analytics Engineer",
-        "company": "Legal Counsel - 12 month FTC at Rightmove Greenhouse",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/legal-counsel-12-month-ftc-at-rightmove-greenhouse/analytics-engineer-london-188869",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-19 01:38"
-    },
-    {
-        "title": "Experienced Analytics Engineer - Customer Experience",
-        "company": "Backmarket",
-        "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/experienced-analytics-engineer-customer-experience-bordeaux-448932",
-        "loc": "Bordeaux",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-19 01:38"
-    },
-    {
-        "title": "EXPLORE - Ing\u00e9nieur DATA s\u00e9nior / Senior DATA Engineer (H/F) - CDI",
-        "company": "INTESCIA GROUP",
-        "url": "https://www.arbeitnow.fr/jobs/companies/intescia-group/explore-ingenieur-data-senior-senior-data-engineer-h-f-cdi-carquefou-240177",
-        "loc": "CARQUEFOU, Pays de la Loire, France",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 84,
-        "timestamp": "2026-11-19 01:38"
+        "timestamp": "2026-11-19 12:25"
     },
     {
         "title": "Staff Security Engineer, Incident Response",
@@ -129,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-11-19 01:38"
+        "timestamp": "2026-11-19 12:25"
     },
     {
         "title": "Sr. Forward Deployed Engineer - FDE (Fullstack)",
@@ -141,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-11-19 01:38"
+        "timestamp": "2026-11-19 12:25"
     },
     {
         "title": "Solutions Architect - CPG and Manufacturing",
@@ -153,7 +93,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-19 01:38"
+        "timestamp": "2026-11-19 12:25"
+    },
+    {
+        "title": "AI Engineer / LLM Engineer",
+        "company": "Squid Support",
+        "url": "https://www.arbeitnow.nl/jobs/companies/squid-support/ai-engineer-llm-engineer-nieuwegein-470918",
+        "loc": "Nieuwegein",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 50,
+        "timestamp": "2026-11-19 12:25"
+    },
+    {
+        "title": "Full-stack Developer (TypeScript / Python)",
+        "company": "Squid Support",
+        "url": "https://www.arbeitnow.nl/jobs/companies/squid-support/full-stack-developer-typescript-python-nieuwegein-364125",
+        "loc": "Nieuwegein",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 58,
+        "timestamp": "2026-11-19 12:25"
     },
     {
         "title": "Data Engineer",
@@ -165,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-11-19 01:38"
+        "timestamp": "2026-11-19 12:25"
     },
     {
         "title": "Analytics Engineer \u2013 Client Reporting",
@@ -177,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 90,
-        "timestamp": "2026-11-19 01:38"
+        "timestamp": "2026-11-19 12:25"
     },
     {
         "title": "Data Platform Lead",
@@ -189,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-11-19 01:38"
+        "timestamp": "2026-11-19 12:25"
     },
     {
         "title": "Senior Fullstack Developer",
@@ -201,31 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 83,
-        "timestamp": "2026-11-19 01:38"
-    },
-    {
-        "title": "Senior Data Engineer",
-        "company": "LINKIT B.V.",
-        "url": "https://www.arbeitnow.nl/jobs/companies/linkit-bv/senior-data-engineer-de-meern-448217",
-        "loc": "De Meern, Utrecht, Nederland",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 99,
-        "timestamp": "2026-11-19 01:38"
-    },
-    {
-        "title": "Data Engineer",
-        "company": "LINKIT B.V.",
-        "url": "https://www.arbeitnow.nl/jobs/companies/linkit-bv/data-engineer-de-meern-35730",
-        "loc": "De Meern, Utrecht, Nederland",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 99,
-        "timestamp": "2026-11-19 01:38"
+        "timestamp": "2026-11-19 12:25"
     },
     {
         "title": "Senior Data Engineer",
@@ -237,6 +177,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-19 01:38"
+        "timestamp": "2026-11-19 12:25"
     }
 ]
