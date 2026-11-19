@@ -1,51 +1,87 @@
 [
     {
-        "title": "Senior Software Engineer - Go SDK - Language Clients",
-        "company": "Clickhouse",
-        "url": "https://www.arbeitnow.com/jobs/companies/clickhouse/senior-software-engineer-go-sdk-language-clients-berlin-312697",
-        "loc": "Germany",
+        "title": "Principal Enterprise Architect - AI & SAP Integrations",
+        "company": "celonis",
+        "url": "https://www.arbeitnow.com/jobs/companies/celonis/principal-enterprise-architect-ai-sap-integrations-munich-213640",
+        "loc": "Munich",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-19 12:25"
+        "timestamp": "2026-11-19 22:52"
     },
     {
-        "title": "Software Engineer - Red Team",
-        "company": "Aisi",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/aisi/software-engineer-red-team-london-303809",
-        "loc": "London",
+        "title": "Principal Software Engineer (f/m/d)",
+        "company": "Awin",
+        "url": "https://www.arbeitnow.com/jobs/companies/awin/principal-software-engineer-berlin-berlin-hannover-lower-saxony-munchen-bavaria-125864",
+        "loc": "Berlin, Berlin; Hannover, Lower Saxony; M\u00fcnchen, Bavaria",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-11-19 12:25"
+        "tejas_score": 61,
+        "timestamp": "2026-11-19 22:52"
     },
     {
-        "title": "Senior Data Engineer",
-        "company": "Distrokid",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/distrokid/senior-data-engineer-28215",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 99,
-        "timestamp": "2026-11-19 12:25"
-    },
-    {
-        "title": "Developer Experience Engineer - AI SDLC",
-        "company": "Sparta Commodities",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/sparta-commodities/developer-experience-engineer-ai-sdlc-london-398269",
+        "title": "Member of Technical Staff, Intelligence",
+        "company": "Ai Bio",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/ai-bio/member-of-technical-staff-intelligence-london-410458",
         "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-19 12:25"
+        "timestamp": "2026-11-19 22:52"
+    },
+    {
+        "title": "Product Engineer",
+        "company": "Vega",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/vega/product-engineer-london-184312",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-11-19 22:52"
+    },
+    {
+        "title": "Experienced Data Engineer (squad Th\u00e9mis)",
+        "company": "Doctrine",
+        "url": "https://www.arbeitnow.fr/jobs/companies/doctrine/experienced-data-engineer-squad-themis-paris-395505",
+        "loc": "Paris",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-11-19 22:52"
+    },
+    {
+        "title": "Principal Software Engineer (f/m/d)",
+        "company": "Awin",
+        "url": "https://www.arbeitnow.fr/jobs/companies/awin/principal-software-engineer-paris-paris-301901",
+        "loc": "Paris, Paris",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-11-19 22:52"
+    },
+    {
+        "title": "Junior AI Engineer",
+        "company": "Lemrock",
+        "url": "https://www.arbeitnow.fr/jobs/companies/lemrock/junior-ai-engineer-paris-499194",
+        "loc": "Paris",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-11-19 22:52"
     },
     {
         "title": "Senior Solutions Architect",
@@ -57,43 +93,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-19 12:25"
+        "timestamp": "2026-11-19 22:52"
     },
     {
-        "title": "Staff Security Engineer, Incident Response",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.ch/jobs/companies/databricks/staff-security-engineer-incident-response-430914",
-        "loc": "Remote",
+        "title": "Principal Software Engineer (f/m/d)",
+        "company": "Awin",
+        "url": "https://www.arbeitnow.nl/jobs/companies/awin/principal-software-engineer-amsterdam-192420",
+        "loc": "Amsterdam",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-19 12:25"
-    },
-    {
-        "title": "Sr. Forward Deployed Engineer - FDE (Fullstack)",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.ch/jobs/companies/databricks/sr-forward-deployed-engineer-fde-fullstack-zurich-425880",
-        "loc": "Z\u00fcrich",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-11-19 12:25"
-    },
-    {
-        "title": "Solutions Architect - CPG and Manufacturing",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.ch/jobs/companies/databricks/solutions-architect-cpg-and-manufacturing-zurich-251157",
-        "loc": "Z\u00fcrich",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-19 12:25"
+        "tejas_score": 61,
+        "timestamp": "2026-11-19 22:52"
     },
     {
         "title": "AI Engineer / LLM Engineer",
@@ -105,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-11-19 12:25"
+        "timestamp": "2026-11-19 22:52"
     },
     {
         "title": "Full-stack Developer (TypeScript / Python)",
@@ -117,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 58,
-        "timestamp": "2026-11-19 12:25"
+        "timestamp": "2026-11-19 22:52"
     },
     {
         "title": "Data Engineer",
@@ -129,43 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-11-19 12:25"
-    },
-    {
-        "title": "Analytics Engineer \u2013 Client Reporting",
-        "company": "Studytube",
-        "url": "https://www.arbeitnow.nl/jobs/companies/studytube/analytics-engineer-client-reporting-amsterdam-263892",
-        "loc": "Amsterdam, Noord-Holland, Nederland",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 90,
-        "timestamp": "2026-11-19 12:25"
-    },
-    {
-        "title": "Data Platform Lead",
-        "company": "Studytube",
-        "url": "https://www.arbeitnow.nl/jobs/companies/studytube/data-platform-lead-amsterdam-483011",
-        "loc": "Amsterdam, Noord-Holland, Nederland",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 91,
-        "timestamp": "2026-11-19 12:25"
-    },
-    {
-        "title": "Senior Fullstack Developer",
-        "company": "DPG Media",
-        "url": "https://www.arbeitnow.nl/jobs/companies/dpg-media/senior-fullstack-developer-hilversum-272619",
-        "loc": "Hilversum, Noord-Holland, Nederland",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 83,
-        "timestamp": "2026-11-19 12:25"
+        "timestamp": "2026-11-19 22:52"
     },
     {
         "title": "Senior Data Engineer",
@@ -177,6 +153,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-19 12:25"
+        "timestamp": "2026-11-19 22:52"
     }
 ]
