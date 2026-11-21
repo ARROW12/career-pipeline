@@ -1,183 +1,27 @@
 [
     {
-        "title": "AI Solution Architect (m/w/d)",
-        "company": "virtual7 GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-185313",
-        "loc": "Homeoffice",
+        "title": "Forward Deployed AI Engineer",
+        "company": "gravity9",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/gravity9/remote-forward-deployed-ai-engineer-birmingham-377104",
+        "loc": "Remote job",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 100,
+        "timestamp": "2026-11-21 01:01"
+    },
+    {
+        "title": "Partner Solutions Architect - MSP",
+        "company": "wizinc",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/wizinc/partner-solutions-architect-msp-306841",
+        "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-20 16:37"
-    },
-    {
-        "title": "(Junior) Inhouse KI-Spezialist (m/w/d) \u2013 Data & Integration",
-        "company": "Spedition Diez GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/spedition-diez-gmbh/junior-inhouse-ki-spezialist-data-integration-dettingen-unter-teck-298766",
-        "loc": "Dettingen unter Teck",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-20 16:37"
-    },
-    {
-        "title": "Data Engineer \u2013 Data Warehouse & AI Foundation (m/w/d)",
-        "company": "GENO Broker GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/geno-broker-gmbh/data-engineer-data-warehouse-ai-foundation-frankfurt-am-main-302625",
-        "loc": "Frankfurt am Main",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-20 16:37"
-    },
-    {
-        "title": "Software Engineer II, Security",
-        "company": "Everquote",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/everquote/software-engineer-ii-security-belfast-northern-ireland-319830",
-        "loc": "Belfast, Northern Ireland",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-20 16:37"
-    },
-    {
-        "title": "Sr. Manager, Data Science",
-        "company": "Hims And Hers",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/hims-and-hers/sr-manager-data-science-london-170362",
-        "loc": "London, England",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-20 16:37"
-    },
-    {
-        "title": "LLM Engineer \u2014 Post-Training (Remote - UK)",
-        "company": "EverAI",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/everai/llm-engineer-post-training-remote-uk-united-kingdom-244005",
-        "loc": "United Kingdom",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 50,
-        "timestamp": "2026-11-20 16:37"
-    },
-    {
-        "title": "Senior Data Analyst - Acquisition",
-        "company": "Pennylane SAS",
-        "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/senior-data-analyst-acquisition-paris-461960",
-        "loc": "All France (remote)",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-20 16:37"
-    },
-    {
-        "title": "CDI - Senior Platform Engineer - Paris",
-        "company": "Artefactlinkedin",
-        "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/cdi-senior-platform-engineer-paris-9th-arrondissement-of-paris-75009-paris-419569",
-        "loc": "9th arrondissement of Paris, 75009, Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-20 16:37"
-    },
-    {
-        "title": "CDI - Senior Context & Analytics Engineer - Paris",
-        "company": "Artefactlinkedin",
-        "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/cdi-senior-context-analytics-engineer-paris-9th-arrondissement-of-paris-75009-paris-454263",
-        "loc": "9th arrondissement of Paris, 75009, Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 60,
-        "timestamp": "2026-11-20 16:37"
-    },
-    {
-        "title": "CDI - Context & Analytics Engineer Manager - Paris",
-        "company": "Artefactlinkedin",
-        "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/cdi-context-analytics-engineer-manager-paris-9th-arrondissement-of-paris-75009-paris-389200",
-        "loc": "9th arrondissement of Paris, 75009, Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 60,
-        "timestamp": "2026-11-20 16:37"
-    },
-    {
-        "title": "AI Applied Engineering \u2013 Platform Engineer Manager",
-        "company": "Artefactlinkedin",
-        "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/ai-applied-engineering-platform-engineer-manager-9th-arrondissement-of-paris-75009-paris-292217",
-        "loc": "9th arrondissement of Paris, 75009, Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-20 16:37"
-    },
-    {
-        "title": "CDI - Senior Platform Engineer - Paris",
-        "company": "Artefact",
-        "url": "https://www.arbeitnow.fr/jobs/companies/artefact/cdi-senior-platform-engineer-paris-9th-arrondissement-of-paris-75009-paris-229207",
-        "loc": "9th arrondissement of Paris, 75009, Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-20 16:37"
-    },
-    {
-        "title": "CDI - Senior Context & Analytics Engineer - Paris",
-        "company": "Artefact",
-        "url": "https://www.arbeitnow.fr/jobs/companies/artefact/cdi-senior-context-analytics-engineer-paris-9th-arrondissement-of-paris-75009-paris-200208",
-        "loc": "9th arrondissement of Paris, 75009, Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 60,
-        "timestamp": "2026-11-20 16:37"
-    },
-    {
-        "title": "CDI - Context & Analytics Engineer Manager - Paris",
-        "company": "Artefact",
-        "url": "https://www.arbeitnow.fr/jobs/companies/artefact/cdi-context-analytics-engineer-manager-paris-9th-arrondissement-of-paris-75009-paris-480508",
-        "loc": "9th arrondissement of Paris, 75009, Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 60,
-        "timestamp": "2026-11-20 16:37"
-    },
-    {
-        "title": "AI Applied Engineering \u2013 Platform Engineer Manager",
-        "company": "Artefact",
-        "url": "https://www.arbeitnow.fr/jobs/companies/artefact/ai-applied-engineering-platform-engineer-manager-9th-arrondissement-of-paris-75009-paris-342942",
-        "loc": "9th arrondissement of Paris, 75009, Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-20 16:37"
+        "timestamp": "2026-11-21 01:01"
     },
     {
         "title": "Platform Engineer - Data Resilience and Recovery platform",
@@ -189,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-11-20 16:37"
+        "timestamp": "2026-11-21 01:01"
     },
     {
         "title": "Senior Manager, AI Forward Deployed Engineering",
@@ -201,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-20 16:37"
+        "timestamp": "2026-11-21 01:01"
     },
     {
         "title": "AI Forward Deployed Engineer - Netherlands",
@@ -213,19 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-11-20 16:37"
-    },
-    {
-        "title": "Principal Software Engineer (f/m/d)",
-        "company": "Awin",
-        "url": "https://www.arbeitnow.nl/jobs/companies/awin/principal-software-engineer-amsterdam-192420",
-        "loc": "Amsterdam",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-11-20 16:37"
+        "timestamp": "2026-11-21 01:01"
     },
     {
         "title": "Senior Data Engineer",
@@ -237,6 +69,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-20 16:37"
+        "timestamp": "2026-11-21 01:01"
     }
 ]
