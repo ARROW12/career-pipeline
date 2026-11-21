@@ -1,5 +1,65 @@
 [
     {
+        "title": "Product Analytics Team Lead",
+        "company": "YAZIO",
+        "url": "https://www.arbeitnow.com/jobs/companies/yazio/product-analytics-team-lead-berlin-238086",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-11-21 21:24"
+    },
+    {
+        "title": "Senior Backend Engineer - Team Atlas",
+        "company": "Taktile",
+        "url": "https://www.arbeitnow.com/jobs/companies/taktile/senior-backend-engineer-team-atlas-berlin-497741",
+        "loc": "Berlin Office",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 69,
+        "timestamp": "2026-11-21 21:24"
+    },
+    {
+        "title": "Applied AI Engineer (all genders)",
+        "company": "Wemolo",
+        "url": "https://www.arbeitnow.com/jobs/companies/wemolo/applied-ai-engineer-all-genders-munchen-243027",
+        "loc": "Munich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-11-21 21:24"
+    },
+    {
+        "title": "Senior Applied AI Engineer (all genders)",
+        "company": "Wemolo",
+        "url": "https://www.arbeitnow.com/jobs/companies/wemolo/senior-applied-ai-engineer-all-genders-munchen-457807",
+        "loc": "Munich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-11-21 21:24"
+    },
+    {
+        "title": "1227 | Back-end Developer",
+        "company": "Intetics 2",
+        "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1227-back-end-developer-germany-388586",
+        "loc": "Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-11-21 21:24"
+    },
+    {
         "title": "Senior Mendix Engineer",
         "company": "Mendix",
         "url": "https://www.arbeitnow.com/jobs/companies/mendix/senior-mendix-engineer-munich-76612",
@@ -9,31 +69,55 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-21 12:00"
+        "timestamp": "2026-11-21 21:24"
     },
     {
-        "title": "Consultant/Senior Consultant, Data Engineering",
-        "company": "Baringa",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/baringa/consultant-senior-consultant-data-engineering-london-414885",
+        "title": "Senior Python Engineer",
+        "company": "Abound",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/abound/senior-python-engineer-london-266580",
         "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 60,
-        "timestamp": "2026-11-21 12:00"
+        "tejas_score": 65,
+        "timestamp": "2026-11-21 21:24"
     },
     {
-        "title": "Solutions Architect, Mid-Market (EMEA)",
-        "company": "Rogo",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/rogo/solutions-architect-mid-market-emea-london-98599",
+        "title": "Data Analyst",
+        "company": "Trainline",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/trainline/data-analyst-london-289423",
         "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-21 12:00"
+        "tejas_score": 45,
+        "timestamp": "2026-11-21 21:24"
+    },
+    {
+        "title": "Senior Data Analyst (12 Month FTC)",
+        "company": "Fundingcircle",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/senior-data-analyst-12-month-ftc-london-196898",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-11-21 21:24"
+    },
+    {
+        "title": "Senior AI Platform Engineer - Data Factory (f/m/d)",
+        "company": "Decathlontechnology",
+        "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/senior-ai-platform-engineer-data-factory-paris-paris-villeneuve-dascq-nord-441555",
+        "loc": "Paris, Paris; Villeneuve-d'Ascq, Nord",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 54,
+        "timestamp": "2026-11-21 21:24"
     },
     {
         "title": "Senior AI Engineer - Product",
@@ -45,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 99,
-        "timestamp": "2026-11-21 12:00"
+        "timestamp": "2026-11-21 21:24"
     },
     {
         "title": "Senior AI Engineer - Product",
@@ -57,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 99,
-        "timestamp": "2026-11-21 12:00"
+        "timestamp": "2026-11-21 21:24"
     },
     {
         "title": "Senior AI Engineer Freelance - Product",
@@ -69,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 99,
-        "timestamp": "2026-11-21 12:00"
+        "timestamp": "2026-11-21 21:24"
     },
     {
         "title": "Senior AI Engineer Freelance - Product",
@@ -81,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 99,
-        "timestamp": "2026-11-21 12:00"
+        "timestamp": "2026-11-21 21:24"
     },
     {
         "title": "MLOps Engineer (CDI)",
@@ -93,7 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 100,
-        "timestamp": "2026-11-21 12:00"
+        "timestamp": "2026-11-21 21:24"
     },
     {
         "title": "MLOps Engineer (CDI)",
@@ -105,7 +189,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 100,
-        "timestamp": "2026-11-21 12:00"
+        "timestamp": "2026-11-21 21:24"
     },
     {
         "title": "AI Engineer, DevEx & Automation",
@@ -117,7 +201,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-11-21 12:00"
+        "timestamp": "2026-11-21 21:24"
     },
     {
         "title": "AI Engineer, DevEx & Automation",
@@ -129,7 +213,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-11-21 12:00"
+        "timestamp": "2026-11-21 21:24"
     },
     {
         "title": "Senior Analytical Engineer H/F",
@@ -141,7 +225,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-11-21 12:00"
+        "timestamp": "2026-11-21 21:24"
+    },
+    {
+        "title": "Senior Site Reliability Engineer | Trading Infrastructure | Python/Linux",
+        "company": "Blocktech",
+        "url": "https://www.arbeitnow.nl/jobs/companies/blocktech/senior-site-reliability-engineer-trading-infrastructure-python-linux-amsterdam-140713",
+        "loc": "Amsterdam",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 73,
+        "timestamp": "2026-11-21 21:24"
+    },
+    {
+        "title": "Principal Enterprise Architect - AI & Cloud Integrations",
+        "company": "celonis",
+        "url": "https://www.arbeitnow.nl/jobs/companies/celonis/remote-principal-enterprise-architect-ai-cloud-integrations-162065",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-11-21 21:24"
     },
     {
         "title": "Platform Engineer - Data Resilience and Recovery platform",
@@ -153,31 +261,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-11-21 12:00"
-    },
-    {
-        "title": "Senior Manager, AI Forward Deployed Engineering",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.nl/jobs/companies/databricks/senior-manager-ai-forward-deployed-engineering-amsterdam-245986",
-        "loc": "Amsterdam",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-21 12:00"
-    },
-    {
-        "title": "AI Forward Deployed Engineer - Netherlands",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.nl/jobs/companies/databricks/ai-forward-deployed-engineer-netherlands-amsterdam-113124",
-        "loc": "Amsterdam",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-11-21 12:00"
+        "timestamp": "2026-11-21 21:24"
     },
     {
         "title": "Senior Data Engineer",
@@ -189,6 +273,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-21 12:00"
+        "timestamp": "2026-11-21 21:24"
     }
 ]
