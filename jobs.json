@@ -1,5 +1,53 @@
 [
     {
+        "title": "Software Engineering Intern (2027 Start) - Berlin",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.com/jobs/companies/databricks/software-engineering-intern-2027-start-berlin-356841",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-11-22 04:47"
+    },
+    {
+        "title": "Senior Data Architect (m/w/d)",
+        "company": "True Talent Solutions Partners",
+        "url": "https://www.arbeitnow.com/jobs/companies/true-talent-solutions-partners/senior-data-architect-hanover-37286",
+        "loc": "Hanover",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 60,
+        "timestamp": "2026-11-22 04:47"
+    },
+    {
+        "title": "Senior DevOps Engineer",
+        "company": "Catapult Sports",
+        "url": "https://www.arbeitnow.com/jobs/companies/catapult-sports/senior-devops-engineer-cologne-457952",
+        "loc": "Cologne, North Rhine-Westphalia, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-11-22 04:47"
+    },
+    {
+        "title": "Engineering Manager - Platform and Data Intelligence",
+        "company": "trawa",
+        "url": "https://www.arbeitnow.com/jobs/companies/trawa/engineering-manager-platform-and-data-intelligence-berlin-302262",
+        "loc": "Berlin HQ",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-11-22 04:47"
+    },
+    {
         "title": "Product Analytics Team Lead",
         "company": "YAZIO",
         "url": "https://www.arbeitnow.com/jobs/companies/yazio/product-analytics-team-lead-berlin-238086",
@@ -9,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-11-21 21:24"
+        "timestamp": "2026-11-22 04:47"
     },
     {
         "title": "Senior Backend Engineer - Team Atlas",
@@ -21,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 69,
-        "timestamp": "2026-11-21 21:24"
+        "timestamp": "2026-11-22 04:47"
     },
     {
         "title": "Applied AI Engineer (all genders)",
@@ -33,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-11-21 21:24"
+        "timestamp": "2026-11-22 04:47"
     },
     {
         "title": "Senior Applied AI Engineer (all genders)",
@@ -45,67 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-11-21 21:24"
-    },
-    {
-        "title": "1227 | Back-end Developer",
-        "company": "Intetics 2",
-        "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1227-back-end-developer-germany-388586",
-        "loc": "Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-21 21:24"
-    },
-    {
-        "title": "Senior Mendix Engineer",
-        "company": "Mendix",
-        "url": "https://www.arbeitnow.com/jobs/companies/mendix/senior-mendix-engineer-munich-76612",
-        "loc": "Munich",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-21 21:24"
-    },
-    {
-        "title": "Senior Python Engineer",
-        "company": "Abound",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/abound/senior-python-engineer-london-266580",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 65,
-        "timestamp": "2026-11-21 21:24"
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Trainline",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/trainline/data-analyst-london-289423",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-21 21:24"
-    },
-    {
-        "title": "Senior Data Analyst (12 Month FTC)",
-        "company": "Fundingcircle",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/senior-data-analyst-12-month-ftc-london-196898",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-11-21 21:24"
+        "timestamp": "2026-11-22 04:47"
     },
     {
         "title": "Senior AI Platform Engineer - Data Factory (f/m/d)",
@@ -117,115 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 54,
-        "timestamp": "2026-11-21 21:24"
-    },
-    {
-        "title": "Senior AI Engineer - Product",
-        "company": "mirakllabs",
-        "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/senior-ai-engineer-product-bordeaux-416821",
-        "loc": "Bordeaux",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 99,
-        "timestamp": "2026-11-21 21:24"
-    },
-    {
-        "title": "Senior AI Engineer - Product",
-        "company": "mirakllabs",
-        "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/senior-ai-engineer-product-paris-100724",
-        "loc": "Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 99,
-        "timestamp": "2026-11-21 21:24"
-    },
-    {
-        "title": "Senior AI Engineer Freelance - Product",
-        "company": "mirakllabs",
-        "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/senior-ai-engineer-freelance-product-paris-35952",
-        "loc": "Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 99,
-        "timestamp": "2026-11-21 21:24"
-    },
-    {
-        "title": "Senior AI Engineer Freelance - Product",
-        "company": "mirakllabs",
-        "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/senior-ai-engineer-freelance-product-bordeaux-115463",
-        "loc": "Bordeaux",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 99,
-        "timestamp": "2026-11-21 21:24"
-    },
-    {
-        "title": "MLOps Engineer (CDI)",
-        "company": "mirakllabs",
-        "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/mlops-engineer-cdi-paris-386846",
-        "loc": "Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 100,
-        "timestamp": "2026-11-21 21:24"
-    },
-    {
-        "title": "MLOps Engineer (CDI)",
-        "company": "mirakllabs",
-        "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/mlops-engineer-cdi-bordeaux-428882",
-        "loc": "Bordeaux",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 100,
-        "timestamp": "2026-11-21 21:24"
-    },
-    {
-        "title": "AI Engineer, DevEx & Automation",
-        "company": "mirakllabs",
-        "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/ai-engineer-devex-automation-paris-253225",
-        "loc": "Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-21 21:24"
-    },
-    {
-        "title": "AI Engineer, DevEx & Automation",
-        "company": "mirakllabs",
-        "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/ai-engineer-devex-automation-bordeaux-394620",
-        "loc": "Bordeaux",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-21 21:24"
-    },
-    {
-        "title": "Senior Analytical Engineer H/F",
-        "company": "Octopus Energy Group",
-        "url": "https://www.arbeitnow.fr/jobs/companies/octopus-energy-group/senior-analytical-engineer-h-f-paris-fr-447522",
-        "loc": "Paris (FR)",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 91,
-        "timestamp": "2026-11-21 21:24"
+        "timestamp": "2026-11-22 04:47"
     },
     {
         "title": "Senior Site Reliability Engineer | Trading Infrastructure | Python/Linux",
@@ -237,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 73,
-        "timestamp": "2026-11-21 21:24"
+        "timestamp": "2026-11-22 04:47"
     },
     {
         "title": "Principal Enterprise Architect - AI & Cloud Integrations",
@@ -249,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-21 21:24"
+        "timestamp": "2026-11-22 04:47"
     },
     {
         "title": "Platform Engineer - Data Resilience and Recovery platform",
@@ -261,7 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-11-21 21:24"
+        "timestamp": "2026-11-22 04:47"
     },
     {
         "title": "Senior Data Engineer",
@@ -273,6 +153,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-21 21:24"
+        "timestamp": "2026-11-22 04:47"
     }
 ]
