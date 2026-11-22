@@ -1,111 +1,39 @@
 [
     {
-        "title": "Software Engineering Intern (2027 Start) - Berlin",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.com/jobs/companies/databricks/software-engineering-intern-2027-start-berlin-356841",
-        "loc": "Berlin",
+        "title": "Data Engineer (m/w/d)",
+        "company": "twomynds",
+        "url": "https://www.arbeitnow.com/jobs/companies/twomynds/data-engineer-cologne-312722",
+        "loc": "Cologne",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 84,
+        "timestamp": "2026-11-22 15:51"
+    },
+    {
+        "title": "Senior Python Backend Engineer (m/w/d)",
+        "company": "Acceleraid",
+        "url": "https://www.arbeitnow.com/jobs/companies/acceleraid/senior-python-backend-engineer-mannheim-425726",
+        "loc": "Mannheim",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 50,
+        "timestamp": "2026-11-22 15:51"
+    },
+    {
+        "title": "Senior Data Scientist ( Economist) - Supply",
+        "company": "Backmarket",
+        "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/senior-data-scientist-economist-supply-paris-123026",
+        "loc": "Paris",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-22 04:47"
-    },
-    {
-        "title": "Senior Data Architect (m/w/d)",
-        "company": "True Talent Solutions Partners",
-        "url": "https://www.arbeitnow.com/jobs/companies/true-talent-solutions-partners/senior-data-architect-hanover-37286",
-        "loc": "Hanover",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 60,
-        "timestamp": "2026-11-22 04:47"
-    },
-    {
-        "title": "Senior DevOps Engineer",
-        "company": "Catapult Sports",
-        "url": "https://www.arbeitnow.com/jobs/companies/catapult-sports/senior-devops-engineer-cologne-457952",
-        "loc": "Cologne, North Rhine-Westphalia, Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-22 04:47"
-    },
-    {
-        "title": "Engineering Manager - Platform and Data Intelligence",
-        "company": "trawa",
-        "url": "https://www.arbeitnow.com/jobs/companies/trawa/engineering-manager-platform-and-data-intelligence-berlin-302262",
-        "loc": "Berlin HQ",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-22 04:47"
-    },
-    {
-        "title": "Product Analytics Team Lead",
-        "company": "YAZIO",
-        "url": "https://www.arbeitnow.com/jobs/companies/yazio/product-analytics-team-lead-berlin-238086",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-22 04:47"
-    },
-    {
-        "title": "Senior Backend Engineer - Team Atlas",
-        "company": "Taktile",
-        "url": "https://www.arbeitnow.com/jobs/companies/taktile/senior-backend-engineer-team-atlas-berlin-497741",
-        "loc": "Berlin Office",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 69,
-        "timestamp": "2026-11-22 04:47"
-    },
-    {
-        "title": "Applied AI Engineer (all genders)",
-        "company": "Wemolo",
-        "url": "https://www.arbeitnow.com/jobs/companies/wemolo/applied-ai-engineer-all-genders-munchen-243027",
-        "loc": "Munich",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-22 04:47"
-    },
-    {
-        "title": "Senior Applied AI Engineer (all genders)",
-        "company": "Wemolo",
-        "url": "https://www.arbeitnow.com/jobs/companies/wemolo/senior-applied-ai-engineer-all-genders-munchen-457807",
-        "loc": "Munich",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-22 04:47"
-    },
-    {
-        "title": "Senior AI Platform Engineer - Data Factory (f/m/d)",
-        "company": "Decathlontechnology",
-        "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/senior-ai-platform-engineer-data-factory-paris-paris-villeneuve-dascq-nord-441555",
-        "loc": "Paris, Paris; Villeneuve-d'Ascq, Nord",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 54,
-        "timestamp": "2026-11-22 04:47"
+        "timestamp": "2026-11-22 15:51"
     },
     {
         "title": "Senior Site Reliability Engineer | Trading Infrastructure | Python/Linux",
@@ -117,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 73,
-        "timestamp": "2026-11-22 04:47"
+        "timestamp": "2026-11-22 15:51"
     },
     {
         "title": "Principal Enterprise Architect - AI & Cloud Integrations",
@@ -129,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-22 04:47"
+        "timestamp": "2026-11-22 15:51"
     },
     {
         "title": "Platform Engineer - Data Resilience and Recovery platform",
@@ -141,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-11-22 04:47"
+        "timestamp": "2026-11-22 15:51"
     },
     {
         "title": "Senior Data Engineer",
@@ -153,6 +81,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-22 04:47"
+        "timestamp": "2026-11-22 15:51"
     }
 ]
