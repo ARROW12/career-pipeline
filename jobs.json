@@ -1,27 +1,39 @@
 [
     {
-        "title": "Data Engineer (m/w/d)",
-        "company": "twomynds",
-        "url": "https://www.arbeitnow.com/jobs/companies/twomynds/data-engineer-cologne-312722",
-        "loc": "Cologne",
+        "title": "DevOps Engineer (AI-Assisted) f\u00fcr eine globale Publishing-Plattform *",
+        "company": "Ilias Vassiliou & Team / headhunter.digital / Recruiting f\u00fcr Digital, Sales, IT, KI, Automation",
+        "url": "https://www.arbeitnow.com/jobs/companies/ilias-vassiliou-team-headhunterdigital-recruiting-fur-digital-sales-it-ki-automation/devops-engineer-ai-assisted-fur-eine-globale-publishing-plattform-dortmund-12632",
+        "loc": "Dortmund",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 84,
-        "timestamp": "2026-11-22 15:51"
+        "tejas_score": 61,
+        "timestamp": "2026-11-22 21:28"
     },
     {
-        "title": "Senior Python Backend Engineer (m/w/d)",
-        "company": "Acceleraid",
-        "url": "https://www.arbeitnow.com/jobs/companies/acceleraid/senior-python-backend-engineer-mannheim-425726",
-        "loc": "Mannheim",
+        "title": "Java Entwickler / Product Engineer \u2192 Du gestaltest AI-Assisted Software Egineering mit *",
+        "company": "Ilias Vassiliou & Team / headhunter.digital / Recruiting f\u00fcr Digital, Sales, IT, KI, Automation",
+        "url": "https://www.arbeitnow.com/jobs/companies/ilias-vassiliou-team-headhunterdigital-recruiting-fur-digital-sales-it-ki-automation/java-entwickler-product-engineer-du-gestaltest-ai-assisted-software-egineering-mit-dortmund-470897",
+        "loc": "Dortmund",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 50,
-        "timestamp": "2026-11-22 15:51"
+        "tejas_score": 45,
+        "timestamp": "2026-11-22 21:28"
+    },
+    {
+        "title": "(Senior) Oracle Data Warehouse / BI-Developer (m/w/d)",
+        "company": "virtual7 GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-oracle-data-warehouse-bi-developer-karlsruhe-202180",
+        "loc": "Karlsruhe, Baden-W\u00fcrttemberg, Deutschland",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-11-22 21:28"
     },
     {
         "title": "Senior Data Scientist ( Economist) - Supply",
@@ -33,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-22 15:51"
+        "timestamp": "2026-11-22 21:28"
     },
     {
         "title": "Senior Site Reliability Engineer | Trading Infrastructure | Python/Linux",
@@ -45,7 +57,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 73,
-        "timestamp": "2026-11-22 15:51"
+        "timestamp": "2026-11-22 21:28"
     },
     {
         "title": "Principal Enterprise Architect - AI & Cloud Integrations",
@@ -57,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-22 15:51"
+        "timestamp": "2026-11-22 21:28"
     },
     {
         "title": "Platform Engineer - Data Resilience and Recovery platform",
@@ -69,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-11-22 15:51"
+        "timestamp": "2026-11-22 21:28"
     },
     {
         "title": "Senior Data Engineer",
@@ -81,6 +93,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-22 15:51"
+        "timestamp": "2026-11-22 21:28"
     }
 ]
