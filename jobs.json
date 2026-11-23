@@ -1,63 +1,123 @@
 [
     {
-        "title": "Cloud Platform Automation Engineer (f/m/d)",
-        "company": "Sonarsource",
-        "url": "https://www.arbeitnow.com/jobs/companies/sonarsource/cloud-platform-automation-engineer-bochum-248878",
-        "loc": "Bochum",
+        "title": "AI Application Engineer \u2013 AI Products (LLM & RAG) (m/f/d)",
+        "company": "Machine Learning Reply",
+        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/ai-application-engineer-ai-products-llm-rag-berlin-322593",
+        "loc": "Berlin, Berlin, Germany",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-11-23 05:27"
+        "tejas_score": 50,
+        "timestamp": "2026-11-23 19:45"
     },
     {
-        "title": "Senior Data Scientist - Applied Scientist",
-        "company": "Vestiairecollective",
-        "url": "https://www.arbeitnow.com/jobs/companies/vestiairecollective/senior-data-scientist-applied-scientist-berlin-487392",
+        "title": "Junior AI Application Engineer \u2013 AI Products (LLM & RAG) (m/f/d)",
+        "company": "Machine Learning Reply",
+        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/junior-ai-application-engineer-ai-products-llm-rag-munich-465884",
+        "loc": "Munich, Bayern, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 50,
+        "timestamp": "2026-11-23 19:45"
+    },
+    {
+        "title": "Data Scientist (m/w/d)",
+        "company": "Machine Learning Reply",
+        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/data-scientist-munich-288101",
+        "loc": "Munich, Bayern, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-11-23 19:45"
+    },
+    {
+        "title": "GenAI Engineer (m/w/d)",
+        "company": "Machine Learning Reply",
+        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/genai-engineer-munich-152776",
+        "loc": "Munich, Bayern, Germany",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 84,
+        "timestamp": "2026-11-23 19:45"
+    },
+    {
+        "title": "Full-Stack Developer (m/f/d)",
+        "company": "W\u00fcrth Cloud Services GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/wurth-cloud-services-gmbh/full-stack-developer-berlin-134377",
         "loc": "Berlin",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-11-23 05:27"
+        "timestamp": "2026-11-23 19:45"
     },
     {
-        "title": "AI-Assisted DevOps Engineer f\u00fcr internationale Publishing-Plattform *",
-        "company": "Ilias Vassiliou & Team / headhunter.digital / Recruiting f\u00fcr Digital, Sales, IT, KI, Automation",
-        "url": "https://www.arbeitnow.com/jobs/companies/ilias-vassiliou-team-headhunterdigital-recruiting-fur-digital-sales-it-ki-automation/devops-engineer-ai-assisted-fur-eine-globale-publishing-plattform-dortmund-12632",
-        "loc": "Dortmund",
+        "title": "Associate, Data Engineering, UK",
+        "company": "wppmedia",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/associate-data-engineering-uk-london-130846",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-11-23 19:45"
+    },
+    {
+        "title": "Senior Data Engineer",
+        "company": "nearform",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/nearform/senior-data-engineer-178033",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-11-23 19:45"
+    },
+    {
+        "title": "Senior Platform Engineer",
+        "company": "Orakl Oncology",
+        "url": "https://www.arbeitnow.fr/jobs/companies/orakl-oncology/senior-platform-engineer-villejuif-36194",
+        "loc": "Villejuif",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-23 05:27"
+        "timestamp": "2026-11-23 19:45"
     },
     {
-        "title": "Java Entwickler / Product Engineer \u2192 Du gestaltest AI-Assisted Software Egineering mit *",
-        "company": "Ilias Vassiliou & Team / headhunter.digital / Recruiting f\u00fcr Digital, Sales, IT, KI, Automation",
-        "url": "https://www.arbeitnow.com/jobs/companies/ilias-vassiliou-team-headhunterdigital-recruiting-fur-digital-sales-it-ki-automation/java-entwickler-product-engineer-du-gestaltest-ai-assisted-software-egineering-mit-dortmund-470897",
-        "loc": "Dortmund",
+        "title": "Engineering Manager - AI platform",
+        "company": "DiliTrust",
+        "url": "https://www.arbeitnow.fr/jobs/companies/dilitrust/engineering-manager-ai-platform-paris-la-defense-312019",
+        "loc": "Paris - La D\u00e9fense",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-11-23 19:45"
+    },
+    {
+        "title": "Senior Data Engineer - Financial Flows",
+        "company": "Kpler",
+        "url": "https://www.arbeitnow.fr/jobs/companies/kpler/senior-data-engineer-financial-flows-france-494969",
+        "loc": "France",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-23 05:27"
-    },
-    {
-        "title": "(Senior) Oracle Data Warehouse / BI-Developer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-oracle-data-warehouse-bi-developer-karlsruhe-202180",
-        "loc": "Karlsruhe, Baden-W\u00fcrttemberg, Deutschland",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-23 05:27"
+        "timestamp": "2026-11-23 19:45"
     },
     {
         "title": "Software Engineer (F/H)",
@@ -69,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-23 05:27"
+        "timestamp": "2026-11-23 19:45"
     },
     {
         "title": "EXPLORE - Ing\u00e9nieur DATA s\u00e9nior / Senior DATA Engineer (H/F) - CDI",
@@ -81,19 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 84,
-        "timestamp": "2026-11-23 05:27"
-    },
-    {
-        "title": "Senior Data Scientist ( Economist) - Supply",
-        "company": "Backmarket",
-        "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/senior-data-scientist-economist-supply-paris-123026",
-        "loc": "Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-23 05:27"
+        "timestamp": "2026-11-23 19:45"
     },
     {
         "title": "Senior Site Reliability Engineer | Trading Infrastructure | Python/Linux",
@@ -105,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 73,
-        "timestamp": "2026-11-23 05:27"
+        "timestamp": "2026-11-23 19:45"
     },
     {
         "title": "Principal Enterprise Architect - AI & Cloud Integrations",
@@ -117,19 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-23 05:27"
-    },
-    {
-        "title": "Platform Engineer - Data Resilience and Recovery platform",
-        "company": "Schubergphilis",
-        "url": "https://www.arbeitnow.nl/jobs/companies/schubergphilis/platform-engineer-data-resilience-and-recovery-platform-schiphol-rijk-239531",
-        "loc": "Schiphol-Rijk",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-23 05:27"
+        "timestamp": "2026-11-23 19:45"
     },
     {
         "title": "Senior Data Engineer",
@@ -141,6 +177,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-23 05:27"
+        "timestamp": "2026-11-23 19:45"
     }
 ]
