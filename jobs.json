@@ -1,6 +1,30 @@
 [
     {
-        "title": "DevOps Engineer (AI-Assisted) f\u00fcr eine globale Publishing-Plattform *",
+        "title": "Cloud Platform Automation Engineer (f/m/d)",
+        "company": "Sonarsource",
+        "url": "https://www.arbeitnow.com/jobs/companies/sonarsource/cloud-platform-automation-engineer-bochum-248878",
+        "loc": "Bochum",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-11-23 05:27"
+    },
+    {
+        "title": "Senior Data Scientist - Applied Scientist",
+        "company": "Vestiairecollective",
+        "url": "https://www.arbeitnow.com/jobs/companies/vestiairecollective/senior-data-scientist-applied-scientist-berlin-487392",
+        "loc": "Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-11-23 05:27"
+    },
+    {
+        "title": "AI-Assisted DevOps Engineer f\u00fcr internationale Publishing-Plattform *",
         "company": "Ilias Vassiliou & Team / headhunter.digital / Recruiting f\u00fcr Digital, Sales, IT, KI, Automation",
         "url": "https://www.arbeitnow.com/jobs/companies/ilias-vassiliou-team-headhunterdigital-recruiting-fur-digital-sales-it-ki-automation/devops-engineer-ai-assisted-fur-eine-globale-publishing-plattform-dortmund-12632",
         "loc": "Dortmund",
@@ -9,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-22 21:28"
+        "timestamp": "2026-11-23 05:27"
     },
     {
         "title": "Java Entwickler / Product Engineer \u2192 Du gestaltest AI-Assisted Software Egineering mit *",
@@ -21,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-22 21:28"
+        "timestamp": "2026-11-23 05:27"
     },
     {
         "title": "(Senior) Oracle Data Warehouse / BI-Developer (m/w/d)",
@@ -33,7 +57,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-22 21:28"
+        "timestamp": "2026-11-23 05:27"
+    },
+    {
+        "title": "Software Engineer (F/H)",
+        "company": "ILLUIN Technology",
+        "url": "https://www.arbeitnow.fr/jobs/companies/illuin-technology/software-engineer-f-h-puteaux-319006",
+        "loc": "Paris La D\u00e9fense",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-11-23 05:27"
+    },
+    {
+        "title": "EXPLORE - Ing\u00e9nieur DATA s\u00e9nior / Senior DATA Engineer (H/F) - CDI",
+        "company": "INTESCIA GROUP",
+        "url": "https://www.arbeitnow.fr/jobs/companies/intescia-group/explore-ingenieur-data-senior-senior-data-engineer-h-f-cdi-carquefou-3364",
+        "loc": "CARQUEFOU, Pays de la Loire, France",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 84,
+        "timestamp": "2026-11-23 05:27"
     },
     {
         "title": "Senior Data Scientist ( Economist) - Supply",
@@ -45,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-22 21:28"
+        "timestamp": "2026-11-23 05:27"
     },
     {
         "title": "Senior Site Reliability Engineer | Trading Infrastructure | Python/Linux",
@@ -57,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 73,
-        "timestamp": "2026-11-22 21:28"
+        "timestamp": "2026-11-23 05:27"
     },
     {
         "title": "Principal Enterprise Architect - AI & Cloud Integrations",
@@ -69,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-22 21:28"
+        "timestamp": "2026-11-23 05:27"
     },
     {
         "title": "Platform Engineer - Data Resilience and Recovery platform",
@@ -81,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-11-22 21:28"
+        "timestamp": "2026-11-23 05:27"
     },
     {
         "title": "Senior Data Engineer",
@@ -93,6 +141,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-22 21:28"
+        "timestamp": "2026-11-23 05:27"
     }
 ]
