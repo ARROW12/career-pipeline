@@ -1,5 +1,29 @@
 [
     {
+        "title": "Lead Software Engineer (m/f/d)",
+        "company": "Peter Park",
+        "url": "https://www.arbeitnow.com/jobs/companies/peter-park/lead-software-engineer-munchen-160615",
+        "loc": "M\u00fcnchen",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-11-24 04:33"
+    },
+    {
+        "title": "AI Software Engineer (m/w/d)",
+        "company": "Empro",
+        "url": "https://www.arbeitnow.com/jobs/companies/empro/ai-software-engineer-nurnberg-100752",
+        "loc": "N\u00fcrnberg",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-11-24 04:33"
+    },
+    {
         "title": "AI Application Engineer \u2013 AI Products (LLM & RAG) (m/f/d)",
         "company": "Machine Learning Reply",
         "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/ai-application-engineer-ai-products-llm-rag-berlin-322593",
@@ -9,7 +33,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-11-23 19:45"
+        "timestamp": "2026-11-24 04:33"
     },
     {
         "title": "Junior AI Application Engineer \u2013 AI Products (LLM & RAG) (m/f/d)",
@@ -21,7 +45,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 50,
-        "timestamp": "2026-11-23 19:45"
+        "timestamp": "2026-11-24 04:33"
     },
     {
         "title": "Data Scientist (m/w/d)",
@@ -33,55 +57,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-11-23 19:45"
+        "timestamp": "2026-11-24 04:33"
     },
     {
-        "title": "GenAI Engineer (m/w/d)",
-        "company": "Machine Learning Reply",
-        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/genai-engineer-munich-152776",
-        "loc": "Munich, Bayern, Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 84,
-        "timestamp": "2026-11-23 19:45"
-    },
-    {
-        "title": "Full-Stack Developer (m/f/d)",
-        "company": "W\u00fcrth Cloud Services GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/wurth-cloud-services-gmbh/full-stack-developer-berlin-134377",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-23 19:45"
-    },
-    {
-        "title": "Associate, Data Engineering, UK",
-        "company": "wppmedia",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/associate-data-engineering-uk-london-130846",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-23 19:45"
-    },
-    {
-        "title": "Senior Data Engineer",
-        "company": "nearform",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/nearform/senior-data-engineer-178033",
+        "title": "Senior Software Engineer - Platform Billing Core",
+        "company": "Elastic",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/elastic/senior-software-engineer-platform-billing-core-362074",
         "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-11-23 19:45"
+        "timestamp": "2026-11-24 04:33"
+    },
+    {
+        "title": "Software Engineering Intern (2027 Start) - London",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/software-engineering-intern-2027-start-london-133061",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-11-24 04:33"
     },
     {
         "title": "Senior Platform Engineer",
@@ -93,55 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-23 19:45"
-    },
-    {
-        "title": "Engineering Manager - AI platform",
-        "company": "DiliTrust",
-        "url": "https://www.arbeitnow.fr/jobs/companies/dilitrust/engineering-manager-ai-platform-paris-la-defense-312019",
-        "loc": "Paris - La D\u00e9fense",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-11-23 19:45"
-    },
-    {
-        "title": "Senior Data Engineer - Financial Flows",
-        "company": "Kpler",
-        "url": "https://www.arbeitnow.fr/jobs/companies/kpler/senior-data-engineer-financial-flows-france-494969",
-        "loc": "France",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-23 19:45"
-    },
-    {
-        "title": "Software Engineer (F/H)",
-        "company": "ILLUIN Technology",
-        "url": "https://www.arbeitnow.fr/jobs/companies/illuin-technology/software-engineer-f-h-puteaux-319006",
-        "loc": "Paris La D\u00e9fense",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-11-23 19:45"
-    },
-    {
-        "title": "EXPLORE - Ing\u00e9nieur DATA s\u00e9nior / Senior DATA Engineer (H/F) - CDI",
-        "company": "INTESCIA GROUP",
-        "url": "https://www.arbeitnow.fr/jobs/companies/intescia-group/explore-ingenieur-data-senior-senior-data-engineer-h-f-cdi-carquefou-3364",
-        "loc": "CARQUEFOU, Pays de la Loire, France",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 84,
-        "timestamp": "2026-11-23 19:45"
+        "timestamp": "2026-11-24 04:33"
     },
     {
         "title": "Senior Site Reliability Engineer | Trading Infrastructure | Python/Linux",
@@ -153,19 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 73,
-        "timestamp": "2026-11-23 19:45"
-    },
-    {
-        "title": "Principal Enterprise Architect - AI & Cloud Integrations",
-        "company": "celonis",
-        "url": "https://www.arbeitnow.nl/jobs/companies/celonis/remote-principal-enterprise-architect-ai-cloud-integrations-162065",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-23 19:45"
+        "timestamp": "2026-11-24 04:33"
     },
     {
         "title": "Senior Data Engineer",
@@ -177,6 +117,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-23 19:45"
+        "timestamp": "2026-11-24 04:33"
     }
 ]
