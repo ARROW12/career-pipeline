@@ -1,111 +1,111 @@
 [
     {
-        "title": "Lead Software Engineer (m/f/d)",
-        "company": "Peter Park",
-        "url": "https://www.arbeitnow.com/jobs/companies/peter-park/lead-software-engineer-munchen-160615",
+        "title": "Senior Data & AI Consultant (m/w/d) \u2013 Automotive",
+        "company": "Alexander Thamm Gmbh",
+        "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/senior-data-ai-consultant-automotive-munchen-416189",
         "loc": "M\u00fcnchen",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-11-24 19:16"
+    },
+    {
+        "title": "Senior Data Scientist (all genders)",
+        "company": "Dymatrix",
+        "url": "https://www.arbeitnow.com/jobs/companies/dymatrix/senior-data-scientist-all-genders-hamburg-429211",
+        "loc": "Hamburg",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-24 04:33"
+        "timestamp": "2026-11-24 19:16"
     },
     {
-        "title": "AI Software Engineer (m/w/d)",
-        "company": "Empro",
-        "url": "https://www.arbeitnow.com/jobs/companies/empro/ai-software-engineer-nurnberg-100752",
-        "loc": "N\u00fcrnberg",
+        "title": "Junior Inhouse Consultant Data Engineering (all genders)",
+        "company": "Dymatrix",
+        "url": "https://www.arbeitnow.com/jobs/companies/dymatrix/junior-inhouse-consultant-data-engineering-all-genders-stuttgart-113292",
+        "loc": "Stuttgart",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-24 04:33"
+        "tejas_score": 61,
+        "timestamp": "2026-11-24 19:16"
     },
     {
-        "title": "AI Application Engineer \u2013 AI Products (LLM & RAG) (m/f/d)",
-        "company": "Machine Learning Reply",
-        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/ai-application-engineer-ai-products-llm-rag-berlin-322593",
-        "loc": "Berlin, Berlin, Germany",
+        "title": "Senior Technical Support Engineer, EMEA",
+        "company": "Horizon3",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/horizon3/senior-technical-support-engineer-emea-uk-319284",
+        "loc": "UK",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 50,
-        "timestamp": "2026-11-24 04:33"
+        "tejas_score": 61,
+        "timestamp": "2026-11-24 19:16"
     },
     {
-        "title": "Junior AI Application Engineer \u2013 AI Products (LLM & RAG) (m/f/d)",
-        "company": "Machine Learning Reply",
-        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/junior-ai-application-engineer-ai-products-llm-rag-munich-465884",
-        "loc": "Munich, Bayern, Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 50,
-        "timestamp": "2026-11-24 04:33"
-    },
-    {
-        "title": "Data Scientist (m/w/d)",
-        "company": "Machine Learning Reply",
-        "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/data-scientist-munich-288101",
-        "loc": "Munich, Bayern, Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-11-24 04:33"
-    },
-    {
-        "title": "Senior Software Engineer - Platform Billing Core",
-        "company": "Elastic",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/elastic/senior-software-engineer-platform-billing-core-362074",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-11-24 04:33"
-    },
-    {
-        "title": "Software Engineering Intern (2027 Start) - London",
-        "company": "databricks",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/software-engineering-intern-2027-start-london-133061",
+        "title": "Sales Engineer, EMEA",
+        "company": "Astronomer",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/astronomer/sales-engineer-emea-london-170939",
         "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-24 04:33"
+        "tejas_score": 68,
+        "timestamp": "2026-11-24 19:16"
     },
     {
-        "title": "Senior Platform Engineer",
-        "company": "Orakl Oncology",
-        "url": "https://www.arbeitnow.fr/jobs/companies/orakl-oncology/senior-platform-engineer-villejuif-36194",
-        "loc": "Villejuif",
+        "title": "Senior Software Engineer",
+        "company": "Connectwise",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/connectwise/senior-software-engineer-london-416825",
+        "loc": "London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 83,
+        "timestamp": "2026-11-24 19:16"
+    },
+    {
+        "title": "Tech Lead - ML Engineering",
+        "company": "Qonto",
+        "url": "https://www.arbeitnow.fr/jobs/companies/qonto/tech-lead-ml-engineering-paris-451067",
+        "loc": "Paris, France",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-24 04:33"
+        "timestamp": "2026-11-24 19:16"
     },
     {
-        "title": "Senior Site Reliability Engineer | Trading Infrastructure | Python/Linux",
-        "company": "Blocktech",
-        "url": "https://www.arbeitnow.nl/jobs/companies/blocktech/senior-site-reliability-engineer-trading-infrastructure-python-linux-amsterdam-140713",
-        "loc": "Amsterdam",
+        "title": "Senior Data Analyst - Business Performance UK & US",
+        "company": "Backmarket",
+        "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/senior-data-analyst-business-performance-uk-us-paris-350073",
+        "loc": "Paris",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 73,
-        "timestamp": "2026-11-24 04:33"
+        "tejas_score": 45,
+        "timestamp": "2026-11-24 19:16"
+    },
+    {
+        "title": "DATA ENGINEER - H/F - LYON",
+        "company": "AVISIA",
+        "url": "https://www.arbeitnow.fr/jobs/companies/avisia/data-engineer-h-f-lyon-376194",
+        "loc": "LYON, Auvergne-Rh\u00f4ne-Alpes, France",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 99,
+        "timestamp": "2026-11-24 19:16"
     },
     {
         "title": "Senior Data Engineer",
@@ -117,6 +117,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-24 04:33"
+        "timestamp": "2026-11-24 19:16"
     }
 ]
