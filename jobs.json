@@ -1,75 +1,87 @@
 [
     {
-        "title": "Senior Data & AI Consultant (m/w/d) \u2013 Automotive",
-        "company": "Alexander Thamm Gmbh",
-        "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/senior-data-ai-consultant-automotive-munchen-416189",
-        "loc": "M\u00fcnchen",
+        "title": "Senior Site Reliability Engineer (m/w/d)",
+        "company": "Cloudfactory",
+        "url": "https://www.arbeitnow.com/jobs/companies/cloudfactory/senior-site-reliability-engineer-berlin-375901",
+        "loc": "Berlin, Germany",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-11-24 19:16"
+        "tejas_score": 54,
+        "timestamp": "2026-11-25 03:19"
     },
     {
-        "title": "Senior Data Scientist (all genders)",
-        "company": "Dymatrix",
-        "url": "https://www.arbeitnow.com/jobs/companies/dymatrix/senior-data-scientist-all-genders-hamburg-429211",
+        "title": "Senior DevOps Engineer (f/m/d)",
+        "company": "Zeal Network",
+        "url": "https://www.arbeitnow.com/jobs/companies/zeal-network/senior-devops-engineer-hamburg-448095",
         "loc": "Hamburg",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-11-24 19:16"
+        "tejas_score": 53,
+        "timestamp": "2026-11-25 03:19"
     },
     {
-        "title": "Junior Inhouse Consultant Data Engineering (all genders)",
-        "company": "Dymatrix",
-        "url": "https://www.arbeitnow.com/jobs/companies/dymatrix/junior-inhouse-consultant-data-engineering-all-genders-stuttgart-113292",
-        "loc": "Stuttgart",
+        "title": "AI & Data Platform Engineer (GCP) (all levels)",
+        "company": "KnowWay GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/knowway-gmbh/ai-data-platform-engineer-gcp-all-levels-duisburg-42970",
+        "loc": "Duisburg",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 69,
+        "timestamp": "2026-11-25 03:19"
+    },
+    {
+        "title": "Junior Software Developer - Python & Web Applications (m/f/d)",
+        "company": "Statista",
+        "url": "https://www.arbeitnow.com/jobs/companies/statista/junior-software-developer-python-web-applications-hamburg-or-berlin-455118",
+        "loc": "Hamburg or Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 65,
+        "timestamp": "2026-11-25 03:19"
+    },
+    {
+        "title": "Site Reliability Engineer",
+        "company": "Signal Ai",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/signal-ai/site-reliability-engineer-44-featherstone-st-4th-floor-364822",
+        "loc": "London Office",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-24 19:16"
+        "timestamp": "2026-11-25 03:19"
     },
     {
-        "title": "Senior Technical Support Engineer, EMEA",
-        "company": "Horizon3",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/horizon3/senior-technical-support-engineer-emea-uk-319284",
-        "loc": "UK",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-11-24 19:16"
-    },
-    {
-        "title": "Sales Engineer, EMEA",
-        "company": "Astronomer",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/astronomer/sales-engineer-emea-london-170939",
-        "loc": "London",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 68,
-        "timestamp": "2026-11-24 19:16"
-    },
-    {
-        "title": "Senior Software Engineer",
-        "company": "Connectwise",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/connectwise/senior-software-engineer-london-416825",
-        "loc": "London",
+        "title": "AI & Data Engineer",
+        "company": "Reactive Markets",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/ai-data-engineer-united-kingdom-492838",
+        "loc": "Remote",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 83,
-        "timestamp": "2026-11-24 19:16"
+        "timestamp": "2026-11-25 03:19"
+    },
+    {
+        "title": "Senior Site Reliability Engineer - Platform Squad",
+        "company": "Doctrine",
+        "url": "https://www.arbeitnow.fr/jobs/companies/doctrine/senior-site-reliability-engineer-platform-squad-paris-156058",
+        "loc": "Paris",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 69,
+        "timestamp": "2026-11-25 03:19"
     },
     {
         "title": "Tech Lead - ML Engineering",
@@ -81,31 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-24 19:16"
-    },
-    {
-        "title": "Senior Data Analyst - Business Performance UK & US",
-        "company": "Backmarket",
-        "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/senior-data-analyst-business-performance-uk-us-paris-350073",
-        "loc": "Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-24 19:16"
-    },
-    {
-        "title": "DATA ENGINEER - H/F - LYON",
-        "company": "AVISIA",
-        "url": "https://www.arbeitnow.fr/jobs/companies/avisia/data-engineer-h-f-lyon-376194",
-        "loc": "LYON, Auvergne-Rh\u00f4ne-Alpes, France",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 99,
-        "timestamp": "2026-11-24 19:16"
+        "timestamp": "2026-11-25 03:19"
     },
     {
         "title": "Senior Data Engineer",
@@ -117,6 +105,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-24 19:16"
+        "timestamp": "2026-11-25 03:19"
     }
 ]
