@@ -1,147 +1,75 @@
 [
     {
-        "title": "Azure Data Engineer with Databricks & PySpark",
-        "company": "Jobgether",
-        "url": "https://www.arbeitnow.com/jobs/companies/jobgether/azure-data-engineer-with-databricks-pyspark-germany-463363",
-        "loc": "Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 100,
-        "timestamp": "2026-11-26 07:15"
-    },
-    {
-        "title": "Senior DevOps Engineer",
-        "company": "Catapult Sports",
-        "url": "https://www.arbeitnow.com/jobs/companies/catapult-sports/senior-devops-engineer-cologne-83911",
-        "loc": "Cologne, North Rhine-Westphalia, Germany",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-26 07:15"
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Liqid Lig",
-        "url": "https://www.arbeitnow.com/jobs/companies/liqid-lig/data-engineer-berlin-443594",
+        "title": "Senior Product Engineer (Full Stack)",
+        "company": "Andercore",
+        "url": "https://www.arbeitnow.com/jobs/companies/andercore/senior-product-engineer-full-stack-berlin-49635",
         "loc": "Berlin",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-11-26 18:03"
+    },
+    {
+        "title": "Analytics Engineer - Data Platform (m/f/d)",
+        "company": "Statista",
+        "url": "https://www.arbeitnow.com/jobs/companies/statista/analytics-engineer-data-platform-hamburg-or-berlin-437592",
+        "loc": "Hamburg or Berlin",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-11-26 07:15"
+        "timestamp": "2026-11-26 18:03"
     },
     {
-        "title": "Data Engineer, Data Quality & Provenance",
-        "company": "Wayve",
-        "url": "https://www.arbeitnow.com/jobs/companies/wayve/data-engineer-data-quality-provenance-baden-wurttemberg-209509",
-        "loc": "Leonberg, Germany",
+        "title": "Medical Data Analyst (m/w/d)",
+        "company": "DocCheck AG",
+        "url": "https://www.arbeitnow.com/jobs/companies/doccheck-ag/medical-data-analyst-koln-247112",
+        "loc": "K\u00f6ln",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-11-26 07:15"
+        "tejas_score": 45,
+        "timestamp": "2026-11-26 18:03"
     },
     {
-        "title": "Full Stack Software Developer - React / Python / PostgreSQL",
-        "company": "isaraerospace",
-        "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/full-stack-software-developer-react-python-postgresql-parsdorf-bavaria-236319",
-        "loc": "Parsdorf, Bavaria",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 70,
-        "timestamp": "2026-11-26 07:15"
-    },
-    {
-        "title": "Azure Data Engineer with Databricks & PySpark",
-        "company": "Jobgether",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/azure-data-engineer-with-databricks-pyspark-uk-73452",
-        "loc": "UK",
+        "title": "(Senior) Data Engineer - Data Platform (m/f/d)",
+        "company": "Unzer",
+        "url": "https://www.arbeitnow.com/jobs/companies/unzer/senior-data-engineer-data-platform-berlin-423320",
+        "loc": "Berlin",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 100,
-        "timestamp": "2026-11-26 07:15"
+        "timestamp": "2026-11-26 18:03"
+    },
+    {
+        "title": "Associate, Investment Analytics",
+        "company": "Pantheonpublic",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/pantheonpublic/associate-investment-analytics-london-greater-london-300429",
+        "loc": "London, Greater London",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-11-26 18:03"
     },
     {
         "title": "Data Engineer",
-        "company": "Kpler",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/data-engineer-united-kingdom-231274",
-        "loc": "United Kingdom",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-11-26 07:15"
-    },
-    {
-        "title": "Senior Internal Forward Deployed AI Engineer",
-        "company": "Oagaviationworldwide",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/oagaviationworldwide/senior-internal-forward-deployed-ai-engineer-40924",
-        "loc": "Remote",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 60,
-        "timestamp": "2026-11-26 07:15"
-    },
-    {
-        "title": "Senior Java/Kotlin Developer",
-        "company": "Malt",
-        "url": "https://www.arbeitnow.fr/jobs/companies/malt/senior-java-kotlin-developer-paris-496268",
-        "loc": "Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-11-26 07:15"
-    },
-    {
-        "title": "Senior Fullstack Engineer",
-        "company": "Malt",
-        "url": "https://www.arbeitnow.fr/jobs/companies/malt/senior-fullstack-engineer-paris-38477",
-        "loc": "Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-11-26 07:15"
-    },
-    {
-        "title": "Data Analyst Manager",
-        "company": "Artefact",
-        "url": "https://www.arbeitnow.fr/jobs/companies/artefact/data-analyst-manager-9th-arrondissement-of-paris-75009-paris-204673",
-        "loc": "9th arrondissement of Paris, 75009, Paris",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 75,
-        "timestamp": "2026-11-26 07:15"
-    },
-    {
-        "title": "Senior Solutions Engineer",
-        "company": "Digicert",
-        "url": "https://www.arbeitnow.fr/jobs/companies/digicert/senior-solutions-engineer-326215",
-        "loc": "Remote",
+        "company": "Coopers Group AG",
+        "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/data-engineer-zurich-454143",
+        "loc": "Z\u00fcrich",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-11-26 07:15"
+        "timestamp": "2026-11-26 18:03"
     },
     {
         "title": "Azure Data Engineer with Databricks & PySpark",
@@ -153,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 100,
-        "timestamp": "2026-11-26 07:15"
+        "timestamp": "2026-11-26 18:03"
     },
     {
         "title": "Senior Data Engineer",
@@ -165,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-11-26 07:15"
+        "timestamp": "2026-11-26 18:03"
     },
     {
         "title": "Azure Data Engineer with Databricks & PySpark",
@@ -177,7 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 100,
-        "timestamp": "2026-11-26 07:15"
+        "timestamp": "2026-11-26 18:03"
     },
     {
         "title": "Software Engineer (Python & Cloud)",
@@ -189,7 +117,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 73,
-        "timestamp": "2026-11-26 07:15"
+        "timestamp": "2026-11-26 18:03"
     },
     {
         "title": "Data Analyst - Logistics",
@@ -201,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-11-26 07:15"
+        "timestamp": "2026-11-26 18:03"
     },
     {
         "title": "Senior Data Engineer",
@@ -213,6 +141,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-26 07:15"
+        "timestamp": "2026-11-26 18:03"
     }
 ]
