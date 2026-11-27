@@ -1,87 +1,39 @@
 [
     {
-        "title": "(Senior) Oracle Data Warehouse / BI-Developer (m/w/d)",
-        "company": "virtual7 GmbH",
-        "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-oracle-data-warehouse-bi-developer-karlsruhe-186237",
-        "loc": "Karlsruhe, Baden-W\u00fcrttemberg, Deutschland",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-27 02:36"
-    },
-    {
-        "title": "Medical Data Analyst (m/w/d)",
-        "company": "DocCheck AG",
-        "url": "https://www.arbeitnow.com/jobs/companies/doccheck-ag/medical-data-analyst-koln-317829",
-        "loc": "K\u00f6ln, Nordrhein-Westfalen, Deutschland",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-27 02:36"
-    },
-    {
-        "title": "Visiting Analytics Engineer",
-        "company": "Peec AI",
-        "url": "https://www.arbeitnow.com/jobs/companies/peec-ai/visiting-analytics-engineer-berlin-296396",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-27 02:36"
-    },
-    {
-        "title": "Senior Product Engineer (Full Stack)",
-        "company": "Andercore",
-        "url": "https://www.arbeitnow.com/jobs/companies/andercore/senior-product-engineer-full-stack-berlin-49635",
-        "loc": "Berlin",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-11-27 02:36"
-    },
-    {
-        "title": "AI Data UK Lead Associate Partner",
-        "company": "Metyis AG",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/metyis-ag/ai-data-uk-lead-associate-partner-london-67141",
-        "loc": "London, England, United Kingdom",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 61,
-        "timestamp": "2026-11-27 02:36"
-    },
-    {
-        "title": "Architecte SIC PPNR - 3922 H/F",
-        "company": "Agence de services et de paiement",
-        "url": "https://www.arbeitnow.fr/jobs/companies/agence-de-services-et-de-paiement/architecte-sic-ppnr-3922-h-f-montreuil-36314",
-        "loc": "Montreuil, \u00cele-de-France, France",
+        "title": "Senior Engineer - Platform & Tooling",
+        "company": "Atominvest",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/atominvest/senior-engineer-platform-tooling-london-320131",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-11-27 02:36"
+        "timestamp": "2026-11-27 13:26"
     },
     {
-        "title": "Senior Software & Cloud Engineer (H/F)",
-        "company": "ILLUIN Technology",
-        "url": "https://www.arbeitnow.fr/jobs/companies/illuin-technology/senior-software-cloud-engineer-h-f-puteaux-435091",
-        "loc": "Paris La D\u00e9fense",
+        "title": "Build and Test Automation Engineer",
+        "company": "Disguisetechnologiesltd",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/disguisetechnologiesltd/build-and-test-automation-engineer-london-211474",
+        "loc": "London",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 77,
-        "timestamp": "2026-11-27 02:36"
+        "tejas_score": 46,
+        "timestamp": "2026-11-27 13:26"
+    },
+    {
+        "title": "Application Operations Engineer",
+        "company": "Outsight",
+        "url": "https://www.arbeitnow.fr/jobs/companies/outsight/application-operations-engineer-paris-325531",
+        "loc": "Paris",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-11-27 13:26"
     },
     {
         "title": "Data Engineer",
@@ -93,7 +45,31 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-11-27 02:36"
+        "timestamp": "2026-11-27 13:26"
+    },
+    {
+        "title": "Staff DevOps Engineer, AI Security",
+        "company": "zscaler",
+        "url": "https://www.arbeitnow.nl/jobs/companies/zscaler/staff-devops-engineer-ai-security-105468",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-11-27 13:26"
+    },
+    {
+        "title": "Software Engineer (Java) - Security",
+        "company": "Teampicnic",
+        "url": "https://www.arbeitnow.nl/jobs/companies/teampicnic/software-engineer-java-security-amsterdam-78497",
+        "loc": "Amsterdam",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-11-27 13:26"
     },
     {
         "title": "Senior Data Engineer",
@@ -105,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 76,
-        "timestamp": "2026-11-27 02:36"
+        "timestamp": "2026-11-27 13:26"
     },
     {
         "title": "Azure Data Engineer with Databricks & PySpark",
@@ -117,7 +93,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 100,
-        "timestamp": "2026-11-27 02:36"
+        "timestamp": "2026-11-27 13:26"
     },
     {
         "title": "Software Engineer (Python & Cloud)",
@@ -129,19 +105,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 73,
-        "timestamp": "2026-11-27 02:36"
-    },
-    {
-        "title": "Data Analyst - Logistics",
-        "company": "All Your BI",
-        "url": "https://www.arbeitnow.nl/jobs/companies/all-your-bi/data-analyst-logistics-rotterdam-125833",
-        "loc": "Rotterdam, Zuid-Holland, Netherlands",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 53,
-        "timestamp": "2026-11-27 02:36"
+        "timestamp": "2026-11-27 13:26"
     },
     {
         "title": "Senior Data Engineer",
@@ -153,6 +117,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-27 02:36"
+        "timestamp": "2026-11-27 13:26"
     }
 ]
