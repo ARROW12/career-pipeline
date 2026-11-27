@@ -1,51 +1,123 @@
 [
     {
-        "title": "Senior Engineer - Platform & Tooling",
-        "company": "Atominvest",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/atominvest/senior-engineer-platform-tooling-london-320131",
-        "loc": "London",
+        "title": "Stage Data Scientist - Forecast & Foundation Models (f/h/d)",
+        "company": "Decathlontechnology",
+        "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/stage-data-scientist-forecast-foundation-models-nantes-loire-atlantique-paris-paris-villeneuve-dascq-nord-60527",
+        "loc": "Nantes, Loire-Atlantique; Paris, Paris; Villeneuve-d'Ascq, Nord",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-11-27 13:26"
+        "tejas_score": 91,
+        "timestamp": "2026-11-27 23:52"
     },
     {
-        "title": "Build and Test Automation Engineer",
-        "company": "Disguisetechnologiesltd",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/disguisetechnologiesltd/build-and-test-automation-engineer-london-211474",
-        "loc": "London",
+        "title": "Stage Data Scientist - Computer Vision & Retail (f/m/d)",
+        "company": "Decathlontechnology",
+        "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/stage-data-scientist-computer-vision-retail-nantes-loire-atlantique-paris-paris-villeneuve-dascq-nord-400796",
+        "loc": "Nantes, Loire-Atlantique; Paris, Paris; Villeneuve-d'Ascq, Nord",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-11-27 13:26"
+        "tejas_score": 91,
+        "timestamp": "2026-11-27 23:52"
     },
     {
-        "title": "Application Operations Engineer",
-        "company": "Outsight",
-        "url": "https://www.arbeitnow.fr/jobs/companies/outsight/application-operations-engineer-paris-325531",
-        "loc": "Paris",
+        "title": "Stage Data Scientist / AI Engineer - GenAI & Retail  (f/m/d)",
+        "company": "Decathlontechnology",
+        "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/stage-data-scientist-ai-engineer-genai-retail-nantes-loire-atlantique-paris-paris-villeneuve-dascq-nord-193620",
+        "loc": "Nantes, Loire-Atlantique; Paris, Paris; Villeneuve-d'Ascq, Nord",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 45,
-        "timestamp": "2026-11-27 13:26"
+        "tejas_score": 100,
+        "timestamp": "2026-11-27 23:52"
     },
     {
-        "title": "Data Engineer",
-        "company": "Coopers Group AG",
-        "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/data-engineer-zurich-454143",
+        "title": "AI Architect",
+        "company": "Artefact",
+        "url": "https://www.arbeitnow.ch/jobs/companies/artefact/ai-architect-zurich-231457",
         "loc": "Z\u00fcrich",
         "desc": "Relevant opportunity.",
         "source": "Aggregator",
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
-        "tejas_score": 46,
-        "timestamp": "2026-11-27 13:26"
+        "tejas_score": 61,
+        "timestamp": "2026-11-27 23:52"
+    },
+    {
+        "title": "AI Architect",
+        "company": "Artefact",
+        "url": "https://www.arbeitnow.ch/jobs/companies/artefact/ai-architect-zurich-26850",
+        "loc": "Z\u00fcrich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-11-27 23:52"
+    },
+    {
+        "title": "Aerodynamics Methodology and Software Engineer",
+        "company": "Harmattan Ai",
+        "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/aerodynamics-methodology-and-software-engineer-lausanne-418375",
+        "loc": "Lausanne",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 68,
+        "timestamp": "2026-11-27 23:52"
+    },
+    {
+        "title": "Sr. Delivery Solutions Architect",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.ch/jobs/companies/databricks/sr-delivery-solutions-architect-zurich-350585",
+        "loc": "Z\u00fcrich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 60,
+        "timestamp": "2026-11-27 23:52"
+    },
+    {
+        "title": "Delivery Solutions Architect",
+        "company": "databricks",
+        "url": "https://www.arbeitnow.ch/jobs/companies/databricks/delivery-solutions-architect-zurich-116421",
+        "loc": "Z\u00fcrich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 75,
+        "timestamp": "2026-11-27 23:52"
+    },
+    {
+        "title": "AI Engineer",
+        "company": "Cefetra Group BV",
+        "url": "https://www.arbeitnow.nl/jobs/companies/cefetra-group-bv/ai-engineer-rotterdam-303730",
+        "loc": "Rotterdam, Zuid-Holland, Netherlands",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-11-27 23:52"
+    },
+    {
+        "title": "Senior Security GRC Engineer",
+        "company": "mozilla",
+        "url": "https://www.arbeitnow.nl/jobs/companies/mozilla/senior-security-grc-engineer-293046",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-11-27 23:52"
     },
     {
         "title": "Staff DevOps Engineer, AI Security",
@@ -57,7 +129,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-11-27 13:26"
+        "timestamp": "2026-11-27 23:52"
     },
     {
         "title": "Software Engineer (Java) - Security",
@@ -69,43 +141,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-11-27 13:26"
-    },
-    {
-        "title": "Senior Data Engineer",
-        "company": "Everfield",
-        "url": "https://www.arbeitnow.nl/jobs/companies/everfield/senior-data-engineer-amsterdam-area-421741",
-        "loc": "Netherlands - Amsterdam | Hybrid",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 76,
-        "timestamp": "2026-11-27 13:26"
-    },
-    {
-        "title": "Azure Data Engineer with Databricks & PySpark",
-        "company": "Jobgether",
-        "url": "https://www.arbeitnow.nl/jobs/companies/jobgether/azure-data-engineer-with-databricks-pyspark-netherlands-367179",
-        "loc": "Netherlands",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 100,
-        "timestamp": "2026-11-27 13:26"
-    },
-    {
-        "title": "Software Engineer (Python & Cloud)",
-        "company": "GIGA STORAGE",
-        "url": "https://www.arbeitnow.nl/jobs/companies/giga-storage/software-engineer-python-cloud-amsterdam-185139",
-        "loc": "Amsterdam, Noord-Holland, Netherlands",
-        "desc": "Relevant opportunity.",
-        "source": "Aggregator",
-        "employment_type": "Full-Time",
-        "workplace_type": "Remote",
-        "tejas_score": 73,
-        "timestamp": "2026-11-27 13:26"
+        "timestamp": "2026-11-27 23:52"
     },
     {
         "title": "Senior Data Engineer",
@@ -117,6 +153,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-27 13:26"
+        "timestamp": "2026-11-27 23:52"
     }
 ]
