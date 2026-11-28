@@ -1,5 +1,65 @@
 [
     {
+        "title": "Staff Backend Engineer - Search Features & APIs (SABR)",
+        "company": "Constructor",
+        "url": "https://www.arbeitnow.com/jobs/companies/constructor/staff-backend-engineer-search-features-apis-sabr-munich-460585",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-11-28 06:01"
+    },
+    {
+        "title": "Senior Data Engineer (w/m/d)",
+        "company": "Arsipa GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/arsipa-gmbh/senior-data-engineer-berlin-334230",
+        "loc": "Berlin, Berlin, Deutschland",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-11-28 06:01"
+    },
+    {
+        "title": "Senior Data Scientist (m/f/d)",
+        "company": "Sport Alliance GmbH",
+        "url": "https://www.arbeitnow.com/jobs/companies/sport-alliance-gmbh/remote-senior-data-scientist-118803",
+        "loc": "Remote (Germany)",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 76,
+        "timestamp": "2026-11-28 06:01"
+    },
+    {
+        "title": "Senior Software Engineer, Fullstack (International Accelerator)",
+        "company": "Affirm",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/affirm/senior-software-engineer-fullstack-international-accelerator-288923",
+        "loc": "Remote",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 45,
+        "timestamp": "2026-11-28 06:01"
+    },
+    {
+        "title": "Backend Engineer - Commodities",
+        "company": "Kpler",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/backend-engineer-commodities-united-kingdom-262712",
+        "loc": "United Kingdom",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-11-28 06:01"
+    },
+    {
         "title": "Stage Data Scientist - Forecast & Foundation Models (f/h/d)",
         "company": "Decathlontechnology",
         "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/stage-data-scientist-forecast-foundation-models-nantes-loire-atlantique-paris-paris-villeneuve-dascq-nord-60527",
@@ -9,7 +69,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-11-27 23:52"
+        "timestamp": "2026-11-28 06:01"
     },
     {
         "title": "Stage Data Scientist - Computer Vision & Retail (f/m/d)",
@@ -21,7 +81,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 91,
-        "timestamp": "2026-11-27 23:52"
+        "timestamp": "2026-11-28 06:01"
     },
     {
         "title": "Stage Data Scientist / AI Engineer - GenAI & Retail  (f/m/d)",
@@ -33,7 +93,55 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 100,
-        "timestamp": "2026-11-27 23:52"
+        "timestamp": "2026-11-28 06:01"
+    },
+    {
+        "title": "Data Engineer Intern",
+        "company": "Gravis Robotics",
+        "url": "https://www.arbeitnow.ch/jobs/companies/gravis-robotics/data-engineer-intern-zurich-496199",
+        "loc": "Zurich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-11-28 06:01"
+    },
+    {
+        "title": "AI Architect",
+        "company": "Artefactjobs",
+        "url": "https://www.arbeitnow.ch/jobs/companies/artefactjobs/ai-architect-zurich-258754",
+        "loc": "Z\u00fcrich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 53,
+        "timestamp": "2026-11-28 06:01"
+    },
+    {
+        "title": "AI Architect",
+        "company": "Artefactjobs",
+        "url": "https://www.arbeitnow.ch/jobs/companies/artefactjobs/ai-architect-zurich-57765",
+        "loc": "Z\u00fcrich",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 61,
+        "timestamp": "2026-11-28 06:01"
+    },
+    {
+        "title": "Cloud Platform Engineer",
+        "company": "Sonarsource",
+        "url": "https://www.arbeitnow.ch/jobs/companies/sonarsource/cloud-platform-engineer-geneva-457427",
+        "loc": "Geneva",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 46,
+        "timestamp": "2026-11-28 06:01"
     },
     {
         "title": "AI Architect",
@@ -45,7 +153,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-27 23:52"
+        "timestamp": "2026-11-28 06:01"
     },
     {
         "title": "AI Architect",
@@ -57,7 +165,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-11-27 23:52"
+        "timestamp": "2026-11-28 06:01"
     },
     {
         "title": "Aerodynamics Methodology and Software Engineer",
@@ -69,7 +177,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 68,
-        "timestamp": "2026-11-27 23:52"
+        "timestamp": "2026-11-28 06:01"
     },
     {
         "title": "Sr. Delivery Solutions Architect",
@@ -81,7 +189,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 60,
-        "timestamp": "2026-11-27 23:52"
+        "timestamp": "2026-11-28 06:01"
     },
     {
         "title": "Delivery Solutions Architect",
@@ -93,7 +201,19 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 75,
-        "timestamp": "2026-11-27 23:52"
+        "timestamp": "2026-11-28 06:01"
+    },
+    {
+        "title": "[Interim] Senior Analytics Engineer (PowerBI & Databricks)",
+        "company": "Riverflex",
+        "url": "https://www.arbeitnow.nl/jobs/companies/riverflex/interim-senior-analytics-engineer-powerbi-databricks-leiden-36214",
+        "loc": "Leiden, Zuid-Holland, Netherlands",
+        "desc": "Relevant opportunity.",
+        "source": "Aggregator",
+        "employment_type": "Full-Time",
+        "workplace_type": "Remote",
+        "tejas_score": 73,
+        "timestamp": "2026-11-28 06:01"
     },
     {
         "title": "AI Engineer",
@@ -105,7 +225,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-11-27 23:52"
+        "timestamp": "2026-11-28 06:01"
     },
     {
         "title": "Senior Security GRC Engineer",
@@ -117,7 +237,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 45,
-        "timestamp": "2026-11-27 23:52"
+        "timestamp": "2026-11-28 06:01"
     },
     {
         "title": "Staff DevOps Engineer, AI Security",
@@ -129,7 +249,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 46,
-        "timestamp": "2026-11-27 23:52"
+        "timestamp": "2026-11-28 06:01"
     },
     {
         "title": "Software Engineer (Java) - Security",
@@ -141,7 +261,7 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 53,
-        "timestamp": "2026-11-27 23:52"
+        "timestamp": "2026-11-28 06:01"
     },
     {
         "title": "Senior Data Engineer",
@@ -153,6 +273,6 @@
         "employment_type": "Full-Time",
         "workplace_type": "Remote",
         "tejas_score": 61,
-        "timestamp": "2026-11-27 23:52"
+        "timestamp": "2026-11-28 06:01"
     }
 ]
